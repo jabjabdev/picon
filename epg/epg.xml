@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jun 30 19:53:47 2024">
-  <channel id="9404">
-    <display-name>9404</display-name>
-    <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/images/match/card/177_vs_175_2.jpg"/>
-  </channel>
-  <channel id="9404-catchup">
-    <display-name>9404-catchup</display-name>
-    <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/images/match/card/177_vs_175_2.jpg"/>
-  </channel>
+<tv date="Sun Jun 30 20:03:30 2024">
   <channel id="9405">
     <display-name>9405</display-name>
     <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/images/match/card/111_vs_57_1.jpg"/>
@@ -80,18 +72,6 @@
     <display-name>a16053fd-fd75-48bb-cce3-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/EuropeanChampionship2024MotorlandAragonFinalespng-102318.png"/>
   </channel>
-  <programme start="20240623160000 +0000" stop="20240623180000 +0000" channel="9404">
-    <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/videos/feftv/20240623180026-gpu-c-c0-2/thumbnails/high_360/2.jpeg"/>
-    <title lang="es">Jimbee Cartagena vs ElPozo Murcia Costa Cálida</title>
-    <desc lang="es">Jimbee Cartagena vs ElPozo Murcia Costa Cálida</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240623160000 +0000" stop="20240623180000 +0000" channel="9404-catchup">
-    <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/videos/feftv/20240623180026-gpu-c-c0-2/thumbnails/high_360/2.jpeg"/>
-    <title lang="es">Jimbee Cartagena vs ElPozo Murcia Costa Cálida</title>
-    <desc lang="es">Jimbee Cartagena vs ElPozo Murcia Costa Cálida</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20240623190000 +0000" stop="20240623210000 +0000" channel="9405">
     <icon src="https://proxy-img.fef-tv.hiway.media/vimages/public/videos/feftv/20240623212416-gpu-c-c1-2/thumbnails/high_360/2.jpeg"/>
     <title lang="es">Córdoba CF vs FC Barcelona Atlètic</title>
