@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jul 03 09:09:41 2024">
+<tv date="Wed Jul 03 09:15:02 2024">
   <channel id="9acc2115-1e17-41c8-4b57-08dc91de7d0c">
     <display-name>9acc2115-1e17-41c8-4b57-08dc91de7d0c</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/25/UnaviboraparacenarPrograma76jpg-124007.jpg"/>
@@ -99,6 +99,54 @@
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
+  </channel>
+  <channel id="3ed21418-ac6c-4763-018e-08dc99c5cbec">
+    <display-name>3ed21418-ac6c-4763-018e-08dc99c5cbec</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/LigaNacionalBasquetbolThumbnailInstitutoOlimpicomatchpng-094329.png"/>
+  </channel>
+  <channel id="23059541-2865-4e08-e321-08dc95c75ee6">
+    <display-name>23059541-2865-4e08-e321-08dc95c75ee6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-12jpg-103358.jpg"/>
+  </channel>
+  <channel id="31b12511-6167-4a7c-aeee-08dc95e97cfa">
+    <display-name>31b12511-6167-4a7c-aeee-08dc95e97cfa</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MIjpg-102438.jpg"/>
+  </channel>
+  <channel id="d9932fe7-26bc-45e9-ccea-08dc95c6331d">
+    <display-name>d9932fe7-26bc-45e9-ccea-08dc95c6331d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/atletismo-ffaajpg-114224.jpg"/>
+  </channel>
+  <channel id="205e44cf-a589-422a-e332-08dc95c75ee6">
+    <display-name>205e44cf-a589-422a-e332-08dc95c75ee6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-1jpg-081125.jpg"/>
+  </channel>
+  <channel id="09a00bcc-4e3e-4e5f-ccdd-08dc95c6331d">
+    <display-name>09a00bcc-4e3e-4e5f-ccdd-08dc95c6331d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-11jpg-103418.jpg"/>
+  </channel>
+  <channel id="daa33dd8-3374-4782-1c4a-08dc95c80f85">
+    <display-name>daa33dd8-3374-4782-1c4a-08dc95c80f85</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-13jpg-103055.jpg"/>
+  </channel>
+  <channel id="0ea23a71-67e8-4822-a5ba-08dc95c751e2">
+    <display-name>0ea23a71-67e8-4822-a5ba-08dc95c751e2</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/atletismo-ffaa-1jpg-114833.jpg"/>
+  </channel>
+  <channel id="00a07100-07b3-4e5a-aef9-08dc95e97cfa">
+    <display-name>00a07100-07b3-4e5a-aef9-08dc95e97cfa</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-2jpg-081251.jpg"/>
+  </channel>
+  <channel id="9564637e-b532-4a3d-517f-08dc9a6de5c7">
+    <display-name>9564637e-b532-4a3d-517f-08dc9a6de5c7</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-3jpg-081328.jpg"/>
+  </channel>
+  <channel id="b91e907a-9e84-4f0b-ccde-08dc95c6331d">
+    <display-name>b91e907a-9e84-4f0b-ccde-08dc95c6331d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-14jpg-103105.jpg"/>
+  </channel>
+  <channel id="7d3a858b-9556-4c9c-5180-08dc9a6de5c7">
+    <display-name>7d3a858b-9556-4c9c-5180-08dc9a6de5c7</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-4jpg-081357.jpg"/>
   </channel>
   <programme start="20240703182500 +0000" stop="20240703203000 +0000" channel="9acc2115-1e17-41c8-4b57-08dc91de7d0c">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/25/UnaviboraparacenarPrograma76jpg-124007.jpg"/>
@@ -250,5 +298,77 @@
     <title lang="es">Paris Musketeers - Berlin Thunder</title>
     <desc lang="es">El partido entre Paris Musketeers y Berlin Thunder correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
+  </programme>
+  <programme start="20240704002500 +0000" stop="20240704040000 +0000" channel="3ed21418-ac6c-4763-018e-08dc99c5cbec">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/LigaNacionalBasquetbolThumbnailInstitutoOlimpicomatchpng-094329.png"/>
+    <title lang="es">Instituto - Olímpico</title>
+    <desc lang="es">El partido entre Instituto y Olímpico correspondiente al 5º partido de las semifinales de la Liga Nacional Argentina 2023/24.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20240705062500 +0000" stop="20240705160000 +0000" channel="23059541-2865-4e08-e321-08dc95c75ee6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-12jpg-103358.jpg"/>
+    <title lang="es">Beach Pro Tour 16 Gstaad: Ronda 2 - Pista 2</title>
+    <desc lang="es">Gstaad (Suiza) acoge el torneo de voleibol playa Elite16 - Gstaad incluido en el Volleyball World Beach Pro Tour Elite16.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20240705062500 +0000" stop="20240705180000 +0000" channel="31b12511-6167-4a7c-aeee-08dc95e97cfa">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MIjpg-102438.jpg"/>
+    <title lang="es">Beach Pro Tour 16 Gstaad: Ronda 2 - Pista 1</title>
+    <desc lang="es">Gstaad (Suiza) acoge el torneo de voleibol playa Elite16 - Gstaad incluido en el Volleyball World Beach Pro Tour Elite16.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20240706061000 +0000" stop="20240706114500 +0000" channel="d9932fe7-26bc-45e9-ccea-08dc95c6331d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/atletismo-ffaajpg-114224.jpg"/>
+    <title lang="es">Campeonato de España FFAA - Mañana</title>
+    <desc lang="es">La Nucía acoge el Campeonato de España Absoluto de Federaciones Autonómicas.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240706064000 +0000" stop="20240706113000 +0000" channel="205e44cf-a589-422a-e332-08dc95c75ee6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-1jpg-081125.jpg"/>
+    <title lang="es">Campeonato de España Sub 18 - Sábado mañana</title>
+    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240706072500 +0000" stop="20240706180000 +0000" channel="09a00bcc-4e3e-4e5f-ccdd-08dc95c6331d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-11jpg-103418.jpg"/>
+    <title lang="es">Beach Pro Tour 16 Gstaad: Cuartos de final - Pista 1</title>
+    <desc lang="es">Gstaad (Suiza) acoge el torneo de voleibol playa Elite16 - Gstaad incluido en el Volleyball World Beach Pro Tour Elite16.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20240706092500 +0000" stop="20240706140000 +0000" channel="daa33dd8-3374-4782-1c4a-08dc95c80f85">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-13jpg-103055.jpg"/>
+    <title lang="es">Beach Pro Tour 16 Gstaad: Cuartos de final - Pista 2</title>
+    <desc lang="es">Gstaad (Suiza) acoge el torneo de voleibol playa Elite16 - Gstaad incluido en el Volleyball World Beach Pro Tour Elite16.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20240706141000 +0000" stop="20240706203000 +0000" channel="0ea23a71-67e8-4822-a5ba-08dc95c751e2">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/atletismo-ffaa-1jpg-114833.jpg"/>
+    <title lang="es">Campeonato de España FFAA - Tarde</title>
+    <desc lang="es">La Nucía acoge el Campeonato de España Absoluto de Federaciones Autonómicas.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240706151000 +0000" stop="20240706200000 +0000" channel="00a07100-07b3-4e5a-aef9-08dc95e97cfa">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-2jpg-081251.jpg"/>
+    <title lang="es">Campeonato de España Sub 18 - Sábado tarde</title>
+    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240707064000 +0000" stop="20240707120000 +0000" channel="9564637e-b532-4a3d-517f-08dc9a6de5c7">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-3jpg-081328.jpg"/>
+    <title lang="es">Campeonato de España Sub 18 - Domingo mañana</title>
+    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240707072500 +0000" stop="20240707140000 +0000" channel="b91e907a-9e84-4f0b-ccde-08dc95c6331d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-14jpg-103105.jpg"/>
+    <title lang="es">Beach Pro Tour 16 Gstaad: Semifinales y finales</title>
+    <desc lang="es">Gstaad (Suiza) acoge el torneo de voleibol playa Elite16 - Gstaad incluido en el Volleyball World Beach Pro Tour Elite16.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20240707151000 +0000" stop="20240707193000 +0000" channel="7d3a858b-9556-4c9c-5180-08dc9a6de5c7">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-4jpg-081357.jpg"/>
+    <title lang="es">Campeonato de España Sub 18 - Domingo tarde</title>
+    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
   </programme>
 </tv>
