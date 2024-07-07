@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jul 08 00:31:21 2024">
-  <channel id="922b6c99-63e7-45a5-ccda-08dc95c6331d">
-    <display-name>922b6c99-63e7-45a5-ccda-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
-  </channel>
+<tv date="Mon Jul 08 00:41:23 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -36,12 +32,6 @@
     <display-name>e73c46d6-cdc7-480f-e33e-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/05/InstitutoBocapng-110145.png"/>
   </channel>
-  <programme start="20240707175000 +0000" stop="20240707223500 +0000" channel="922b6c99-63e7-45a5-ccda-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
-    <title lang="es">FIBA 3x3 World Tour Edmonton - Cuartos de final, semifinales y Final</title>
-    <desc lang="es">Edmonton (Canadá) acoge la quinta parada del torneo de la 13ª edición del FIBA 3x3 World Tour.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20240714101500 +0000" stop="20240714140000 +0000" channel="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
     <title lang="es">Paris Musketeers - Berlin Thunder</title>
