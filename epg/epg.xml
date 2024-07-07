@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 07 15:53:34 2024">
-  <channel id="fb18c728-76e6-4c4e-a5a9-08dc95c751e2">
-    <display-name>fb18c728-76e6-4c4e-a5a9-08dc95c751e2</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/CHALLjpg-115531.jpg"/>
-  </channel>
+<tv date="Sun Jul 07 15:55:06 2024">
   <channel id="922b6c99-63e7-45a5-ccda-08dc95c6331d">
     <display-name>922b6c99-63e7-45a5-ccda-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
@@ -31,10 +27,6 @@
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
-  </channel>
-  <channel id="9564637e-b532-4a3d-517f-08dc9a6de5c7">
-    <display-name>9564637e-b532-4a3d-517f-08dc9a6de5c7</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-3jpg-081328.jpg"/>
   </channel>
   <channel id="b91e907a-9e84-4f0b-ccde-08dc95c6331d">
     <display-name>b91e907a-9e84-4f0b-ccde-08dc95c6331d</display-name>
@@ -72,12 +64,6 @@
     <display-name>e73c46d6-cdc7-480f-e33e-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/05/InstitutoBocapng-110145.png"/>
   </channel>
-  <programme start="20240707034000 +0000" stop="20240707133000 +0000" channel="fb18c728-76e6-4c4e-a5a9-08dc95c751e2">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/CHALLjpg-115531.jpg"/>
-    <title lang="es">Challenge Roth 2024</title>
-    <desc lang="es">3,8 km de natación, 180 km de ciclismo y 42,2 km de carrera a pie por el distrito de triatlón de Roth. Emociones garantizadas en la mítica salida en el Canal Meno-Danubio, en la legendaria Colina Solar o en la mágica fiesta de meta.</desc>
-    <category lang="es">Más deportes</category>
-  </programme>
   <programme start="20240707175000 +0000" stop="20240707223500 +0000" channel="922b6c99-63e7-45a5-ccda-08dc95c6331d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
     <title lang="es">FIBA 3x3 World Tour Edmonton - Cuartos de final, semifinales y Final</title>
@@ -119,12 +105,6 @@
     <title lang="es">Paris Musketeers - Berlin Thunder</title>
     <desc lang="es">El partido entre Paris Musketeers y Berlin Thunder correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240707064000 +0000" stop="20240707120000 +0000" channel="9564637e-b532-4a3d-517f-08dc9a6de5c7">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-3jpg-081328.jpg"/>
-    <title lang="es">Campeonato de España Sub 18 - Domingo mañana</title>
-    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
   </programme>
   <programme start="20240707072500 +0000" stop="20240707140000 +0000" channel="b91e907a-9e84-4f0b-ccde-08dc95c6331d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/BPT-MI-14jpg-103105.jpg"/>
