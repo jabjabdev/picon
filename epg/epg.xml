@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 07 21:20:40 2024">
+<tv date="Sun Jul 07 21:30:42 2024">
   <channel id="922b6c99-63e7-45a5-ccda-08dc95c6331d">
     <display-name>922b6c99-63e7-45a5-ccda-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
@@ -7,10 +7,6 @@
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
-  </channel>
-  <channel id="7d3a858b-9556-4c9c-5180-08dc9a6de5c7">
-    <display-name>7d3a858b-9556-4c9c-5180-08dc9a6de5c7</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-4jpg-081357.jpg"/>
   </channel>
   <channel id="a05e6ace-6bd8-4b22-aeef-08dc95e97cfa">
     <display-name>a05e6ace-6bd8-4b22-aeef-08dc95e97cfa</display-name>
@@ -51,12 +47,6 @@
     <title lang="es">Paris Musketeers - Berlin Thunder</title>
     <desc lang="es">El partido entre Paris Musketeers y Berlin Thunder correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240707151000 +0000" stop="20240707193000 +0000" channel="7d3a858b-9556-4c9c-5180-08dc9a6de5c7">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/02/ATL-S18-4jpg-081357.jpg"/>
-    <title lang="es">Campeonato de España Sub 18 - Domingo tarde</title>
-    <desc lang="es">Málaga acoge el LXXII Campeonato de España Sub-18 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
   </programme>
   <programme start="20240713131500 +0000" stop="20240713170000 +0000" channel="a05e6ace-6bd8-4b22-aeef-08dc95e97cfa">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoPragueLionslocalpng-103134.png"/>
