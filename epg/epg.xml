@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 07 12:04:27 2024">
+<tv date="Sun Jul 07 12:12:44 2024">
   <channel id="fb18c728-76e6-4c4e-a5a9-08dc95c751e2">
     <display-name>fb18c728-76e6-4c4e-a5a9-08dc95c751e2</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/CHALLjpg-115531.jpg"/>
@@ -7,10 +7,6 @@
   <channel id="922b6c99-63e7-45a5-ccda-08dc95c6331d">
     <display-name>922b6c99-63e7-45a5-ccda-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/27/LigaEuropeaDeFuutbolAmericanoBarcelonaDragonsvisitorLigaEuropeaDeFuutbolAmericanoBarcelonaDragonslocal-3jpg-142826.jpg"/>
-  </channel>
-  <channel id="b9861bd4-714f-476f-e32d-08dc95c75ee6">
-    <display-name>b9861bd4-714f-476f-e32d-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/EuropeanChampionship2024MotorlandAragonSuperHeatspng-102014.png"/>
   </channel>
   <channel id="a16053fd-fd75-48bb-cce3-08dc95c6331d">
     <display-name>a16053fd-fd75-48bb-cce3-08dc95c6331d</display-name>
@@ -87,12 +83,6 @@
     <title lang="es">FIBA 3x3 World Tour Edmonton - Cuartos de final, semifinales y Final</title>
     <desc lang="es">Edmonton (Canadá) acoge la quinta parada del torneo de la 13ª edición del FIBA 3x3 World Tour.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20240707073000 +0000" stop="20240707094500 +0000" channel="b9861bd4-714f-476f-e32d-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/EuropeanChampionship2024MotorlandAragonSuperHeatspng-102014.png"/>
-    <title lang="es">European Championship 2024 Motorland Aragon -  Super Heats</title>
-    <desc lang="es">Disfruta del FIA Karting European Championship 2024, disputada en Eslovaquia.</desc>
-    <category lang="es">Automovilismo</category>
   </programme>
   <programme start="20240707103500 +0000" stop="20240707143000 +0000" channel="a16053fd-fd75-48bb-cce3-08dc95c6331d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/EuropeanChampionship2024MotorlandAragonFinalespng-102318.png"/>
