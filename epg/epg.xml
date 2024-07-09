@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 09 20:55:04 2024">
+<tv date="Tue Jul 09 21:10:07 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -27,14 +27,6 @@
   <channel id="9cad82b3-9147-4dba-aef1-08dc95e97cfa">
     <display-name>9cad82b3-9147-4dba-aef1-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoRheinFirevisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-102717.png"/>
-  </channel>
-  <channel id="147811dc-b2a9-4b98-cd00-08dc95c6331d">
-    <display-name>147811dc-b2a9-4b98-cd00-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-110817.jpg"/>
-  </channel>
-  <channel id="9d7f50c0-a3d6-4383-a5c3-08dc95c751e2">
-    <display-name>9d7f50c0-a3d6-4383-a5c3-08dc95c751e2</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-110944.jpg"/>
   </channel>
   <channel id="7c676bf5-1e20-4831-a5c4-08dc95c751e2">
     <display-name>7c676bf5-1e20-4831-a5c4-08dc95c751e2</display-name>
@@ -113,18 +105,6 @@
     <title lang="es">Hamburg SeaDevils - Rhein Fire</title>
     <desc lang="es">El partido entre Hamburg SeaDevils y Rhein Fire correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240709102500 +0000" stop="20240709190000 +0000" channel="147811dc-b2a9-4b98-cd00-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-110817.jpg"/>
-    <title lang="es">Beach Pro Tour Elite 16 Viena: Clasificatorios femeninos - Pista 1</title>
-    <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20240709102500 +0000" stop="20240709190000 +0000" channel="9d7f50c0-a3d6-4383-a5c3-08dc95c751e2">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-110944.jpg"/>
-    <title lang="es">Beach Pro Tour Elite 16 Viena: Clasificatorios femeninos - Pista 2</title>
-    <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
-    <category lang="es">Voleibol</category>
   </programme>
   <programme start="20240710065500 +0000" stop="20240710190000 +0000" channel="7c676bf5-1e20-4831-a5c4-08dc95c751e2">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-111644.jpg"/>
