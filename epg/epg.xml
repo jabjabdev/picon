@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jul 10 19:59:24 2024">
+<tv date="Wed Jul 10 20:14:27 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -31,10 +31,6 @@
   <channel id="7c676bf5-1e20-4831-a5c4-08dc95c751e2">
     <display-name>7c676bf5-1e20-4831-a5c4-08dc95c751e2</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-111644.jpg"/>
-  </channel>
-  <channel id="887f23a9-1cd0-4477-e340-08dc95c75ee6">
-    <display-name>887f23a9-1cd0-4477-e340-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-112600.jpg"/>
   </channel>
   <channel id="ee77af0a-7868-4ed7-e341-08dc95c75ee6">
     <display-name>ee77af0a-7868-4ed7-e341-08dc95c75ee6</display-name>
@@ -137,12 +133,6 @@
   <programme start="20240710065500 +0000" stop="20240710190000 +0000" channel="7c676bf5-1e20-4831-a5c4-08dc95c751e2">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-111644.jpg"/>
     <title lang="es">Beach Pro Tour Elite 16 Viena: Clasificatorio masculino y fase de grupos - Pista 1</title>
-    <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20240710065500 +0000" stop="20240710180000 +0000" channel="887f23a9-1cd0-4477-e340-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/08/BPT-1jpg-112600.jpg"/>
-    <title lang="es">Beach Pro Tour Elite 16 Viena: Clasificatorio masculino y fase de grupos - Pista 3</title>
     <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
     <category lang="es">Voleibol</category>
   </programme>
