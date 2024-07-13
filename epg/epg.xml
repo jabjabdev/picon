@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 13 22:13:54 2024">
+<tv date="Sat Jul 13 22:28:57 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -43,10 +43,6 @@
   <channel id="b216b557-72ec-41ec-af08-08dc95e97cfa">
     <display-name>b216b557-72ec-41ec-af08-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaLDUQuitoAlwaysReadymatchpng-112935.png"/>
-  </channel>
-  <channel id="e74f8ba4-442d-462e-dee8-08dc9c057b0d">
-    <display-name>e74f8ba4-442d-462e-dee8-08dc9c057b0d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-2jpg-110433.jpg"/>
   </channel>
   <channel id="cb658db8-b74a-4926-e354-08dc95c75ee6">
     <display-name>cb658db8-b74a-4926-e354-08dc95c75ee6</display-name>
@@ -205,12 +201,6 @@
     <title lang="es">LDU Quito - Always Ready</title>
     <desc lang="es">El partido entre LDU Quito y Always Ready correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240713151000 +0000" stop="20240713201500 +0000" channel="e74f8ba4-442d-462e-dee8-08dc9c057b0d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-2jpg-110433.jpg"/>
-    <title lang="es">Campeonato de España Sub 23 - Sábado tarde</title>
-    <desc lang="es">Burgos acoge el XXXIX Campeonato de España Sub-23 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
   </programme>
   <programme start="20240713203500 +0000" stop="20240714001000 +0000" channel="cb658db8-b74a-4926-e354-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BocaInstitutopng-072433.png"/>
