@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 13 18:58:15 2024">
+<tv date="Sat Jul 13 19:13:18 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
-  </channel>
-  <channel id="a05e6ace-6bd8-4b22-aeef-08dc95e97cfa">
-    <display-name>a05e6ace-6bd8-4b22-aeef-08dc95e97cfa</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoPragueLionslocalpng-103134.png"/>
   </channel>
   <channel id="3555d1da-dd2a-44d3-aef0-08dc95e97cfa">
     <display-name>3555d1da-dd2a-44d3-aef0-08dc95e97cfa</display-name>
@@ -164,12 +160,6 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
     <title lang="es">Paris Musketeers - Berlin Thunder</title>
     <desc lang="es">El partido entre Paris Musketeers y Berlin Thunder correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240713131500 +0000" stop="20240713170000 +0000" channel="a05e6ace-6bd8-4b22-aeef-08dc95e97cfa">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoPragueLionslocalpng-103134.png"/>
-    <title lang="es">Prague Lions - Fehervar Enthroners</title>
-    <desc lang="es">El partido entre Prague Lions y Fehervar Enthroners correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
   </programme>
   <programme start="20240713151500 +0000" stop="20240713190000 +0000" channel="3555d1da-dd2a-44d3-aef0-08dc95e97cfa">
