@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 13 09:11:16 2024">
+<tv date="Sat Jul 13 09:15:02 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -171,6 +171,10 @@
   <channel id="0bfe413f-55cf-4d2d-e33c-08dc95c75ee6">
     <display-name>0bfe413f-55cf-4d2d-e33c-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaAlwaysReadyLDUQuitomatchpng-095902.png"/>
+  </channel>
+  <channel id="30596ae2-4071-4c23-af17-08dc95e97cfa">
+    <display-name>30596ae2-4071-4c23-af17-08dc95e97cfa</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
   </channel>
   <programme start="20240714101500 +0000" stop="20240714140000 +0000" channel="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -429,5 +433,11 @@
     <title lang="es">Always Ready - LDU Quito</title>
     <desc lang="es">El partido entre Always Ready y LDU Quito correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240717003500 +0000" stop="20240717041000 +0000" channel="30596ae2-4071-4c23-af17-08dc95e97cfa">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
+    <title lang="es">Instituto - Boca</title>
+    <desc lang="es">El partido entre Instituto y Boca correspondiente al 5º partido de la final de la Liga Nacional Argentina 2023/24.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
