@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 13 13:57:13 2024">
+<tv date="Sat Jul 13 14:12:16 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -59,14 +59,6 @@
   <channel id="b216b557-72ec-41ec-af08-08dc95e97cfa">
     <display-name>b216b557-72ec-41ec-af08-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaLDUQuitoAlwaysReadymatchpng-112935.png"/>
-  </channel>
-  <channel id="eef6259a-30ea-475a-cd0d-08dc95c6331d">
-    <display-name>eef6259a-30ea-475a-cd0d-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-1jpg-073035.jpg"/>
-  </channel>
-  <channel id="487907b8-0c2c-4c16-cd12-08dc95c6331d">
-    <display-name>487907b8-0c2c-4c16-cd12-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-1jpg-110211.jpg"/>
   </channel>
   <channel id="ebf9ecd5-18db-45d7-cd0e-08dc95c6331d">
     <display-name>ebf9ecd5-18db-45d7-cd0e-08dc95c6331d</display-name>
@@ -261,18 +253,6 @@
     <title lang="es">LDU Quito - Always Ready</title>
     <desc lang="es">El partido entre LDU Quito y Always Ready correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240713062500 +0000" stop="20240713120000 +0000" channel="eef6259a-30ea-475a-cd0d-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-1jpg-073035.jpg"/>
-    <title lang="es">Beach Pro Tour Elite 16 Viena: Cuartos de final y semifinales</title>
-    <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20240713064000 +0000" stop="20240713120000 +0000" channel="487907b8-0c2c-4c16-cd12-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-1jpg-110211.jpg"/>
-    <title lang="es">Campeonato de España Sub 23 - Sábado mañana</title>
-    <desc lang="es">Burgos acoge el XXXIX Campeonato de España Sub-23 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
   </programme>
   <programme start="20240713125500 +0000" stop="20240713183000 +0000" channel="ebf9ecd5-18db-45d7-cd0e-08dc95c6331d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-FIN-FEM-1png-073256.png"/>
