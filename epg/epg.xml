@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 13 18:13:06 2024">
+<tv date="Sat Jul 13 18:28:09 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -63,10 +63,6 @@
   <channel id="ebf9ecd5-18db-45d7-cd0e-08dc95c6331d">
     <display-name>ebf9ecd5-18db-45d7-cd0e-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-FIN-FEM-1png-073256.png"/>
-  </channel>
-  <channel id="a76b51eb-10d2-48b7-a5c7-08dc95c751e2">
-    <display-name>a76b51eb-10d2-48b7-a5c7-08dc95c751e2</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/truck-1jpg-070449.jpg"/>
   </channel>
   <channel id="e74f8ba4-442d-462e-dee8-08dc9c057b0d">
     <display-name>e74f8ba4-442d-462e-dee8-08dc9c057b0d</display-name>
@@ -259,12 +255,6 @@
     <title lang="es">Beach Pro Tour Elite 16 Viena: Finales Femeninas</title>
     <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
     <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20240713143500 +0000" stop="20240713162000 +0000" channel="a76b51eb-10d2-48b7-a5c7-08dc95c751e2">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/truck-1jpg-070449.jpg"/>
-    <title lang="es">Nürburgring - Carrera 2</title>
-    <desc lang="es">El Circuito de Nürburgring en Alemania acoge la Ronda 4 de la FIA European Truck Racing Championship 2024.</desc>
-    <category lang="es">Automovilismo</category>
   </programme>
   <programme start="20240713151000 +0000" stop="20240713201500 +0000" channel="e74f8ba4-442d-462e-dee8-08dc9c057b0d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-2jpg-110433.jpg"/>
