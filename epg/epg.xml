@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 14 15:47:11 2024">
-  <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
-    <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
-  </channel>
-  <channel id="d8dcbdf9-35bc-4f4c-e324-08dc95c75ee6">
-    <display-name>d8dcbdf9-35bc-4f4c-e324-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoStuttgartSurgevisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-102858.png"/>
-  </channel>
+<tv date="Sun Jul 14 16:02:14 2024">
   <channel id="9cad82b3-9147-4dba-aef1-08dc95e97cfa">
     <display-name>9cad82b3-9147-4dba-aef1-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoRheinFirevisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-102717.png"/>
@@ -120,18 +112,6 @@
     <display-name>30596ae2-4071-4c23-af17-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
   </channel>
-  <programme start="20240714101500 +0000" stop="20240714140000 +0000" channel="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
-    <title lang="es">Paris Musketeers - Berlin Thunder</title>
-    <desc lang="es">El partido entre Paris Musketeers y Berlin Thunder correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240714101500 +0000" stop="20240714140000 +0000" channel="d8dcbdf9-35bc-4f4c-e324-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoStuttgartSurgevisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-102858.png"/>
-    <title lang="es">Raiders Tirol - Stuttgart Surge</title>
-    <desc lang="es">El partido entre Raiders Tirol y Stuttgart Surge correspondiente a la Jornada 8 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240714134000 +0000" stop="20240714172500 +0000" channel="9cad82b3-9147-4dba-aef1-08dc95e97cfa">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoRheinFirevisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-102717.png"/>
     <title lang="es">Hamburg SeaDevils - Rhein Fire</title>
