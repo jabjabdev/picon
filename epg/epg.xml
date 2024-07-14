@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 14 01:59:39 2024">
+<tv date="Sun Jul 14 02:14:41 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -43,10 +43,6 @@
   <channel id="b216b557-72ec-41ec-af08-08dc95e97cfa">
     <display-name>b216b557-72ec-41ec-af08-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaLDUQuitoAlwaysReadymatchpng-112935.png"/>
-  </channel>
-  <channel id="cb658db8-b74a-4926-e354-08dc95c75ee6">
-    <display-name>cb658db8-b74a-4926-e354-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BocaInstitutopng-072433.png"/>
   </channel>
   <channel id="e5c315c3-c2cf-49b5-a5d0-08dc95c751e2">
     <display-name>e5c315c3-c2cf-49b5-a5d0-08dc95c751e2</display-name>
@@ -201,12 +197,6 @@
     <title lang="es">LDU Quito - Always Ready</title>
     <desc lang="es">El partido entre LDU Quito y Always Ready correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240713203500 +0000" stop="20240714001000 +0000" channel="cb658db8-b74a-4926-e354-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BocaInstitutopng-072433.png"/>
-    <title lang="es">Boca - Instituto</title>
-    <desc lang="es">El partido entre Boca y Instituto correspondiente al 4º partido de la final de la Liga Nacional Argentina 2023/24.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20240714064000 +0000" stop="20240714120000 +0000" channel="e5c315c3-c2cf-49b5-a5d0-08dc95c751e2">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-3jpg-110617.jpg"/>
