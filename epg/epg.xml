@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 14 13:46:50 2024">
+<tv date="Sun Jul 14 14:01:52 2024">
   <channel id="81339e8c-cb1f-4b5c-e325-08dc95c75ee6">
     <display-name>81339e8c-cb1f-4b5c-e325-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/06/28/LigaEuropeaDeFuutbolAmericanoBerlinThundervisitorLigaEuropeaDeFuutbolAmericanoParisMusketeerslocalpng-102957.png"/>
@@ -43,14 +43,6 @@
   <channel id="b216b557-72ec-41ec-af08-08dc95e97cfa">
     <display-name>b216b557-72ec-41ec-af08-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaLDUQuitoAlwaysReadymatchpng-112935.png"/>
-  </channel>
-  <channel id="e5c315c3-c2cf-49b5-a5d0-08dc95c751e2">
-    <display-name>e5c315c3-c2cf-49b5-a5d0-08dc95c751e2</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-3jpg-110617.jpg"/>
-  </channel>
-  <channel id="89264b7c-923a-4389-cd0f-08dc95c6331d">
-    <display-name>89264b7c-923a-4389-cd0f-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-FIN-MAS-2png-073514.png"/>
   </channel>
   <channel id="45374cfd-f21d-4c0b-e356-08dc95c75ee6">
     <display-name>45374cfd-f21d-4c0b-e356-08dc95c75ee6</display-name>
@@ -193,18 +185,6 @@
     <title lang="es">LDU Quito - Always Ready</title>
     <desc lang="es">El partido entre LDU Quito y Always Ready correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240714064000 +0000" stop="20240714120000 +0000" channel="e5c315c3-c2cf-49b5-a5d0-08dc95c751e2">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/ATL-3jpg-110617.jpg"/>
-    <title lang="es">Campeonato de España Sub 23 - Domingo mañana</title>
-    <desc lang="es">Burgos acoge el XXXIX Campeonato de España Sub-23 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
-  </programme>
-  <programme start="20240714092500 +0000" stop="20240714120000 +0000" channel="89264b7c-923a-4389-cd0f-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-FIN-MAS-2png-073514.png"/>
-    <title lang="es">Beach Pro Tour Elite 16 Viena: Semifinales Masculinas</title>
-    <desc lang="es">Viena (Austria) acoge el último torneo de voleibol playa de la temporada Beach Pro Tour Elite16 antes de los Juegos Olímpicos de París 2024.</desc>
-    <category lang="es">Voleibol</category>
   </programme>
   <programme start="20240714135500 +0000" stop="20240714173000 +0000" channel="45374cfd-f21d-4c0b-e356-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/BPT-FIN-MAS-2png-073702.png"/>
