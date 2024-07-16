@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 16 09:10:02 2024">
+<tv date="Tue Jul 16 09:15:02 2024">
   <channel id="d3878cc8-d224-4b8f-decf-08dc9c057b0d">
     <display-name>d3878cc8-d224-4b8f-decf-08dc9c057b0d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaHuachipatoRacingmatchpng-103412.png"/>
@@ -95,6 +95,26 @@
   <channel id="30596ae2-4071-4c23-af17-08dc95e97cfa">
     <display-name>30596ae2-4071-4c23-af17-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
+  </channel>
+  <channel id="6e55ff44-6bea-42a7-e365-08dc95c75ee6">
+    <display-name>6e55ff44-6bea-42a7-e365-08dc95c75ee6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/15/BocaInstitutopng-122944.png"/>
+  </channel>
+  <channel id="bf336d94-4d83-4f51-7f0c-08dca1aab0c8">
+    <display-name>bf336d94-4d83-4f51-7f0c-08dca1aab0c8</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-1jpg-060559.jpg"/>
+  </channel>
+  <channel id="c707a864-07c7-4025-a5d4-08dc95c751e2">
+    <display-name>c707a864-07c7-4025-a5d4-08dc95c751e2</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-2jpg-060655.jpg"/>
+  </channel>
+  <channel id="181af9bf-d370-4f32-a5d5-08dc95c751e2">
+    <display-name>181af9bf-d370-4f32-a5d5-08dc95c751e2</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-4jpg-060805.jpg"/>
+  </channel>
+  <channel id="1f33e4cd-9dff-4c83-deee-08dc9c057b0d">
+    <display-name>1f33e4cd-9dff-4c83-deee-08dc9c057b0d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-4-1jpg-060942.jpg"/>
   </channel>
   <programme start="20240716212000 +0000" stop="20240717000000 +0000" channel="d3878cc8-d224-4b8f-decf-08dc9c057b0d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaHuachipatoRacingmatchpng-103412.png"/>
@@ -239,5 +259,35 @@
     <title lang="es">Instituto - Boca</title>
     <desc lang="es">El partido entre Instituto y Boca correspondiente al 5º partido de la final de la Liga Nacional Argentina 2023/24.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20240720003500 +0000" stop="20240720041000 +0000" channel="6e55ff44-6bea-42a7-e365-08dc95c75ee6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/15/BocaInstitutopng-122944.png"/>
+    <title lang="es">Boca - Instituto</title>
+    <desc lang="es">El partido entre Boca y Instituto correspondiente al 6º partido de la final de la Liga Nacional Argentina 2023/24.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20240720071000 +0000" stop="20240720111500 +0000" channel="bf336d94-4d83-4f51-7f0c-08dca1aab0c8">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-1jpg-060559.jpg"/>
+    <title lang="es">Campeonato de España Sub 16 - Sábado mañana</title>
+    <desc lang="es">Lleida acoge el XXIII Campeonato de España Sub-16 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240720145500 +0000" stop="20240720200000 +0000" channel="c707a864-07c7-4025-a5d4-08dc95c751e2">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-2jpg-060655.jpg"/>
+    <title lang="es">Campeonato de España Sub 16 - Sábado tarde</title>
+    <desc lang="es">Lleida acoge el XXIII Campeonato de España Sub-16 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240721071000 +0000" stop="20240721110000 +0000" channel="181af9bf-d370-4f32-a5d5-08dc95c751e2">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-4jpg-060805.jpg"/>
+    <title lang="es">Campeonato de España Sub 16 - Domingo mañana</title>
+    <desc lang="es">Lleida acoge el XXIII Campeonato de España Sub-16 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240721151000 +0000" stop="20240721191500 +0000" channel="1f33e4cd-9dff-4c83-deee-08dc9c057b0d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-4-1jpg-060942.jpg"/>
+    <title lang="es">Campeonato de España Sub 16 - Domingo tarde</title>
+    <desc lang="es">Lleida acoge el XXIII Campeonato de España Sub-16 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
   </programme>
 </tv>
