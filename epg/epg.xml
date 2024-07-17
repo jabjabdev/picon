@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jul 17 05:59:03 2024">
+<tv date="Wed Jul 17 06:14:06 2024">
   <channel id="c2c8bca5-386a-4b6f-af06-08dc95e97cfa">
     <display-name>c2c8bca5-386a-4b6f-af06-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaLibertadUniversidadCatolicamatchpng-110254.png"/>
@@ -83,10 +83,6 @@
   <channel id="0bfe413f-55cf-4d2d-e33c-08dc95c75ee6">
     <display-name>0bfe413f-55cf-4d2d-e33c-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaAlwaysReadyLDUQuitomatchpng-095902.png"/>
-  </channel>
-  <channel id="30596ae2-4071-4c23-af17-08dc95e97cfa">
-    <display-name>30596ae2-4071-4c23-af17-08dc95e97cfa</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
   </channel>
   <channel id="6e55ff44-6bea-42a7-e365-08dc95c75ee6">
     <display-name>6e55ff44-6bea-42a7-e365-08dc95c75ee6</display-name>
@@ -233,12 +229,6 @@
     <title lang="es">Always Ready - LDU Quito</title>
     <desc lang="es">El partido entre Always Ready y LDU Quito correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240717003500 +0000" stop="20240717041000 +0000" channel="30596ae2-4071-4c23-af17-08dc95e97cfa">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/InstitutoBocapng-065834.png"/>
-    <title lang="es">Instituto - Boca</title>
-    <desc lang="es">El partido entre Instituto y Boca correspondiente al 5º partido de la final de la Liga Nacional Argentina 2023/24.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20240720003500 +0000" stop="20240720041000 +0000" channel="6e55ff44-6bea-42a7-e365-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/15/BocaInstitutopng-122944.png"/>
