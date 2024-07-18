@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jul 18 04:18:26 2024">
-  <channel id="96327dcb-6650-46ad-af07-08dc95e97cfa">
-    <display-name>96327dcb-6650-46ad-af07-08dc95e97cfa</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaBarcelonaSCRedBullBragantinomatchpng-110705.png"/>
-  </channel>
-  <channel id="b28bf642-fd6f-4764-ccf8-08dc95c6331d">
-    <display-name>b28bf642-fd6f-4764-ccf8-08dc95c6331d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaIndependientedelValleBocaJuniorsmatchpng-110931.png"/>
-  </channel>
+<tv date="Thu Jul 18 04:33:28 2024">
   <channel id="4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6">
     <display-name>4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaPalestinoCuiabaumatchpng-112022.png"/>
@@ -100,18 +92,6 @@
     <display-name>1f33e4cd-9dff-4c83-deee-08dc9c057b0d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-4-1jpg-060942.jpg"/>
   </channel>
-  <programme start="20240717235000 +0000" stop="20240718023000 +0000" channel="96327dcb-6650-46ad-af07-08dc95e97cfa">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaBarcelonaSCRedBullBragantinomatchpng-110705.png"/>
-    <title lang="es">Barcelona SC - Red Bull Bragantino</title>
-    <desc lang="es">El partido entre Barcelona SC y Red Bull Bragantino correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240717235000 +0000" stop="20240718023000 +0000" channel="b28bf642-fd6f-4764-ccf8-08dc95c6331d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaIndependientedelValleBocaJuniorsmatchpng-110931.png"/>
-    <title lang="es">Independiente del Valle - Boca Juniors</title>
-    <desc lang="es">El partido entre Independiente del Valle y Boca Juniors correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20240718212000 +0000" stop="20240719000000 +0000" channel="4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaPalestinoCuiabaumatchpng-112022.png"/>
     <title lang="es">Palestino - Cuiabá</title>
