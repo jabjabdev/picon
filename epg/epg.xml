@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jul 19 09:08:56 2024">
+<tv date="Fri Jul 19 09:15:02 2024">
   <channel id="e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6">
     <display-name>e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronerslocalpng-111522.png"/>
@@ -111,6 +111,18 @@
   <channel id="76c4eed5-4416-466e-7da2-08dca5768691">
     <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
+  </channel>
+  <channel id="329c517c-bd8a-48e9-d141-08dca572994a">
+    <display-name>329c517c-bd8a-48e9-d141-08dca572994a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/comowebpng-072653.png"/>
+  </channel>
+  <channel id="27a9c2d3-3e77-41fa-d142-08dca572994a">
+    <display-name>27a9c2d3-3e77-41fa-d142-08dca572994a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/ALSAADWEBpng-072913.png"/>
+  </channel>
+  <channel id="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
+    <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
   </channel>
   <programme start="20240720121500 +0000" stop="20240720160000 +0000" channel="e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronerslocalpng-111522.png"/>
@@ -279,5 +291,23 @@
     <title lang="es">Hamburg SeaDevils - Frankfurt Galaxy</title>
     <desc lang="es">El partido entre Hamburg SeaDevils y Frankfurt Galaxy correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
+  </programme>
+  <programme start="20240720075500 +0000" stop="20240720103000 +0000" channel="329c517c-bd8a-48e9-d141-08dca572994a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/comowebpng-072653.png"/>
+    <title lang="es">Como 1907 - UD Las Palmas</title>
+    <desc lang="es">Arranca la pretemporada para el equipo amarillo. El proyecto comandado por Luis Carrión afronta su primer test amistoso en la segunda semana de preparación.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240723165500 +0000" stop="20240723193000 +0000" channel="27a9c2d3-3e77-41fa-d142-08dca572994a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/ALSAADWEBpng-072913.png"/>
+    <title lang="es">Al Sadd - UD Las Palmas</title>
+    <desc lang="es">La pretemporada no cesa. Las Palmas se enfrenta al conjunto catarí en una nueva prueba para el plantel de Luis Carrión.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240725163000 +0000" stop="20240725190000 +0000" channel="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
+    <title lang="es">Granada CF - UD Las Palmas</title>
+    <desc lang="es">La pretemporada vuelve a dar otro test a la UD Las Palmas. Los amarillos se enfrentan al Granada en el primer amistoso ante un equipo español.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
