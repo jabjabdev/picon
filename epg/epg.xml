@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jul 19 01:52:31 2024">
-  <channel id="4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6">
-    <display-name>4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaPalestinoCuiabaumatchpng-112022.png"/>
-  </channel>
+<tv date="Fri Jul 19 02:07:34 2024">
   <channel id="b8002778-8927-4a11-ccf9-08dc95c6331d">
     <display-name>b8002778-8927-4a11-ccf9-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaCerroPortenaoParanaensematchpng-112702.png"/>
@@ -124,12 +120,6 @@
     <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
   </channel>
-  <programme start="20240718212000 +0000" stop="20240719000000 +0000" channel="4b9c2f7d-bc32-4f0f-e33a-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaPalestinoCuiabaumatchpng-112022.png"/>
-    <title lang="es">Palestino - Cuiabá</title>
-    <desc lang="es">El partido entre Palestino y Cuiabá correspondiente a la ida de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20240718235000 +0000" stop="20240719023000 +0000" channel="b8002778-8927-4a11-ccf9-08dc95c6331d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/09/CONMEBOLSudamericanaCerroPortenaoParanaensematchpng-112702.png"/>
     <title lang="es">Cerro Porteño - Athletico Paranaense</title>
