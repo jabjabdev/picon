@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 20 13:14:22 2024">
+<tv date="Sat Jul 20 13:29:25 2024">
   <channel id="e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6">
     <display-name>e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronerslocalpng-111522.png"/>
@@ -59,10 +59,6 @@
   <channel id="0bfe413f-55cf-4d2d-e33c-08dc95c75ee6">
     <display-name>0bfe413f-55cf-4d2d-e33c-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaAlwaysReadyLDUQuitomatchpng-095902.png"/>
-  </channel>
-  <channel id="bf336d94-4d83-4f51-7f0c-08dca1aab0c8">
-    <display-name>bf336d94-4d83-4f51-7f0c-08dca1aab0c8</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-1jpg-060559.jpg"/>
   </channel>
   <channel id="c707a864-07c7-4025-a5d4-08dc95c751e2">
     <display-name>c707a864-07c7-4025-a5d4-08dc95c751e2</display-name>
@@ -205,12 +201,6 @@
     <title lang="es">Always Ready - LDU Quito</title>
     <desc lang="es">El partido entre Always Ready y LDU Quito correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240720071000 +0000" stop="20240720111500 +0000" channel="bf336d94-4d83-4f51-7f0c-08dca1aab0c8">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-1jpg-060559.jpg"/>
-    <title lang="es">Campeonato de España Sub 16 - Sábado mañana</title>
-    <desc lang="es">Lleida acoge el XXIII Campeonato de España Sub-16 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
   </programme>
   <programme start="20240720145500 +0000" stop="20240720200000 +0000" channel="c707a864-07c7-4025-a5d4-08dc95c751e2">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/12/ATL-SUB-16-2jpg-060655.jpg"/>
