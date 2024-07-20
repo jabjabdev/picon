@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 20 17:45:16 2024">
-  <channel id="e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6">
-    <display-name>e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronerslocalpng-111522.png"/>
-  </channel>
+<tv date="Sat Jul 20 18:00:19 2024">
   <channel id="5688242d-0e68-4c75-e35f-08dc95c75ee6">
     <display-name>5688242d-0e68-4c75-e35f-08dc95c75ee6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-120642.png"/>
@@ -112,12 +108,6 @@
     <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
   </channel>
-  <programme start="20240720121500 +0000" stop="20240720160000 +0000" channel="e6c7c4e4-5ff2-4452-e35e-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronerslocalpng-111522.png"/>
-    <title lang="es">Fehervar Enthroners - Milano Seamen</title>
-    <desc lang="es">El partido entre Fehervar Enthroners y Milano Seamen correspondiente a la Jornada 9 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240721101500 +0000" stop="20240721140000 +0000" channel="5688242d-0e68-4c75-e35f-08dc95c75ee6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-120642.png"/>
     <title lang="es">Munich Ravens - Helvetic Mercenaries</title>
