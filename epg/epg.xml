@@ -1,21 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 21 15:49:23 2024">
-  <channel id="5688242d-0e68-4c75-e35f-08dc95c75ee6">
-    <display-name>5688242d-0e68-4c75-e35f-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-120642.png"/>
-  </channel>
-  <channel id="0c960c5e-b12e-4993-a5d2-08dc95c751e2">
-    <display-name>0c960c5e-b12e-4993-a5d2-08dc95c751e2</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoViennaVikingsvisitorLigaEuropeaDeFuutbolAmericanoBerlinThunderlocalpng-112207.png"/>
-  </channel>
-  <channel id="3d4a0aff-9758-4910-af15-08dc95e97cfa">
-    <display-name>3d4a0aff-9758-4910-af15-08dc95e97cfa</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoMadridBravoslocalpng-111833.png"/>
-  </channel>
-  <channel id="9423f00d-bd17-4eef-deed-08dc9c057b0d">
-    <display-name>9423f00d-bd17-4eef-deed-08dc9c057b0d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoWroclawPanthersvisitorLigaEuropeaDeFuutbolAmericanoStuttgartSurgelocalpng-120327.png"/>
-  </channel>
+<tv date="Sun Jul 21 16:04:26 2024">
   <channel id="cc0a5e4d-7638-4078-af16-08dc95e97cfa">
     <display-name>cc0a5e4d-7638-4078-af16-08dc95e97cfa</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHamburgSeaDevilsvisitorLigaEuropeaDeFuutbolAmericanoCologneCenturionslocalpng-121350.png"/>
@@ -100,30 +84,6 @@
     <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
   </channel>
-  <programme start="20240721101500 +0000" stop="20240721140000 +0000" channel="5688242d-0e68-4c75-e35f-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-120642.png"/>
-    <title lang="es">Munich Ravens - Helvetic Mercenaries</title>
-    <desc lang="es">El partido entre Munich Ravens y Helvetic Mercenaries correspondiente a la Jornada 9 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240721101500 +0000" stop="20240721140000 +0000" channel="0c960c5e-b12e-4993-a5d2-08dc95c751e2">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoViennaVikingsvisitorLigaEuropeaDeFuutbolAmericanoBerlinThunderlocalpng-112207.png"/>
-    <title lang="es">Berlin Thunder - Vienna Vikings</title>
-    <desc lang="es">El partido entre Berlin Thunder y Vienna Vikings correspondiente a la Jornada 9 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240721101500 +0000" stop="20240721140000 +0000" channel="3d4a0aff-9758-4910-af15-08dc95e97cfa">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoMadridBravoslocalpng-111833.png"/>
-    <title lang="es">Madrid Bravos - Paris Musketeers</title>
-    <desc lang="es">El partido entre Madrid Bravos y Paris Musketeers correspondiente a la Jornada 9 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240721101500 +0000" stop="20240721140000 +0000" channel="9423f00d-bd17-4eef-deed-08dc9c057b0d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoWroclawPanthersvisitorLigaEuropeaDeFuutbolAmericanoStuttgartSurgelocalpng-120327.png"/>
-    <title lang="es">Stuttgart Surge - Wroclaw Panthers</title>
-    <desc lang="es">El partido entre Stuttgart Surge y Wroclaw Panthers correspondiente a la Jornada 9 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240721140000 +0000" stop="20240721172500 +0000" channel="cc0a5e4d-7638-4078-af16-08dc95e97cfa">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/LigaEuropeaDeFuutbolAmericanoHamburgSeaDevilsvisitorLigaEuropeaDeFuutbolAmericanoCologneCenturionslocalpng-121350.png"/>
     <title lang="es">Cologne Centurions - Hamburg SeaDevils</title>
