@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 23 21:29:40 2024">
+<tv date="Tue Jul 23 21:44:43 2024">
   <channel id="354cdcc5-43e6-4bda-ccfa-08dc95c6331d">
     <display-name>354cdcc5-43e6-4bda-ccfa-08dc95c6331d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/11/CONMEBOLSudamericanaRacingGuachipatomatchpng-063220.png"/>
@@ -63,10 +63,6 @@
   <channel id="76c4eed5-4416-466e-7da2-08dca5768691">
     <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
-  </channel>
-  <channel id="27a9c2d3-3e77-41fa-d142-08dca572994a">
-    <display-name>27a9c2d3-3e77-41fa-d142-08dca572994a</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/ALSAADWEBpng-072913.png"/>
   </channel>
   <channel id="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
     <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
@@ -167,12 +163,6 @@
     <title lang="es">Hamburg SeaDevils - Frankfurt Galaxy</title>
     <desc lang="es">El partido entre Hamburg SeaDevils y Frankfurt Galaxy correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240723165500 +0000" stop="20240723193000 +0000" channel="27a9c2d3-3e77-41fa-d142-08dca572994a">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/ALSAADWEBpng-072913.png"/>
-    <title lang="es">Al Sadd - UD Las Palmas</title>
-    <desc lang="es">La pretemporada no cesa. Las Palmas se enfrenta al conjunto catarí en una nueva prueba para el plantel de Luis Carrión.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20240725163000 +0000" stop="20240725190000 +0000" channel="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
