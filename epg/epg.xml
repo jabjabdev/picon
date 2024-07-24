@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jul 24 09:01:48 2024">
+<tv date="Wed Jul 24 09:15:01 2024">
   <channel id="bbd3032d-c6cb-41b4-ded2-08dc9c057b0d">
     <display-name>bbd3032d-c6cb-41b4-ded2-08dc9c057b0d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaUniversidadCatoulicaLibertadmatchpng-095710.png"/>
@@ -59,6 +59,34 @@
   <channel id="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
     <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
+  </channel>
+  <channel id="7a907639-f626-40b1-f799-08dca9067049">
+    <display-name>7a907639-f626-40b1-f799-08dca9067049</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/al-1jpg-114123.jpg"/>
+  </channel>
+  <channel id="ddbadbcd-05fc-4e52-6ba1-08dcab0fe2eb">
+    <display-name>ddbadbcd-05fc-4e52-6ba1-08dcab0fe2eb</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-2-2jpg-120544.jpg"/>
+  </channel>
+  <channel id="cc70df4e-e3fa-4aaa-7db1-08dca5768691">
+    <display-name>cc70df4e-e3fa-4aaa-7db1-08dca5768691</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/alejpg-114432.jpg"/>
+  </channel>
+  <channel id="6e2a79a4-f888-40d2-091a-08dca9e8208b">
+    <display-name>6e2a79a4-f888-40d2-091a-08dca9e8208b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-3-1jpg-120944.jpg"/>
+  </channel>
+  <channel id="1cd54388-7aa5-4d3d-3bd3-08dca852b009">
+    <display-name>1cd54388-7aa5-4d3d-3bd3-08dca852b009</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ale-1jpg-114806.jpg"/>
+  </channel>
+  <channel id="af449e00-72a7-4f14-32d9-08dca570cd74">
+    <display-name>af449e00-72a7-4f14-32d9-08dca570cd74</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-1-1jpg-121130.jpg"/>
+  </channel>
+  <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
+    <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
   </channel>
   <programme start="20240724212000 +0000" stop="20240725000000 +0000" channel="bbd3032d-c6cb-41b4-ded2-08dc9c057b0d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaUniversidadCatoulicaLibertadmatchpng-095710.png"/>
@@ -149,5 +177,47 @@
     <title lang="es">Granada CF - UD Las Palmas</title>
     <desc lang="es">La pretemporada vuelve a dar otro test a la UD Las Palmas. Los amarillos se enfrentan al Granada en el primer amistoso ante un equipo español.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240727054000 +0000" stop="20240727120000 +0000" channel="7a907639-f626-40b1-f799-08dca9067049">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/al-1jpg-114123.jpg"/>
+    <title lang="es">Open Mil Estrellas Ciudad del Sol Lorca 2024: Primeras rondas</title>
+    <desc lang="es">Lorca (Murcia) acoge el Open Mil Estrellas Ciudad del Sol Lorca 2024 de petanca en categorías masculina, femenina y juvenil.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20240727064000 +0000" stop="20240727120000 +0000" channel="ddbadbcd-05fc-4e52-6ba1-08dcab0fe2eb">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-2-2jpg-120544.jpg"/>
+    <title lang="es">Campeonato de España Sub 20 - Sábado mañana</title>
+    <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240727132500 +0000" stop="20240727190000 +0000" channel="cc70df4e-e3fa-4aaa-7db1-08dca5768691">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/alejpg-114432.jpg"/>
+    <title lang="es">Open Mil Estrellas Ciudad del Sol Lorca 2024:  Rondas de 32, 16 y octavos</title>
+    <desc lang="es">Lorca (Murcia) acoge el Open Mil Estrellas Ciudad del Sol Lorca 2024 de petanca en categorías masculina, femenina y juvenil.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20240727151000 +0000" stop="20240727200000 +0000" channel="6e2a79a4-f888-40d2-091a-08dca9e8208b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-3-1jpg-120944.jpg"/>
+    <title lang="es">Campeonato de España Sub 20 - Sábado tarde</title>
+    <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240728055500 +0000" stop="20240728120000 +0000" channel="1cd54388-7aa5-4d3d-3bd3-08dca852b009">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ale-1jpg-114806.jpg"/>
+    <title lang="es">Open Mil Estrellas Ciudad del Sol Lorca 2024: Cuartos, semifinales y finales</title>
+    <desc lang="es">Lorca (Murcia) acoge el Open Mil Estrellas Ciudad del Sol Lorca 2024 de petanca en categorías masculina, femenina y juvenil.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20240728064000 +0000" stop="20240728120000 +0000" channel="af449e00-72a7-4f14-32d9-08dca570cd74">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-1-1jpg-121130.jpg"/>
+    <title lang="es">Campeonato de España Sub 20 - Domingo mañana</title>
+    <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
+  </programme>
+  <programme start="20240728151000 +0000" stop="20240728193000 +0000" channel="f54d8dd1-3098-48ca-f79a-08dca9067049">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
+    <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
+    <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
+    <category lang="es">Atletismo </category>
   </programme>
 </tv>
