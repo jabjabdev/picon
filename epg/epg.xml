@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jul 25 20:53:46 2024">
+<tv date="Thu Jul 25 21:08:49 2024">
   <channel id="92856578-03e0-44c2-ded4-08dc9c057b0d">
     <display-name>92856578-03e0-44c2-ded4-08dc9c057b0d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaCuiabauPalestinomatchpng-095841.png"/>
@@ -43,10 +43,6 @@
   <channel id="76c4eed5-4416-466e-7da2-08dca5768691">
     <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
-  </channel>
-  <channel id="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
-    <display-name>6aa57b33-ef0c-45b4-32d0-08dca570cd74</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
   </channel>
   <channel id="7a907639-f626-40b1-f799-08dca9067049">
     <display-name>7a907639-f626-40b1-f799-08dca9067049</display-name>
@@ -245,12 +241,6 @@
     <title lang="es">Hamburg SeaDevils - Frankfurt Galaxy</title>
     <desc lang="es">El partido entre Hamburg SeaDevils y Frankfurt Galaxy correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240725163000 +0000" stop="20240725190000 +0000" channel="6aa57b33-ef0c-45b4-32d0-08dca570cd74">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/18/GRANADAwebpng-073237.png"/>
-    <title lang="es">Granada CF - UD Las Palmas</title>
-    <desc lang="es">La pretemporada vuelve a dar otro test a la UD Las Palmas. Los amarillos se enfrentan al Granada en el primer amistoso ante un equipo español.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20240727054000 +0000" stop="20240727120000 +0000" channel="7a907639-f626-40b1-f799-08dca9067049">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/al-1jpg-114123.jpg"/>
