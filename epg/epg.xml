@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jul 25 01:50:03 2024">
-  <channel id="bbd3032d-c6cb-41b4-ded2-08dc9c057b0d">
-    <display-name>bbd3032d-c6cb-41b4-ded2-08dc9c057b0d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaUniversidadCatoulicaLibertadmatchpng-095710.png"/>
-  </channel>
+<tv date="Thu Jul 25 02:05:06 2024">
   <channel id="b91cbff5-6351-469c-ded3-08dc9c057b0d">
     <display-name>b91cbff5-6351-469c-ded3-08dc9c057b0d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaRedBullBragantinoBarcelonaSCmatchpng-095807.png"/>
@@ -88,12 +84,6 @@
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
   </channel>
-  <programme start="20240724212000 +0000" stop="20240725000000 +0000" channel="bbd3032d-c6cb-41b4-ded2-08dc9c057b0d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaUniversidadCatoulicaLibertadmatchpng-095710.png"/>
-    <title lang="es">Universidad Católica - Libertad</title>
-    <desc lang="es">El partido entre Universidad Católica y Libertad correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20240724235000 +0000" stop="20240725023000 +0000" channel="b91cbff5-6351-469c-ded3-08dc9c057b0d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaRedBullBragantinoBarcelonaSCmatchpng-095807.png"/>
     <title lang="es">Red Bull Bragantino - Barcelona SC</title>
