@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jul 26 04:25:14 2024">
-  <channel id="b69101e9-b9ee-49f7-e33b-08dc95c75ee6">
-    <display-name>b69101e9-b9ee-49f7-e33b-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaParanaenseCerroPortenaomatchpng-095948.png"/>
-  </channel>
-  <channel id="0bfe413f-55cf-4d2d-e33c-08dc95c75ee6">
-    <display-name>0bfe413f-55cf-4d2d-e33c-08dc95c75ee6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaAlwaysReadyLDUQuitomatchpng-095902.png"/>
-  </channel>
+<tv date="Fri Jul 26 04:40:17 2024">
   <channel id="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <display-name>35cdf7eb-d727-4c59-7f87-08dca570ec87</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
@@ -172,18 +164,6 @@
     <display-name>320e8d82-e1db-4f9f-f79d-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/LA-RIOJA-OPEN-1920x1080jpg-104805.jpg"/>
   </channel>
-  <programme start="20240725235000 +0000" stop="20240726023000 +0000" channel="b69101e9-b9ee-49f7-e33b-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaParanaenseCerroPortenaomatchpng-095948.png"/>
-    <title lang="es">Athletico Paranaense - Cerro Porteño</title>
-    <desc lang="es">El partido entre Athletico Paranaense y Cerro Porteño correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20240725235000 +0000" stop="20240726023000 +0000" channel="0bfe413f-55cf-4d2d-e33c-08dc95c75ee6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/10/CONMEBOLSudamericanaAlwaysReadyLDUQuitomatchpng-095902.png"/>
-    <title lang="es">Always Ready - LDU Quito</title>
-    <desc lang="es">El partido entre Always Ready y LDU Quito correspondiente a la vuelta de los Dieciseisavos de final de la Copa CONMEBOL Sudamericana 2024.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20240727141500 +0000" stop="20240727180000 +0000" channel="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
     <title lang="es">Wroclaw Panthers - Fehervar Enthroners</title>
