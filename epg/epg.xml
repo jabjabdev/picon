@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jul 26 09:11:09 2024">
+<tv date="Fri Jul 26 09:15:02 2024">
   <channel id="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <display-name>35cdf7eb-d727-4c59-7f87-08dca570ec87</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
@@ -163,6 +163,10 @@
   <channel id="320e8d82-e1db-4f9f-f79d-08dca9067049">
     <display-name>320e8d82-e1db-4f9f-f79d-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/LA-RIOJA-OPEN-1920x1080jpg-104805.jpg"/>
+  </channel>
+  <channel id="179d83c5-31f3-4c11-7dba-08dca5768691">
+    <display-name>179d83c5-31f3-4c11-7dba-08dca5768691</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Final-Copa-del-Rey-2024png-125012.png"/>
   </channel>
   <programme start="20240727141500 +0000" stop="20240727180000 +0000" channel="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
@@ -409,5 +413,11 @@
     <title lang="es">La Rioja Open 2024: Octavos de final - Jueves</title>
     <desc lang="es">Disfruta de los partidos del La Rioja Open 2024, disputado en Argentina.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20240728082500 +0000" stop="20240728120000 +0000" channel="179d83c5-31f3-4c11-7dba-08dca5768691">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Final-Copa-del-Rey-2024png-125012.png"/>
+    <title lang="es">Final</title>
+    <desc lang="es">El Campo Municipal de Béisbol Antonio Hervás en Sant Boi (Barcelona) acoge la Copa S. M. El Rey de Béisbol 2024.</desc>
+    <category lang="es">Béisbol y Sófbol</category>
   </programme>
 </tv>
