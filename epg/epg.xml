@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 27 16:55:20 2024">
+<tv date="Sat Jul 27 17:10:23 2024">
   <channel id="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <display-name>35cdf7eb-d727-4c59-7f87-08dca570ec87</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
@@ -51,10 +51,6 @@
   <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
-  </channel>
-  <channel id="5a097421-aeec-41d2-0918-08dca9e8208b">
-    <display-name>5a097421-aeec-41d2-0918-08dca9e8208b</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/Thumbnail-generico-JJOOjpg-115116.jpg"/>
   </channel>
   <channel id="4e4b4a50-7c4f-43f2-32de-08dca570cd74">
     <display-name>4e4b4a50-7c4f-43f2-32de-08dca570cd74</display-name>
@@ -277,12 +273,6 @@
     <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
     <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
     <category lang="es">Atletismo </category>
-  </programme>
-  <programme start="20240727123000 +0000" stop="20240727150000 +0000" channel="5a097421-aeec-41d2-0918-08dca9e8208b">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/Thumbnail-generico-JJOOjpg-115116.jpg"/>
-    <title lang="es">Fase de grupos | República Dominicana - España</title>
-    <desc lang="es">Fútbol masculino | Fase de grupos.</desc>
-    <category lang="es">Juegos Olímpicos</category>
   </programme>
   <programme start="20240727152500 +0000" stop="20240727183000 +0000" channel="4e4b4a50-7c4f-43f2-32de-08dca570cd74">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Semi-2-CDRpng-124633.png"/>
