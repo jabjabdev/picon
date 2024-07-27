@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 27 10:16:07 2024">
+<tv date="Sat Jul 27 10:31:10 2024">
   <channel id="35cdf7eb-d727-4c59-7f87-08dca570ec87">
     <display-name>35cdf7eb-d727-4c59-7f87-08dca570ec87</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
@@ -59,10 +59,6 @@
   <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
-  </channel>
-  <channel id="b07ecee5-21b7-4992-0917-08dca9e8208b">
-    <display-name>b07ecee5-21b7-4992-0917-08dca9e8208b</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/BAL-25-07jpg-094341.jpg"/>
   </channel>
   <channel id="a0187bd4-18d8-46db-32dd-08dca570cd74">
     <display-name>a0187bd4-18d8-46db-32dd-08dca570cd74</display-name>
@@ -309,12 +305,6 @@
     <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
     <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
     <category lang="es">Atletismo </category>
-  </programme>
-  <programme start="20240727062000 +0000" stop="20240727083000 +0000" channel="b07ecee5-21b7-4992-0917-08dca9e8208b">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/BAL-25-07jpg-094341.jpg"/>
-    <title lang="es">Fase de grupos | España - Eslovenia</title>
-    <desc lang="es">Balonmano masculino | Fase de grupos.</desc>
-    <category lang="es">Juegos Olímpicos</category>
   </programme>
   <programme start="20240727082500 +0000" stop="20240727113000 +0000" channel="a0187bd4-18d8-46db-32dd-08dca570cd74">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Semi-1-CDRpng-124249.png"/>
