@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 27 19:55:57 2024">
-  <channel id="35cdf7eb-d727-4c59-7f87-08dca570ec87">
-    <display-name>35cdf7eb-d727-4c59-7f87-08dca570ec87</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
-  </channel>
+<tv date="Sat Jul 27 20:11:00 2024">
   <channel id="c6262f25-e3de-439f-1ff6-08dca573376a">
     <display-name>c6262f25-e3de-439f-1ff6-08dca573376a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoPragueLionsvisitorLigaEuropeaDeFuutbolAmericanoViennaVikingslocalpng-103541.png"/>
@@ -55,10 +51,6 @@
   <channel id="4e4b4a50-7c4f-43f2-32de-08dca570cd74">
     <display-name>4e4b4a50-7c4f-43f2-32de-08dca570cd74</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Semi-2-CDRpng-124633.png"/>
-  </channel>
-  <channel id="55772bb4-2e7c-4851-0919-08dca9e8208b">
-    <display-name>55772bb4-2e7c-4851-0919-08dca9e8208b</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/Thumbnail-generico-JJOOjpg-115144.jpg"/>
   </channel>
   <channel id="ee691dcb-ce5d-46b5-6ba2-08dcab0fe2eb">
     <display-name>ee691dcb-ce5d-46b5-6ba2-08dcab0fe2eb</display-name>
@@ -196,12 +188,6 @@
     <display-name>4f785fd6-2bad-4d0f-200b-08dca573376a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/26/LaRiojaOpen2024FinalDomingojpg-083713.jpg"/>
   </channel>
-  <programme start="20240727141500 +0000" stop="20240727180000 +0000" channel="35cdf7eb-d727-4c59-7f87-08dca570ec87">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFeheurvaurEnthronersvisitorLigaEuropeaDeFuutbolAmericanoWroclawPantherslocalpng-103233.png"/>
-    <title lang="es">Wroclaw Panthers - Fehervar Enthroners</title>
-    <desc lang="es">El partido entre Wroclaw Panthers y Fehervar Enthroners correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240727151500 +0000" stop="20240727190000 +0000" channel="c6262f25-e3de-439f-1ff6-08dca573376a">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoPragueLionsvisitorLigaEuropeaDeFuutbolAmericanoViennaVikingslocalpng-103541.png"/>
     <title lang="es">Vienna Vikings - Prague Lions</title>
@@ -279,12 +265,6 @@
     <title lang="es">Marlins - Sant Boi</title>
     <desc lang="es">El Campo Municipal de Béisbol Antonio Hervás en Sant Boi (Barcelona) acoge la Copa S. M. El Rey de Béisbol 2024.</desc>
     <category lang="es">Béisbol y Sófbol</category>
-  </programme>
-  <programme start="20240727160000 +0000" stop="20240727180000 +0000" channel="55772bb4-2e7c-4851-0919-08dca9e8208b">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/Thumbnail-generico-JJOOjpg-115144.jpg"/>
-    <title lang="es">Fas de grupos | España - Francia</title>
-    <desc lang="es">Waterpolo femenino | Fase de grupos.</desc>
-    <category lang="es">Juegos Olímpicos</category>
   </programme>
   <programme start="20240728080000 +0000" stop="20240728100000 +0000" channel="ee691dcb-ce5d-46b5-6ba2-08dcab0fe2eb">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Thumbnail-generico-JJOOjpg-074600.jpg"/>
