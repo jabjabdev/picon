@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 28 12:44:10 2024">
+<tv date="Sun Jul 28 12:48:41 2024">
   <channel id="c5e43373-844e-40b9-7d9f-08dca5768691">
     <display-name>c5e43373-844e-40b9-7d9f-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoRheinFirelocalpng-103807.png"/>
@@ -272,14 +272,6 @@
     <display-name>c4ad9b31-c46c-533f-bc6e-f2dd54f60f56-catchup</display-name>
     <icon src="https://images.cdn.prd.api.discomax.com/2024/07/27/1c824356-48c7-3268-8297-59a28b4eba9d.jpeg?w=300&amp;f=png"/>
   </channel>
-  <channel id="06387b12-bad8-4af5-882f-01e190551d74">
-    <display-name>06387b12-bad8-4af5-882f-01e190551d74</display-name>
-    <icon src="https://images.cdn.prd.api.discomax.com/2024/07/16/1c2ca3de-5208-3d79-97a1-09c625a7ca35.jpeg?w=300&amp;f=png"/>
-  </channel>
-  <channel id="d517077d-2f57-5e2a-a4dc-c1962b3522ae-catchup">
-    <display-name>d517077d-2f57-5e2a-a4dc-c1962b3522ae-catchup</display-name>
-    <icon src="https://images.cdn.prd.api.discomax.com/2024/07/16/1c2ca3de-5208-3d79-97a1-09c625a7ca35.jpeg?w=300&amp;f=png"/>
-  </channel>
   <channel id="8bc0c158-be52-4ca3-9a2d-b650e0053080">
     <display-name>8bc0c158-be52-4ca3-9a2d-b650e0053080</display-name>
     <icon src="https://images.cdn.prd.api.discomax.com/2024/07/18/8d46ecc3-a58e-3b98-9a23-2f7c041f72dd.jpeg?w=300&amp;f=png"/>
@@ -319,6 +311,22 @@
   <channel id="e91af783-fb33-512a-ae70-193fe817cd6f-catchup">
     <display-name>e91af783-fb33-512a-ae70-193fe817cd6f-catchup</display-name>
     <icon src="https://images.cdn.prd.api.discomax.com/2024/07/18/d10c47b4-ab30-315b-b915-c17e7206a4fc.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="54e4b0f5-df99-4877-84d5-4f647cfacee0">
+    <display-name>54e4b0f5-df99-4877-84d5-4f647cfacee0</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="54e4b0f5-df99-4877-84d5-4f647cfacee0-catchup">
+    <display-name>54e4b0f5-df99-4877-84d5-4f647cfacee0-catchup</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="87927357-0cc8-47c8-bbf1-debacd7031f9">
+    <display-name>87927357-0cc8-47c8-bbf1-debacd7031f9</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="87927357-0cc8-47c8-bbf1-debacd7031f9-catchup">
+    <display-name>87927357-0cc8-47c8-bbf1-debacd7031f9-catchup</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=300&amp;f=png"/>
   </channel>
   <programme start="20240728101500 +0000" stop="20240728140000 +0000" channel="c5e43373-844e-40b9-7d9f-08dca5768691">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoRheinFirelocalpng-103807.png"/>
@@ -728,18 +736,6 @@
     <desc lang="es">Los mejores jugadores de Snooker se reúnen en Wuhan, CHina para demostrar quién es el mejor en esta competición internacional.</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20240728093000 +0000" stop="20240728103901 +0000" channel="06387b12-bad8-4af5-882f-01e190551d74">
-    <icon src="https://images.cdn.prd.api.discomax.com/2024/07/16/1c2ca3de-5208-3d79-97a1-09c625a7ca35.jpeg?w=600&amp;f=png"/>
-    <title lang="es">Bélgica | Carrera | Supercopa Porsche</title>
-    <desc lang="es">Transmisión en vivo de la Supercopa Porsche desde el Circuito de Spa-Francorchamps.</desc>
-    <category lang="es">One Make Racing</category>
-  </programme>
-  <programme start="20240728093000 +0000" stop="20240728103901 +0000" channel="d517077d-2f57-5e2a-a4dc-c1962b3522ae-catchup">
-    <icon src="https://images.cdn.prd.api.discomax.com/2024/07/16/1c2ca3de-5208-3d79-97a1-09c625a7ca35.jpeg?w=600&amp;f=png"/>
-    <title lang="es">Bélgica | Carrera | Supercopa Porsche</title>
-    <desc lang="es">Transmisión en vivo de la Supercopa Porsche desde el Circuito de Spa-Francorchamps.</desc>
-    <category lang="es">One Make Racing</category>
-  </programme>
   <programme start="20240728120000 +0000" stop="20240728130000 +0000" channel="8bc0c158-be52-4ca3-9a2d-b650e0053080">
     <icon src="https://images.cdn.prd.api.discomax.com/2024/07/18/8d46ecc3-a58e-3b98-9a23-2f7c041f72dd.jpeg?w=600&amp;f=png"/>
     <title lang="es">Flandes | MXGP | 1ª Carrera | Campeonato del Mundo</title>
@@ -799,5 +795,29 @@
     <title lang="es">Flandes | MXGP | 2ª Carrera | Campeonato del Mundo</title>
     <desc lang="es">Cobertura en vivo del campeonato mundial MXGP en Lommel, Bélgica.</desc>
     <category lang="es">Motocross</category>
+  </programme>
+  <programme start="20240729090000 +0000" stop="20240729120000 +0000" channel="54e4b0f5-df99-4877-84d5-4f647cfacee0">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Wuhan Open | Clasificación</title>
+    <desc lang="es">Enjoy the latest sporting action.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20240729090000 +0000" stop="20240729120000 +0000" channel="54e4b0f5-df99-4877-84d5-4f647cfacee0-catchup">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Wuhan Open | Clasificación</title>
+    <desc lang="es">Enjoy the latest sporting action.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20240729090000 +0000" stop="20240729120000 +0000" channel="87927357-0cc8-47c8-bbf1-debacd7031f9">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Wuhan Open | Clasificación</title>
+    <desc lang="es">Enjoy the latest sporting action.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20240729090000 +0000" stop="20240729120000 +0000" channel="87927357-0cc8-47c8-bbf1-debacd7031f9-catchup">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/04/09/a79a5da5-0606-33f5-bd11-bfc1fce7e044.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Wuhan Open | Clasificación</title>
+    <desc lang="es">Enjoy the latest sporting action.</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
