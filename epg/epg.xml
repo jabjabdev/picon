@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 28 15:59:48 2024">
-  <channel id="c5e43373-844e-40b9-7d9f-08dca5768691">
-    <display-name>c5e43373-844e-40b9-7d9f-08dca5768691</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoRheinFirelocalpng-103807.png"/>
-  </channel>
-  <channel id="68f02d99-61af-4f57-7da0-08dca5768691">
-    <display-name>68f02d99-61af-4f57-7da0-08dca5768691</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-103737.png"/>
-  </channel>
+<tv date="Sun Jul 28 16:14:51 2024">
   <channel id="44bae273-9697-4c77-7da1-08dca5768691">
     <display-name>44bae273-9697-4c77-7da1-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-103947.png"/>
@@ -144,18 +136,6 @@
     <display-name>4f785fd6-2bad-4d0f-200b-08dca573376a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/26/LaRiojaOpen2024FinalDomingojpg-083713.jpg"/>
   </channel>
-  <programme start="20240728101500 +0000" stop="20240728140000 +0000" channel="c5e43373-844e-40b9-7d9f-08dca5768691">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoRheinFirelocalpng-103807.png"/>
-    <title lang="es">Rhein Fire - Paris Musketeers</title>
-    <desc lang="es">El partido entre Rhein Fire y Paris Musketeers correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240728101500 +0000" stop="20240728140000 +0000" channel="68f02d99-61af-4f57-7da0-08dca5768691">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoMilanoSeamenvisitorLigaEuropeaDeFuutbolAmericanoMunichRavenslocalpng-103737.png"/>
-    <title lang="es">Munich Ravens - Milano Seamen</title>
-    <desc lang="es">El partido entre Munich Ravens y Milano Seamen correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240728134000 +0000" stop="20240728172500 +0000" channel="44bae273-9697-4c77-7da1-08dca5768691">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-103947.png"/>
     <title lang="es">Raiders Tirol - Helvetic Mercenaries</title>
