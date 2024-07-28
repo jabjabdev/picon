@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 28 13:59:25 2024">
+<tv date="Sun Jul 28 14:14:28 2024">
   <channel id="c5e43373-844e-40b9-7d9f-08dca5768691">
     <display-name>c5e43373-844e-40b9-7d9f-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoParisMusketeersvisitorLigaEuropeaDeFuutbolAmericanoRheinFirelocalpng-103807.png"/>
@@ -15,14 +15,6 @@
   <channel id="76c4eed5-4416-466e-7da2-08dca5768691">
     <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
-  </channel>
-  <channel id="1cd54388-7aa5-4d3d-3bd3-08dca852b009">
-    <display-name>1cd54388-7aa5-4d3d-3bd3-08dca852b009</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ale-1jpg-114806.jpg"/>
-  </channel>
-  <channel id="af449e00-72a7-4f14-32d9-08dca570cd74">
-    <display-name>af449e00-72a7-4f14-32d9-08dca570cd74</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-1-1jpg-121130.jpg"/>
   </channel>
   <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
@@ -103,10 +95,6 @@
   <channel id="320e8d82-e1db-4f9f-f79d-08dca9067049">
     <display-name>320e8d82-e1db-4f9f-f79d-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/LA-RIOJA-OPEN-1920x1080jpg-104805.jpg"/>
-  </channel>
-  <channel id="179d83c5-31f3-4c11-7dba-08dca5768691">
-    <display-name>179d83c5-31f3-4c11-7dba-08dca5768691</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Final-Copa-del-Rey-2024png-125012.png"/>
   </channel>
   <channel id="2cdeb3aa-bdd8-4eeb-200c-08dca573376a">
     <display-name>2cdeb3aa-bdd8-4eeb-200c-08dca573376a</display-name>
@@ -424,18 +412,6 @@
     <desc lang="es">El partido entre Hamburg SeaDevils y Frankfurt Galaxy correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
     <category lang="es">Fútbol Americano </category>
   </programme>
-  <programme start="20240728055500 +0000" stop="20240728120000 +0000" channel="1cd54388-7aa5-4d3d-3bd3-08dca852b009">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ale-1jpg-114806.jpg"/>
-    <title lang="es">Open Mil Estrellas Ciudad del Sol Lorca 2024: Cuartos, semifinales y finales</title>
-    <desc lang="es">Lorca (Murcia) acoge el Open Mil Estrellas Ciudad del Sol Lorca 2024 de petanca en categorías masculina, femenina y juvenil.</desc>
-    <category lang="es">Petanca</category>
-  </programme>
-  <programme start="20240728064000 +0000" stop="20240728120000 +0000" channel="af449e00-72a7-4f14-32d9-08dca570cd74">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-1-1jpg-121130.jpg"/>
-    <title lang="es">Campeonato de España Sub 20 - Domingo mañana</title>
-    <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
-    <category lang="es">Atletismo </category>
-  </programme>
   <programme start="20240728151000 +0000" stop="20240728193000 +0000" channel="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
     <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
@@ -555,12 +531,6 @@
     <title lang="es">La Rioja Open 2024: Octavos de final - Jueves</title>
     <desc lang="es">Disfruta de los partidos del La Rioja Open 2024, disputado en Argentina.</desc>
     <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20240728082500 +0000" stop="20240728120000 +0000" channel="179d83c5-31f3-4c11-7dba-08dca5768691">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Final-Copa-del-Rey-2024png-125012.png"/>
-    <title lang="es">Final</title>
-    <desc lang="es">El Campo Municipal de Béisbol Antonio Hervás en Sant Boi (Barcelona) acoge la Copa S. M. El Rey de Béisbol 2024.</desc>
-    <category lang="es">Béisbol y Sófbol</category>
   </programme>
   <programme start="20240801093000 +0000" stop="20240801113000 +0000" channel="2cdeb3aa-bdd8-4eeb-200c-08dca573376a">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/26/WAT-1jpg-085336.jpg"/>
