@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 28 19:15:25 2024">
-  <channel id="44bae273-9697-4c77-7da1-08dca5768691">
-    <display-name>44bae273-9697-4c77-7da1-08dca5768691</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-103947.png"/>
-  </channel>
-  <channel id="76c4eed5-4416-466e-7da2-08dca5768691">
-    <display-name>76c4eed5-4416-466e-7da2-08dca5768691</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
-  </channel>
+<tv date="Sun Jul 28 19:30:28 2024">
   <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
@@ -132,18 +124,6 @@
     <display-name>4f785fd6-2bad-4d0f-200b-08dca573376a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/26/LaRiojaOpen2024FinalDomingojpg-083713.jpg"/>
   </channel>
-  <programme start="20240728134000 +0000" stop="20240728172500 +0000" channel="44bae273-9697-4c77-7da1-08dca5768691">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-103947.png"/>
-    <title lang="es">Raiders Tirol - Helvetic Mercenaries</title>
-    <desc lang="es">El partido entre Raiders Tirol y Helvetic Mercenaries correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
-  <programme start="20240728134000 +0000" stop="20240728172500 +0000" channel="76c4eed5-4416-466e-7da2-08dca5768691">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoFrankfurtGalaxyvisitorLigaEuropeaDeFuutbolAmericanoHamburgSeaDevilslocalpng-103903.png"/>
-    <title lang="es">Hamburg SeaDevils - Frankfurt Galaxy</title>
-    <desc lang="es">El partido entre Hamburg SeaDevils y Frankfurt Galaxy correspondiente a la Jornada 10 de la Liga Europea de Fútbol Americano 2024.</desc>
-    <category lang="es">Fútbol Americano </category>
-  </programme>
   <programme start="20240728151000 +0000" stop="20240728193000 +0000" channel="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
     <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
