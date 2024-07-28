@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 28 18:15:13 2024">
+<tv date="Sun Jul 28 18:30:16 2024">
   <channel id="44bae273-9697-4c77-7da1-08dca5768691">
     <display-name>44bae273-9697-4c77-7da1-08dca5768691</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/17/LigaEuropeaDeFuutbolAmericanoHelveticMercenariesvisitorLigaEuropeaDeFuutbolAmericanoTirolRaiderslocalpng-103947.png"/>
@@ -11,10 +11,6 @@
   <channel id="f54d8dd1-3098-48ca-f79a-08dca9067049">
     <display-name>f54d8dd1-3098-48ca-f79a-08dca9067049</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/23/ATL-4-1jpg-121705.jpg"/>
-  </channel>
-  <channel id="751ff7a8-f242-48c9-3467-08dcabb4c41e">
-    <display-name>751ff7a8-f242-48c9-3467-08dcabb4c41e</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Thumbnail-generico-JJOOjpg-075047.jpg"/>
   </channel>
   <channel id="9dc3b06e-5733-478d-3bd6-08dca852b009">
     <display-name>9dc3b06e-5733-478d-3bd6-08dca852b009</display-name>
@@ -153,12 +149,6 @@
     <title lang="es">Campeonato de España Sub 20 - Domingo tarde</title>
     <desc lang="es">Castellón acoge el LXXI Campeonato de España Sub-20 de Pista al Aire Libre de atletismo en categoría masculina y femenina.</desc>
     <category lang="es">Atletismo </category>
-  </programme>
-  <programme start="20240728143000 +0000" stop="20240728163000 +0000" channel="751ff7a8-f242-48c9-3467-08dcabb4c41e">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/Thumbnail-generico-JJOOjpg-075047.jpg"/>
-    <title lang="es">Fase de grupos | Alemania - España</title>
-    <desc lang="es">Hockey hierba masculino | Fase de grupos.</desc>
-    <category lang="es">Juegos Olímpicos</category>
   </programme>
   <programme start="20240728163000 +0000" stop="20240728183000 +0000" channel="9dc3b06e-5733-478d-3bd6-08dca852b009">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/07/24/BAL-25-07jpg-095328.jpg"/>
