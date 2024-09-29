@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Sep 29 19:10:25 2024">
+<tv date="Sun Sep 29 20:07:42 2024">
   <channel id="7atn5svwjrw60p4lj6o65h94a">
     <display-name>7atn5svwjrw60p4lj6o65h94a</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7atn5svwjrw60p4lj6o65h94a_image-header_pEs_1727579831000/fill/none/top/none/85/300/180/webp/image"/>
@@ -83,6 +83,14 @@
   <channel id="1lerbz08ujmnezglsjgtknqw7">
     <display-name>1lerbz08ujmnezglsjgtknqw7</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1lerbz08ujmnezglsjgtknqw7_image-header_pEs_1715861224000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a9ywp353d7thug6zqx9faw049">
+    <display-name>a9ywp353d7thug6zqx9faw049</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9ywp353d7thug6zqx9faw049_image-header_pEs_1726053007000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="40lyahmw0b92teuhm2qzsb8h8">
+    <display-name>40lyahmw0b92teuhm2qzsb8h8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/40lyahmw0b92teuhm2qzsb8h8_image-header_pEs_1725551099000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20240929093000 +0000" stop="20240929213000 +0000" channel="7atn5svwjrw60p4lj6o65h94a">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7atn5svwjrw60p4lj6o65h94a_image-header_pEs_1727579831000/fill/none/top/none/85/600/360/webp/image"/>
@@ -209,5 +217,17 @@
     <title lang="es">Eagles - Buccaneers</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20240929183000 +0000" stop="20240929230000 +0000" channel="a9ywp353d7thug6zqx9faw049">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9ywp353d7thug6zqx9faw049_image-header_pEs_1726053007000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Atlético de Madrid - Real Madrid</title>
+    <desc lang="es">Narración: Sandra Díaz M.A. Román, Guti, Juanfran, Alberto Edjogo, Sergio Quirante, Ainhoa Pérez | La capital española se paraliza para la disputa del primer derbi madrileño de la temporada, que puedes vivir en DAZN. Un Atlético de Madrid muy renovado e ilusionante recibe a un Real Madrid que quiere asaltar el Metropolitano. ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240929184500 +0000" stop="20240929233000 +0000" channel="40lyahmw0b92teuhm2qzsb8h8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/40lyahmw0b92teuhm2qzsb8h8_image-header_pEs_1725551099000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Napoli - Monza</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Monza y Napoli.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
