@@ -1,2 +1,73 @@
 <?xml version="1.0" ?>
-<tv date="Sun Sep 29 12:43:44 2024"/>
+<tv date="Sun Sep 29 12:46:36 2024">
+  <channel id="7hmsa16tqt4e4wl8wrc550z7e">
+    <display-name>7hmsa16tqt4e4wl8wrc550z7e</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7hmsa16tqt4e4wl8wrc550z7e_image-header_pEs_1727577885000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8xk0h02diie91yncks5zejrez">
+    <display-name>8xk0h02diie91yncks5zejrez</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xk0h02diie91yncks5zejrez_image-header_pEs_1727107731000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7atn5svwjrw60p4lj6o65h94a">
+    <display-name>7atn5svwjrw60p4lj6o65h94a</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7atn5svwjrw60p4lj6o65h94a_image-header_pEs_1727579831000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8vtd9nd7aw8lz7of7oo9rxgtn">
+    <display-name>8vtd9nd7aw8lz7of7oo9rxgtn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8vtd9nd7aw8lz7of7oo9rxgtn_image-header_pEs_1727186681000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="42jdihpbtvrmu0pk492go5tky">
+    <display-name>42jdihpbtvrmu0pk492go5tky</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42jdihpbtvrmu0pk492go5tky_image-header_pEs_1725551099000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eovhuebmswxuoa3yjhybtj3bu">
+    <display-name>eovhuebmswxuoa3yjhybtj3bu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eovhuebmswxuoa3yjhybtj3bu_image-header_pEs_1727580192000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2l9tvddhc7ufhqy5kqb6hrmyo">
+    <display-name>2l9tvddhc7ufhqy5kqb6hrmyo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2l9tvddhc7ufhqy5kqb6hrmyo_image-header_pEs_1726757791000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <programme start="20240929030000 +0000" stop="20240929160000 +0000" channel="7hmsa16tqt4e4wl8wrc550z7e">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7hmsa16tqt4e4wl8wrc550z7e_image-header_pEs_1727577885000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5</title>
+    <desc lang="es">Vive en DAZN el Beijing Open, también conocido como Torneo de Pekín o Abierto de China, y donde compiten las mejores raquetas del circuito WTA.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20240929081500 +0000" stop="20240929154500 +0000" channel="8xk0h02diie91yncks5zejrez">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xk0h02diie91yncks5zejrez_image-header_pEs_1727107731000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Mundiales de ciclismo | Prueba en ruta masculina</title>
+    <desc lang="es">Los Campeonatos Mundiales de Ciclismo en Ruta 2024 en Zúrich se celebran del 22 al 29 de septiembre. El recorrido incluye subidas desafiantes como Kyburg (1,2 km al 12% de pendiente media) y Zürichbergstrasse (1,1 km al 8% de pendiente media).</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20240929093000 +0000" stop="20240929213000 +0000" channel="7atn5svwjrw60p4lj6o65h94a">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7atn5svwjrw60p4lj6o65h94a_image-header_pEs_1727579831000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final: Allemandi-Abud vs. Arce-Lijó</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20240929100000 +0000" stop="20240929130000 +0000" channel="8vtd9nd7aw8lz7of7oo9rxgtn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8vtd9nd7aw8lz7of7oo9rxgtn_image-header_pEs_1727186681000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pallacanestro Trieste - EA7 Emporio Armani Milano</title>
+    <desc lang="es">Vive en DAZN este partido de baloncesto italiano correspondiente a la Lega Basket Serie A entre el Pallacanestro Trieste y el EA7 Emporio Armani Milano.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20240929103000 +0000" stop="20240929140000 +0000" channel="42jdihpbtvrmu0pk492go5tky">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42jdihpbtvrmu0pk492go5tky_image-header_pEs_1725551099000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Lazio</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Torino y Lazio.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20240929103500 +0000" stop="20240929142500 +0000" channel="eovhuebmswxuoa3yjhybtj3bu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eovhuebmswxuoa3yjhybtj3bu_image-header_pEs_1727580192000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tissot Aragon Round | Carrera 2 (Todas las categorías)</title>
+    <desc lang="es">El circuito de Motorland Aragón acoge la décima prueba del Mundial de Superbikes 2024. No te pierdas ningún detalle en DAZN.</desc>
+    <category lang="es">Motor</category>
+  </programme>
+  <programme start="20240929110000 +0000" stop="20240929131500 +0000" channel="2l9tvddhc7ufhqy5kqb6hrmyo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2l9tvddhc7ufhqy5kqb6hrmyo_image-header_pEs_1726757791000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Valencia CF Femenino - Sevilla FC</title>
+    <desc lang="es">Una nueva jornada de Liga Fecha a andar. ¡Disfruta del encuentro entre VCF Femenino y Sevilla FC en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+</tv>
