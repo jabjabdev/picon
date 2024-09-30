@@ -1,2 +1,13 @@
 <?xml version="1.0" ?>
-<tv date="Mon Sep 30 08:58:40 2024"/>
+<tv date="Mon Sep 30 09:00:01 2024">
+  <channel id="5rk78us8wr307f439u8q9224r">
+    <display-name>5rk78us8wr307f439u8q9224r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5rk78us8wr307f439u8q9224r_image-header_pEs_1727262365000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <programme start="20240930030000 +0000" stop="20240930140000 +0000" channel="5rk78us8wr307f439u8q9224r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5rk78us8wr307f439u8q9224r_image-header_pEs_1727262365000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 6</title>
+    <desc lang="es">Vive en DAZN el Beijing Open, también conocido como Torneo de Pekín o Abierto de China, y donde compiten las mejores raquetas del circuito WTA.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+</tv>
