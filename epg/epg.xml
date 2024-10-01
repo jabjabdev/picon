@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Oct 01 12:37:44 2024">
+<tv date="Tue Oct 01 12:37:47 2024">
   <channel id="hv3zjk3deb7o1uzjchrd0rveo">
     <display-name>hv3zjk3deb7o1uzjchrd0rveo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hv3zjk3deb7o1uzjchrd0rveo_image-header_pEs_1727347810000/fill/none/top/none/85/300/180/webp/image"/>
@@ -555,6 +555,10 @@
   <channel id="1xkpruu7bbxpi15xji8tlfkd6w">
     <display-name>1xkpruu7bbxpi15xji8tlfkd6w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1am4s2bce022r19faehyk1lwov">
+    <display-name>1am4s2bce022r19faehyk1lwov</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241001113000 +0000" stop="20241001153000 +0000" channel="hv3zjk3deb7o1uzjchrd0rveo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hv3zjk3deb7o1uzjchrd0rveo_image-header_pEs_1727347810000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1389,5 +1393,11 @@
     <title lang="es">Código MotoGP | Japón</title>
     <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
     <category lang="es">Motor</category>
+  </programme>
+  <programme start="20241012150000 +0000" stop="20241012210000 +0000" channel="1am4s2bce022r19faehyk1lwov">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol</title>
+    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
