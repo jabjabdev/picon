@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Oct 01 09:26:38 2024">
+<tv date="Tue Oct 01 12:37:44 2024">
   <channel id="hv3zjk3deb7o1uzjchrd0rveo">
     <display-name>hv3zjk3deb7o1uzjchrd0rveo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hv3zjk3deb7o1uzjchrd0rveo_image-header_pEs_1727347810000/fill/none/top/none/85/300/180/webp/image"/>
@@ -38,7 +38,7 @@
   </channel>
   <channel id="8pnucc12wg5s0i3f2s4jjv89z">
     <display-name>8pnucc12wg5s0i3f2s4jjv89z</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pnucc12wg5s0i3f2s4jjv89z_image-header_pEs_1727196539000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pnucc12wg5s0i3f2s4jjv89z_image-header_pEs_1727775575000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7wancu4mhovxbmn5sdkkaigg2">
     <display-name>7wancu4mhovxbmn5sdkkaigg2</display-name>
@@ -544,6 +544,10 @@
     <display-name>u1q2jr7lntmjzgn2aw1cf5nk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u1q2jr7lntmjzgn2aw1cf5nk_image-header_pEs_1727492326000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1aw7494s952e41nwe7zwm9jrld">
+    <display-name>1aw7494s952e41nwe7zwm9jrld</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <channel id="3c0o63k6j8ag6xdw275456gag">
     <display-name>3c0o63k6j8ag6xdw275456gag</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/300/180/webp/image"/>
@@ -566,49 +570,49 @@
   </programme>
   <programme start="20241001160000 +0000" stop="20241001193000 +0000" channel="63r2q7khn6nfw4s8c4fjf6h03">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/63r2q7khn6nfw4s8c4fjf6h03_image-header_pEs_1727070280000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">VEF Riga - Bonn</title>
+    <title lang="es">VEF Riga - Telekom Baskets Bonn</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001160000 +0000" stop="20241001193000 +0000" channel="ajmgy1kre1ibr5y4y4n073lyn">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajmgy1kre1ibr5y4y4n073lyn_image-header_pEs_1727196540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">AEK betsson - M Ramat-Gan</title>
+    <title lang="es">AEK Betsson - Maccabi Ramat-Gan</title>
     <desc lang="es">Watch Basketball Champions League Basketball action as AEK takes on Maccabi Ramat Gan.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001163000 +0000" stop="20241001200000 +0000" channel="ehigi12d6zc4xzj87gm1b7lbs">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ehigi12d6zc4xzj87gm1b7lbs_image-header_pEs_1727690332000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Wilki Morskie Szczecin - Petkim Spor</title>
+    <title lang="es">King Szczecin - Aliaga Petkimspor</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre Petkim Spor y Wilki Morskie Szczecin.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001163000 +0000" stop="20241001200000 +0000" channel="emr30hrmt84psg6ipep1pqfkj">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emr30hrmt84psg6ipep1pqfkj_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Würzburg - H. Holon</title>
+    <title lang="es">Wurzburg Baskets - Hapoel Netanel Holon</title>
     <desc lang="es">Watch Basketball Champions League Basketball  action as  Würzburg takes on Hapoel Holon.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001170000 +0000" stop="20241001203000 +0000" channel="2p3jugi5mbkbuvujt9fruwlg7">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2p3jugi5mbkbuvujt9fruwlg7_image-header_pEs_1727196540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Galatasaray - Vechta</title>
+    <title lang="es">Galatasaray - RASTA Vechta</title>
     <desc lang="es">Watch Basketball Champions League Basketball action as Galatasaray takes on Rasta Vechta.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001180000 +0000" stop="20241001213000 +0000" channel="cwiv8q3jpv4awyw3nit7of8dh">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cwiv8q3jpv4awyw3nit7of8dh_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">SQBB - Kolossos</title>
+    <title lang="es">Saint-Quentin - Kolossos H Hotels</title>
     <desc lang="es">Watch Basketball Champions League Basketball action as Saint Quentin takes on Kolossos.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001180000 +0000" stop="20241001213000 +0000" channel="2kr005e5moovvxagaq2875mss">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2kr005e5moovvxagaq2875mss_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Reggiana - Vilnius Rytas</title>
+    <title lang="es">Pallacanestro Reggiana - Rytas Vilnius</title>
     <desc lang="es">Watch Basketball Champions League Basketball action as Reggiana takes on Vilnius Rytas.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241001183000 +0000" stop="20241001220000 +0000" channel="8pnucc12wg5s0i3f2s4jjv89z">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pnucc12wg5s0i3f2s4jjv89z_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Oostende - Unicaja</title>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pnucc12wg5s0i3f2s4jjv89z_image-header_pEs_1727775575000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Filou Oostende - Unicaja</title>
     <desc lang="es">Watch Basketball Champions League Basketball action as Oostende takes on Málaga.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
@@ -644,43 +648,43 @@
   </programme>
   <programme start="20241002160000 +0000" stop="20241002193000 +0000" channel="cpzbvu7tiaryz23zins0e4mmk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cpzbvu7tiaryz23zins0e4mmk_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Promitheas - Nymburk</title>
+    <title lang="es">Promitheas Patras - ERA Nymburk</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002163000 +0000" stop="20241002200000 +0000" channel="5ttbtso2towj9os8svocstrkp">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5ttbtso2towj9os8svocstrkp_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Igokea m:tel - Nanterre</title>
+    <title lang="es">Igokea m:tel - Nanterre 92</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre Igokea y Nanterre 92.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002163000 +0000" stop="20241002200000 +0000" channel="7of67yjyga356vy2zk9m90mr6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7of67yjyga356vy2zk9m90mr6_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Karsiyaka - Tenerife</title>
+    <title lang="es">Pinar Karsiyaka - La Laguna Tenerife</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre Karşıyaka y Tenerife.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002180000 +0000" stop="20241002213000 +0000" channel="458vr27e3559jse1vbnsr68m8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/458vr27e3559jse1vbnsr68m8_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">WKS Slask - Falco Szomb</title>
+    <title lang="es">Slask Wroclaw - Falco Vulcano Szombathely</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre Szombathely y Śląsk Wrocław.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002180000 +0000" stop="20241002213000 +0000" channel="6k6xs7m7m3wftfi4kjejmy0nk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k6xs7m7m3wftfi4kjejmy0nk_image-header_pEs_1727196540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">FMP Beograd - Peristeri</title>
+    <title lang="es">FMP Soccerbet - Peristeri</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre FMP Beograd y Peristeri.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002183000 +0000" stop="20241002220000 +0000" channel="4gc513bg3k6g8im28isj1565d">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gc513bg3k6g8im28isj1565d_image-header_pEs_1727196540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bertram - Chemnitz</title>
+    <title lang="es">Bertram Derthona Tortona - NINERS Chemnitz</title>
     <desc lang="es">Vive el encuentro de Basketball Champions League entre Derthona y Chemnitz 99.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241002184500 +0000" stop="20241002221500 +0000" channel="7sr4bl9lh14e0cmbt0r2i9798">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7sr4bl9lh14e0cmbt0r2i9798_image-header_pEs_1727196539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Manresa - Benfica</title>
+    <title lang="es">BAXI Manresa - SL Benfica</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
@@ -1367,6 +1371,12 @@
     <title lang="es">Día 1</title>
     <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros todos los partidos de la primera jornada del torneo Wuhan Open 2024. ¡No te lo pierdas!</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241007120000 +0000" stop="20241007160000 +0000" channel="1aw7494s952e41nwe7zwm9jrld">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Coppa Bernocchi | 2024</title>
+    <desc lang="es">Es la 105ª edición de la Coppa Bernocchi, clásica italiana que se disputa en Legnano, cerca de Milán, para un veloz recorrido de 174 km -más corto que otros años- en torno a el Valle Olona. El pelotón debe de superar la cota de Caramamma hasta en siete ocasiones, la última vez a catorce kilómetros de la llegada.</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20241007180000 +0000" stop="20241007203000 +0000" channel="3c0o63k6j8ag6xdw275456gag">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/600/360/webp/image"/>
