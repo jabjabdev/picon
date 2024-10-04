@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 04 20:38:02 2024">
+<tv date="Fri Oct 04 20:41:01 2024">
   <channel id="fdud03pxkvw1mnkuqgcgli4h">
     <display-name>fdud03pxkvw1mnkuqgcgli4h</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fdud03pxkvw1mnkuqgcgli4h_image-header_pEs_1726651745000/fill/none/top/none/85/300/180/webp/image"/>
@@ -203,6 +203,10 @@
   <channel id="1pa2uqiv9aojq1dv7l0inqm61w">
     <display-name>1pa2uqiv9aojq1dv7l0inqm61w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pa2uqiv9aojq1dv7l0inqm61w_image-header_pEs_1718030348000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1am4s2bce022r19faehyk1lwov">
+    <display-name>1am4s2bce022r19faehyk1lwov</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241004184500 +0000" stop="20241004223000 +0000" channel="fdud03pxkvw1mnkuqgcgli4h">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fdud03pxkvw1mnkuqgcgli4h_image-header_pEs_1726651745000/fill/none/top/none/85/600/360/webp/image"/>
@@ -509,5 +513,11 @@
     <title lang="es">NASCAR Xfinity Series Race at Talladega | Carrera</title>
     <desc lang="es">La segunda carrera de la ronda de 12 llega al mítico circuito de Talladega. Con 96 vueltas por correr, descubre que piloto se acercará a la clasificación a la siguiente ronda.</desc>
     <category lang="es">Motor</category>
+  </programme>
+  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="1am4s2bce022r19faehyk1lwov">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol</title>
+    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
