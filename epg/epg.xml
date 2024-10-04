@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 04 21:52:02 2024">
+<tv date="Fri Oct 04 21:58:00 2024">
   <channel id="6n4b6jm8px8xzlea9f56d3s44">
     <display-name>6n4b6jm8px8xzlea9f56d3s44</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4k5ne4sgrcx1g464tffxc84d_image-header_pEs_1718020705000/fill/none/top/none/85/300/180/webp/image"/>
@@ -32,6 +32,10 @@
     <display-name>7eye35ctyk1koag0dgxzafg9g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3hmt1fdjtaabcf4yfml2ewso6_image-header_pEs_1726852888000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="bg2wbmywkd30zqtke69vidiqq">
+    <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <channel id="168f0s6ri9b5jnokpgh4brrzx">
     <display-name>168f0s6ri9b5jnokpgh4brrzx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbizkgfwon661052i674n5r9a_image-header_pEs_1727427176000/fill/none/top/none/85/300/180/webp/image"/>
@@ -39,10 +43,6 @@
   <channel id="anr5t8h8zogj215ennykr2yhg">
     <display-name>anr5t8h8zogj215ennykr2yhg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dn1cgi5dm2s1ziytc3lo8qjtn_image-header_pEs_1726835117000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bg2wbmywkd30zqtke69vidiqq">
-    <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="38jivfjjooh0avrgllssyeolw">
     <display-name>38jivfjjooh0avrgllssyeolw</display-name>
@@ -59,6 +59,18 @@
   <channel id="3333jec324rzduxb6ucyhrunx">
     <display-name>3333jec324rzduxb6ucyhrunx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1h7qf0fbys48x9exwvom5wn7h_image-header_pEs_1727787232000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3u7re2sib7xpbiwp8g4qtthrm">
+    <display-name>3u7re2sib7xpbiwp8g4qtthrm</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/293g5b0qd17pag8a9d7rgjphz_image-header_pEs_1718968487000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a6rn1prw8324qrhjcp8eseo7o">
+    <display-name>a6rn1prw8324qrhjcp8eseo7o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/amy7srtrfvt6q6x3hq2ao3iji_image-header_pEs_1725555269000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1j1wqrgswsjybta49gwyyoqhg">
+    <display-name>1j1wqrgswsjybta49gwyyoqhg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/77l4lqnsq8vaqa24lcixpsm4m_image-header_pEs_1727706794000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241004203000 +0000" stop="20241005023000 +0000" channel="6n4b6jm8px8xzlea9f56d3s44">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4k5ne4sgrcx1g464tffxc84d_image-header_pEs_1718020705000/fill/none/top/none/85/600/360/webp/image"/>
@@ -108,6 +120,12 @@
     <desc lang="es">Vive el encuentro de Primera División Femenina entre Athletic Club y Atlético Madrid.</desc>
     <category lang="es">Fútbol</category>
   </programme>
+  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="bg2wbmywkd30zqtke69vidiqq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol</title>
+    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
   <programme start="20241005110000 +0000" stop="20241005150000 +0000" channel="168f0s6ri9b5jnokpgh4brrzx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbizkgfwon661052i674n5r9a_image-header_pEs_1727427176000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">CRO Race | Etapa 5 &amp; Giro dell'Emilia</title>
@@ -119,12 +137,6 @@
     <title lang="es">Crystal Palace - Liverpool</title>
     <desc lang="es">Vive el encuentro de Premier League entre Crystal Palace y Liverpool.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="bg2wbmywkd30zqtke69vidiqq">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Beterbiev vs. Bivol</title>
-    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20241005120000 +0000" stop="20241005143000 +0000" channel="38jivfjjooh0avrgllssyeolw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c95f1ibctienropy1gztepslg_image-header_pEs_1727335519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -149,5 +161,23 @@
     <title lang="es">Daniel Rodriguez vs. Pavel Hryshanovich</title>
     <desc lang="es">Vive el encuentro de Rajadamnern World Series Muay Thai entre Daniel Rodriguez y Pavel Hryshanovich.</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241005125000 +0000" stop="20241005185000 +0000" channel="3u7re2sib7xpbiwp8g4qtthrm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/293g5b0qd17pag8a9d7rgjphz_image-header_pEs_1718968487000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Monza | Carrera 1</title>
+    <desc lang="es">Disfruta del mejor motor en DAZN y vive con nosotros la primera carrera de la Italian Formula 4 Championship que tiene lugar en el circuito de Monza. ¡No te lo pierdas!</desc>
+    <category lang="es">Motor</category>
+  </programme>
+  <programme start="20241005130000 +0000" stop="20241005153000 +0000" channel="a6rn1prw8324qrhjcp8eseo7o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/amy7srtrfvt6q6x3hq2ao3iji_image-header_pEs_1725555269000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Udinese - Lecce</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Udinese y Lecce.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241005130000 +0000" stop="20241005153000 +0000" channel="1j1wqrgswsjybta49gwyyoqhg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/77l4lqnsq8vaqa24lcixpsm4m_image-header_pEs_1727706794000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - AS Roma</title>
+    <desc lang="es">Vive el encuentro de Serie A Femminile entre Inter - AS Roma.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
