@@ -1,17 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 04 18:58:04 2024">
-  <channel id="6s7hfizjlnds05eavoydwt9ox">
-    <display-name>6s7hfizjlnds05eavoydwt9ox</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6s7hfizjlnds05eavoydwt9ox_image-header_pEs_1727101028000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b2g0ncjvrzq1s270cabmitkx9">
-    <display-name>b2g0ncjvrzq1s270cabmitkx9</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2g0ncjvrzq1s270cabmitkx9_image-header_pEs_1726354539000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9r297ombdszdgf7jlronzz4mr">
-    <display-name>9r297ombdszdgf7jlronzz4mr</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9r297ombdszdgf7jlronzz4mr_image-header_pEs_1727450960000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Fri Oct 04 19:32:01 2024">
   <channel id="d84dyt02bjn6p11ju439pekfj">
     <display-name>d84dyt02bjn6p11ju439pekfj</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d84dyt02bjn6p11ju439pekfj_image-header_pEs_1724081930000/fill/none/top/none/85/300/180/webp/image"/>
@@ -236,24 +224,6 @@
     <display-name>1pa2uqiv9aojq1dv7l0inqm61w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pa2uqiv9aojq1dv7l0inqm61w_image-header_pEs_1718030348000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241004170000 +0000" stop="20241004191500 +0000" channel="6s7hfizjlnds05eavoydwt9ox">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6s7hfizjlnds05eavoydwt9ox_image-header_pEs_1727101028000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Real Madrid - Valencia CF Femenino</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Madrid y Valencia.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241004170000 +0000" stop="20241004191500 +0000" channel="b2g0ncjvrzq1s270cabmitkx9">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2g0ncjvrzq1s270cabmitkx9_image-header_pEs_1726354539000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Al Shabab - Al Hilal</title>
-    <desc lang="es">Vive el encuentro de Women’s Premier League entre Al Hilal y Al Shabab.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241004173000 +0000" stop="20241004233000 +0000" channel="9r297ombdszdgf7jlronzz4mr">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9r297ombdszdgf7jlronzz4mr_image-header_pEs_1727450960000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Matty McHale vs. Selenzi Anwary Twaha</title>
-    <desc lang="es">Disfruta de una nueva velada de boxeo en DAZN. Matty McHale (6-0) se enfrenta a Selenzi Anwary Twaha (9-0) en un combate entre dos púgiles invictos que encabeza la cartelera de Conlan Boxing en el Playsport Arena, ubicado en la localidad escocesa de East Kilbride.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20241004180000 +0000" stop="20241005000000 +0000" channel="d84dyt02bjn6p11ju439pekfj">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d84dyt02bjn6p11ju439pekfj_image-header_pEs_1724081930000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Muhammed Waseem vs. Sabelo Cebekhulu</title>
