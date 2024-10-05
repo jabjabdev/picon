@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Oct 05 06:01:02 2024">
+<tv date="Sat Oct 05 06:09:01 2024">
   <channel id="2kx7ypjhm1phsqyrqqxg80zib">
     <display-name>2kx7ypjhm1phsqyrqqxg80zib</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f3e2cpesylf6v0nsyibbotzyi_image-header_pEs_1717865773000/fill/none/top/none/85/300/180/webp/image"/>
@@ -399,6 +399,10 @@
   <channel id="au6u8m0twwfasngimksmkveac">
     <display-name>au6u8m0twwfasngimksmkveac</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t4k5gtrqxhpc1vh7wnm55f333_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bg2wbmywkd30zqtke69vidiqq">
+    <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241005051500 +0000" stop="20241005111500 +0000" channel="2kx7ypjhm1phsqyrqqxg80zib">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f3e2cpesylf6v0nsyibbotzyi_image-header_pEs_1717865773000/fill/none/top/none/85/600/360/webp/image"/>
@@ -999,5 +1003,11 @@
     <title lang="es">Giants @ Seahawks</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="bg2wbmywkd30zqtke69vidiqq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol</title>
+    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
