@@ -1,41 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Oct 05 20:33:01 2024">
-  <channel id="a4uqxhkgh1icp6f25nims8pas">
-    <display-name>a4uqxhkgh1icp6f25nims8pas</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6msvv81hd8ippinsp1v475jvt_image-header_pEs_1726651746000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bg2wbmywkd30zqtke69vidiqq">
-    <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="caylftd9il97x7g9ug1nz5ncv">
-    <display-name>caylftd9il97x7g9ug1nz5ncv</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ct4zgfhaho2l1awfivupd00pn_image-header_pRow_1727721310000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9yse4yubj3f1rbfvn6av27rpw">
-    <display-name>9yse4yubj3f1rbfvn6av27rpw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3hx1ysqwgld1kbii0yktnf2fn_image-header_pEs_1727431928000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="a3sy21laa2yjm0gjmfjfjtvys">
-    <display-name>a3sy21laa2yjm0gjmfjfjtvys</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3o6dwxakmafrgblxv2m6q5w0q_image-header_pEs_1726124135000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7z3zdr05waom7ycxqf3u8ppjj">
-    <display-name>7z3zdr05waom7ycxqf3u8ppjj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4j788i1vm6d7vril1ph3s70n_image-header_pEs_1725359799000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4ltkel2xnk1iv5chynk7983t1">
-    <display-name>4ltkel2xnk1iv5chynk7983t1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pa2uqiv9aojq1dv7l0inqm61w_image-header_pEs_1718030348000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5jlbsp4jivpbemh7oyoxpmkrg">
-    <display-name>5jlbsp4jivpbemh7oyoxpmkrg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/acmxaqhegtx730vvthzaqkds1_image-header_pEs_1728030800000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9ntcwnf033096o9k86y7kub8u">
-    <display-name>9ntcwnf033096o9k86y7kub8u</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/91jzzngj5if973dbu5dba3b7o_image-header_pEs_1718281493000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Oct 06 09:11:01 2024">
   <channel id="7fdmmwk9yjtjmqu22bkt3hafo">
     <display-name>7fdmmwk9yjtjmqu22bkt3hafo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahkbmefglbhqtlrqicrgezctx_image-header_pEs_1726852889000/fill/none/top/none/85/300/180/webp/image"/>
@@ -240,60 +204,30 @@
     <display-name>au6u8m0twwfasngimksmkveac</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t4k5gtrqxhpc1vh7wnm55f333_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241005184500 +0000" stop="20241005210000 +0000" channel="a4uqxhkgh1icp6f25nims8pas">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6msvv81hd8ippinsp1v475jvt_image-header_pEs_1726651746000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Inter - Torino</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Internazionale y Torino.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="bg2wbmywkd30zqtke69vidiqq">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Beterbiev vs. Bivol</title>
-    <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="caylftd9il97x7g9ug1nz5ncv">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ct4zgfhaho2l1awfivupd00pn_image-header_pRow_1727721310000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">IV Crown Showdown: Beterbiev vs. Bivol</title>
-    <desc lang="es">Artur Beterbiev and Dmitry Bivol lock horns in Riyadh, Saudi Arabia, to decide the undisputed light-heavyweight champion.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241005190000 +0000" stop="20241005213000 +0000" channel="9yse4yubj3f1rbfvn6av27rpw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3hx1ysqwgld1kbii0yktnf2fn_image-header_pEs_1727431928000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">CD Tenerife - FC Cartagena</title>
-    <desc lang="es">Vive el encuentro de Segunda División entre FC Cartagena y Tenerife.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241005190000 +0000" stop="20241005213000 +0000" channel="a3sy21laa2yjm0gjmfjfjtvys">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3o6dwxakmafrgblxv2m6q5w0q_image-header_pEs_1726124135000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Olympique Lyonnais - Montpellier</title>
-    <desc lang="es">Vive el encuentro de Premiére Ligue entre Olympique Lyonnais y Montpellier.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241005193000 +0000" stop="20241006013000 +0000" channel="7z3zdr05waom7ycxqf3u8ppjj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4j788i1vm6d7vril1ph3s70n_image-header_pEs_1725359799000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">AFL36 | Móstoles</title>
-    <desc lang="es">Disfruta de las mejores artes mixtas en DAZN y vive con nosotros un nuevo evento de esta competición en Móstoles. ¡No te lo pierdas!</desc>
-    <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241005200000 +0000" stop="20241006020000 +0000" channel="4ltkel2xnk1iv5chynk7983t1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pa2uqiv9aojq1dv7l0inqm61w_image-header_pEs_1718030348000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NASCAR Xfinity Series Race at Talladega | Carrera</title>
-    <desc lang="es">La segunda carrera de la ronda de 12 llega al mítico circuito de Talladega. Con 96 vueltas por correr, descubre que piloto se acercará a la clasificación a la siguiente ronda.</desc>
-    <category lang="es">Motor</category>
-  </programme>
-  <programme start="20241006003500 +0000" stop="20241006063500 +0000" channel="5jlbsp4jivpbemh7oyoxpmkrg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/acmxaqhegtx730vvthzaqkds1_image-header_pEs_1728030800000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Motul de Japón | Domingo de carreras</title>
-    <desc lang="es">La gira asiática promete ser casi decisiva para las aspiraciones de Jorge Martin y Pecco Bagnaia para alcanzar el campeonato de MotoGP. La pista del Mobility Resort de Motegi es siempre un duro escollo para los pilotos y cualquier pequeño error puede ser fatal. Disfruta de la recta final del mundial en DAZN.</desc>
-    <category lang="es">Motor</category>
-  </programme>
-  <programme start="20241006064000 +0000" stop="20241006124000 +0000" channel="9ntcwnf033096o9k86y7kub8u">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/91jzzngj5if973dbu5dba3b7o_image-header_pEs_1718281493000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Monza | Carrera 2</title>
-    <desc lang="es">Disfruta del mejor motor en DAZN y vive con nosotros la segunda carrera de la Italian Formula 4 Championship que tiene lugar en el circuito de Monza. ¡No te lo pierdas!</desc>
-    <category lang="es">Motor</category>
-  </programme>
+  <channel id="awyx97odjgn0xqilcl9kshm38">
+    <display-name>awyx97odjgn0xqilcl9kshm38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nqc7cqse9qp417hgl8p5xn7ui_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="s5i1v7w6mxxhm6h8qeaheomr">
+    <display-name>s5i1v7w6mxxhm6h8qeaheomr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u1q2jr7lntmjzgn2aw1cf5nk_image-header_pEs_1727492326000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ct4jh9a37mzqm6xo6yj9y1bip">
+    <display-name>ct4jh9a37mzqm6xo6yj9y1bip</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="399lkbrlazcd9u9j49vx8pv6c">
+    <display-name>399lkbrlazcd9u9j49vx8pv6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2wm8bepef0v1317earu7d27_image-header_pEs_1727335355000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bg1cajr7z8fxykc52nso1un7p">
+    <display-name>bg1cajr7z8fxykc52nso1un7p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8qfccc7lvwkjjsx6c8yodg04v">
+    <display-name>8qfccc7lvwkjjsx6c8yodg04v</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241006100000 +0000" stop="20241006123000 +0000" channel="7fdmmwk9yjtjmqu22bkt3hafo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahkbmefglbhqtlrqicrgezctx_image-header_pEs_1726852889000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Granada FC - Real Sociedad</title>
@@ -440,7 +374,7 @@
   </programme>
   <programme start="20241006160000 +0000" stop="20241006183000 +0000" channel="a60145aty2s656bfdxe6luc5w">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ly8sx47ersfb7f4gyoa3dx9h_image-header_pEs_1726651746000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Monza - Roma</title>
+    <title lang="es">Monza - AS Roma</title>
     <desc lang="es">Vive el encuentro de Serie A entre Roma y Monza.</desc>
     <category lang="es">Fútbol</category>
   </programme>
@@ -599,5 +533,41 @@
     <title lang="es">Giants @ Seahawks</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241006230000 +0000" stop="20241007030000 +0000" channel="awyx97odjgn0xqilcl9kshm38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nqc7cqse9qp417hgl8p5xn7ui_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cowboys @ Steelers</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241007030000 +0000" stop="20241007090000 +0000" channel="s5i1v7w6mxxhm6h8qeaheomr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u1q2jr7lntmjzgn2aw1cf5nk_image-header_pEs_1727492326000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 1</title>
+    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros todos los partidos de la primera jornada del torneo Wuhan Open 2024. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241007120000 +0000" stop="20241007160000 +0000" channel="ct4jh9a37mzqm6xo6yj9y1bip">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Coppa Bernocchi | 2024</title>
+    <desc lang="es">Es la 105ª edición de la Coppa Bernocchi, clásica italiana que se disputa en Legnano, cerca de Milán, para un veloz recorrido de 174 km -más corto que otros años- en torno a el Valle Olona. El pelotón debe de superar la cota de Caramamma hasta en siete ocasiones, la última vez a catorce kilómetros de la llegada.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241007160000 +0000" stop="20241007183000 +0000" channel="399lkbrlazcd9u9j49vx8pv6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2wm8bepef0v1317earu7d27_image-header_pEs_1727335355000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayer Leverkusen - Carl Zeiss Jena</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Bayer Leverkusen y Carl Zeiss Jena.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241007180000 +0000" stop="20241007203000 +0000" channel="bg1cajr7z8fxykc52nso1un7p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 | Jornada 9</title>
+    <desc lang="es">Revive lo mejor de la novena jornada de LALIGA EA SPORTS de la mano de Sergio Quirante y Javi Valle.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241007183000 +0000" stop="20241008003000 +0000" channel="8qfccc7lvwkjjsx6c8yodg04v">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP | Japón</title>
+    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
+    <category lang="es">Motor</category>
   </programme>
 </tv>
