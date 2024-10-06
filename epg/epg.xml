@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 06 23:20:38 2024">
+<tv date="Sun Oct 06 23:34:15 2024">
+  <channel id="2l0s99yulx0lolokhyvrw1ajv">
+    <display-name>2l0s99yulx0lolokhyvrw1ajv</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jw7ic4xdf28w1di955ux4jzdr_image-header_pEs_1724360971000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <channel id="f5hwv1difdfk71jigmg8pzpqs">
     <display-name>f5hwv1difdfk71jigmg8pzpqs</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q3um6b72ir0r1y2fqs7s5wies_image-header_pEs_1718016841000/fill/none/top/none/85/300/180/webp/image"/>
@@ -8,6 +12,32 @@
     <display-name>6dtjx87yffxl5ac75q3k13pqs</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ci32gbce4mnk0vf8f01tjrnqm_image-header_pEs_1727354551000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="alq5nm56v6szd1gry504kof10">
+    <display-name>alq5nm56v6szd1gry504kof10</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1smp8bqpyyevh138ghaetrdsel_image-header_pEs_1713281895000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aokuuqlj98jzrfupb6btqc5qs">
+    <display-name>aokuuqlj98jzrfupb6btqc5qs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wlor4zhm8yk913i8fidrv7hy1_image-header_pEs_1713282202000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="13e1ammmggcwh2ywjs9921dz">
+    <display-name>13e1ammmggcwh2ywjs9921dz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eo7sqdtmygst1u2tkurohg8ax_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="are7s4uzgkvox1ozzxa8a0oic">
+    <display-name>are7s4uzgkvox1ozzxa8a0oic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kthh81dpsbzh1od8rzgr7fiwl_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="au6u8m0twwfasngimksmkveac">
+    <display-name>au6u8m0twwfasngimksmkveac</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q8ova4z3j5tf125rh9ui6pc5t_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <programme start="20241006170000 +0000" stop="20241007010000 +0000" channel="2l0s99yulx0lolokhyvrw1ajv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jw7ic4xdf28w1di955ux4jzdr_image-header_pEs_1724360971000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RedZone | Semana 5</title>
+    <desc lang="es">No te pierdas ni un solo touchdown de la mano de Scott Hanson durante siete horas de fútbol americano de la NFL.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
   <programme start="20241006180000 +0000" stop="20241006221500 +0000" channel="f5hwv1difdfk71jigmg8pzpqs">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q3um6b72ir0r1y2fqs7s5wies_image-header_pEs_1718016841000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">YellaWood 500 | Carrera</title>
@@ -19,5 +49,35 @@
     <title lang="es">Real Sociedad - Atlético de Madrid</title>
     <desc lang="es">Narración: Guille Moreno, López Rekarte, Juanfran y Pablo Pinto / Euskara:Jokin Goikoetxea</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241006200500 +0000" stop="20241007000500 +0000" channel="alq5nm56v6szd1gry504kof10">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1smp8bqpyyevh138ghaetrdsel_image-header_pEs_1713281895000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Raiders - Broncos</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241006200500 +0000" stop="20241007000500 +0000" channel="aokuuqlj98jzrfupb6btqc5qs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wlor4zhm8yk913i8fidrv7hy1_image-header_pEs_1713282202000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cardinals - 49ers</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241006202500 +0000" stop="20241007002500 +0000" channel="13e1ammmggcwh2ywjs9921dz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eo7sqdtmygst1u2tkurohg8ax_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Packers @ Rams (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241006202500 +0000" stop="20241007002500 +0000" channel="are7s4uzgkvox1ozzxa8a0oic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kthh81dpsbzh1od8rzgr7fiwl_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Packers - Rams</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241006202500 +0000" stop="20241007002500 +0000" channel="au6u8m0twwfasngimksmkveac">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q8ova4z3j5tf125rh9ui6pc5t_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Giants - Seahawks</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
