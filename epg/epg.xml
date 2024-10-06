@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 06 12:34:05 2024">
+<tv date="Sun Oct 06 12:50:06 2024">
   <channel id="1i55skefs3s06wrvz3kvf68id">
     <display-name>1i55skefs3s06wrvz3kvf68id</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a3svb3o6gbys1dxc1jjke2czv_image-header_pEs_1727429484000/fill/none/top/none/85/300/180/webp/image"/>
@@ -215,6 +215,18 @@
   <channel id="8qfccc7lvwkjjsx6c8yodg04v">
     <display-name>8qfccc7lvwkjjsx6c8yodg04v</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7fdmmwk9yjtjmqu22bkt3hafo">
+    <display-name>7fdmmwk9yjtjmqu22bkt3hafo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5up4ffa7btxeon5ucobvm774m_image-header_pEs_1726852889000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7g9t0y1miw31yi74qcx2lh638">
+    <display-name>7g9t0y1miw31yi74qcx2lh638</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961ysr1kjlcwn09izvwqxlpid_image-header_pEs_1726852889000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a58jkzc48yw1d7tvd3jytkt90">
+    <display-name>a58jkzc48yw1d7tvd3jytkt90</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bm1czgskee47ept2w0hg5vkxv_image-header_pEs_1726651746000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241006110000 +0000" stop="20241006150000 +0000" channel="1i55skefs3s06wrvz3kvf68id">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a3svb3o6gbys1dxc1jjke2czv_image-header_pEs_1727429484000/fill/none/top/none/85/600/360/webp/image"/>
@@ -539,5 +551,23 @@
     <title lang="es">Código MotoGP | Japón</title>
     <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
     <category lang="es">Deportes Motor</category>
+  </programme>
+  <programme start="20241006100000 +0000" stop="20241006121500 +0000" channel="7fdmmwk9yjtjmqu22bkt3hafo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5up4ffa7btxeon5ucobvm774m_image-header_pEs_1726852889000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Granada FC - Real Sociedad</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Granada FC - Real Sociedad.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241006100000 +0000" stop="20241006121500 +0000" channel="7g9t0y1miw31yi74qcx2lh638">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961ysr1kjlcwn09izvwqxlpid_image-header_pEs_1726852889000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Betis Féminas - Costa Adeje Tenerife</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Betis Féminas - Costa Adeje Tenerife.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241006103000 +0000" stop="20241006124500 +0000" channel="a58jkzc48yw1d7tvd3jytkt90">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bm1czgskee47ept2w0hg5vkxv_image-header_pEs_1726651746000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Juventus - Cagliari</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Juventus y Cagliari.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
