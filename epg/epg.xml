@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 06 09:11:01 2024">
-  <channel id="7fdmmwk9yjtjmqu22bkt3hafo">
-    <display-name>7fdmmwk9yjtjmqu22bkt3hafo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahkbmefglbhqtlrqicrgezctx_image-header_pEs_1726852889000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7g9t0y1miw31yi74qcx2lh638">
-    <display-name>7g9t0y1miw31yi74qcx2lh638</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aw4b1hmbtfxgxd1lm8wfswoxq_image-header_pEs_1726852889000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Oct 06 12:04:01 2024">
   <channel id="a58jkzc48yw1d7tvd3jytkt90">
     <display-name>a58jkzc48yw1d7tvd3jytkt90</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54ccabi2pc78ll9ycdgrxjiw7_image-header_pEs_1726651746000/fill/none/top/none/85/300/180/webp/image"/>
@@ -228,18 +220,6 @@
     <display-name>8qfccc7lvwkjjsx6c8yodg04v</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241006100000 +0000" stop="20241006123000 +0000" channel="7fdmmwk9yjtjmqu22bkt3hafo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahkbmefglbhqtlrqicrgezctx_image-header_pEs_1726852889000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Granada FC - Real Sociedad</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Granada FC - Real Sociedad.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241006100000 +0000" stop="20241006123000 +0000" channel="7g9t0y1miw31yi74qcx2lh638">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aw4b1hmbtfxgxd1lm8wfswoxq_image-header_pEs_1726852889000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Real Betis Féminas - Costa Adeje Tenerife</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Betis Féminas - Costa Adeje Tenerife.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20241006103000 +0000" stop="20241006130000 +0000" channel="a58jkzc48yw1d7tvd3jytkt90">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54ccabi2pc78ll9ycdgrxjiw7_image-header_pEs_1726651746000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Juventus - Cagliari</title>
