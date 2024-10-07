@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 06 23:46:07 2024">
+<tv date="Mon Oct 07 02:13:20 2024">
   <channel id="2l0s99yulx0lolokhyvrw1ajv">
     <display-name>2l0s99yulx0lolokhyvrw1ajv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jw7ic4xdf28w1di955ux4jzdr_image-header_pEs_1724360971000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="f5hwv1difdfk71jigmg8pzpqs">
-    <display-name>f5hwv1difdfk71jigmg8pzpqs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q3um6b72ir0r1y2fqs7s5wies_image-header_pEs_1718016841000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6dtjx87yffxl5ac75q3k13pqs">
     <display-name>6dtjx87yffxl5ac75q3k13pqs</display-name>
@@ -32,17 +28,35 @@
     <display-name>au6u8m0twwfasngimksmkveac</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q8ova4z3j5tf125rh9ui6pc5t_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="awyx97odjgn0xqilcl9kshm38">
+    <display-name>awyx97odjgn0xqilcl9kshm38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1859fmfwb88kq1hcs93uy1f6xp_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="s5i1v7w6mxxhm6h8qeaheomr">
+    <display-name>s5i1v7w6mxxhm6h8qeaheomr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u1q2jr7lntmjzgn2aw1cf5nk_image-header_pEs_1727492326000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ct4jh9a37mzqm6xo6yj9y1bip">
+    <display-name>ct4jh9a37mzqm6xo6yj9y1bip</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="399lkbrlazcd9u9j49vx8pv6c">
+    <display-name>399lkbrlazcd9u9j49vx8pv6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2wm8bepef0v1317earu7d27_image-header_pEs_1727335355000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bg1cajr7z8fxykc52nso1un7p">
+    <display-name>bg1cajr7z8fxykc52nso1un7p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8qfccc7lvwkjjsx6c8yodg04v">
+    <display-name>8qfccc7lvwkjjsx6c8yodg04v</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241006170000 +0000" stop="20241007010000 +0000" channel="2l0s99yulx0lolokhyvrw1ajv">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jw7ic4xdf28w1di955ux4jzdr_image-header_pEs_1724360971000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RedZone | Semana 5</title>
     <desc lang="es">No te pierdas ni un solo touchdown de la mano de Scott Hanson durante siete horas de fútbol americano de la NFL.</desc>
     <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241006180000 +0000" stop="20241006221500 +0000" channel="f5hwv1difdfk71jigmg8pzpqs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q3um6b72ir0r1y2fqs7s5wies_image-header_pEs_1718016841000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">YellaWood 500 | Carrera</title>
-    <desc lang="es">La segunda carrera de la ronda de 16 llega al mítico circuito de Talladega. 500 millas en 188 vueltas acercan a los pilotos a la siguiente ronda.</desc>
-    <category lang="es">Deportes Motor</category>
   </programme>
   <programme start="20241006190000 +0000" stop="20241006223000 +0000" channel="6dtjx87yffxl5ac75q3k13pqs">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ci32gbce4mnk0vf8f01tjrnqm_image-header_pEs_1727354551000/fill/none/top/none/85/600/360/webp/image"/>
@@ -79,5 +93,41 @@
     <title lang="es">Giants - Seahawks</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241007002000 +0000" stop="20241007042000 +0000" channel="awyx97odjgn0xqilcl9kshm38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1859fmfwb88kq1hcs93uy1f6xp_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cowboys - Steelers</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241007030000 +0000" stop="20241007090000 +0000" channel="s5i1v7w6mxxhm6h8qeaheomr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u1q2jr7lntmjzgn2aw1cf5nk_image-header_pEs_1727492326000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 1</title>
+    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros todos los partidos de la primera jornada del torneo Wuhan Open 2024. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241007120000 +0000" stop="20241007160000 +0000" channel="ct4jh9a37mzqm6xo6yj9y1bip">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aw7494s952e41nwe7zwm9jrld_image-header_pEs_1727774365000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Coppa Bernocchi | 2024</title>
+    <desc lang="es">Es la 105ª edición de la Coppa Bernocchi, clásica italiana que se disputa en Legnano, cerca de Milán, para un veloz recorrido de 174 km -más corto que otros años- en torno a el Valle Olona. El pelotón debe de superar la cota de Caramamma hasta en siete ocasiones, la última vez a catorce kilómetros de la llegada.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241007160000 +0000" stop="20241007183000 +0000" channel="399lkbrlazcd9u9j49vx8pv6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2wm8bepef0v1317earu7d27_image-header_pEs_1727335355000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayer Leverkusen - Carl Zeiss Jena</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Bayer Leverkusen y Carl Zeiss Jena.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241007180000 +0000" stop="20241007203000 +0000" channel="bg1cajr7z8fxykc52nso1un7p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c0o63k6j8ag6xdw275456gag_image-header_pEs_1727077802000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 | Jornada 9</title>
+    <desc lang="es">Revive lo mejor de la novena jornada de LALIGA EA SPORTS de la mano de Sergio Quirante y Javi Valle.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241007183000 +0000" stop="20241008003000 +0000" channel="8qfccc7lvwkjjsx6c8yodg04v">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xkpruu7bbxpi15xji8tlfkd6w_image-header_pEs_1721216300000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP | Japón</title>
+    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
+    <category lang="es">Deportes Motor</category>
   </programme>
 </tv>
