@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 09 14:50:04 2024">
+<tv date="Wed Oct 09 16:52:48 2024">
   <channel id="bg2wbmywkd30zqtke69vidiqq">
     <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9y0nxrl1ckigup1esm8alpevy">
-    <display-name>9y0nxrl1ckigup1esm8alpevy</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1n6oii3ct5s031ramisn6mh9bf_image-header_pEs_1726643616000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="b42nzp2j6ryd4ah280ajgw6qc">
     <display-name>b42nzp2j6ryd4ah280ajgw6qc</display-name>
@@ -412,17 +408,15 @@
     <display-name>b0up2ei0o8q85t7jfnpmnnli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/45kv2srn086jhi5i7p8s5vpbn_image-header_pUs_1728026617000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="63g8myygh6z37mtvu9ap2xqet">
+    <display-name>63g8myygh6z37mtvu9ap2xqet</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eoea1wtdq5shg749sqkdh75m8_image-header_pUs_1728484545000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241012160000 +0000" stop="20241012220000 +0000" channel="bg2wbmywkd30zqtke69vidiqq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Beterbiev vs. Bivol</title>
     <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241009080000 +0000" stop="20241009140000 +0000" channel="9y0nxrl1ckigup1esm8alpevy">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1n6oii3ct5s031ramisn6mh9bf_image-header_pEs_1726643616000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Decoded - Marc Márquez</title>
-    <desc lang="es">En esta nueva entrega de Decoded, analizamos a Marc Márquez, uno de los grandes pilotos de la historia del Mundial de MotoGP. ¡Disponible a partir del 9 de octubre en DAZN!</desc>
-    <category lang="es">Motor</category>
   </programme>
   <programme start="20241009164500 +0000" stop="20241009191500 +0000" channel="b42nzp2j6ryd4ah280ajgw6qc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c6e5v780n0n388086pc32mk6_image-header_pEs_1727939896000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1029,5 +1023,11 @@
     <title lang="es">Rivera vs. Beltran (en Espanol)</title>
     <desc lang="es">Most Valuable Prospects 9 está encabezado por una batalla entre dos peleadores invictos, cuando Jan Paul Rivera (10-0) se enfrenta a Andy Beltrán (8-0) en Caguas, Puerto Rico.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241010130000 +0000" stop="20241010190000 +0000" channel="63g8myygh6z37mtvu9ap2xqet">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eoea1wtdq5shg749sqkdh75m8_image-header_pUs_1728484545000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">BKFC Marbella - Press Conference</title>
+    <desc lang="es">Mira toda la acción más reciente de BKFC Marbella.</desc>
+    <category lang="es">Bare Knuckle</category>
   </programme>
 </tv>
