@@ -1,16 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 09 16:52:48 2024">
+<tv date="Wed Oct 09 23:03:28 2024">
   <channel id="bg2wbmywkd30zqtke69vidiqq">
     <display-name>bg2wbmywkd30zqtke69vidiqq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1am4s2bce022r19faehyk1lwov_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b42nzp2j6ryd4ah280ajgw6qc">
-    <display-name>b42nzp2j6ryd4ah280ajgw6qc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c6e5v780n0n388086pc32mk6_image-header_pEs_1727939896000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="pvbpty7voy3vi8hhqluoaqs4">
-    <display-name>pvbpty7voy3vi8hhqluoaqs4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/depfn759tntnut8m91wr4hjke_image-header_pEs_1727938084000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6q5y3xinn1tcdl8kc9q0tyz10">
     <display-name>6q5y3xinn1tcdl8kc9q0tyz10</display-name>
@@ -332,10 +324,6 @@
     <display-name>304shi2pdxweesa1mwggnjw3w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vxcvysz8atm09otz8a2g5gar_image-header_pUs_1728036613000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="bmv280e52hx99d3ilj465s28">
-    <display-name>bmv280e52hx99d3ilj465s28</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a7abog2o9rawrfdtxyjsdppe4_image-header_pEs_1728467881000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cw2zwz299qt5kb85fca2esek6">
     <display-name>cw2zwz299qt5kb85fca2esek6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8bq8xnslucq3wgobkh6wxt067_image-header_pEs_1728457033000/fill/none/top/none/85/300/180/webp/image"/>
@@ -417,18 +405,6 @@
     <title lang="es">Beterbiev vs. Bivol</title>
     <desc lang="es">Artur Beterbiev y Dmitry Bivol se enfrentarán en Riyadh, Arabia Saudí, para decidir el campeón indiscutible del peso semipesado.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241009164500 +0000" stop="20241009191500 +0000" channel="b42nzp2j6ryd4ah280ajgw6qc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c6e5v780n0n388086pc32mk6_image-header_pEs_1727939896000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hammarby - St.Pölten</title>
-    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre St. Pölten y Hammarby.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241009164500 +0000" stop="20241009191500 +0000" channel="pvbpty7voy3vi8hhqluoaqs4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/depfn759tntnut8m91wr4hjke_image-header_pEs_1727938084000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bayern München - Arsenal</title>
-    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Arsenal y Bayern München.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241009175500 +0000" stop="20241009235500 +0000" channel="6q5y3xinn1tcdl8kc9q0tyz10">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7owyfu70fj16hxcm53bt4a8e6_image-header_pEs_1727962593000/fill/none/top/none/85/600/360/webp/image"/>
@@ -909,12 +885,6 @@
     <title lang="es">IV Crown Showdown Undercard</title>
     <desc lang="es">La temporada de Riyadh alberga otra noche de boxeo de gran éxito, incluida la muy esperada revancha de peso pesado entre Fabio Wardley y Frazer Clarke. Los campeones mundiales Jai Opetaia y Skye Nicolson, y Chris Eubank Jr., también están en una cartelera apilada.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241009030000 +0000" stop="20241009160000 +0000" channel="bmv280e52hx99d3ilj465s28">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a7abog2o9rawrfdtxyjsdppe4_image-header_pEs_1728467881000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 3</title>
-    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros todos los partidos de la tercera jornada del torneo Wuhan Open 2024. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20241009200000 +0000" stop="20241010020000 +0000" channel="cw2zwz299qt5kb85fca2esek6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8bq8xnslucq3wgobkh6wxt067_image-header_pEs_1728457033000/fill/none/top/none/85/600/360/webp/image"/>
