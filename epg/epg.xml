@@ -1,24 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Thu Oct 17 08:18:23 2024">
+<tv date="Thu Oct 17 16:00:55 2024">
   <channel id="89zb5j81ulprwhic37my5igli">
     <display-name>89zb5j81ulprwhic37my5igli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9a83wjw0ildoxdh8xg2wdl7ym">
-    <display-name>9a83wjw0ildoxdh8xg2wdl7ym</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5czzk4orbhc14uzmz1zs5noao_image-header_pEs_1727686338000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="eegfr3sl2hssnir87yzb41y8x">
-    <display-name>eegfr3sl2hssnir87yzb41y8x</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3uziud6uj9ahc8qaj7t7jy2na_image-header_pEs_1728321581000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dvdigz63ced77xgvoermobnmv">
-    <display-name>dvdigz63ced77xgvoermobnmv</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kd91mby43ecvjabrq98p245p_image-header_pEs_1720509755000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="a3149c1j1hx0e0m2usirm8ph9">
-    <display-name>a3149c1j1hx0e0m2usirm8ph9</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eazg8x1lmaax70z79qjaurncf_image-header_pEs_1724145292000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5wh3tztv0e45hxwn71canbqm5">
     <display-name>5wh3tztv0e45hxwn71canbqm5</display-name>
@@ -680,35 +664,19 @@
     <display-name>7zqih65gogqj4xhlruyy49mhg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7w6bhqlgxnhgbu0lnucdt5c5a_image-header_pEs_1727906239000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="dvdigz63ced77xgvoermobnmv">
+    <display-name>dvdigz63ced77xgvoermobnmv</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16iyn08gial1szp4mkzlqgxag_image-header_pEs_1720509755000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1qj0ahsbnuxp8299x1k0m49mk">
+    <display-name>1qj0ahsbnuxp8299x1k0m49mk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d1ggcfqrl2qb78ha8lvf9w71_image-header_pEs_1728292939000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241019200000 +0000" stop="20241020020000 +0000" channel="89zb5j81ulprwhic37my5igli">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ngannou vs. Ferreira - Battle Of The Giants</title>
     <desc lang="es">Francis Ngannou regresa a las MMA, enfrentándose a Renan Ferreira por el nuevo cinturón de campeón de la PFL Super Fights Championship.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241017013000 +0000" stop="20241017073000 +0000" channel="9a83wjw0ildoxdh8xg2wdl7ym">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5czzk4orbhc14uzmz1zs5noao_image-header_pEs_1727686338000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4</title>
-    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros los mejores partidos del cuarto día del torneo de Osaka WTA 250. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241017060000 +0000" stop="20241017120000 +0000" channel="eegfr3sl2hssnir87yzb41y8x">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3uziud6uj9ahc8qaj7t7jy2na_image-header_pEs_1728321581000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Qatar Airways de Australia - Paddock Abierto (by Aprilia)</title>
-    <desc lang="es">El circuito de Phillip Island (Melbourne, Australia) es la sede del GP Qatar Airways de Australia 2024 del Mundial de MotoGP. Con una longitud total de 4,448 kilómetros, la pista australiana es famosa en el calendario de la clase reina por las espectaculares vistas que pueden contemplar los pilotos mientras recorren sus 12 curvas rápidas (7 a la izquierda y 5 a la derecha) repartidas en diversos cambios de elevación. ¡Disfruta de una nueva carrera del Mundial de MotoGP en DAZN!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241017060000 +0000" stop="20241017120000 +0000" channel="dvdigz63ced77xgvoermobnmv">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kd91mby43ecvjabrq98p245p_image-header_pEs_1720509755000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4</title>
-    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros los mejores partidos de la cuarta jornada del Ningbo Open WTA 250. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241017073100 +0000" stop="20241017133100 +0000" channel="a3149c1j1hx0e0m2usirm8ph9">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eazg8x1lmaax70z79qjaurncf_image-header_pEs_1724145292000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Central European Rally  - Shakedown</title>
-    <desc lang="es">Watch the latest World Rally Championship action from the Central European Rally.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241017082500 +0000" stop="20241017142500 +0000" channel="5wh3tztv0e45hxwn71canbqm5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ub3l1t5qsqn9aew0fa19oepl_image-header_pEs_1718615581000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1699,5 +1667,17 @@
     <title lang="es">Leicester Riders - Surrey 89ers</title>
     <desc lang="es">Vive el encuentro de SLB Trophy entre Surrey 89ers y Leicester Riders.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241017060000 +0000" stop="20241017150000 +0000" channel="dvdigz63ced77xgvoermobnmv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16iyn08gial1szp4mkzlqgxag_image-header_pEs_1720509755000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 4</title>
+    <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros los mejores partidos de la cuarta jornada del Ningbo Open WTA 250. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241019160000 +0000" stop="20241019220000 +0000" channel="1qj0ahsbnuxp8299x1k0m49mk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d1ggcfqrl2qb78ha8lvf9w71_image-header_pEs_1728292939000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bohdan Sobol vs. Karol Welter</title>
+    <desc lang="es">Vive el encuentro de Sobol v Welter entre Karol Welter y Bohdan Sobol.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
