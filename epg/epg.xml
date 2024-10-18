@@ -1,20 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 18 00:00:40 2024">
+<tv date="Fri Oct 18 04:00:16 2024">
   <channel id="89zb5j81ulprwhic37my5igli">
     <display-name>89zb5j81ulprwhic37my5igli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dfsut1kpmkl3h7qouewp9zyfo">
-    <display-name>dfsut1kpmkl3h7qouewp9zyfo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13c67o6uitwht7vg6nfo1rx0v_image-header_pEs_1724137754000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ay2ravvfnnideip39ha6zxbnf">
-    <display-name>ay2ravvfnnideip39ha6zxbnf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55y9d8rpv7nf7m7duwyhlhh3b_image-header_pEs_1728640686000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9nhieh8p0x8exs0j7pqrg9i6u">
-    <display-name>9nhieh8p0x8exs0j7pqrg9i6u</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ykybdg1x9n2zz11sav6qpdyr_image-header_pEs_1728316394000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="andvdjic2jlkxpt4zd8rnshdw">
     <display-name>andvdjic2jlkxpt4zd8rnshdw</display-name>
@@ -660,29 +648,15 @@
     <display-name>8ki3888no9qvsel2a0f3r3pm3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bh3tr4q89a6pb48dnuh4o2nwl_image-header_pEs_1718026876000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="69yi4wq388e2zxpldwbkl8zo3">
+    <display-name>69yi4wq388e2zxpldwbkl8zo3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ecynr39boro614peyi7pvu0pn_image-header_pEs_1729189760000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241019200000 +0000" stop="20241020020000 +0000" channel="89zb5j81ulprwhic37my5igli">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ngannou vs. Ferreira - Battle Of The Giants</title>
     <desc lang="es">Francis Ngannou regresa a las MMA, enfrentándose a Renan Ferreira por el nuevo cinturón de campeón de la PFL Super Fights Championship.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241017162600 +0000" stop="20241017222600 +0000" channel="dfsut1kpmkl3h7qouewp9zyfo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13c67o6uitwht7vg6nfo1rx0v_image-header_pEs_1724137754000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Central European Rally - Stage 2</title>
-    <desc lang="es">Watch the latest World Rally Championship action from the Central European Rally.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241017163000 +0000" stop="20241017223000 +0000" channel="ay2ravvfnnideip39ha6zxbnf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55y9d8rpv7nf7m7duwyhlhh3b_image-header_pEs_1728640686000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Djokovic-Ganador Sinner-Medvedev / Nadal-Ganador Alcaraz-Rune</title>
-    <desc lang="es">Six Kings Slam reúne a grandes estrellas del tenis como Carlos Alcaraz, Rafael Nadal y Novak Djokovic, junto a otros extraodinarios tenistas, que lucharán por hacerse con el trono del torneo en una serie de partidos llenos de intensidad y emoción. En directo del 16 al 19 de octubre.</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241017181500 +0000" stop="20241018001500 +0000" channel="9nhieh8p0x8exs0j7pqrg9i6u">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ykybdg1x9n2zz11sav6qpdyr_image-header_pEs_1728316394000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Box, Box - Estados Unidos</title>
-    <desc lang="es">El Mundial de F1 visita el circuito de las Américas. Ubicado en Austin, Texas (Estados Unidos), la pista americana es reconocida en el paddock del Gran Circo por su desafiante y variado diseño, sobresaliendo, por encima del resto, una pronunciada salida en subida. Disfruta de una nueva cita del campeonato donde Lando Norris quiere seguir reduciendo la desventaja que le separa de Max Verstappen en la clasificación, así como Fernando Alonso y Carlos Sainz dar un paso adelante con las últimas mejoras de la temporada.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241017214000 +0000" stop="20241018034000 +0000" channel="andvdjic2jlkxpt4zd8rnshdw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/brhz52e2vkritp45ir0owgq2a_image-header_pEs_1719668799000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1649,5 +1623,11 @@
     <title lang="es">Box, Box - México</title>
     <desc lang="es">El autódromo Hermanos Rodríguez es el circuito que alberga, una temporada más en el Mundial de F1, el GP de Ciudad de México. Ubicado en Ciudad de México, los pilotos del Gran Circo deben recorrer un total de 17 curvas repartidas en 4,304 kilometros. De igual modo, la pista mexicana destaca por su altitud, ya que se encuentra a más de 2.000 metros sobre el nivel del mar. Una coyuntura que afecta al rendimiento de las unidades de potencia y la aerodinámica. ¡No te pierdas una nueva cita del campeonato en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241019200000 +0000" stop="20241020020000 +0000" channel="69yi4wq388e2zxpldwbkl8zo3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ecynr39boro614peyi7pvu0pn_image-header_pEs_1729189760000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PFL Battle of the Giants X Helwani</title>
+    <desc lang="es">Disfruta, junto a Ariel Helwani, del evento PFL Battle of the Giants, en el que se disputará la pelea de Francis Ngannou vs Renan Ferreira.</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
