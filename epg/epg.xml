@@ -1,20 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 18 04:00:16 2024">
+<tv date="Fri Oct 18 08:00:36 2024">
   <channel id="89zb5j81ulprwhic37my5igli">
     <display-name>89zb5j81ulprwhic37my5igli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="andvdjic2jlkxpt4zd8rnshdw">
-    <display-name>andvdjic2jlkxpt4zd8rnshdw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/brhz52e2vkritp45ir0owgq2a_image-header_pEs_1719668799000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="173bao0b2ewv86a5efc2i95i2">
-    <display-name>173bao0b2ewv86a5efc2i95i2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pzbkceyv8lkazl8r1qanfx76_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="c4lb9qfcwyybi27zvpb1wjris">
-    <display-name>c4lb9qfcwyybi27zvpb1wjris</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5kiy9z7xoqo31g4haowgu9fku_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6yurvk7zauhfebj3n22yip9ns">
     <display-name>6yurvk7zauhfebj3n22yip9ns</display-name>
@@ -652,29 +640,15 @@
     <display-name>69yi4wq388e2zxpldwbkl8zo3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ecynr39boro614peyi7pvu0pn_image-header_pEs_1729189760000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="byjv1cd2xnddny2b1rxm77od0">
+    <display-name>byjv1cd2xnddny2b1rxm77od0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edlrjxhq6h5jb7yac2h64fuc0_image-header_pEs_1729129811000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241019200000 +0000" stop="20241020020000 +0000" channel="89zb5j81ulprwhic37my5igli">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ngannou vs. Ferreira - Battle Of The Giants</title>
     <desc lang="es">Francis Ngannou regresa a las MMA, enfrentándose a Renan Ferreira por el nuevo cinturón de campeón de la PFL Super Fights Championship.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241017214000 +0000" stop="20241018034000 +0000" channel="andvdjic2jlkxpt4zd8rnshdw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/brhz52e2vkritp45ir0owgq2a_image-header_pEs_1719668799000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Qatar Airways de Australia - Entrenamientos libres</title>
-    <desc lang="es">El circuito de Phillip Island (Melbourne, Australia) es la sede del GP Qatar Airways de Australia 2024 del Mundial de MotoGP. Con una longitud total de 4,448 kilómetros, la pista australiana es famosa en el calendario de la clase reina por las espectaculares vistas que pueden contemplar los pilotos mientras recorren sus 12 curvas rápidas (7 a la izquierda y 5 a la derecha) repartidas en diversos cambios de elevación. ¡Disfruta de una nueva carrera del Mundial de MotoGP en DAZN!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241018001500 +0000" stop="20241018041500 +0000" channel="173bao0b2ewv86a5efc2i95i2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pzbkceyv8lkazl8r1qanfx76_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Broncos @ Saints (en español)</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241018001500 +0000" stop="20241018041500 +0000" channel="c4lb9qfcwyybi27zvpb1wjris">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5kiy9z7xoqo31g4haowgu9fku_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Broncos @ Saints</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
   </programme>
   <programme start="20241018013000 +0000" stop="20241018073000 +0000" channel="6yurvk7zauhfebj3n22yip9ns">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3pd0nmf32xs5h4diunakunnq2_image-header_pEs_1727419747000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1629,5 +1603,11 @@
     <title lang="es">PFL Battle of the Giants X Helwani</title>
     <desc lang="es">Disfruta, junto a Ariel Helwani, del evento PFL Battle of the Giants, en el que se disputará la pelea de Francis Ngannou vs Renan Ferreira.</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241018150000 +0000" stop="20241018173000 +0000" channel="byjv1cd2xnddny2b1rxm77od0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edlrjxhq6h5jb7yac2h64fuc0_image-header_pEs_1729129811000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Hilal - Abha</title>
+    <desc lang="es">Vive el encuentro de SAFF Women's Cup entre Al Hilal y Abha.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
