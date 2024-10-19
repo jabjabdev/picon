@@ -1,20 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sat Oct 19 00:00:33 2024">
+<tv date="Sat Oct 19 08:00:31 2024">
   <channel id="89zb5j81ulprwhic37my5igli">
     <display-name>89zb5j81ulprwhic37my5igli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2rnztd7e7spc5t16wr8ipqq6n">
-    <display-name>2rnztd7e7spc5t16wr8ipqq6n</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dfgjiwiibagvhk55ge5ldw9v_image-header_pEs_1724422487000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7hva2rftjnl3ze6aar14tz1zi">
-    <display-name>7hva2rftjnl3ze6aar14tz1zi</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/614wm3qe0e7rm1dho5j2uhh7t_image-header_pEs_1724577734000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dko50w8t8xpht8qopr4fmcg2u">
-    <display-name>dko50w8t8xpht8qopr4fmcg2u</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rh3qedq49q3di3ql1wbsi2np_image-header_pEs_1718119474000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="b88nluseezz8tj7hrr2ctklp1">
     <display-name>b88nluseezz8tj7hrr2ctklp1</display-name>
@@ -636,29 +624,23 @@
     <display-name>51vcxvwflvqafeuqjvpok3jgr</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8cch583vh52gzzndng0m7ofi_image-header_pEs_1726305775000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="517qtsqg54w53klkp7bws9j6v">
+    <display-name>517qtsqg54w53klkp7bws9j6v</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3wftc6t9rbqwu9ffkjxe63vtd_image-header_pEs_1726341185000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8ln16pfscjfsjlkyztfgd0844">
+    <display-name>8ln16pfscjfsjlkyztfgd0844</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/44vu1t1fclekaoh3bqwnew3st_image-header_pEs_1726071392000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8psci6mcaaqrf55t4pvxkqi38">
+    <display-name>8psci6mcaaqrf55t4pvxkqi38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7n3zc8drsprkaly9wcyftjihi_image-header_pEs_1726071393000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241019200000 +0000" stop="20241020020000 +0000" channel="89zb5j81ulprwhic37my5igli">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yy8b1514jn3b18knyt5htzkax_image-header_pEs_1727346644000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ngannou vs. Ferreira - Battle Of The Giants</title>
     <desc lang="es">Francis Ngannou regresa a las MMA, enfrentándose a Renan Ferreira por el nuevo cinturón de campeón de la PFL Super Fights Championship.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241018170000 +0000" stop="20241018230000 +0000" channel="2rnztd7e7spc5t16wr8ipqq6n">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dfgjiwiibagvhk55ge5ldw9v_image-header_pEs_1724422487000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Pirelli GP de Estados Unidos - Libres 1</title>
-    <desc lang="es">El Mundial de F1 visita el circuito de las Américas. Ubicado en Austin, Texas (Estados Unidos), la pista americana es reconocida en el paddock del Gran Circo por su desafiante y variado diseño, sobresaliendo, por encima del resto, una pronunciada salida en subida. Disfruta de una nueva cita del campeonato donde Lando Norris quiere seguir reduciendo la desventaja que le separa de Max Verstappen en la clasificación, así como Fernando Alonso y Carlos Sainz dar un paso adelante con las últimas mejoras de la temporada.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241018210000 +0000" stop="20241019030000 +0000" channel="7hva2rftjnl3ze6aar14tz1zi">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/614wm3qe0e7rm1dho5j2uhh7t_image-header_pEs_1724577734000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Pirelli GP de Estados Unidos - Clasificación al sprint</title>
-    <desc lang="es">El Mundial de F1 visita el circuito de las Américas. Ubicado en Austin, Texas (Estados Unidos), la pista americana es reconocida en el paddock del Gran Circo por su desafiante y variado diseño, sobresaliendo, por encima del resto, una pronunciada salida en subida. Disfruta de una nueva cita del campeonato donde Lando Norris quiere seguir reduciendo la desventaja que le separa de Max Verstappen en la clasificación, así como Fernando Alonso y Carlos Sainz dar un paso adelante con las últimas mejoras de la temporada.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241018213500 +0000" stop="20241019033500 +0000" channel="dko50w8t8xpht8qopr4fmcg2u">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rh3qedq49q3di3ql1wbsi2np_image-header_pEs_1718119474000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Qatar Airways de Australia - Camino a la pole</title>
-    <desc lang="es">El circuito de Phillip Island (Melbourne, Australia) es la sede del GP Qatar Airways de Australia 2024 del Mundial de MotoGP. Con una longitud total de 4,448 kilómetros, la pista australiana es famosa en el calendario de la clase reina por las espectaculares vistas que pueden contemplar los pilotos mientras recorren sus 12 curvas rápidas (7 a la izquierda y 5 a la derecha) repartidas en diversos cambios de elevación. ¡Disfruta de una nueva carrera del Mundial de MotoGP en DAZN!</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241019010000 +0000" stop="20241019070000 +0000" channel="b88nluseezz8tj7hrr2ctklp1">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7kwrpmgj6u8zjg9ahur6e0k63_image-header_pEs_1728898504000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1589,5 +1571,23 @@
     <title lang="es">GP de Ciudad de México - Libres 2</title>
     <desc lang="es">El Gran Premio de la Ciudad de México 2024 se celebra en el Autódromo Hermanos Rodríguez, un circuito de alta altitud que favorece la carga aerodinámica y plantea desafíos únicos para los motores. Max Verstappen llega como favorito, buscando mantener su dominio en la temporada. La afición local apoyará a Checo Pérez, quien busca un gran resultado en casa.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241019130000 +0000" stop="20241019153000 +0000" channel="517qtsqg54w53klkp7bws9j6v">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3wftc6t9rbqwu9ffkjxe63vtd_image-header_pEs_1726341185000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Parma</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Como - Parma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241020150000 +0000" stop="20241020183000 +0000" channel="8ln16pfscjfsjlkyztfgd0844">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/44vu1t1fclekaoh3bqwnew3st_image-header_pEs_1726071392000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Scafati - Olimpia Milano</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Olimpia Milano y Scafati.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241020161500 +0000" stop="20241020194500 +0000" channel="8psci6mcaaqrf55t4pvxkqi38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7n3zc8drsprkaly9wcyftjihi_image-header_pEs_1726071393000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Virtus Bologna - Derthona</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Derthona y Virtus Bologna.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
