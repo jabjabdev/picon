@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 20 14:21:48 2024">
+<tv date="Sun Oct 20 16:00:23 2024">
   <channel id="dfmsz5hd92y69a17c9o1xmr96">
     <display-name>dfmsz5hd92y69a17c9o1xmr96</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bdzuszjdagbxhvjegugkpqb3e_image-header_pEs_1729305197000/fill/none/top/none/85/300/180/webp/image"/>
@@ -11,10 +11,6 @@
   <channel id="a7wl06cn678fycl67b8r7f7dg">
     <display-name>a7wl06cn678fycl67b8r7f7dg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aoicvb57j2nxc6i21ypnb4uac_image-header_pEs_1728298041000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4bymwyhmujiatmp593pb5h8gk">
-    <display-name>4bymwyhmujiatmp593pb5h8gk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5c7zoiwuq390ujiiwme7748cu_image-header_pEs_1729304156000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3cxufx4solpgucbrk6ovayl90">
     <display-name>3cxufx4solpgucbrk6ovayl90</display-name>
@@ -497,12 +493,6 @@
     <title lang="es">Empoli - Napoli</title>
     <desc lang="es">Vive el encuentro de Serie A entre Empoli y Napoli.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241020113000 +0000" stop="20241020131000 +0000" channel="4bymwyhmujiatmp593pb5h8gk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5c7zoiwuq390ujiiwme7748cu_image-header_pEs_1729304156000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hockenheimring - Carrera 2</title>
-    <desc lang="es">Disfruta en DAZN de las mejores competiciones mundiales del motor y vive con nosotros la segunda carrera del Deutsche Tourenwagen Masters (DTM) que se celebra en el circuito de Hockenheimring. ¡No te lo pierdas!</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241020120000 +0000" stop="20241020141500 +0000" channel="3cxufx4solpgucbrk6ovayl90">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2drd0b2hixg5jgiey7mruyyfw_image-header_pEs_1727335882000/fill/none/top/none/85/600/360/webp/image"/>
