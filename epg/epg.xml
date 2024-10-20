@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 20 10:37:14 2024">
-  <channel id="cgs6stmtczfyfglfys43fjkof">
-    <display-name>cgs6stmtczfyfglfys43fjkof</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/enq1rele73dhm8jb4nljio0az_image-header_pEs_1729306470000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Oct 20 13:54:19 2024">
   <channel id="dfmsz5hd92y69a17c9o1xmr96">
     <display-name>dfmsz5hd92y69a17c9o1xmr96</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/zlm8e1gxl58urecgga01r0c0_image-header_pEs_1729305287000/fill/none/top/none/85/300/180/webp/image"/>
@@ -15,10 +11,6 @@
   <channel id="5lc820wywuqa1mi4h6vjta3bv">
     <display-name>5lc820wywuqa1mi4h6vjta3bv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2gx808vf6vbbdvq5v4wv9i5j_image-header_pEs_1729361800000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bj5893ranqo27p0lah8wjmc0q">
-    <display-name>bj5893ranqo27p0lah8wjmc0q</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ens7q8mutfmwnm4ch1a168gf_image-header_pEs_1722887154000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cfvnaxu18z4q4g2ixl484a25x">
     <display-name>cfvnaxu18z4q4g2ixl484a25x</display-name>
@@ -508,12 +500,126 @@
     <display-name>6haue33z5fp4ilt33lflrpd8q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/283qlpyoyrogk1dvojt86hany_image-header_pEs_1729098417000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241020083000 +0000" stop="20241020093500 +0000" channel="cgs6stmtczfyfglfys43fjkof">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/enq1rele73dhm8jb4nljio0az_image-header_pEs_1729306470000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Imola - Coppa Shell &amp; 488 World Final</title>
-    <desc lang="es">Disfruta en DAZN de la gran final de la Coppa Shell &amp; 488 correspondiente a la Ferrari Challenge Europe.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
+  <channel id="8e089838-ada8-432b-b536-bfe2213188ce">
+    <display-name>8e089838-ada8-432b-b536-bfe2213188ce</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/d74d9d88-49d6-3cc8-9384-ec84185e3f66.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="5fb23c14-ac8a-4240-b05e-6a05764d1a6f">
+    <display-name>5fb23c14-ac8a-4240-b05e-6a05764d1a6f</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/b8a62962-e197-3ac0-9ebb-b9fd29c57011.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="fc3f7e6c-e876-463b-a14c-5f304f1ecab5">
+    <display-name>fc3f7e6c-e876-463b-a14c-5f304f1ecab5</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/cbe6c9ce-af6e-3ab8-b120-961aea61b6ab.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="eee2b8c5-348f-4c66-8353-8fe2809438be">
+    <display-name>eee2b8c5-348f-4c66-8353-8fe2809438be</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/fa640d98-6cc2-39d6-a244-2be2e4480296.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="0ad5d245-f942-444b-bb21-c84ac76010d7">
+    <display-name>0ad5d245-f942-444b-bb21-c84ac76010d7</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/dbb3f1b5-1b55-38cb-bfee-3a92a3c602a6.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="ad95dbfc-03a0-450e-b043-a8bbb86ab632">
+    <display-name>ad95dbfc-03a0-450e-b043-a8bbb86ab632</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/4e0c5d2d-628d-35e3-bd6a-6af128da8933.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="61fd4eed-db8b-4fb4-93ac-b52cd63bc794">
+    <display-name>61fd4eed-db8b-4fb4-93ac-b52cd63bc794</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/5c4b45e1-3540-39e2-b7e9-0911d36e8b8c.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="9cd313be-4e7a-4db3-a993-bc9c33823b1c">
+    <display-name>9cd313be-4e7a-4db3-a993-bc9c33823b1c</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/07ad9a82-7d07-3e83-8872-d77d86bcb1d6.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="34146454-e6f5-4d74-8e90-d7d24488f8e1">
+    <display-name>34146454-e6f5-4d74-8e90-d7d24488f8e1</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/729da633-d75b-3c28-a02b-9fbe5e996c21.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="a258466d-ecc9-4176-ad64-2e75bc6b3cf4">
+    <display-name>a258466d-ecc9-4176-ad64-2e75bc6b3cf4</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/15/d88f0c38-38e7-3661-ab71-7286f8f6ee23.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="e97e4393-2800-40be-95e9-a3b292e23a97">
+    <display-name>e97e4393-2800-40be-95e9-a3b292e23a97</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/0bb16a4c-633c-3e18-b135-de1d93448d51.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="7428e501-589e-453a-878b-cd8763ef9fc7">
+    <display-name>7428e501-589e-453a-878b-cd8763ef9fc7</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/0f043730-e0f4-32ca-ae19-ab141ceb00ba.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="1d27c567-1b12-4f39-a0a1-6b2f404aed93">
+    <display-name>1d27c567-1b12-4f39-a0a1-6b2f404aed93</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/4c06435f-818c-3258-8e69-26936a8b0244.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="2d69db05-1e30-4ae0-9a00-2993b90d0312">
+    <display-name>2d69db05-1e30-4ae0-9a00-2993b90d0312</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/30f5256e-25ca-3ef8-a840-0ca567d2bbcc.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="2c1dd3a3-ef54-42c0-ae42-dabc6566ff76">
+    <display-name>2c1dd3a3-ef54-42c0-ae42-dabc6566ff76</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/7753e1f0-af70-3d7c-b893-af51db6a60ff.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="91ce4929-c912-451f-905c-0bae8ce2e525">
+    <display-name>91ce4929-c912-451f-905c-0bae8ce2e525</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/6e2066ad-47c7-32c5-ab89-bc74d8349ea8.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="53b64dac-da66-4910-9189-2ba4ca63c016">
+    <display-name>53b64dac-da66-4910-9189-2ba4ca63c016</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/35aec4c7-31b0-38db-82e2-558c4036bfb7.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="c500a05c-3ec8-40f0-9c59-04d6695da90b">
+    <display-name>c500a05c-3ec8-40f0-9c59-04d6695da90b</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/371830e8-c9ab-3f71-ad5f-e15348318509.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="bb0691c4-9ff6-4f2b-bc9f-e062ff45b9eb">
+    <display-name>bb0691c4-9ff6-4f2b-bc9f-e062ff45b9eb</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/14c9285f-989e-3766-ac77-120cbadabc5c.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="116a6fdd-b316-4267-a10e-9022827c23ca">
+    <display-name>116a6fdd-b316-4267-a10e-9022827c23ca</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/17/dd520608-ebda-38ff-9efb-d529f7358faf.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="28269e78-23b3-48a7-8d32-41f3fca59405">
+    <display-name>28269e78-23b3-48a7-8d32-41f3fca59405</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/e009fd6a-f966-3f99-9f82-5dbec7d6a3c7.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="691831a8-c061-4938-b7e6-06ed6eacc79f">
+    <display-name>691831a8-c061-4938-b7e6-06ed6eacc79f</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/17/3ce1349b-672f-310a-a860-b37024b6e6cc.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="722b5154-7067-4e75-8a2a-f4a1c0201d7c">
+    <display-name>722b5154-7067-4e75-8a2a-f4a1c0201d7c</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/03aca3f7-01c2-327a-800a-97fb5138ee9f.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="7a3e0065-acb7-43d6-8d40-a6ab2afdc0a6">
+    <display-name>7a3e0065-acb7-43d6-8d40-a6ab2afdc0a6</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/12/f682b8be-625f-303f-ad37-80324248c7b1.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="2ff3137a-b150-46d5-836f-aa03baaf988a">
+    <display-name>2ff3137a-b150-46d5-836f-aa03baaf988a</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/c2273c4f-d73c-3254-8681-9a3b8b10c659.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="2729d7ff-9d19-4919-b66a-ad1955789dbb">
+    <display-name>2729d7ff-9d19-4919-b66a-ad1955789dbb</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/5e63a76c-5eec-332c-acea-c49aeb958b67.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="70d1a998-4570-4f62-a770-70f6d39a246c">
+    <display-name>70d1a998-4570-4f62-a770-70f6d39a246c</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/44c79f07-76ae-373a-b4c2-12d0aac794d6.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="111d2daf-a26a-4577-83b4-be0a12ad501b">
+    <display-name>111d2daf-a26a-4577-83b4-be0a12ad501b</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/7f25d4c1-ec89-3652-a354-7ac346de5d6b.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="cd0ce2a1-f401-4c0e-8350-fcd83fb5284c">
+    <display-name>cd0ce2a1-f401-4c0e-8350-fcd83fb5284c</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/69577a86-5b36-3316-8e17-8f5195a2c923.jpeg?w=300&amp;f=png"/>
+  </channel>
+  <channel id="3aa0a3f4-2471-49d2-999d-b15171d8c61f">
+    <display-name>3aa0a3f4-2471-49d2-999d-b15171d8c61f</display-name>
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/f77482f1-defa-3324-aa06-14bae77785ce.jpeg?w=300&amp;f=png"/>
+  </channel>
   <programme start="20241020084500 +0000" stop="20241020144500 +0000" channel="dfmsz5hd92y69a17c9o1xmr96">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/zlm8e1gxl58urecgga01r0c0_image-header_pEs_1729305287000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Prometeon Spanish Round - Superpole Race WSBK y Carrera 2 (Todas las categorías)</title>
@@ -531,12 +637,6 @@
     <title lang="es">Final - Kasátkina - Andréyeva</title>
     <desc lang="es">Disfruta en DAZN del mejor tenis femenino y vive con nosotros la final del Ningbo Open WTA 250. ¡No te lo pierdas!</desc>
     <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241020093000 +0000" stop="20241020113000 +0000" channel="bj5893ranqo27p0lah8wjmc0q">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ens7q8mutfmwnm4ch1a168gf_image-header_pEs_1722887154000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Sevilla Masters - Final</title>
-    <desc lang="es">​Sevilla continúa en el calendario oficial de A1 Padel con su cuarta edición consecutiva. Disfruta en DAZN, del 11 al 20 de octubre, de los mejores partidos de pádel en el pabellón San Pablo. ¡No te lo pierdas!</desc>
-    <category lang="es">Pádel</category>
   </programme>
   <programme start="20241020094000 +0000" stop="20241020154000 +0000" channel="cfvnaxu18z4q4g2ixl484a25x">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ayomohadq8l1p262y9dlmq2j_image-header_pEs_1729306664000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1269,5 +1369,191 @@
     <title lang="es">GP de Ciudad de México - Clasificación</title>
     <desc lang="es">El Gran Premio de la Ciudad de México 2024 se celebra en el Autódromo Hermanos Rodríguez, un circuito de alta altitud que favorece la carga aerodinámica y plantea desafíos únicos para los motores. Max Verstappen busca mantener su dominio en el Mundial de F1 frente a un Lando Norris que quiere alargar el sueño del título para McLaren. Por su parte, Checo Pérez trata de lograr un gran resultado en casa y dar una alegría a sus aficionados. ¡No te lo pierdas en DAZN!E</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241021120000 +0000" stop="20241021140000 +0000" channel="8e089838-ada8-432b-b536-bfe2213188ce">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/d74d9d88-49d6-3cc8-9384-ec84185e3f66.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021120000 +0000" stop="20241021140000 +0000" channel="8e089838-ada8-432b-b536-bfe2213188ce">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/d74d9d88-49d6-3cc8-9384-ec84185e3f66.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021140000 +0000" stop="20241021160000 +0000" channel="5fb23c14-ac8a-4240-b05e-6a05764d1a6f">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/b8a62962-e197-3ac0-9ebb-b9fd29c57011.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020090000 +0000" stop="20241020115834 +0000" channel="fc3f7e6c-e876-463b-a14c-5f304f1ecab5">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/cbe6c9ce-af6e-3ab8-b120-961aea61b6ab.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Oliver Lines - Joshua Cooper | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021140000 +0000" stop="20241021160000 +0000" channel="eee2b8c5-348f-4c66-8353-8fe2809438be">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/fa640d98-6cc2-39d6-a244-2be2e4480296.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021090000 +0000" stop="20241021110000 +0000" channel="0ad5d245-f942-444b-bb21-c84ac76010d7">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/dbb3f1b5-1b55-38cb-bfee-3a92a3c602a6.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021140000 +0000" stop="20241021160000 +0000" channel="ad95dbfc-03a0-450e-b043-a8bbb86ab632">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/4e0c5d2d-628d-35e3-bd6a-6af128da8933.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020200000 +0000" stop="20241020220000 +0000" channel="61fd4eed-db8b-4fb4-93ac-b52cd63bc794">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/5c4b45e1-3540-39e2-b7e9-0911d36e8b8c.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Gary Wilson - Mark Davis | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020113146 +0000" stop="20241020130146 +0000" channel="9cd313be-4e7a-4db3-a993-bc9c33823b1c">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/07ad9a82-7d07-3e83-8872-d77d86bcb1d6.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Campeonato del Mundo España - Sin anuncios | Superbikes | Dia 3 | 2ª Carrera</title>
+    <desc lang="es">Acción de las primeras carreras de la duodécima ronda del Campeonato Mundial FIM de Superbikes, que tendrá lugar en el Circuito de Jerez en España.</desc>
+    <category lang="es">Superbikes</category>
+  </programme>
+  <programme start="20241021120000 +0000" stop="20241021140000 +0000" channel="34146454-e6f5-4d74-8e90-d7d24488f8e1">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/729da633-d75b-3c28-a02b-9fbe5e996c21.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020130000 +0000" stop="20241020144500 +0000" channel="a258466d-ecc9-4176-ad64-2e75bc6b3cf4">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/15/d88f0c38-38e7-3661-ab71-7286f8f6ee23.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Veneto Classic - Sin anuncios | Masculino | Soave - Bassano Del Grappa (197km)</title>
+    <desc lang="es">Cuarta edición de la carrera en ruta que se disputa en Véneto con llegada a Bassano del Grappa, y que fue lanzada en 2021 por Filippo Pozzato y Jonny Moletta. En 2023 ganó Davide Formolo.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241020200000 +0000" stop="20241020220000 +0000" channel="e97e4393-2800-40be-95e9-a3b292e23a97">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/0bb16a4c-633c-3e18-b135-de1d93448d51.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Shaun Murphy - Jun Jiang | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020115834 +0000" stop="20241020135834 +0000" channel="7428e501-589e-453a-878b-cd8763ef9fc7">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/0f043730-e0f4-32ca-ae19-ab141ceb00ba.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Lyu Haotian - Matthew Selt | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020112014 +0000" stop="20241020151514 +0000" channel="1d27c567-1b12-4f39-a0a1-6b2f404aed93">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/4c06435f-818c-3258-8e69-26936a8b0244.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Campeonato del Mundo Ballerup - Sin anuncios | Día 5 | Elite</title>
+    <desc lang="es">Del 16 al 20 de octubre, los focos estarán en el Ballerup Super Arena para el campeonato mundial de ciclismo en pista que regresa a Dinamarca después de 14 años.</desc>
+    <category lang="es">Ciclismo en pista</category>
+  </programme>
+  <programme start="20241020180000 +0000" stop="20241020200000 +0000" channel="2d69db05-1e30-4ae0-9a00-2993b90d0312">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/30f5256e-25ca-3ef8-a840-0ca567d2bbcc.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Pang Junxu - Sijun Yuan | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020120000 +0000" stop="20241020140000 +0000" channel="2c1dd3a3-ef54-42c0-ae42-dabc6566ff76">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/7753e1f0-af70-3d7c-b893-af51db6a60ff.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Judd Trump - Ishpreet Singh Chadha | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241021090000 +0000" stop="20241021110000 +0000" channel="91ce4929-c912-451f-905c-0bae8ce2e525">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/6e2066ad-47c7-32c5-ab89-bc74d8349ea8.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020181800 +0000" stop="20241020201300 +0000" channel="53b64dac-da66-4910-9189-2ba4ca63c016">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/35aec4c7-31b0-38db-82e2-558c4036bfb7.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Grand Prix Estados Unidos - Sin anuncios | Mixto | Danza sobre Hielo | Rutina libre</title>
+    <desc lang="es">Son seis las pruebas del Gran Premio ISU de patinaje artístico, con un calendario que incluye Estados Unidos, Canadá, Francia, Japón, Finlandia y China, antes de la final en Grenoble, del 5 al 8 de diciembre.</desc>
+    <category lang="es">Patinaje Artístico</category>
+  </programme>
+  <programme start="20241020130146 +0000" stop="20241020143146 +0000" channel="c500a05c-3ec8-40f0-9c59-04d6695da90b">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/371830e8-c9ab-3f71-ad5f-e15348318509.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Campeonato del Mundo España - Sin anuncios | Supersport | Dia 3 | 2ª Carrera</title>
+    <desc lang="es">Acción de las carreras de la duodécima ronda del Campeonato Mundial FIM de Superbikes, que tendrá lugar en el Circuito de Jerez en España.</desc>
+    <category lang="es">Superbikes</category>
+  </programme>
+  <programme start="20241021090000 +0000" stop="20241021110000 +0000" channel="bb0691c4-9ff6-4f2b-bc9f-e062ff45b9eb">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/14c9285f-989e-3766-ac77-120cbadabc5c.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020130700 +0000" stop="20241020143000 +0000" channel="116a6fdd-b316-4267-a10e-9022827c23ca">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/17/dd520608-ebda-38ff-9efb-d529f7358faf.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Superprestige Ruddervoorde - Sin anuncios | Masculino</title>
+    <desc lang="es">El calendario Superprestige 2024, el más antiguo de los circuitos de ciclocross, consta de ocho pruebas programadas de octubre a febrero, todas en Bélgica, desde Ruddervoorde hasta Middelkerk.</desc>
+    <category lang="es">Ciclocross</category>
+  </programme>
+  <programme start="20241021120000 +0000" stop="20241021140000 +0000" channel="28269e78-23b3-48a7-8d32-41f3fca59405">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/14/e009fd6a-f966-3f99-9f82-5dbec7d6a3c7.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Snooker | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020113701 +0000" stop="20241020124501 +0000" channel="691831a8-c061-4938-b7e6-06ed6eacc79f">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/17/3ce1349b-672f-310a-a860-b37024b6e6cc.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Superprestige Ruddervoorde - Sin anuncios | Femenino</title>
+    <desc lang="es">El calendario Superprestige 2024, el más antiguo de los circuitos de ciclocross, consta de ocho pruebas programadas de octubre a febrero, todas en Bélgica, desde Ruddervoorde hasta Middelkerk.</desc>
+    <category lang="es">Ciclocross</category>
+  </programme>
+  <programme start="20241020140000 +0000" stop="20241020160000 +0000" channel="722b5154-7067-4e75-8a2a-f4a1c0201d7c">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/03aca3f7-01c2-327a-800a-97fb5138ee9f.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Ryan Day - Stan Moody | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020234100 +0000" stop="20241021022000 +0000" channel="7a3e0065-acb7-43d6-8d40-a6ab2afdc0a6">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/12/f682b8be-625f-303f-ad37-80324248c7b1.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Grand Prix Estados Unidos - Sin anuncios | Gala</title>
+    <desc lang="es">Son seis las pruebas del Gran Premio ISU de patinaje artístico, con un calendario que incluye Estados Unidos, Canadá, Francia, Japón, Finlandia y China, antes de la final en Grenoble, del 5 al 8 de diciembre.</desc>
+    <category lang="es">Patinaje Artístico</category>
+  </programme>
+  <programme start="20241020160000 +0000" stop="20241020175700 +0000" channel="2ff3137a-b150-46d5-836f-aa03baaf988a">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/10/c2273c4f-d73c-3254-8681-9a3b8b10c659.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Grand Prix Estados Unidos - Sin anuncios | Masculino  | Rutina libre</title>
+    <desc lang="es">Son seis las pruebas del Gran Premio ISU de patinaje artístico, con un calendario que incluye Estados Unidos, Canadá, Francia, Japón, Finlandia y China, antes de la final en Grenoble, del 5 al 8 de diciembre.</desc>
+    <category lang="es">Patinaje Artístico</category>
+  </programme>
+  <programme start="20241020180000 +0000" stop="20241020200000 +0000" channel="2729d7ff-9d19-4919-b66a-ad1955789dbb">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/5e63a76c-5eec-332c-acea-c49aeb958b67.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Stuart Bingham - Scott Donaldson | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020120000 +0000" stop="20241020140000 +0000" channel="70d1a998-4570-4f62-a770-70f6d39a246c">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/44c79f07-76ae-373a-b4c2-12d0aac794d6.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Jak Jones - Alexander Ursenbacher | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020180000 +0000" stop="20241020200000 +0000" channel="111d2daf-a26a-4577-83b4-be0a12ad501b">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/7f25d4c1-ec89-3652-a354-7ac346de5d6b.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Mark Selby - Louis Heathcote | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020140000 +0000" stop="20241020160000 +0000" channel="cd0ce2a1-f401-4c0e-8350-fcd83fb5284c">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/69577a86-5b36-3316-8e17-8f5195a2c923.jpeg?w=600&amp;f=png"/>
+    <title lang="es">Luca Brecel - He Guoqiang | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241020135834 +0000" stop="20241020155834 +0000" channel="3aa0a3f4-2471-49d2-999d-b15171d8c61f">
+    <icon src="https://images.cdn.prd.api.discomax.com/2024/10/19/f77482f1-defa-3324-aa06-14bae77785ce.jpeg?w=600&amp;f=png"/>
+    <title lang="es">David Gilbert - Lei Peifan | Open Irlanda del Norte | 1ª ronda</title>
+    <desc lang="es">Desde Belfast, la atención se centra en el Abierto de Irlanda del Norte, uno de los cuatro torneos anuales que componen la Home Nations Series.</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
