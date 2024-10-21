@@ -1,29 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Oct 21 16:00:44 2024">
-  <channel id="3tp93s85lpmisglo6x2w4zmxn">
-    <display-name>3tp93s85lpmisglo6x2w4zmxn</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ywbqhxqfidajc77y2p2asxsg_image-header_pEs_1727777521000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6irfxmrjbaan5caqwab8xq9zo">
-    <display-name>6irfxmrjbaan5caqwab8xq9zo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iqbs44wy3oojq1sc28qlita_image-header_pEs_1727439147000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5xzizuyhgj2sdnpdnipww28oe">
-    <display-name>5xzizuyhgj2sdnpdnipww28oe</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mohdrs7vt7ht1unm906gchv9x_image-header_pEs_1721216436000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="a8piyz9aviszdi4kkm9hrrv9w">
-    <display-name>a8piyz9aviszdi4kkm9hrrv9w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/936s5f0kgsyjrtxqdvkqc4d5s_image-header_pEs_1728659692000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2fw21jmiikydqg284uw5283fp">
-    <display-name>2fw21jmiikydqg284uw5283fp</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1smdmpx4vi5141st8v6hwrjju9_image-header_pEs_1721217869000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="as5j1fz90lr0u99at43h9fi1g">
-    <display-name>as5j1fz90lr0u99at43h9fi1g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25kbpw855j16dcqukucldw7l_image-header_pEs_1728858596000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Tue Oct 22 00:00:23 2024">
   <channel id="d3qxpdc1q4tpjjsh9bt5165g4">
     <display-name>d3qxpdc1q4tpjjsh9bt5165g4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uk5m3hh4vqp1evro59i5dj16_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
@@ -300,10 +276,6 @@
     <display-name>6haue33z5fp4ilt33lflrpd8q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/283qlpyoyrogk1dvojt86hany_image-header_pEs_1729098417000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="edu6p12cwoblif9vujgw01yf5">
-    <display-name>edu6p12cwoblif9vujgw01yf5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/936s5f0kgsyjrtxqdvkqc4d5s_image-header_pEs_1728659692000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="129gx68wl4frqpdguftc34oc4">
     <display-name>129gx68wl4frqpdguftc34oc4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237oh3vm5ffdulx7ilo4es0np_image-header_pEs_1726924261000/fill/none/top/none/85/300/180/webp/image"/>
@@ -480,42 +452,30 @@
     <display-name>4nvdg1zz0sa3inysucjt8lny</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3c2hm7n43udz68n2szqbyps41_image-header_pEs_1729510377000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241021180000 +0000" stop="20241021203000 +0000" channel="3tp93s85lpmisglo6x2w4zmxn">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ywbqhxqfidajc77y2p2asxsg_image-header_pEs_1727777521000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Super8 - Jornada 10</title>
-    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241021183000 +0000" stop="20241021210000 +0000" channel="6irfxmrjbaan5caqwab8xq9zo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iqbs44wy3oojq1sc28qlita_image-header_pEs_1727439147000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Valencia CF - UD Las Palmas</title>
-    <desc lang="es">Comentaristas: Guille Moreno, Mista, David Fer y Sandra Díaz | Valencià: Vicent Ortega. Vive el encuentro de Primera División entre Las Palmas y Valencia.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241021183000 +0000" stop="20241022003000 +0000" channel="5xzizuyhgj2sdnpdnipww28oe">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mohdrs7vt7ht1unm906gchv9x_image-header_pEs_1721216436000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - Australia</title>
-    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241021184500 +0000" stop="20241021211500 +0000" channel="a8piyz9aviszdi4kkm9hrrv9w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/936s5f0kgsyjrtxqdvkqc4d5s_image-header_pEs_1728659692000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hellas Verona - Monza</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Monza y Hellas Verona.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241021190000 +0000" stop="20241022010000 +0000" channel="2fw21jmiikydqg284uw5283fp">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1smdmpx4vi5141st8v6hwrjju9_image-header_pEs_1721217869000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código F1 - Estados Unidos</title>
-    <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de Estados Unidos.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241021190000 +0000" stop="20241021213000 +0000" channel="as5j1fz90lr0u99at43h9fi1g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25kbpw855j16dcqukucldw7l_image-header_pEs_1728858596000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Nottingham Forest - Crystal Palace</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Crystal Palace y Nottingham Forest.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
+  <channel id="bo4ngtgxeffwnsazodggbmb5">
+    <display-name>bo4ngtgxeffwnsazodggbmb5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1208f2oq6o87xc128f6em877b_image-header_pEs_1729527330000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4whxorjqf9eslqyao3hlj7392">
+    <display-name>4whxorjqf9eslqyao3hlj7392</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bnihmvt1i6dgqcu0xah3n71h4_image-header_pEs_1729233547000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e96yl1pwnd85nvzqn8y5haw44">
+    <display-name>e96yl1pwnd85nvzqn8y5haw44</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ffis1mg4rwzk1vn98xt76ls5r_image-header_pEs_1715861218000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1cqnsr46elf4casvni9ohqgjy">
+    <display-name>1cqnsr46elf4casvni9ohqgjy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e312optl546bcphsexkeycpwf_image-header_pEs_1724764820000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1un9eduku69si82uci9ilh7bu">
+    <display-name>1un9eduku69si82uci9ilh7bu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ectkgey7ecem1ucg7o84usbvs_image-header_pEs_1721216847000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dibnu9jfrbpuhddnt72tp1gbv">
+    <display-name>dibnu9jfrbpuhddnt72tp1gbv</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2xau7s9kq0j1ial2kxisrnh7_image-header_pEs_1721218904000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241021220000 +0000" stop="20241022020000 +0000" channel="d3qxpdc1q4tpjjsh9bt5165g4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uk5m3hh4vqp1evro59i5dj16_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ravens @ Buccaneers</title>
@@ -930,12 +890,6 @@
     <desc lang="es">El Gran Premio de la Ciudad de México 2024 se celebra en el Autódromo Hermanos Rodríguez, un circuito de alta altitud que favorece la carga aerodinámica y plantea desafíos únicos para los motores. Max Verstappen busca mantener su dominio en el Mundial de F1 frente a un Lando Norris que quiere alargar el sueño del título para McLaren. Por su parte, Checo Pérez trata de lograr un gran resultado en casa y dar una alegría a sus aficionados. ¡No te lo pierdas en DAZN!E</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20241021184500 +0000" stop="20241021211500 +0000" channel="edu6p12cwoblif9vujgw01yf5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/936s5f0kgsyjrtxqdvkqc4d5s_image-header_pEs_1728659692000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hellas Verona - Monza</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Monza y Hellas Verona.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20241027030000 +0000" stop="20241027090000 +0000" channel="129gx68wl4frqpdguftc34oc4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237oh3vm5ffdulx7ilo4es0np_image-header_pEs_1726924261000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Final</title>
@@ -1199,5 +1153,41 @@
     <title lang="es">Topuria vs. Holloway (Diferido)</title>
     <desc lang="es">Disfruta del combate estelar de UFC 308 a traves de los canales de Eurosport. Desde Arabia Saudí, el hispanogeorgiano Illia Topuria (15-0-0) defiende el cinturón de campeón de peso pluma ante el estadounidense Max Holloway (26-7-0).</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241027020000 +0000" stop="20241027080000 +0000" channel="bo4ngtgxeffwnsazodggbmb5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1208f2oq6o87xc128f6em877b_image-header_pEs_1729527330000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ronda 1 - Canadá</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241027080000 +0000" stop="20241027140000 +0000" channel="4whxorjqf9eslqyao3hlj7392">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bnihmvt1i6dgqcu0xah3n71h4_image-header_pEs_1729233547000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final</title>
+    <desc lang="es">Sigue en DAZN la final del Guangzhou Open. Se trata de un torneo WTA 250 que se disputa sobre superficie dura.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241028002000 +0000" stop="20241028042000 +0000" channel="e96yl1pwnd85nvzqn8y5haw44">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ffis1mg4rwzk1vn98xt76ls5r_image-header_pEs_1715861218000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cowboys @ 49ers</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241028190000 +0000" stop="20241028213000 +0000" channel="1cqnsr46elf4casvni9ohqgjy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e312optl546bcphsexkeycpwf_image-header_pEs_1724764820000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 - Jornada 11</title>
+    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241028193000 +0000" stop="20241029013000 +0000" channel="1un9eduku69si82uci9ilh7bu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ectkgey7ecem1ucg7o84usbvs_image-header_pEs_1721216847000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP - Tailandia</title>
+    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241028200000 +0000" stop="20241029020000 +0000" channel="dibnu9jfrbpuhddnt72tp1gbv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2xau7s9kq0j1ial2kxisrnh7_image-header_pEs_1721218904000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código F1 - México</title>
+    <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de México.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
