@@ -1,25 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Oct 22 00:00:23 2024">
-  <channel id="d3qxpdc1q4tpjjsh9bt5165g4">
-    <display-name>d3qxpdc1q4tpjjsh9bt5165g4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uk5m3hh4vqp1evro59i5dj16_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="d6gb3o6kzlz87gywb9bzj7od0">
-    <display-name>d6gb3o6kzlz87gywb9bzj7od0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ensca5v6y2bl1pkidvglw794k_image-header_pEs_1715861222000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="eyq6gjmei589m48yh0h1sslv5">
-    <display-name>eyq6gjmei589m48yh0h1sslv5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15frub4sbitq41o007ejre4trw_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9ms43rwdo69q6zbof42vx2s0v">
-    <display-name>9ms43rwdo69q6zbof42vx2s0v</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6h5nsoeyoooj35k1jcbxiuewy_image-header_pEs_1718873174000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="59azjwi70ebia3557t8rj6fru">
-    <display-name>59azjwi70ebia3557t8rj6fru</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e205q7pw2k10dvit2ed96z4a2_image-header_pEs_1728918413000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Tue Oct 22 16:00:42 2024">
   <channel id="dhihpao45iz3p7ra0fjhwisxs">
     <display-name>dhihpao45iz3p7ra0fjhwisxs</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54e4axqs2ddfn0zyi0tkb088k_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
@@ -412,10 +392,6 @@
     <display-name>e6qlnkac3y6n2hb1vvi3xy0wk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13er9ey8wnnwq128qokouhhdgm_image-header_pEs_1713281895000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="b0zhygeufydrvan0wj6t17b2z">
-    <display-name>b0zhygeufydrvan0wj6t17b2z</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dfktslzxrephlmocswbdsqwp2_image-header_pEs_1728917746000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="4s7nnjeimyuww8lain7msjcot">
     <display-name>4s7nnjeimyuww8lain7msjcot</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76xj9svy1ackbfkb7fqbgfu0s_image-header_pEs_1729187452000/fill/none/top/none/85/300/180/webp/image"/>
@@ -476,36 +452,26 @@
     <display-name>dibnu9jfrbpuhddnt72tp1gbv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2xau7s9kq0j1ial2kxisrnh7_image-header_pEs_1721218904000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241021220000 +0000" stop="20241022020000 +0000" channel="d3qxpdc1q4tpjjsh9bt5165g4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uk5m3hh4vqp1evro59i5dj16_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ravens @ Buccaneers</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241022000000 +0000" stop="20241022040000 +0000" channel="d6gb3o6kzlz87gywb9bzj7od0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ensca5v6y2bl1pkidvglw794k_image-header_pEs_1715861222000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Chargers @ Cardinals</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241022001500 +0000" stop="20241022041500 +0000" channel="eyq6gjmei589m48yh0h1sslv5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15frub4sbitq41o007ejre4trw_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ravens @ Buccaneers (en español)</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241022020000 +0000" stop="20241022080000 +0000" channel="9ms43rwdo69q6zbof42vx2s0v">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6h5nsoeyoooj35k1jcbxiuewy_image-header_pEs_1718873174000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 2</title>
-    <desc lang="es">Disfruta del Toray Pan Pacific Open Tennis Tournament, torneo WTA 500 que se disputa en la ciudad japonesa de Tokio y que en esta edición de 2024 contará con la presencia de tenistas de primer nivel como Jessica Pegula, Emma​ Navarro, Maria Sakkari o la española Paula Badosa. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241022070000 +0000" stop="20241022090000 +0000" channel="59azjwi70ebia3557t8rj6fru">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e205q7pw2k10dvit2ed96z4a2_image-header_pEs_1728918413000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 2</title>
-    <desc lang="es">Disfruta de la segunda jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
+  <channel id="59azjwi70ebia3557t8rj6fru">
+    <display-name>59azjwi70ebia3557t8rj6fru</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90sxmedt03jg2lj23zkjoweli_image-header_pEs_1728918413000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="azzqz1bra0reua59agfdv3dts">
+    <display-name>azzqz1bra0reua59agfdv3dts</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pvywiig77u4teyzy8rnrevs5_image-header_pEs_1729595470000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1iz02gu0mygg692m8g6c3xgjo">
+    <display-name>1iz02gu0mygg692m8g6c3xgjo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11hb7oiwcalr61bmbftfbcnt1d_image-header_pEs_1729604664000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="839yno2isoogskidhb0545bzl">
+    <display-name>839yno2isoogskidhb0545bzl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5ebpf35bojys2jnfv9q9urgn_image-header_pEs_1729510377000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2azieba0jqscnj2s2709pr6hk">
+    <display-name>2azieba0jqscnj2s2709pr6hk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t35n8kx8io9l1xdlxn4kattjf_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241022160000 +0000" stop="20241022183000 +0000" channel="dhihpao45iz3p7ra0fjhwisxs">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54e4axqs2ddfn0zyi0tkb088k_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">La Central</title>
@@ -1094,12 +1060,6 @@
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20241021070000 +0000" stop="20241021230000 +0000" channel="b0zhygeufydrvan0wj6t17b2z">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dfktslzxrephlmocswbdsqwp2_image-header_pEs_1728917746000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 1</title>
-    <desc lang="es">Disfruta de la primera jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
   <programme start="20241025230000 +0000" stop="20241026050000 +0000" channel="4s7nnjeimyuww8lain7msjcot">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76xj9svy1ackbfkb7fqbgfu0s_image-header_pEs_1729187452000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rashidi Ellis vs. Brian Chaves</title>
@@ -1189,5 +1149,35 @@
     <title lang="es">Código F1 - México</title>
     <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de México.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241022080000 +0000" stop="20241023000000 +0000" channel="59azjwi70ebia3557t8rj6fru">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90sxmedt03jg2lj23zkjoweli_image-header_pEs_1728918413000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Catalunya Open - Día 2</title>
+    <desc lang="es">Disfruta de la segunda jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241023160000 +0000" stop="20241023220000 +0000" channel="azzqz1bra0reua59agfdv3dts">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pvywiig77u4teyzy8rnrevs5_image-header_pEs_1729595470000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Usyk vs. Fury 2 - Rueda de prensa</title>
+    <desc lang="es">Vive en DAZN la rueda de prensa. Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241025190000 +0000" stop="20241025213000 +0000" channel="1iz02gu0mygg692m8g6c3xgjo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11hb7oiwcalr61bmbftfbcnt1d_image-header_pEs_1729604664000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inside Al Nassr</title>
+    <desc lang="es">Our host will be joined by guests to review the latest Al Nassr games with lively chat, debate, and analysis. The show will include interviews and training ground access to players and backroom staff, as well as regular look at star man Ronaldo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241026220000 +0000" stop="20241027040000 +0000" channel="839yno2isoogskidhb0545bzl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5ebpf35bojys2jnfv9q9urgn_image-header_pEs_1729510377000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Topuria vs. Holloway (El post)</title>
+    <desc lang="es">Ilia Topuria, el campeón hispano-georgiano del peso pluma de la UFC, se medirá al estadounidense Max Holloway, ex campeón de la división y actual número dos del ranking. Será la primera vez que Topuria ponga en juego su título vez desde que lo conquistó en febrero ante Alexander Volkanovski.¡Disfruta de todo el post del combate, en DAZN, a través de los canales de Eurosport!</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241027170000 +0000" stop="20241027210000 +0000" channel="2azieba0jqscnj2s2709pr6hk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t35n8kx8io9l1xdlxn4kattjf_image-header_pEs_1715861217000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Titans @ Lions (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
