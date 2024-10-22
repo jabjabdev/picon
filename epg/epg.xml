@@ -1,25 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Oct 22 16:00:42 2024">
-  <channel id="dhihpao45iz3p7ra0fjhwisxs">
-    <display-name>dhihpao45iz3p7ra0fjhwisxs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54e4axqs2ddfn0zyi0tkb088k_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="77uv511un2tdkn80vzysr2s5w">
-    <display-name>77uv511un2tdkn80vzysr2s5w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5am1kp0k0b4kit9fg1t2vtzfc_image-header_pEs_1727881112000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7g88rqse6uplfumtg4i9lgefo">
-    <display-name>7g88rqse6uplfumtg4i9lgefo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/842jzibup6r6geamd2tbifq4n_image-header_pEs_1727881548000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7wr2dgwxu4pdc5yrygni7pul0">
-    <display-name>7wr2dgwxu4pdc5yrygni7pul0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/euwmsh67syws5lgs7njkr3g9x_image-header_pEs_1727880892000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="86febls6uy2o3c6gplrt6bx1w">
-    <display-name>86febls6uy2o3c6gplrt6bx1w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9f9ygwum1na39g9tmgg1oqbl4_image-header_pEs_1727881700000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Tue Oct 22 22:38:21 2024">
   <channel id="7qxfjze5hn81znqptufsb4s0z">
     <display-name>7qxfjze5hn81znqptufsb4s0z</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6khpoy0vnyy87gflmjonb4t6_image-header_pEs_1728913341000/fill/none/top/none/85/300/180/webp/image"/>
@@ -472,36 +452,6 @@
     <display-name>2azieba0jqscnj2s2709pr6hk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t35n8kx8io9l1xdlxn4kattjf_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241022160000 +0000" stop="20241022183000 +0000" channel="dhihpao45iz3p7ra0fjhwisxs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54e4axqs2ddfn0zyi0tkb088k_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">La Central</title>
-    <desc lang="es">Andrea Segura y Sandra Requelme vuelven una semana más a contarnos lo que ha dejado la segunda jornada de UWCL y los mejores momentos de los encuentros de Liga F. Charlamos con las protagonistas, conocemos sus historias y mucho más. ¡No te lo pierdas!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241022164500 +0000" stop="20241022181500 +0000" channel="77uv511un2tdkn80vzysr2s5w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5am1kp0k0b4kit9fg1t2vtzfc_image-header_pEs_1727881112000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GOG - Abanca Ademar León</title>
-    <desc lang="es">Vive el encuentro de EHF European League entre Ademar León y GOG.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20241022164500 +0000" stop="20241022181500 +0000" channel="7g88rqse6uplfumtg4i9lgefo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/842jzibup6r6geamd2tbifq4n_image-header_pEs_1727881548000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fraikin BM Granollers - Bjerringbro-Silkeborg</title>
-    <desc lang="es">Vive el encuentro de EHF European League entre Granollers y Bjerringbro.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20241022164500 +0000" stop="20241022181500 +0000" channel="7wr2dgwxu4pdc5yrygni7pul0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/euwmsh67syws5lgs7njkr3g9x_image-header_pEs_1727880892000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">CSM Constanta - Bidasoa Irun</title>
-    <desc lang="es">Vive el encuentro de EHF European League entre CSM Constanța y Bidasoa.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20241022184500 +0000" stop="20241022201500 +0000" channel="86febls6uy2o3c6gplrt6bx1w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9f9ygwum1na39g9tmgg1oqbl4_image-header_pEs_1727881700000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Vojvodina - Bathco Bm Torrelavega</title>
-    <desc lang="es">Vive el encuentro de EHF European League entre Vojvodina y Torrelavega.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
   <programme start="20241022210000 +0000" stop="20241023030000 +0000" channel="7qxfjze5hn81znqptufsb4s0z">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6khpoy0vnyy87gflmjonb4t6_image-header_pEs_1728913341000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ariel x Ade - The Boxing Show</title>
