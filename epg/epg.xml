@@ -1,17 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 23 00:00:27 2024">
-  <channel id="6vd8ysvul8nii54e7khnj28q3">
-    <display-name>6vd8ysvul8nii54e7khnj28q3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckiu383lyxiurrqdcicauvtpg_image-header_pEs_1727878871000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8rtdrff3xatr68pl0wo7mmg66">
-    <display-name>8rtdrff3xatr68pl0wo7mmg66</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avyb8n1v7hceyzbat4kgq196n_image-header_pEs_1728918690000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="27bx95vkxez2od36938nooutw">
-    <display-name>27bx95vkxez2od36938nooutw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xc6lndpwu9vdcv68btps1zdg_image-header_pEs_1728037257000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Wed Oct 23 16:00:42 2024">
   <channel id="2kjuquorhli2d2v8fnbn0nbis">
     <display-name>2kjuquorhli2d2v8fnbn0nbis</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9wwkpll0mcxqrp4jclpb9rwje_image-header_pEs_1727717682000/fill/none/top/none/85/300/180/webp/image"/>
@@ -428,10 +416,6 @@
     <display-name>dibnu9jfrbpuhddnt72tp1gbv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2xau7s9kq0j1ial2kxisrnh7_image-header_pEs_1721218904000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="59azjwi70ebia3557t8rj6fru">
-    <display-name>59azjwi70ebia3557t8rj6fru</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90sxmedt03jg2lj23zkjoweli_image-header_pEs_1728918413000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="azzqz1bra0reua59agfdv3dts">
     <display-name>azzqz1bra0reua59agfdv3dts</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pvywiig77u4teyzy8rnrevs5_image-header_pEs_1729595470000/fill/none/top/none/85/300/180/webp/image"/>
@@ -447,10 +431,6 @@
   <channel id="2azieba0jqscnj2s2709pr6hk">
     <display-name>2azieba0jqscnj2s2709pr6hk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t35n8kx8io9l1xdlxn4kattjf_image-header_pEs_1715861217000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200356689c0ch20080">
-    <display-name>esp-e200356689c0ch20080</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200356689_20241021-205742.jpeg"/>
   </channel>
   <channel id="afba06if4fwtgtppz3vtbs3e5">
     <display-name>afba06if4fwtgtppz3vtbs3e5</display-name>
@@ -504,24 +484,10 @@
     <display-name>87we4zzfmdrj0f7bw6xhpdhck</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25damp79ehvsqw9jjcsfxcgt3_image-header_pEs_1727887606000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241023020000 +0000" stop="20241023080000 +0000" channel="6vd8ysvul8nii54e7khnj28q3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckiu383lyxiurrqdcicauvtpg_image-header_pEs_1727878871000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 3</title>
-    <desc lang="es">Disfruta del Toray Pan Pacific Open Tennis Tournament, torneo WTA 500 que se disputa en la ciudad japonesa de Tokio y que en esta edición de 2024 contará con la presencia de tenistas de primer nivel como Jessica Pegula, Emma​ Navarro, Maria Sakkari o la española Paula Badosa. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241023100000 +0000" stop="20241023120000 +0000" channel="8rtdrff3xatr68pl0wo7mmg66">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avyb8n1v7hceyzbat4kgq196n_image-header_pEs_1728918690000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 3</title>
-    <desc lang="es">Disfruta de la tercera jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20241023101000 +0000" stop="20241023134000 +0000" channel="27bx95vkxez2od36938nooutw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xc6lndpwu9vdcv68btps1zdg_image-header_pEs_1728037257000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Suwon Sonicboom - Taoyuan Pauian Pilots</title>
-    <desc lang="es">Vive el encuentro de East Asia Super League entre Suwon Sonicboom y Taoyuan Pauian Pilots.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
+  <channel id="8rtdrff3xatr68pl0wo7mmg66">
+    <display-name>8rtdrff3xatr68pl0wo7mmg66</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/284lumulnt1wfhuo2nmpj95tu_image-header_pEs_1728918690000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241023111000 +0000" stop="20241023144000 +0000" channel="2kjuquorhli2d2v8fnbn0nbis">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9wwkpll0mcxqrp4jclpb9rwje_image-header_pEs_1727717682000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">New Taipei Kings - Macau Black Bears</title>
@@ -1146,12 +1112,6 @@
     <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de México.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20241022080000 +0000" stop="20241023000000 +0000" channel="59azjwi70ebia3557t8rj6fru">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90sxmedt03jg2lj23zkjoweli_image-header_pEs_1728918413000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 2</title>
-    <desc lang="es">Disfruta de la segunda jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
   <programme start="20241023160000 +0000" stop="20241023220000 +0000" channel="azzqz1bra0reua59agfdv3dts">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pvywiig77u4teyzy8rnrevs5_image-header_pEs_1729595470000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Usyk vs. Fury 2 - Rueda de prensa</title>
@@ -1175,24 +1135,6 @@
     <title lang="es">Titans @ Lions (en Español)</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241022201744 +0000" stop="20241022221744 +0000" channel="esp-e200356689c0ch20080">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200356689_20241021-205742.jpeg"/>
-    <title lang="es">Zhou Yuelong - Shaun Murphy </title>
-    <desc lang="es">Open Irlanda del Norte | 2ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241022201744 +0000" stop="20241022221744 +0000" channel="esp-e200356689c0ch20080">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200356689_20241021-205742.jpeg"/>
-    <title lang="es">Zhou Yuelong - Shaun Murphy </title>
-    <desc lang="es">Open Irlanda del Norte | 2ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241022201744 +0000" stop="20241022221744 +0000" channel="esp-e200356689c0ch20080">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200356689_20241021-205742.jpeg"/>
-    <title lang="es">Zhou Yuelong - Shaun Murphy </title>
-    <desc lang="es">Open Irlanda del Norte | 2ª ronda</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20241027202500 +0000" stop="20241028002500 +0000" channel="afba06if4fwtgtppz3vtbs3e5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bydlrn64m3ry1ry94yof7hnww_image-header_pEs_1715861219000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1271,5 +1213,11 @@
     <title lang="es">Bathco Bm Torrelavega - Vojvodina</title>
     <desc lang="es">Vive el encuentro de EHF European League entre Vojvodina y Torrelavega.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20241023100000 +0000" stop="20241023180000 +0000" channel="8rtdrff3xatr68pl0wo7mmg66">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/284lumulnt1wfhuo2nmpj95tu_image-header_pEs_1728918690000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Catalunya Open - Día 3</title>
+    <desc lang="es">Disfruta de la tercera jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
