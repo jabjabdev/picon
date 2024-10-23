@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 23 16:00:42 2024">
-  <channel id="2kjuquorhli2d2v8fnbn0nbis">
-    <display-name>2kjuquorhli2d2v8fnbn0nbis</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9wwkpll0mcxqrp4jclpb9rwje_image-header_pEs_1727717682000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Thu Oct 24 00:00:30 2024">
   <channel id="7zqih65gogqj4xhlruyy49mhg">
     <display-name>7zqih65gogqj4xhlruyy49mhg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7w6bhqlgxnhgbu0lnucdt5c5a_image-header_pEs_1727906239000/fill/none/top/none/85/300/180/webp/image"/>
@@ -484,16 +480,66 @@
     <display-name>87we4zzfmdrj0f7bw6xhpdhck</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25damp79ehvsqw9jjcsfxcgt3_image-header_pEs_1727887606000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="8rtdrff3xatr68pl0wo7mmg66">
-    <display-name>8rtdrff3xatr68pl0wo7mmg66</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/284lumulnt1wfhuo2nmpj95tu_image-header_pEs_1728918690000/fill/none/top/none/85/300/180/webp/image"/>
+  <channel id="bjqjbxn359948xdnf4cpsoftg">
+    <display-name>bjqjbxn359948xdnf4cpsoftg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cq2gfuwq66o4f1s9fk1k4kjod_image-header_pEs_1725881108000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241023111000 +0000" stop="20241023144000 +0000" channel="2kjuquorhli2d2v8fnbn0nbis">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9wwkpll0mcxqrp4jclpb9rwje_image-header_pEs_1727717682000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">New Taipei Kings - Macau Black Bears</title>
-    <desc lang="es">Vive el encuentro de East Asia Super League entre New Taipei Kings y Macau Black Bears.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
+  <channel id="1bti3ffty97fli0irk6sdpkjh">
+    <display-name>1bti3ffty97fli0irk6sdpkjh</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5niiieqym1jrfc10i91xmc4ap_image-header_pEs_1729514927000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dd7yg4hxthp8k6rccebnx8kd0">
+    <display-name>dd7yg4hxthp8k6rccebnx8kd0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3gkukoo4zilt4137klweoyat9_image-header_pEs_1719304394000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9wc9pkerzxifc4zvzqsna6pik">
+    <display-name>9wc9pkerzxifc4zvzqsna6pik</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cn4kmdi4lw98bnnowp9nn41d3_image-header_pEs_1718459521000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7i6yo4u1567yyhe4zzgn0usj5">
+    <display-name>7i6yo4u1567yyhe4zzgn0usj5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/s6w1re75kbht1092r06wna179_image-header_pEs_1720448470000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dqad16de7x5mtjhrzbrtbcqky">
+    <display-name>dqad16de7x5mtjhrzbrtbcqky</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djzewd2wlimof9hx4sg987t6z_image-header_pEs_1727491936000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dt5m85ynzcf5op8r1o53dwmks">
+    <display-name>dt5m85ynzcf5op8r1o53dwmks</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3s5fo2dobeu0kza8drcf7ojm8_image-header_pEs_1727695896000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2usv8on5ld0mzkr8mzfez9guc">
+    <display-name>2usv8on5ld0mzkr8mzfez9guc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13h05lem8agwm1hrzuzx1eg7yh_image-header_pEs_1720432734000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4hy53sl3x6mhtq2fb0htjq2ty">
+    <display-name>4hy53sl3x6mhtq2fb0htjq2ty</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2uub8ed5mbkx9snyzhhgv8w9d_image-header_pEs_1718027722000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="27xqko3t2hsc06ho1sksln09g">
+    <display-name>27xqko3t2hsc06ho1sksln09g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6vnsj3hxldtcki0o24omzyag_image-header_pEs_1729280135000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2l6jhjybzhewlwhdpm5h1ohzo">
+    <display-name>2l6jhjybzhewlwhdpm5h1ohzo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2lkh54fav82l5o7g01tqbuvm_image-header_pEs_1727842530000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ag12ttnz6mdai25s0u9bxgqac">
+    <display-name>ag12ttnz6mdai25s0u9bxgqac</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e3d5bdix3x73btxbg29ubogm_image-header_pEs_1729526332000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aibazpxclot9xnxlc4nwr8844">
+    <display-name>aibazpxclot9xnxlc4nwr8844</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8cb3psltqg69tycjm9yp1c5op_image-header_pEs_1726173539000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="agsrh3qwmw2sttv85q6sjl34k">
+    <display-name>agsrh3qwmw2sttv85q6sjl34k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dckzn78w0gvocjd2351ap9j0_image-header_pEs_1729514362000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aetna8d11607uzd5ks2e91fkk">
+    <display-name>aetna8d11607uzd5ks2e91fkk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dv9szucpcwuq87of1qplpk3zk_image-header_pEs_1726256880000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241023184500 +0000" stop="20241023221500 +0000" channel="7zqih65gogqj4xhlruyy49mhg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7w6bhqlgxnhgbu0lnucdt5c5a_image-header_pEs_1727906239000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Leicester Riders - Surrey 89ers</title>
@@ -1214,10 +1260,94 @@
     <desc lang="es">Vive el encuentro de EHF European League entre Vojvodina y Torrelavega.</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20241023100000 +0000" stop="20241023180000 +0000" channel="8rtdrff3xatr68pl0wo7mmg66">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/284lumulnt1wfhuo2nmpj95tu_image-header_pEs_1728918690000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 3</title>
-    <desc lang="es">Disfruta de la tercera jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
+  <programme start="20241026051500 +0000" stop="20241026111500 +0000" channel="bjqjbxn359948xdnf4cpsoftg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cq2gfuwq66o4f1s9fk1k4kjod_image-header_pEs_1725881108000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Boost Mobile Gold Coast 500 - Carrera 1</title>
+    <desc lang="es">La ciudad australiana de Gold Coast acoge la undécima prueba de Supercars Championship 2024. ¡No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241026124500 +0000" stop="20241026184500 +0000" channel="1bti3ffty97fli0irk6sdpkjh">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5niiieqym1jrfc10i91xmc4ap_image-header_pEs_1729514927000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Petchthongchai vs. Pearse</title>
+    <desc lang="es">Disfruta de una nueva velada de MMA de la mano de RWS Muay Thai World Series. El tailandés Petchthongchai se enfrenta al británico Alfie Pearse en uno de los combates de la Final four de la categoría de peso superligero.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241027041500 +0000" stop="20241027101500 +0000" channel="dd7yg4hxthp8k6rccebnx8kd0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3gkukoo4zilt4137klweoyat9_image-header_pEs_1719304394000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Boost Mobile Gold Coast 500 - Carrera 2</title>
+    <desc lang="es">La ciudad australiana de Gold Coast acoge la undécima prueba de Supercars Championship 2024. ¡No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241027085300 +0000" stop="20241027145300 +0000" channel="9wc9pkerzxifc4zvzqsna6pik">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cn4kmdi4lw98bnnowp9nn41d3_image-header_pEs_1718459521000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Portimao - Carrera 1</title>
+    <desc lang="es">No te pierdas un nuevo gran fin de semanas en el Iberian Supercars esta vez desde tierras portuguesas, concretamente desde Portimao.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241027130000 +0000" stop="20241027150000 +0000" channel="7i6yo4u1567yyhe4zzgn0usj5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/s6w1re75kbht1092r06wna179_image-header_pEs_1720448470000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Abierto de Irlanda del Norte - Final - Sesión 1</title>
+    <desc lang="es">¡Disfruta del Campeonato mundial de Snooker! Esta vez la competición para en Irlanda del Norte. La calidad del recinto y el entusiasmo de los aficionados locales lo han convertido en uno de los lugares más populares. Veremos si Judd Trump puede revalidar el título y ganarlo por quinta vez. ¡No te lo pierdas!</desc>
+    <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20241027154200 +0000" stop="20241027214200 +0000" channel="dqad16de7x5mtjhrzbrtbcqky">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djzewd2wlimof9hx4sg987t6z_image-header_pEs_1727491936000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Portimao - Carrera 2</title>
+    <desc lang="es">No te pierdas un nuevo gran fin de semanas en el Iberian Supercars esta vez desde tierras portuguesas, concretamente desde Portimao.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241027170000 +0000" stop="20241027193000 +0000" channel="dt5m85ynzcf5op8r1o53dwmks">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3s5fo2dobeu0kza8drcf7ojm8_image-header_pEs_1727695896000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - Juventus</title>
+    <desc lang="es">Sigue en DAZN una nueva jornada de la Serie A con el clásico del fútbol italiano entre el Inter y la Juventus.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241027184500 +0000" stop="20241027204500 +0000" channel="2usv8on5ld0mzkr8mzfez9guc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13h05lem8agwm1hrzuzx1eg7yh_image-header_pEs_1720432734000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Abierto de Irlanda del Norte - Final - Sesión 2</title>
+    <desc lang="es">¡Disfruta del Campeonato mundial de Snooker! Esta vez la competición para en Irlanda del Norte. La calidad del recinto y el entusiasmo de los aficionados locales lo han convertido en uno de los lugares más populares. Veremos si Judd Trump puede revalidar el título y ganarlo por quinta vez. ¡No te lo pierdas!</desc>
+    <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20241030100000 +0000" stop="20241030120000 +0000" channel="4hy53sl3x6mhtq2fb0htjq2ty">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2uub8ed5mbkx9snyzhhgv8w9d_image-header_pEs_1718027722000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Octavos de final</title>
+    <desc lang="es">Disfruta de los octavos de final del Lanzarote Open, el último torneo de la gira europea del circuito internacional A1 Padel. ¡No te lo pierdas!</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241030114000 +0000" stop="20241030151000 +0000" channel="27xqko3t2hsc06ho1sksln09g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6vnsj3hxldtcki0o24omzyag_image-header_pEs_1729280135000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hong Kong Eastern - Hiroshima Dragonflies</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre Hong Kong Eastern y Hiroshima Dragonflies.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241030121000 +0000" stop="20241030154000 +0000" channel="2l6jhjybzhewlwhdpm5h1ohzo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2lkh54fav82l5o7g01tqbuvm_image-header_pEs_1727842530000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Macau Black Bears - Ryukyu Golden Kings</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre Macau Black Bears y Ryukyu Golden Kings.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241030173000 +0000" stop="20241030200000 +0000" channel="ag12ttnz6mdai25s0u9bxgqac">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e3d5bdix3x73btxbg29ubogm_image-header_pEs_1729526332000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Empoli - Inter</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Internazionale y Empoli.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241030173000 +0000" stop="20241030200000 +0000" channel="aibazpxclot9xnxlc4nwr8844">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8cb3psltqg69tycjm9yp1c5op_image-header_pEs_1726173539000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Venezia - Udinese</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Udinese y Venezia.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241030194500 +0000" stop="20241030221500 +0000" channel="agsrh3qwmw2sttv85q6sjl34k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dckzn78w0gvocjd2351ap9j0_image-header_pEs_1729514362000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Juventus - Parma</title>
+    <desc lang="es">Sigue en DAZN una nueva jornada de la Serie A con el partido entre la Juventus y el Parma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241030194500 +0000" stop="20241030221500 +0000" channel="aetna8d11607uzd5ks2e91fkk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dv9szucpcwuq87of1qplpk3zk_image-header_pEs_1726256880000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Atalanta - Monza</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Monza.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
