@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Oct 24 16:00:46 2024">
-  <channel id="8dg35wavo10acm7es1wjcm784">
-    <display-name>8dg35wavo10acm7es1wjcm784</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oyy2rh30l3n1ass7vzqdd0i4_image-header_pEs_1725656347000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bxltht37jshkakmnvvzcheot0">
-    <display-name>bxltht37jshkakmnvvzcheot0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/70bmkb6bym0l2y0ogsmzkzrdr_image-header_pEs_1725656347000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Fri Oct 25 00:00:28 2024">
   <channel id="8ki3888no9qvsel2a0f3r3pm3">
     <display-name>8ki3888no9qvsel2a0f3r3pm3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bh3tr4q89a6pb48dnuh4o2nwl_image-header_pEs_1718026876000/fill/none/top/none/85/300/180/webp/image"/>
@@ -516,26 +508,46 @@
     <display-name>aetna8d11607uzd5ks2e91fkk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dv9szucpcwuq87of1qplpk3zk_image-header_pEs_1726256880000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="75o9tk2hk506osap58rp3xlv2">
-    <display-name>75o9tk2hk506osap58rp3xlv2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8tw7l9ff11fpaknvxnq0yyday_image-header_pEs_1728918943000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="b6zijnguokoomclj2y2001m38">
     <display-name>b6zijnguokoomclj2y2001m38</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/426q4o3fuzic1wnsbh7bxnf14_image-header_pEs_1729688563000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241024164500 +0000" stop="20241024181500 +0000" channel="8dg35wavo10acm7es1wjcm784">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oyy2rh30l3n1ass7vzqdd0i4_image-header_pEs_1725656347000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Füchse Berlin - PSG</title>
-    <desc lang="es">Vive el encuentro de EHF Champions League entre PSG y Füchse Berlin.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20241024184500 +0000" stop="20241024201500 +0000" channel="bxltht37jshkakmnvvzcheot0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/70bmkb6bym0l2y0ogsmzkzrdr_image-header_pEs_1725656347000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Barça - SC Magdeburg</title>
-    <desc lang="es">Vive el encuentro de EHF Champions League entre Barcelona y Magdeburg.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
+  <channel id="3mwwoxami7zhuq6x8iqjgfa3d">
+    <display-name>3mwwoxami7zhuq6x8iqjgfa3d</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34wg9em2vbd2extzrhx8x7xt3_image-header_pEs_1728899258000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b6mk14flp7mcrf67zytqy290c">
+    <display-name>b6mk14flp7mcrf67zytqy290c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94asp6wphtavjm1jg2op1n574_image-header_pEs_1729611015000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="70mide8aq3spkvi69c0s1u2w5">
+    <display-name>70mide8aq3spkvi69c0s1u2w5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebjrfldaqxphserfla0arwn46_image-header_pEs_1728920353000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1odnraatnp3ua2of2zs6oddqy">
+    <display-name>1odnraatnp3ua2of2zs6oddqy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c4a4arggxqs641uv9ujt1hkvo_image-header_pEs_1718807527000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="agenq95ftn129yidikeppo3ro">
+    <display-name>agenq95ftn129yidikeppo3ro</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yxhoyf71or4bu33052i9vtg_image-header_pEs_1729525611000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ahxplfcghmn4qn9vbaih6kcgk">
+    <display-name>ahxplfcghmn4qn9vbaih6kcgk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9qofaobdkzcyn2h3gkjubp02_image-header_pEs_1726256880000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aflrsjijdrxnc3be07cbe7m6s">
+    <display-name>aflrsjijdrxnc3be07cbe7m6s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/63uph0z03uz3u5m11sivl2du5_image-header_pEs_1726256880000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bzoke5tulnwv6j2u3mpqbv3f8">
+    <display-name>bzoke5tulnwv6j2u3mpqbv3f8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sta7gxwebyl1xmtqm5ns2bv4_image-header_pEs_1726443318000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2xv7ymybqk7nkdrs4qlxe9ody">
+    <display-name>2xv7ymybqk7nkdrs4qlxe9ody</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5if984lysia7omec19mfv0r7g_image-header_pEs_1729762221000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241024191500 +0000" stop="20241025011500 +0000" channel="8ki3888no9qvsel2a0f3r3pm3">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bh3tr4q89a6pb48dnuh4o2nwl_image-header_pEs_1718026876000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Box, Box - México</title>
@@ -1298,16 +1310,64 @@
     <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Monza.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20241024100000 +0000" stop="20241024180000 +0000" channel="75o9tk2hk506osap58rp3xlv2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8tw7l9ff11fpaknvxnq0yyday_image-header_pEs_1728918943000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Catalunya Open - Día 4</title>
-    <desc lang="es">Disfruta de la cuarta jornada del Catalunya Open de A1 Pádel que se celebra en el The Club Padel Bages de Manresa.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
   <programme start="20241025161500 +0000" stop="20241025184500 +0000" channel="b6zijnguokoomclj2y2001m38">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/426q4o3fuzic1wnsbh7bxnf14_image-header_pEs_1729688563000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Italia - Malta</title>
     <desc lang="es">Vive el encuentro de Friendlies Women entre Italy y Malta.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241025184500 +0000" stop="20241025211500 +0000" channel="3mwwoxami7zhuq6x8iqjgfa3d">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34wg9em2vbd2extzrhx8x7xt3_image-header_pEs_1728899258000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Como</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Como y Torino.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241031080000 +0000" stop="20241031140000 +0000" channel="b6mk14flp7mcrf67zytqy290c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94asp6wphtavjm1jg2op1n574_image-header_pEs_1729611015000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">GP PETRONAS de Malasia - Paddock Abierto (by Aprilia)</title>
+    <desc lang="es">Disfruta de 'Paddock Abierto (by Aprilia)' desde el circuito de Sepang para no perderte la mejor previa del GP de Malasia de MotoGP 2024.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241031120000 +0000" stop="20241031140000 +0000" channel="70mide8aq3spkvi69c0s1u2w5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebjrfldaqxphserfla0arwn46_image-header_pEs_1728920353000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lanzarote Open - Cuartos de final</title>
+    <desc lang="es">Disfruta de los cuartos de final del Lanzarote Open, el último torneo de la gira europea del circuito internacional A1 Padel. ¡No te lo pierdas!</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241031151500 +0000" stop="20241031211500 +0000" channel="1odnraatnp3ua2of2zs6oddqy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c4a4arggxqs641uv9ujt1hkvo_image-header_pEs_1718807527000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - Brasil</title>
+    <desc lang="es">Disfruta del mejor programa previo al Gran Premio de Brasil dirigido por el gran Tomás Slafer. El mejor análisis, conexiones en directo con el circuito, declaraciones de los pilotos, ruedas de prensa a tiempo real... y mucho más.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241031173000 +0000" stop="20241031200000 +0000" channel="agenq95ftn129yidikeppo3ro">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yxhoyf71or4bu33052i9vtg_image-header_pEs_1729525611000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Genoa - Fiorentina</title>
+    <desc lang="es">Sigue en DAZN una nueva jornada de la Serie A con el partido entre el Genoa y la Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241031194500 +0000" stop="20241031221500 +0000" channel="ahxplfcghmn4qn9vbaih6kcgk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9qofaobdkzcyn2h3gkjubp02_image-header_pEs_1726256880000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AS Roma - Torino</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Torino y Roma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241031194500 +0000" stop="20241031221500 +0000" channel="aflrsjijdrxnc3be07cbe7m6s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/63uph0z03uz3u5m11sivl2du5_image-header_pEs_1726256880000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Lazio</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Lazio y Como.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241031194500 +0000" stop="20241031211500 +0000" channel="bzoke5tulnwv6j2u3mpqbv3f8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sta7gxwebyl1xmtqm5ns2bv4_image-header_pEs_1726443318000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">HBC Nantes - Barça</title>
+    <desc lang="es">Vive el encuentro de EHF Champions League entre Nantes y Barcelona.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20241031200000 +0000" stop="20241101020000 +0000" channel="2xv7ymybqk7nkdrs4qlxe9ody">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5if984lysia7omec19mfv0r7g_image-header_pEs_1729762221000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
