@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Oct 28 20:14:16 2024">
+<tv date="Mon Oct 28 20:32:48 2024">
   <channel id="avd5izjtdvnw7u93xb8xbvk0k">
     <display-name>avd5izjtdvnw7u93xb8xbvk0k</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/59lawfg67etebc2j5nj8qlw5k_image-header_pEs_1728858597000/fill/none/top/none/85/300/180/webp/image"/>
@@ -119,10 +119,6 @@
   <channel id="1cqnsr46elf4casvni9ohqgjy">
     <display-name>1cqnsr46elf4casvni9ohqgjy</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e312optl546bcphsexkeycpwf_image-header_pEs_1724764820000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1un9eduku69si82uci9ilh7bu">
-    <display-name>1un9eduku69si82uci9ilh7bu</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ectkgey7ecem1ucg7o84usbvs_image-header_pEs_1721216847000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="dibnu9jfrbpuhddnt72tp1gbv">
     <display-name>dibnu9jfrbpuhddnt72tp1gbv</display-name>
@@ -839,12 +835,6 @@
     <title lang="es">Super8 - Jornada 11</title>
     <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241028193000 +0000" stop="20241029013000 +0000" channel="1un9eduku69si82uci9ilh7bu">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ectkgey7ecem1ucg7o84usbvs_image-header_pEs_1721216847000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - Tailandia</title>
-    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241028200000 +0000" stop="20241029020000 +0000" channel="dibnu9jfrbpuhddnt72tp1gbv">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2xau7s9kq0j1ial2kxisrnh7_image-header_pEs_1721218904000/fill/none/top/none/85/600/360/webp/image"/>
