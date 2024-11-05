@@ -1,29 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 04 21:07:23 2024">
-  <channel id="cw6t6h5q1m477m56sx3aylret">
-    <display-name>cw6t6h5q1m477m56sx3aylret</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jjzlf2qans1c74gdbyiz1vfe_image-header_pEs_1730121902000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6odxa3al8lpv1n8isl4qqwoic">
-    <display-name>6odxa3al8lpv1n8isl4qqwoic</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/909ck5lwzygx90nqxiec9t7hd_image-header_pEs_1727970720000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="32odxm9hkse55an53ovscs2qg">
-    <display-name>32odxm9hkse55an53ovscs2qg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1o47iynxrx0a1160y0sd44ms_image-header_pEs_1728986958000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ayb4hc8bbqs5uiuu07fyuzqc4">
-    <display-name>ayb4hc8bbqs5uiuu07fyuzqc4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ikjm7g5budlz01q10fbrhd1f_image-header_pEs_1728996353000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7n9145ij48lixmbylj2at638">
-    <display-name>7n9145ij48lixmbylj2at638</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bwz9nefuv5zw1ql5u1tt69nae_image-header_pEs_1715861218000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8ljgk2aaa0fe5hfkp3pyuzoe1">
-    <display-name>8ljgk2aaa0fe5hfkp3pyuzoe1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/teodrhx9rlpf1tzfn7u3ny7jt_image-header_pEs_1715861218000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Tue Nov 05 09:31:04 2024">
   <channel id="ah89b1fnjpwqzd6f9g01ut1w6">
     <display-name>ah89b1fnjpwqzd6f9g01ut1w6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5u7p4s5rmqck9g2stmyd8jgpf_image-header_pEs_1718873174000/fill/none/top/none/85/300/180/webp/image"/>
@@ -119,10 +95,6 @@
   <channel id="acwimg7prrnethz9b4ncv78k4">
     <display-name>acwimg7prrnethz9b4ncv78k4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9uvjkom66mla6hfnehdrq1kpc_image-header_pEs_1730303096000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5yv8qlq06l27gmwl03gwzdjcd">
-    <display-name>5yv8qlq06l27gmwl03gwzdjcd</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0anvkdmzbbuhij2kwqhhh6q0_image-header_pEs_1730709457000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cu0pre9ii359zycck6h617uxi">
     <display-name>cu0pre9ii359zycck6h617uxi</display-name>
@@ -460,42 +432,30 @@
     <display-name>35y1xybvumcznsa7540icim8n</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jisiby92pl7z4h50fbynv5ay_image-header_pEs_1730708941000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241104190000 +0000" stop="20241104213000 +0000" channel="cw6t6h5q1m477m56sx3aylret">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jjzlf2qans1c74gdbyiz1vfe_image-header_pEs_1730121902000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Super8 - Jornada 12</title>
-    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241104193000 +0000" stop="20241104220000 +0000" channel="6odxa3al8lpv1n8isl4qqwoic">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/909ck5lwzygx90nqxiec9t7hd_image-header_pEs_1727970720000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">RC Celta - Getafe CF</title>
-    <desc lang="es">Narrador: Andrea Segura. Comentaristas: Casquero y David Fer. Narrador en gallego: Pablo Campos. Pie de campo: Irene Molina. Vive en DAZN una nueva jornada de LALIGA EASPORTS y vive con nosotros el partidazo entre RC Celta - Getafe CF. ¡No te lo pierdas!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241104194500 +0000" stop="20241104221500 +0000" channel="32odxm9hkse55an53ovscs2qg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1o47iynxrx0a1160y0sd44ms_image-header_pEs_1728986958000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Lazio - Cagliari</title>
-    <desc lang="es">Sigue en DAZN el partido de la Serie A italiana entre la Lazio y el Cagliari.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241104200000 +0000" stop="20241104223000 +0000" channel="ayb4hc8bbqs5uiuu07fyuzqc4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ikjm7g5budlz01q10fbrhd1f_image-header_pEs_1728996353000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fulham - Brentford</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Brentford y Fulham.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241104230000 +0000" stop="20241105030000 +0000" channel="7n9145ij48lixmbylj2at638">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bwz9nefuv5zw1ql5u1tt69nae_image-header_pEs_1715861218000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Buccaneers @ Chiefs</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241105011500 +0000" stop="20241105051500 +0000" channel="8ljgk2aaa0fe5hfkp3pyuzoe1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/teodrhx9rlpf1tzfn7u3ny7jt_image-header_pEs_1715861218000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Buccaneers @ Chiefs (en Español)</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
+  <channel id="5e93me37np2c0zskyfgk0acgd">
+    <display-name>5e93me37np2c0zskyfgk0acgd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bawwqy0o2dfs8tnx52f3eid20_image-header_pEs_1730307677000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4zse1578wcuykvfib6fvcew4n">
+    <display-name>4zse1578wcuykvfib6fvcew4n</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/k88yoqwzu6lkvxii03bk8ahi_image-header_pEs_1730572370000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="75lz00ix65afh84w6wr42hxi8">
+    <display-name>75lz00ix65afh84w6wr42hxi8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dosp8mdkk7dre9hr7qgoye49w_image-header_pEs_1723993151000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="141hk5cu31bs5czwt28u69ixg">
+    <display-name>141hk5cu31bs5czwt28u69ixg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nsmgex0yobl61jiv910hafevz_image-header_pEs_1720437036000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3hdhrr98kke7704ikaai6abdg">
+    <display-name>3hdhrr98kke7704ikaai6abdg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1n1il96fajku4i6u7kfo320iz">
+    <display-name>1n1il96fajku4i6u7kfo320iz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/88qll1k172edjn0gk70j2xplp_image-header_pEs_1724764820000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241105100000 +0000" stop="20241105160000 +0000" channel="ah89b1fnjpwqzd6f9g01ut1w6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5u7p4s5rmqck9g2stmyd8jgpf_image-header_pEs_1718873174000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 4</title>
@@ -639,12 +599,6 @@
     <title lang="es">Guingamp - Olympique Lyonnais</title>
     <desc lang="es">Vive el encuentro de Première Ligue entre Olympique Lyonnais y Guingamp.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241104160000 +0000" stop="20241104220000 +0000" channel="5yv8qlq06l27gmwl03gwzdjcd">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0anvkdmzbbuhij2kwqhhh6q0_image-header_pEs_1730709457000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 3 - Sesión de dobles - Sesión 2</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20241105100000 +0000" stop="20241105160000 +0000" channel="cu0pre9ii359zycck6h617uxi">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wgcycbi2u3eu7h66mz49wgqq_image-header_pEs_1730572370000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1149,5 +1103,41 @@
     <title lang="es">Día 5 - Sesión de dobles - Sesión 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241106123000 +0000" stop="20241106183000 +0000" channel="5e93me37np2c0zskyfgk0acgd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bawwqy0o2dfs8tnx52f3eid20_image-header_pEs_1730307677000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - Sesión de individual</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241106160000 +0000" stop="20241106220000 +0000" channel="4zse1578wcuykvfib6fvcew4n">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/k88yoqwzu6lkvxii03bk8ahi_image-header_pEs_1730572370000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - Sesión de dobles - Sesión 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241110220000 +0000" stop="20241111003000 +0000" channel="75lz00ix65afh84w6wr42hxi8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dosp8mdkk7dre9hr7qgoye49w_image-header_pEs_1723993151000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Análisis de la jornada 13</title>
+    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. El Post, presentado por Sandra Díaz y Alberto Edjogo, ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241111012000 +0000" stop="20241111052000 +0000" channel="141hk5cu31bs5czwt28u69ixg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nsmgex0yobl61jiv910hafevz_image-header_pEs_1720437036000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lions @ Texans</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241111170000 +0000" stop="20241111193000 +0000" channel="3hdhrr98kke7704ikaai6abdg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">SGS Essen - RB Leipzig</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre SGS Essen y RB Leipzig.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241111190000 +0000" stop="20241111213000 +0000" channel="1n1il96fajku4i6u7kfo320iz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/88qll1k172edjn0gk70j2xplp_image-header_pEs_1724764820000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 - Jornada 13</title>
+    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
