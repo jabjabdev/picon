@@ -1,17 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 05 09:31:04 2024">
-  <channel id="ah89b1fnjpwqzd6f9g01ut1w6">
-    <display-name>ah89b1fnjpwqzd6f9g01ut1w6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5u7p4s5rmqck9g2stmyd8jgpf_image-header_pEs_1718873174000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="60qyw47d9lqu5s30yc82zdw9f">
-    <display-name>60qyw47d9lqu5s30yc82zdw9f</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12bktlz36f9yopg3ax4keplz3_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8wiliauv024pgsle2u8d483gc">
-    <display-name>8wiliauv024pgsle2u8d483gc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13uhchdjxkpan1u7kicu75vlur_image-header_pEs_1729867330000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Wed Nov 06 09:40:19 2024">
   <channel id="237z71mbip5236yvtsuarzw20">
     <display-name>237z71mbip5236yvtsuarzw20</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/al12lxw8taogw0zi9v7xbg36u_image-header_pEs_1730307677000/fill/none/top/none/85/300/180/webp/image"/>
@@ -95,10 +83,6 @@
   <channel id="acwimg7prrnethz9b4ncv78k4">
     <display-name>acwimg7prrnethz9b4ncv78k4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9uvjkom66mla6hfnehdrq1kpc_image-header_pEs_1730303096000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cu0pre9ii359zycck6h617uxi">
-    <display-name>cu0pre9ii359zycck6h617uxi</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wgcycbi2u3eu7h66mz49wgqq_image-header_pEs_1730572370000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="58e2b6i0tj2i1ek0md253ppuc">
     <display-name>58e2b6i0tj2i1ek0md253ppuc</display-name>
@@ -420,14 +404,6 @@
     <display-name>1dviqwk9pt8skmaalx2p3ztas</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9pvy7kadqz7cqkg9p3yxycxlc_image-header_pEs_1730107243000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="266m5kq922ktjvq52mjhbsbf7">
-    <display-name>266m5kq922ktjvq52mjhbsbf7</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c4z5wo3w87zp5mkdqdha7yql_image-header_pEs_1730706415000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5prmodwu1h1hl5hycxs61dafc">
-    <display-name>5prmodwu1h1hl5hycxs61dafc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6esvbs2zmepfbpl064bsc2ib2_image-header_pEs_1730724911000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="35y1xybvumcznsa7540icim8n">
     <display-name>35y1xybvumcznsa7540icim8n</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jisiby92pl7z4h50fbynv5ay_image-header_pEs_1730708941000/fill/none/top/none/85/300/180/webp/image"/>
@@ -456,24 +432,42 @@
     <display-name>1n1il96fajku4i6u7kfo320iz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/88qll1k172edjn0gk70j2xplp_image-header_pEs_1724764820000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241105100000 +0000" stop="20241105160000 +0000" channel="ah89b1fnjpwqzd6f9g01ut1w6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5u7p4s5rmqck9g2stmyd8jgpf_image-header_pEs_1718873174000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4</title>
-    <desc lang="es">Disfruta de las WTA Finals en DAZN. El King Saud University Sports Arena de Riad (Arabia Saudí) acoge el torneo que reúne a las ocho mejores tenistas del mundo, con Iga Swiatek y Aryna Sabalenka como cabezas de serie y favoritas al título.</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241105170000 +0000" stop="20241105193000 +0000" channel="60qyw47d9lqu5s30yc82zdw9f">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12bktlz36f9yopg3ax4keplz3_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">La Central</title>
-    <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241105200000 +0000" stop="20241105223000 +0000" channel="8wiliauv024pgsle2u8d483gc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13uhchdjxkpan1u7kicu75vlur_image-header_pEs_1729867330000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Inside Al Nassr</title>
-    <desc lang="es">Our host will be joined by guests to review the latest Al Nassr games with lively chat, debate, and analysis. The show will include interviews and training ground access to players and backroom staff, as well as regular look at star man Ronaldo.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
+  <channel id="aidji9nklxw7x6iwir4liq26e">
+    <display-name>aidji9nklxw7x6iwir4liq26e</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wydtzlyg4nxp2pegyeg08gye_image-header_pEs_1730307677000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8e18jc0a0v0ovorhj43g22won">
+    <display-name>8e18jc0a0v0ovorhj43g22won</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a391qd1nywqb30ca4pno3hn8_image-header_pEs_1730794728000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="30mgb10e6ke7xfyydnzc5z8hf">
+    <display-name>30mgb10e6ke7xfyydnzc5z8hf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bleweug4ptgzj4s47j8p02a5b_image-header_pEs_1730801911000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6b6eubrrnmjr9ixtwhwmv2t5c">
+    <display-name>6b6eubrrnmjr9ixtwhwmv2t5c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avzoyc4hx667k9jsb9bi34de8_image-header_pEs_1730795223000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8wxwud8jrae4uapf5dlnvonsb">
+    <display-name>8wxwud8jrae4uapf5dlnvonsb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/35acxtey49084dbgvyh0oc6sl_image-header_pEs_1730706415000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1avuiegp4ffa84c98rkkw6520">
+    <display-name>1avuiegp4ffa84c98rkkw6520</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ar5g0jgnbgrzlo04bo6l7p9ad_image-header_pEs_1730813972000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aggw2xk02kdxgtajmk84b2fo0">
+    <display-name>aggw2xk02kdxgtajmk84b2fo0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cseele8soo63670oke44frp98_image-header_pEs_1725433444000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="16irhm49ah11sm0m068kqhpn8">
+    <display-name>16irhm49ah11sm0m068kqhpn8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x6t5kxqya1ji1vsve8nkxha80_image-header_pEs_1715859085000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1eh818yt4s73dmxttfjydean1">
+    <display-name>1eh818yt4s73dmxttfjydean1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43s62pav7l2p67m7bgng34bht_image-header_pEs_1730120894000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241106100000 +0000" stop="20241106160000 +0000" channel="237z71mbip5236yvtsuarzw20">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/al12lxw8taogw0zi9v7xbg36u_image-header_pEs_1730307677000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 5</title>
@@ -599,12 +593,6 @@
     <title lang="es">Guingamp - Olympique Lyonnais</title>
     <desc lang="es">Vive el encuentro de Première Ligue entre Olympique Lyonnais y Guingamp.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241105100000 +0000" stop="20241105160000 +0000" channel="cu0pre9ii359zycck6h617uxi">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wgcycbi2u3eu7h66mz49wgqq_image-header_pEs_1730572370000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4 - Sesión de dobles - Sesión 1</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20241109010000 +0000" stop="20241109070000 +0000" channel="58e2b6i0tj2i1ek0md253ppuc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ehwvbfake5w1wyrp2cn8ounn_image-header_pEs_1717942560000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1086,18 +1074,6 @@
     <desc lang="es">Vive el encuentro de Bundesliga entre Wolfsburg y Heidenheim.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20241105123000 +0000" stop="20241105183000 +0000" channel="266m5kq922ktjvq52mjhbsbf7">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c4z5wo3w87zp5mkdqdha7yql_image-header_pEs_1730706415000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4 - Sesión de individual</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20241105160000 +0000" stop="20241105220000 +0000" channel="5prmodwu1h1hl5hycxs61dafc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6esvbs2zmepfbpl064bsc2ib2_image-header_pEs_1730724911000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 4 - Sesión de dobles - Sesión 2</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20241106100000 +0000" stop="20241106160000 +0000" channel="35y1xybvumcznsa7540icim8n">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jisiby92pl7z4h50fbynv5ay_image-header_pEs_1730708941000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 5 - Sesión de dobles - Sesión 1</title>
@@ -1139,5 +1115,59 @@
     <title lang="es">Super8 - Jornada 13</title>
     <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241107100000 +0000" stop="20241107160000 +0000" channel="aidji9nklxw7x6iwir4liq26e">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wydtzlyg4nxp2pegyeg08gye_image-header_pEs_1730307677000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 6 - Sesión de dobles - Sesión 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241107123000 +0000" stop="20241107183000 +0000" channel="8e18jc0a0v0ovorhj43g22won">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a391qd1nywqb30ca4pno3hn8_image-header_pEs_1730794728000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 6 - Sesión de individual</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241107160000 +0000" stop="20241107220000 +0000" channel="30mgb10e6ke7xfyydnzc5z8hf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bleweug4ptgzj4s47j8p02a5b_image-header_pEs_1730801911000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 6 - Sesión de dobles - Sesión 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241108123000 +0000" stop="20241108183000 +0000" channel="6b6eubrrnmjr9ixtwhwmv2t5c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avzoyc4hx667k9jsb9bi34de8_image-header_pEs_1730795223000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 7 - Sesión de dobles - Sesión 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241108150000 +0000" stop="20241108210000 +0000" channel="8wxwud8jrae4uapf5dlnvonsb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/35acxtey49084dbgvyh0oc6sl_image-header_pEs_1730706415000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 7 - Sesión de individual</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241109124500 +0000" stop="20241109184500 +0000" channel="1avuiegp4ffa84c98rkkw6520">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ar5g0jgnbgrzlo04bo6l7p9ad_image-header_pEs_1730813972000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rittewada vs. Thananchai</title>
+    <desc lang="es">Disfruta de una nueva velada de MMA de la mano de RWS Muay Thai. El taildandés Rittewada se enfrenta a su compatriota Thananchai en el combate de peso superwélter del RWS Tournament 24.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241109143000 +0000" stop="20241109170000 +0000" channel="aggw2xk02kdxgtajmk84b2fo0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cseele8soo63670oke44frp98_image-header_pEs_1725433444000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multigol - Jornada 10</title>
+    <desc lang="es">Disfruta en DAZN de los mejores momentos de la jornada 10 de la Bundesliga.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241112011500 +0000" stop="20241112051500 +0000" channel="16irhm49ah11sm0m068kqhpn8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x6t5kxqya1ji1vsve8nkxha80_image-header_pEs_1715859085000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Dolphins @ Rams</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241112180000 +0000" stop="20241113000000 +0000" channel="1eh818yt4s73dmxttfjydean1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43s62pav7l2p67m7bgng34bht_image-header_pEs_1730120894000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Riyadh Season Latino Night - Gilberto 'Zurdo' Ramirez vs. Chris Billam-Smith (La gran llegada)</title>
+    <desc lang="es">Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh. Disfruta en DAZN de la rueda de prensa.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
