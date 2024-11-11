@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 11 12:28:34 2024">
+<tv date="Mon Nov 11 12:36:26 2024">
   <channel id="3hdhrr98kke7704ikaai6abdg">
     <display-name>3hdhrr98kke7704ikaai6abdg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/300/180/webp/image"/>
@@ -507,6 +507,10 @@
   <channel id="70u0f9ylpzu0kdeuapenqd0w4">
     <display-name>70u0f9ylpzu0kdeuapenqd0w4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2wkhemgvxdwhs24qkh9rvnik_image-header_pEs_1730816770000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2qq4r156ad7caz6xo2k1f4mlk">
+    <display-name>2qq4r156ad7caz6xo2k1f4mlk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42hslyuy369tg64nb1cwo1a7h_image-header_pEs_1730820391000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241111170000 +0000" stop="20241111193000 +0000" channel="3hdhrr98kke7704ikaai6abdg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1268,6 +1272,12 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2wkhemgvxdwhs24qkh9rvnik_image-header_pEs_1730816770000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">KOK World Series - Lituania</title>
     <desc lang="es">Disfruta de una nueva velada de MMA en DAZN de la mano de King of Kings World Series.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241116190000 +0000" stop="20241117010000 +0000" channel="2qq4r156ad7caz6xo2k1f4mlk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42hslyuy369tg64nb1cwo1a7h_image-header_pEs_1730820391000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">MMA Bushido 94</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">MMA</category>
   </programme>
 </tv>
