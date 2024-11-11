@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 11 11:21:17 2024">
+<tv date="Mon Nov 11 12:23:41 2024">
   <channel id="3hdhrr98kke7704ikaai6abdg">
     <display-name>3hdhrr98kke7704ikaai6abdg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/300/180/webp/image"/>
@@ -499,6 +499,10 @@
   <channel id="1xq71zv4wt6y97y66xdv1v7ro">
     <display-name>1xq71zv4wt6y97y66xdv1v7ro</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a0vc4b5sqc6h132jnj8gzidd8_image-header_pEs_1715858710000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="89m63jxk4zipghchmf2p5gpa9">
+    <display-name>89m63jxk4zipghchmf2p5gpa9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/iqm4ozdkpl3u1cjrzplx5zny_image-header_pEs_1731323964000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241111170000 +0000" stop="20241111193000 +0000" channel="3hdhrr98kke7704ikaai6abdg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1249,5 +1253,11 @@
     <title lang="es">Chiefs @ Bills</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241117190000 +0000" stop="20241118010000 +0000" channel="89m63jxk4zipghchmf2p5gpa9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/iqm4ozdkpl3u1cjrzplx5zny_image-header_pEs_1731323964000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Gala MotoGP 2024</title>
+    <desc lang="es">La temporada de MotoGP llega a su fin después de vivir un mundial que se ha decido en el último Gran Premio. Con los motores ya apagados es momento de reconocer a los héroes de la sesión y coronar a los campeones.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
