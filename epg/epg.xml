@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 11 17:10:42 2024">
+<tv date="Mon Nov 11 17:12:27 2024">
   <channel id="3hdhrr98kke7704ikaai6abdg">
     <display-name>3hdhrr98kke7704ikaai6abdg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/300/180/webp/image"/>
@@ -511,6 +511,26 @@
   <channel id="esp-e200411358c0ch20082">
     <display-name>esp-e200411358c0ch20082</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20086_0_200411358_20241101-102930.jpeg"/>
+  </channel>
+  <channel id="cuy5va53d7c8uumbmwxejp4cf">
+    <display-name>cuy5va53d7c8uumbmwxejp4cf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dgttokco7plikig8jzinrm9_image-header_pEs_1731334779000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="42w3mcsqm95t0tkdhoz8apixg">
+    <display-name>42w3mcsqm95t0tkdhoz8apixg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29rxk0ohzdrspa12m8ldeduek_image-header_pEs_1731329801000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="erzq8pvs82vtu2zgp9hdowdep">
+    <display-name>erzq8pvs82vtu2zgp9hdowdep</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ybdtu8kl0gm24dvphjlu8yum_image-header_pEs_1731326714000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="43jlnnq8xfb6xbrflewu4omxg">
+    <display-name>43jlnnq8xfb6xbrflewu4omxg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dh10b48dfu8xu9qqv6kh59190_image-header_pEs_1731329877000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="pplvbdkqq3veu4lfwbz0m47z">
+    <display-name>pplvbdkqq3veu4lfwbz0m47z</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ygpimtsjpus6v0zdixgc0g7r_image-header_pEs_1730212668000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241111170000 +0000" stop="20241111193000 +0000" channel="3hdhrr98kke7704ikaai6abdg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xqrxsdtj4ot19bxbvdoteoe1_image-header_pEs_1730718797000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1279,5 +1299,35 @@
     <title lang="es">Superprestige - Niel</title>
     <desc lang="es">Masculino</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241114203000 +0000" stop="20241115023000 +0000" channel="cuy5va53d7c8uumbmwxejp4cf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dgttokco7plikig8jzinrm9_image-header_pEs_1731334779000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Especial Rafa Nadal</title>
+    <desc lang="es">Disfruta en DAZN a través de los canales de Eurosort de una edición especial del programa 'Pasando Bolas', que tiene como protagonista total a Rafa Nadal.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20241115143000 +0000" stop="20241115170000 +0000" channel="42w3mcsqm95t0tkdhoz8apixg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29rxk0ohzdrspa12m8ldeduek_image-header_pEs_1731329801000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Qadsiah - Al Ula</title>
+    <desc lang="es">Vive el encuentro de Women’s Premier League entre Al Qadsiah y Al Ula.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241115160000 +0000" stop="20241115220000 +0000" channel="erzq8pvs82vtu2zgp9hdowdep">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ybdtu8kl0gm24dvphjlu8yum_image-header_pEs_1731326714000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ahmed Elbiali vs. Guillermo Ruben Andino</title>
+    <desc lang="es">Vive el encuentro de Elbiali v Andino entre Guillermo Ruben Andino y Ahmed Elbiali.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241115170000 +0000" stop="20241115193000 +0000" channel="43jlnnq8xfb6xbrflewu4omxg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dh10b48dfu8xu9qqv6kh59190_image-header_pEs_1731329877000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Ahli - Al Hilal</title>
+    <desc lang="es">Vive el encuentro de Women’s Premier League entre Al Hilal y Al Ahli.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241117010000 +0000" stop="20241117070000 +0000" channel="pplvbdkqq3veu4lfwbz0m47z">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ygpimtsjpus6v0zdixgc0g7r_image-header_pEs_1730212668000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jimerr Espinosa vs. Rogelio Jimenez</title>
+    <desc lang="es">Disfruta de una nueva velada de boxeo en DAZN desde México de la mano de Miura Boxing. El mexicano Jimerr “Mortero” Espinosa (16-2-0) se enfrenta a su compatriota Rogelio &quot;Habanero&quot; Jimenez (13-1-0) en el combate estelar de peso superligero a 10 asaltos.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
