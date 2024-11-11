@@ -1,2 +1,63 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 11 21:37:48 2024"/>
+<tv date="Mon Nov 11 21:42:20 2024">
+  <channel id="esp-e200391339c0ch206">
+    <display-name>esp-e200391339c0ch206</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200334946_20241031-190103.jpeg"/>
+  </channel>
+  <channel id="esp-e200367132c0ch6">
+    <display-name>esp-e200367132c0ch6</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/0_0_200322845_20241101-152200.jpeg"/>
+  </channel>
+  <channel id="esp-e200334279c0ch206">
+    <display-name>esp-e200334279c0ch206</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
+  </channel>
+  <channel id="esp-e200328337c0ch6">
+    <display-name>esp-e200328337c0ch6</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200334946_20241031-190103.jpeg"/>
+  </channel>
+  <channel id="esp-e200391511c0ch206">
+    <display-name>esp-e200391511c0ch206</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/0_0_200254231_20240921-095555.jpeg"/>
+  </channel>
+  <channel id="esp-e200327984c0ch6">
+    <display-name>esp-e200327984c0ch6</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
+  </channel>
+  <programme start="20241111185631 +0000" stop="20241111205602 +0000" channel="esp-e200391339c0ch206">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200334946_20241031-190103.jpeg"/>
+    <title lang="es">Campeonato Internacional</title>
+    <desc lang="es">Final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241111195730 +0000" stop="20241111205750 +0000" channel="esp-e200367132c0ch6">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/0_0_200322845_20241101-152200.jpeg"/>
+    <title lang="es">Superprestige - Niel</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241111205602 +0000" stop="20241111224107 +0000" channel="esp-e200334279c0ch206">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
+    <title lang="es">T100 World Tour - Londres</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241111205750 +0000" stop="20241111225616 +0000" channel="esp-e200328337c0ch6">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200334946_20241031-190103.jpeg"/>
+    <title lang="es">Campeonato Internacional</title>
+    <desc lang="es">Final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241111224107 +0000" stop="20241112005545 +0000" channel="esp-e200391511c0ch206">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/0_0_200254231_20240921-095555.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Zúrich</title>
+    <desc lang="es">Prueba en línea | Elite femenino | Ulster - Zúrich (154.1km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241111225802 +0000" stop="20241112003004 +0000" channel="esp-e200327984c0ch6">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
+    <title lang="es">T100 World Tour - Londres</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+</tv>
