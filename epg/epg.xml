@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 12 07:03:02 2024">
+<tv date="Tue Nov 12 07:03:07 2024">
   <channel id="esp-e200334279c0ch206">
     <display-name>esp-e200334279c0ch206</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
@@ -719,6 +719,30 @@
   <channel id="esp-e200438963c0ch20014">
     <display-name>esp-e200438963c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="205ttboc6qjl5nnd8thbjhic4">
+    <display-name>205ttboc6qjl5nnd8thbjhic4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gjlig9kp1nok1b1p4wfl9inv3_image-header_pEs_1715858710000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ax4pz92ux5cb4qh5um1uo9wd9">
+    <display-name>ax4pz92ux5cb4qh5um1uo9wd9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xgi4u2y8osyeovkxx45yc71p_image-header_pEs_1731069411000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="761snaen6qdwav8jf3yl0xafj">
+    <display-name>761snaen6qdwav8jf3yl0xafj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3q99stbpln8lwaoya4tnvbtai_image-header_pEs_1730796702000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3itz3ej38syjir6z4yuqsa0pg">
+    <display-name>3itz3ej38syjir6z4yuqsa0pg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k8rp5tn5r5zax0p6i6hz5j22_image-header_pEs_1730735348000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9bitflzudppggl40l2k3bzdhw">
+    <display-name>9bitflzudppggl40l2k3bzdhw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3b6zfbjdqzc1ji3yyurvdy96_image-header_pEs_1730708237000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e8ui681wix7aa9j1tnt8o8h2c">
+    <display-name>e8ui681wix7aa9j1tnt8o8h2c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14yuq6e5yqdrvzd4ildtogv17_image-header_pEs_1721216713000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241111205602 +0000" stop="20241111224107 +0000" channel="esp-e200334279c0ch206">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/34_0_200239946_20240729-194007.jpeg"/>
@@ -1799,5 +1823,41 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Reino Unido | Clasificatorias</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241118012000 +0000" stop="20241118052000 +0000" channel="205ttboc6qjl5nnd8thbjhic4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gjlig9kp1nok1b1p4wfl9inv3_image-header_pEs_1715858710000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bengals @ Chargers</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241118120000 +0000" stop="20241118140000 +0000" channel="ax4pz92ux5cb4qh5um1uo9wd9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xgi4u2y8osyeovkxx45yc71p_image-header_pEs_1731069411000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Salta Máster - Día 4</title>
+    <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241118143000 +0000" stop="20241118163000 +0000" channel="761snaen6qdwav8jf3yl0xafj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3q99stbpln8lwaoya4tnvbtai_image-header_pEs_1730796702000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nueva York - Día 1</title>
+    <desc lang="es">La Pro Padel League visita Nueva York en la primera cita prevista de sus finales de la temporada 2024. Un torneo que cuenta con la presencia de célebres jugadores como Agustín Tapia, Ari Sánchez, Fede Chingotto, Martín Di Nenno, Gemma Triay, Paquito Navarro, Delfi Brea o Martita Ortega. Disfruta de los mejores partidos del día 1 en DAZN. ¡No te lo pierdas!</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241118170000 +0000" stop="20241118193000 +0000" channel="3itz3ej38syjir6z4yuqsa0pg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k8rp5tn5r5zax0p6i6hz5j22_image-header_pEs_1730735348000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Köln - Werder Bremen</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Köln y Werder Bremen.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241118190000 +0000" stop="20241118223000 +0000" channel="9bitflzudppggl40l2k3bzdhw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3b6zfbjdqzc1ji3yyurvdy96_image-header_pEs_1730708237000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vanoli Basket Cremona - EA7 Emporio Armani Milano</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Basket Cremona y Olimpia Milano.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241118193000 +0000" stop="20241119013000 +0000" channel="e8ui681wix7aa9j1tnt8o8h2c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14yuq6e5yqdrvzd4ildtogv17_image-header_pEs_1721216713000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP - Barcelona</title>
+    <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
