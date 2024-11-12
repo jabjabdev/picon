@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 12 09:27:08 2024">
+<tv date="Tue Nov 12 21:09:02 2024">
   <channel id="esp-e200459966c0ch20004">
     <display-name>esp-e200459966c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -595,6 +595,18 @@
   <channel id="e8ui681wix7aa9j1tnt8o8h2c">
     <display-name>e8ui681wix7aa9j1tnt8o8h2c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14yuq6e5yqdrvzd4ildtogv17_image-header_pEs_1721216713000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7fmucs9u5o68i7qjk06pomgkt">
+    <display-name>7fmucs9u5o68i7qjk06pomgkt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cs6c58fxxz4k2rofsl38p9018_image-header_pEs_1729678115000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200394748c0ch20020">
+    <display-name>esp-e200394748c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200394748_20241026-155110.jpeg"/>
+  </channel>
+  <channel id="75lyfxhnqasaupdz8ml1ddaos">
+    <display-name>75lyfxhnqasaupdz8ml1ddaos</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckgxffh8q9d71ere60blmvqh7_image-header_pRow_1731350921000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241113190000 +0000" stop="20241113220000 +0000" channel="esp-e200459966c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -1489,5 +1501,23 @@
     <title lang="es">Código MotoGP - Barcelona</title>
     <desc lang="es">¡Llega Código MotoGP!  El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. ¡ No te lo pierdas!</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241112200000 +0000" stop="20241112221500 +0000" channel="7fmucs9u5o68i7qjk06pomgkt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cs6c58fxxz4k2rofsl38p9018_image-header_pEs_1729678115000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayern München - Vålerenga (Noruego)</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Vålerenga y Bayern München.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241117105600 +0000" stop="20241117122000 +0000" channel="esp-e200394748c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200394748_20241026-155110.jpeg"/>
+    <title lang="es">Grand Prix - Finlandia</title>
+    <desc lang="es">Mixto Parejas | Rutina libre</desc>
+    <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20241128180000 +0000" stop="20241129000000 +0000" channel="75lyfxhnqasaupdz8ml1ddaos">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckgxffh8q9d71ere60blmvqh7_image-header_pRow_1731350921000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">X Series 19 - Gib vs. Slim</title>
+    <desc lang="es">Misfits Boxing heads to Qatar for a huge night of action, headlined by a grudge match between Gib and Slim.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
