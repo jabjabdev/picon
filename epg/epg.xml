@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 12 21:09:02 2024">
+<tv date="Tue Nov 12 21:09:30 2024">
   <channel id="esp-e200459966c0ch20004">
     <display-name>esp-e200459966c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -607,6 +607,30 @@
   <channel id="75lyfxhnqasaupdz8ml1ddaos">
     <display-name>75lyfxhnqasaupdz8ml1ddaos</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckgxffh8q9d71ere60blmvqh7_image-header_pRow_1731350921000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7x143656vob6rhv807k2yg84q">
+    <display-name>7x143656vob6rhv807k2yg84q</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3kcn3tqqcnb1pgle16xwv725u_image-header_pEs_1731414060000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1td7ocl7l7hted7mpmsgh515g">
+    <display-name>1td7ocl7l7hted7mpmsgh515g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ibvc0xbtf4ozv5r6yuba8b61_image-header_pEs_1731419832000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="28zzbweaidur79tkdkrhkygiu">
+    <display-name>28zzbweaidur79tkdkrhkygiu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/v4c5vupjpo9pyuktid58ft45_image-header_pEs_1730824609000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1u7lxp5kv2qw0vq8714pwpgyc">
+    <display-name>1u7lxp5kv2qw0vq8714pwpgyc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exc3tgskn2ft65su1puyqcvbh_image-header_pEs_1731419739000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1trp777pt13kfjt1sap49dbtg">
+    <display-name>1trp777pt13kfjt1sap49dbtg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c058miyth09efrut7pcxda88l_image-header_pEs_1731419852000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1sl69m44d3gutxftkppl15g5w">
+    <display-name>1sl69m44d3gutxftkppl15g5w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ldfnjmsiki7fgjrrh3adflmf_image-header_pEs_1731419971000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241113190000 +0000" stop="20241113220000 +0000" channel="esp-e200459966c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -1519,5 +1543,41 @@
     <title lang="es">X Series 19 - Gib vs. Slim</title>
     <desc lang="es">Misfits Boxing heads to Qatar for a huge night of action, headlined by a grudge match between Gib and Slim.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241116124500 +0000" stop="20241116184500 +0000" channel="7x143656vob6rhv807k2yg84q">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3kcn3tqqcnb1pgle16xwv725u_image-header_pEs_1731414060000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Khunsueklek vs. Kevin Martínez</title>
+    <desc lang="es">Disfruta de una nueva velada de Muay Thai de la mano de RWS Muay Thai World Series. El tailandés Khunsueklek Boomdeksian se enfrenta al español Kevin Martínez en la pelea por el título Rajadamnern Stadium de peso gallo. Es la primera vez en la historia de Muay Thai  en la que un español pelea por el cinturón.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241116170000 +0000" stop="20241116193000 +0000" channel="1td7ocl7l7hted7mpmsgh515g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ibvc0xbtf4ozv5r6yuba8b61_image-header_pEs_1731419832000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sampdoria - Inter</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Internazionale y Sampdoria.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241117000000 +0000" stop="20241117060000 +0000" channel="28zzbweaidur79tkdkrhkygiu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/v4c5vupjpo9pyuktid58ft45_image-header_pEs_1730824609000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Dominique Crowder vs. Duke Micah</title>
+    <desc lang="es">Vive una nueva velada de boxeo en DAZN. Duke Micah y Dominique Crowder se enfrentan en una pelea de peso gallo en Atlantic City, Nueva Jersey.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241117113000 +0000" stop="20241117140000 +0000" channel="1u7lxp5kv2qw0vq8714pwpgyc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exc3tgskn2ft65su1puyqcvbh_image-header_pEs_1731419739000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Juventus - Sassuolo</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Juventus y Sassuolo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241117143000 +0000" stop="20241117170000 +0000" channel="1trp777pt13kfjt1sap49dbtg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c058miyth09efrut7pcxda88l_image-header_pEs_1731419852000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AS Roma - Lazio</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Roma y Lazio.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241117170000 +0000" stop="20241117193000 +0000" channel="1sl69m44d3gutxftkppl15g5w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ldfnjmsiki7fgjrrh3adflmf_image-header_pEs_1731419971000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Milan - Como</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Como y Milan.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
