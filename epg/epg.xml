@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Nov 13 22:06:18 2024">
+<tv date="Wed Nov 13 22:06:22 2024">
   <channel id="esp-e200459966c0ch20004">
     <display-name>esp-e200459966c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -647,6 +647,34 @@
   <channel id="esp-e200438782c0ch20012">
     <display-name>esp-e200438782c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200438782_20241027-171423.jpeg"/>
+  </channel>
+  <channel id="3ponhyw1ed7bxv285c8xw8ys8">
+    <display-name>3ponhyw1ed7bxv285c8xw8ys8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rzl1em88xa711dlj85cudri6u_image-header_pEs_1715858710000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2554ysajqrfgm8uhhhsw9di50">
+    <display-name>2554ysajqrfgm8uhhhsw9di50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nx16bgadutpp1okbry40bvqls_image-header_pEs_1720438411000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="76yofuu3ls1yojpe8u1yjld49">
+    <display-name>76yofuu3ls1yojpe8u1yjld49</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bl1kg7aozqsqcd50fpavzhslg_image-header_pEs_1730802672000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bkg7bzrk9wzwir07679hd0qt9">
+    <display-name>bkg7bzrk9wzwir07679hd0qt9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vhokj00q5scoa17pdn1p4gvu_image-header_pEs_1731069411000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2qqw1u6i1hlnjvyzbn0m42430">
+    <display-name>2qqw1u6i1hlnjvyzbn0m42430</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jc7w4ehlmjl26uzlc7hk4asp_image-header_pEs_1730803137000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bmxi5qvmqg8lrkv87ngs7anvl">
+    <display-name>bmxi5qvmqg8lrkv87ngs7anvl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/du0h45pb4cvczq5owjmze9tk4_image-header_pEs_1730797654000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7oeedl4gnc6b4mnvu1vuzhkk6">
+    <display-name>7oeedl4gnc6b4mnvu1vuzhkk6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xivd32lcd6lu1jqef59elr56z_image-header_pEs_1731101386000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241113190000 +0000" stop="20241113220000 +0000" channel="esp-e200459966c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -1619,5 +1647,47 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Reino Unido | Clasificatorias</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241117212500 +0000" stop="20241118012500 +0000" channel="3ponhyw1ed7bxv285c8xw8ys8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rzl1em88xa711dlj85cudri6u_image-header_pEs_1715858710000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chiefs @ Bills (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241119011500 +0000" stop="20241119051500 +0000" channel="2554ysajqrfgm8uhhhsw9di50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nx16bgadutpp1okbry40bvqls_image-header_pEs_1720438411000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Texans @ Cowboys</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241119085000 +0000" stop="20241119145000 +0000" channel="76yofuu3ls1yojpe8u1yjld49">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bl1kg7aozqsqcd50fpavzhslg_image-header_pEs_1730802672000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Test de Barcelona MotoGP 2025 - Mañana</title>
+    <desc lang="es">El Mundial de MotoGP 2025 arranca en el circuit de Barcelona-Catalunya con la celebración del primer día de pretemporada. No te pierdas en DAZN las primeras impresiones de la parrilla de la clase reina acerca de las nuevas monturas que llevarán el próximo año en la máxima categoría del motociclismo.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241119120000 +0000" stop="20241119140000 +0000" channel="bkg7bzrk9wzwir07679hd0qt9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vhokj00q5scoa17pdn1p4gvu_image-header_pEs_1731069411000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Salta Máster - Día 5</title>
+    <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241119130000 +0000" stop="20241119190000 +0000" channel="2qqw1u6i1hlnjvyzbn0m42430">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jc7w4ehlmjl26uzlc7hk4asp_image-header_pEs_1730803137000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Test de Barcelona MotoGP 2025 - Tarde</title>
+    <desc lang="es">El Mundial de MotoGP 2025 arranca en el circuit de Barcelona-Catalunya con la celebración del primer día de pretemporada. No te pierdas en DAZN las primeras impresiones de la parrilla de la clase reina acerca de las nuevas monturas que llevarán el próximo año en la máxima categoría del motociclismo.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241119143000 +0000" stop="20241119163000 +0000" channel="bmxi5qvmqg8lrkv87ngs7anvl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/du0h45pb4cvczq5owjmze9tk4_image-header_pEs_1730797654000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nueva York - Día 2</title>
+    <desc lang="es">La Pro Padel League visita Nueva York en la primera cita prevista de sus finales de la temporada 2024. Un torneo que cuenta con la presencia de célebres jugadores como Agustín Tapia, Ari Sánchez, Fede Chingotto, Martín Di Nenno, Gemma Triay, Paquito Navarro, Delfi Brea o Martita Ortega. Disfruta de los mejores partidos del día 2 en DAZN. ¡No te lo pierdas!</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241119200000 +0000" stop="20241119223000 +0000" channel="7oeedl4gnc6b4mnvu1vuzhkk6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xivd32lcd6lu1jqef59elr56z_image-header_pEs_1731101386000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inside Al Nassr</title>
+    <desc lang="es">Our host will be joined by guests to review the latest Al Nassr games with lively chat, debate, and analysis. The show will include interviews and training ground access to players and backroom staff, as well as a regular look at star man Ronaldo.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
