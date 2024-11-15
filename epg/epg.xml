@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Nov 15 10:23:15 2024">
+<tv date="Fri Nov 15 21:25:38 2024">
   <channel id="esp-e200459966c0ch20004">
     <display-name>esp-e200459966c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
@@ -256,17 +256,9 @@
     <display-name>esp-e200438963c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="24r13qkh3va8008hoc73m3tit">
-    <display-name>24r13qkh3va8008hoc73m3tit</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epq23o8oihtgzp46kt6bg5dyg_image-header_pEs_1730001408000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cb3unq1063nueki3m9ivwqvo2">
     <display-name>cb3unq1063nueki3m9ivwqvo2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r5ayayain86qve4o0gbmlod2_image-header_pEs_1729906276000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cfyg56cr2avcbxtwql6vpuwqz">
-    <display-name>cfyg56cr2avcbxtwql6vpuwqz</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jhag1vi4lja6go0so1kbz2ng_image-header_pEs_1731064428000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="42w3mcsqm95t0tkdhoz8apixg">
     <display-name>42w3mcsqm95t0tkdhoz8apixg</display-name>
@@ -752,6 +744,38 @@
     <display-name>6esz045lv4vor0bltr28l949b</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7nnqfyzque4t1cetoqyecavwb_image-header_pEs_1729712442000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="cfyg56cr2avcbxtwql6vpuwqz">
+    <display-name>cfyg56cr2avcbxtwql6vpuwqz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dtwzpdzqkhdaua279cmsb0570_image-header_pEs_1731064428000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f3brs9jhm5bjvdt9zps2et250">
+    <display-name>f3brs9jhm5bjvdt9zps2et250</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/de1pu6m0lpkmzhpqlovyrdwtu_image-header_pEs_1729719635000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="266ljlavbyl003r5f4kqohxxw">
+    <display-name>266ljlavbyl003r5f4kqohxxw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cepgv1sn2n0cq01fv11gkqruj_image-header_pEs_1729719635000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="26jl8ux51ku5bsmg8lai2tnh0">
+    <display-name>26jl8ux51ku5bsmg8lai2tnh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b0kq25bluvupxhpp6lrp9x8nz_image-header_pEs_1729719636000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f3ouzgma49zx87ccoe6zygzkk">
+    <display-name>f3ouzgma49zx87ccoe6zygzkk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djho8j0ms2ft2ywineoemla76_image-header_pEs_1729719635000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="s7v4802j1djth2pq4l2qktuc">
+    <display-name>s7v4802j1djth2pq4l2qktuc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vcup1a0m7zrsekkxetegh50k_image-header_pEs_1729719636000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b6fzzv71tx5tvrc0gl11nlkic">
+    <display-name>b6fzzv71tx5tvrc0gl11nlkic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/blag3x4q349ox50camrmd0j0z_image-header_pEs_1729719636000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="slbt96h5afbbtbev1lm8z8k4">
+    <display-name>slbt96h5afbbtbev1lm8z8k4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1g6pt3wnyyz4segnz070esqia_image-header_pEs_1729719636000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241113190000 +0000" stop="20241113220000 +0000" channel="esp-e200459966c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200459966_20241105-103832.jpeg"/>
     <title lang="es">World Equipped Championship - Reykjanesbaer</title>
@@ -1136,23 +1160,11 @@
     <desc lang="es">Campeonato del Reino Unido | Clasificatorias</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20241115075500 +0000" stop="20241115135500 +0000" channel="24r13qkh3va8008hoc73m3tit">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epq23o8oihtgzp46kt6bg5dyg_image-header_pEs_1730001408000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Solidario Motul de Barcelona - Entrenamientos libres</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20241115121000 +0000" stop="20241115181000 +0000" channel="cb3unq1063nueki3m9ivwqvo2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r5ayayain86qve4o0gbmlod2_image-header_pEs_1729906276000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GP Solidario Motul de Barcelona - Práctica</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241115140000 +0000" stop="20241115160000 +0000" channel="cfyg56cr2avcbxtwql6vpuwqz">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jhag1vi4lja6go0so1kbz2ng_image-header_pEs_1731064428000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Salta Máster - Día 1</title>
-    <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
-    <category lang="es">Pádel</category>
   </programme>
   <programme start="20241115143000 +0000" stop="20241115170000 +0000" channel="42w3mcsqm95t0tkdhoz8apixg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29rxk0ohzdrspa12m8ldeduek_image-header_pEs_1731329801000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1878,6 +1890,54 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7nnqfyzque4t1cetoqyecavwb_image-header_pEs_1729712442000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">All Eyes On Us - Al Nassr vs. Al Qadsiah Preview</title>
     <desc lang="es">Join our host and guests as they look ahead to the next Al Nassr match, with all the latest news from inside the camp, including exclusive access and interviews as Razan Amoush reports from the training ground.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241115140000 +0000" stop="20241116020000 +0000" channel="cfyg56cr2avcbxtwql6vpuwqz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dtwzpdzqkhdaua279cmsb0570_image-header_pEs_1731064428000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Salta Máster - Día 1</title>
+    <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241120174500 +0000" stop="20241120201500 +0000" channel="f3brs9jhm5bjvdt9zps2et250">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/de1pu6m0lpkmzhpqlovyrdwtu_image-header_pEs_1729719635000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Twente - Real Madrid</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Twente y Real Madrid.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241120174500 +0000" stop="20241120201500 +0000" channel="266ljlavbyl003r5f4kqohxxw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cepgv1sn2n0cq01fv11gkqruj_image-header_pEs_1729719635000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolfsburg - Galatasaray</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Wolfsburg - Galatasaray.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241120200000 +0000" stop="20241120223000 +0000" channel="26jl8ux51ku5bsmg8lai2tnh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b0kq25bluvupxhpp6lrp9x8nz_image-header_pEs_1729719636000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Olympique Lyonnais - AS Roma</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Olympique Lyonnais - AS Roma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241120200000 +0000" stop="20241120223000 +0000" channel="f3ouzgma49zx87ccoe6zygzkk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djho8j0ms2ft2ywineoemla76_image-header_pEs_1729719635000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelsea - Celtic</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Chelsea - Celtic.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241121174500 +0000" stop="20241121201500 +0000" channel="s7v4802j1djth2pq4l2qktuc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vcup1a0m7zrsekkxetegh50k_image-header_pEs_1729719636000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vålerenga - Bayern München</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Vålerenga - Bayern München.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241121200000 +0000" stop="20241121223000 +0000" channel="b6fzzv71tx5tvrc0gl11nlkic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/blag3x4q349ox50camrmd0j0z_image-header_pEs_1729719636000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">St. Pölten - FC Barcelona + La Central</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre St. Pölten - FC Barcelona.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241121200000 +0000" stop="20241121223000 +0000" channel="slbt96h5afbbtbev1lm8z8k4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1g6pt3wnyyz4segnz070esqia_image-header_pEs_1729719636000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Arsenal - Juventus</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Arsenal - Juventus.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
