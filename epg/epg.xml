@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 16 12:34:25 2024">
+<tv date="Sat Nov 16 12:35:15 2024">
   <channel id="7w782v3fqxts9fa64jj5fqyvo">
     <display-name>7w782v3fqxts9fa64jj5fqyvo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yskupm7mdw92xssci545wkzk_image-header_pEs_1730659962000/fill/none/top/none/85/300/180/webp/image"/>
@@ -779,6 +779,14 @@
   <channel id="ew3egwr9uuolyu28cc2dujbdz">
     <display-name>ew3egwr9uuolyu28cc2dujbdz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i955hqylh48t40voz6ohe1xi_image-header_pEs_1730798650000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5yp6bbxadcsgi8atnjawwfilg">
+    <display-name>5yp6bbxadcsgi8atnjawwfilg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cgantcf9jwwa7i73j6k45jfn">
+    <display-name>cgantcf9jwwa7i73j6k45jfn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10tkp7yk1k8bx1rdduyno8q2p3_image-header_pEs_1731349089000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241116110000 +0000" stop="20241116131500 +0000" channel="7w782v3fqxts9fa64jj5fqyvo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yskupm7mdw92xssci545wkzk_image-header_pEs_1730659962000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1949,5 +1957,17 @@
     <title lang="es">Nueva York - Semifinales</title>
     <desc lang="es">La Pro Padel League visita Nueva York en la primera cita prevista de sus finales de la temporada 2024. Un torneo que cuenta con la presencia de célebres jugadores como Agustín Tapia, Ari Sánchez, Fede Chingotto, Martín Di Nenno, Gemma Triay, Paquito Navarro, Delfi Brea o Martita Ortega. Disfruta de la primera semifinal en DAZN. ¡No te lo pierdas!</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241221150000 +0000" stop="20241221210000 +0000" channel="5yp6bbxadcsgi8atnjawwfilg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Usyk vs. Fury 2</title>
+    <desc lang="es">Se acerca la revancha entre Oleksandr Usyk y Tyson Fury. En el primer combate ganó Usyk y ahora, los dos pesos pesados vuelven a enfrentarse en Riad. ¿Quién será el vencedor?</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241128180000 +0000" stop="20241129000000 +0000" channel="cgantcf9jwwa7i73j6k45jfn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10tkp7yk1k8bx1rdduyno8q2p3_image-header_pEs_1731349089000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">X Series 19 - Gib vs. Slim</title>
+    <desc lang="es">Misfits Boxing se dirige a Qatar para una gran noche de acción, encabezada por el combate entre Gib y Slim.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
