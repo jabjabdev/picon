@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 17 17:25:36 2024">
+<tv date="Sun Nov 17 17:26:11 2024">
   <channel id="esp-e200390775c0ch20005">
     <display-name>esp-e200390775c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
@@ -899,6 +899,10 @@
   <channel id="76kit34ya5x0553oxcdzadagn">
     <display-name>76kit34ya5x0553oxcdzadagn</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/au7epkwa8nanuy5dc4pr1js3p_image-header_pEs_1731851856000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bofd1el87zxxrujtkkg2vgums">
+    <display-name>bofd1el87zxxrujtkkg2vgums</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccvo6doazudxtjd4y0fslg8zi_image-header_pEs_1729267432000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241116091511 +0000" stop="20241116134510 +0000" channel="esp-e200390775c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
@@ -2249,5 +2253,11 @@
     <title lang="es">GP Solidario Motul de Barcelona - Domingo de carreras</title>
     <desc lang="es">¡El Mundial de MotoGP 2024 se decide en el GP Solidario Motul de Barcelona! Jorge Martín y Pecco Bagnaia se juegan el campeonato de la clase reina en el circuito Barcelona - Catalunya. De igual modo, la cita española es especial para otros muchos pilotos de la categoría como Marc Márquez o Aleix Espargaró, que disputan su última cita con sus actuales equipos. ¡No te lo pierdas en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241117150000 +0000" stop="20241117173000 +0000" channel="bofd1el87zxxrujtkkg2vgums">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccvo6doazudxtjd4y0fslg8zi_image-header_pEs_1729267432000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bristol Flyers - Manchester Basketball</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Bristol Flyers y Manchester Basketball.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
