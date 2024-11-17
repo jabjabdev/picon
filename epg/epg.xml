@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 17 11:21:33 2024">
+<tv date="Sun Nov 17 11:21:36 2024">
   <channel id="esp-e200390775c0ch20005">
     <display-name>esp-e200390775c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
@@ -895,6 +895,38 @@
   <channel id="7zp19bzo6s3cv50cureu9efbo">
     <display-name>7zp19bzo6s3cv50cureu9efbo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/52jk6v1fazx6v5u7igbxugtuq_image-header_pEs_1730485497000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b8qu9ct9mb9q9ig5rk00utd78">
+    <display-name>b8qu9ct9mb9q9ig5rk00utd78</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbzmd3fcmc940mr2z1wthz5pv_image-header_pEs_1728998595000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1hxth6zpdwhy79dxupviepmvo">
+    <display-name>1hxth6zpdwhy79dxupviepmvo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8m46wuvi672i5vublp8sic8zn_image-header_pEs_1730885968000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="64q9l8bpqynwj0th0ikt6rdm7">
+    <display-name>64q9l8bpqynwj0th0ikt6rdm7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g8y17m3d0npakuogsk9j008u_image-header_pEs_1730885552000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6y0rev1t8s1s8hppafgrnmuc4">
+    <display-name>6y0rev1t8s1s8hppafgrnmuc4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1gv91bu23skc148lw13brfg2_image-header_pEs_1730543949000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cb4pj76jfmvxhwucni3p1d9g4">
+    <display-name>cb4pj76jfmvxhwucni3p1d9g4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cswu2v9qfgwxia2o831lfu1p7_image-header_pEs_1731489126000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ata5ff3mhiu2vfoa33w4ltus4">
+    <display-name>ata5ff3mhiu2vfoa33w4ltus4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ag3surw74rdmkqixdgt9kbgak_image-header_pEs_1730883695000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ahurj4eo3xzh6mopnutfe02dw">
+    <display-name>ahurj4eo3xzh6mopnutfe02dw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bnneh0zjh9gtvefnf133xvh8c_image-header_pEs_1730303096000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8rtll5wks7u6catvebkzlrtn5">
+    <display-name>8rtll5wks7u6catvebkzlrtn5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctl1j0u8cw2o99k1yvg01ph24_image-header_pEs_1730368590000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241116091511 +0000" stop="20241116134510 +0000" channel="esp-e200390775c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
@@ -2239,5 +2271,53 @@
     <title lang="es">Athletic Club - Madrid CFF</title>
     <desc lang="es">Vive el encuentro de Primera División Femenina entre Madrid y Athletic Club.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123173000 +0000" stop="20241123200000 +0000" channel="b8qu9ct9mb9q9ig5rk00utd78">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbzmd3fcmc940mr2z1wthz5pv_image-header_pEs_1728998595000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester City - Tottenham</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Manchester City y Tottenham Hotspur.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123173000 +0000" stop="20241123200000 +0000" channel="1hxth6zpdwhy79dxupviepmvo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8m46wuvi672i5vublp8sic8zn_image-header_pEs_1730885968000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eintracht Frankfurt - Werder Bremen</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Eintracht Frankfurt y Werder Bremen.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123180000 +0000" stop="20241124000000 +0000" channel="64q9l8bpqynwj0th0ikt6rdm7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g8y17m3d0npakuogsk9j008u_image-header_pEs_1730885552000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kaine Fourie vs. Mohammed Wasiru</title>
+    <desc lang="es">Disfruta en DAZN del mejor boxeo y vive con nosotros el combate entre Kaine Fourie y Mohammed Wasiru. ¡No te lo pierdas!</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241123193000 +0000" stop="20241123220000 +0000" channel="6y0rev1t8s1s8hppafgrnmuc4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1gv91bu23skc148lw13brfg2_image-header_pEs_1730543949000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RC Celta - FC Barcelona</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Barcelona y Celta de Vigo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123193000 +0000" stop="20241123220000 +0000" channel="cb4pj76jfmvxhwucni3p1d9g4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cswu2v9qfgwxia2o831lfu1p7_image-header_pEs_1731489126000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hamburger SV - Schalke 04</title>
+    <desc lang="es">Vive el encuentro de 2. Bundesliga entre Schalke 04 y Hamburger SV.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123194500 +0000" stop="20241123221500 +0000" channel="ata5ff3mhiu2vfoa33w4ltus4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ag3surw74rdmkqixdgt9kbgak_image-header_pEs_1730883695000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Parma - Atalanta</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Parma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123200000 +0000" stop="20241123223000 +0000" channel="ahurj4eo3xzh6mopnutfe02dw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bnneh0zjh9gtvefnf133xvh8c_image-header_pEs_1730303096000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PSG - Dijon FCO</title>
+    <desc lang="es">Vive el encuentro de Première Ligue entre PSG y Dijon.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123213000 +0000" stop="20241123233000 +0000" channel="8rtll5wks7u6catvebkzlrtn5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctl1j0u8cw2o99k1yvg01ph24_image-header_pEs_1730368590000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Salta Máster - Semifinales</title>
+    <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
