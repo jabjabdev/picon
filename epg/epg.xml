@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 17 11:34:09 2024">
+<tv date="Sun Nov 17 17:25:36 2024">
   <channel id="esp-e200390775c0ch20005">
     <display-name>esp-e200390775c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
@@ -119,10 +119,6 @@
   <channel id="esp-e200390827c0ch20003">
     <display-name>esp-e200390827c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200390827_20241022-202755.jpeg"/>
-  </channel>
-  <channel id="esp-e200390828c0ch20004">
-    <display-name>esp-e200390828c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200390828_20241022-203329.jpeg"/>
   </channel>
   <channel id="esp-e200438865c0ch20013">
     <display-name>esp-e200438865c0ch20013</display-name>
@@ -392,41 +388,13 @@
     <display-name>esp-e200480493c0ch20017</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200480493_20241115-131958.jpeg"/>
   </channel>
-  <channel id="58jkttu5v2cuz74jjhq7q5pg4">
-    <display-name>58jkttu5v2cuz74jjhq7q5pg4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/77rd2na73yx6au2xhcss1v1ii_image-header_pEs_1719304394000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200394813c0ch20021">
     <display-name>esp-e200394813c0ch20021</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_2_200394813_20241112-112054.jpeg"/>
   </channel>
-  <channel id="76kit34ya5x0553oxcdzadagn">
-    <display-name>76kit34ya5x0553oxcdzadagn</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9xwgt0w6f8cu3m9rujdf4uxp_image-header_pEs_1718791756000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200400101c0ch20003">
     <display-name>esp-e200400101c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200400101_20241112-112819.jpeg"/>
-  </channel>
-  <channel id="7xjgu298tgw6dda9g8vygthjo">
-    <display-name>7xjgu298tgw6dda9g8vygthjo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10sn8497q07wbx7pllbvdsbx7_image-header_pEs_1730738846000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1u7lxp5kv2qw0vq8714pwpgyc">
-    <display-name>1u7lxp5kv2qw0vq8714pwpgyc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exc3tgskn2ft65su1puyqcvbh_image-header_pEs_1731419739000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7wmp86dcr6vj3eb9gwmugo1lg">
-    <display-name>7wmp86dcr6vj3eb9gwmugo1lg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4t1igp37mnf9dcg1h94vw2odm_image-header_pEs_1730738448000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3kaoefnojgvz5ptyzwlts0duc">
-    <display-name>3kaoefnojgvz5ptyzwlts0duc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kgpciaxzejkzwf2ig2u3skee_image-header_pEs_1730728890000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bofd1el87zxxrujtkkg2vgums">
-    <display-name>bofd1el87zxxrujtkkg2vgums</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56epgirid4es3da2hh4unvikt_image-header_pEs_1729267432000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1trp777pt13kfjt1sap49dbtg">
     <display-name>1trp777pt13kfjt1sap49dbtg</display-name>
@@ -928,6 +896,10 @@
     <display-name>8rtll5wks7u6catvebkzlrtn5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctl1j0u8cw2o99k1yvg01ph24_image-header_pEs_1730368590000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="76kit34ya5x0553oxcdzadagn">
+    <display-name>76kit34ya5x0553oxcdzadagn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/au7epkwa8nanuy5dc4pr1js3p_image-header_pEs_1731851856000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241116091511 +0000" stop="20241116134510 +0000" channel="esp-e200390775c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200390775_20241017-110607.jpeg"/>
     <title lang="es">T100 World Tour - Dubái</title>
@@ -1106,12 +1078,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200390827_20241022-202755.jpeg"/>
     <title lang="es">X2O Trofee - Hamme</title>
     <desc lang="es">Femenino</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241117135500 +0000" stop="20241117151500 +0000" channel="esp-e200390828c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200390828_20241022-203329.jpeg"/>
-    <title lang="es">X2O Trofee - Hamme</title>
-    <desc lang="es">Masculino</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241117143000 +0000" stop="20241117180000 +0000" channel="esp-e200438865c0ch20013">
@@ -1516,59 +1482,17 @@
     <desc lang="es">Cuartos de final</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20241117044500 +0000" stop="20241117104500 +0000" channel="58jkttu5v2cuz74jjhq7q5pg4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/77rd2na73yx6au2xhcss1v1ii_image-header_pEs_1719304394000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">VAILO Adelaide 500 - Carrera 2</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20241122124600 +0000" stop="20241122135800 +0000" channel="esp-e200394813c0ch20021">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_2_200394813_20241112-112054.jpeg"/>
     <title lang="es">Grand Prix - China</title>
     <desc lang="es">Mixto Parejas | Programa Corto</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20241117083000 +0000" stop="20241117143000 +0000" channel="76kit34ya5x0553oxcdzadagn">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9xwgt0w6f8cu3m9rujdf4uxp_image-header_pEs_1718791756000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GP Solidario Motul de Barcelona - Domingo de carreras</title>
-    <desc lang="es">¡El Mundial de MotoGP 2024 se decide en el GP Solidario Motul de Barcelona! Jorge Martín y Pecco Bagnaia se juegan el campeonato de la clase reina en el circuito Barcelona - Catalunya. De igual modo, la cita española es especial para otros muchos pilotos de la categoría como Marc Márquez o Aleix Espargaró, que disputan su última cita con sus actuales equipos. ¡No te lo pierdas en DAZN!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20241122150000 +0000" stop="20241122164500 +0000" channel="esp-e200400101c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200400101_20241112-112819.jpeg"/>
     <title lang="es">Copa del Mundo - Lillehammer</title>
     <desc lang="es">Mixto</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241117110000 +0000" stop="20241117133000 +0000" channel="7xjgu298tgw6dda9g8vygthjo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10sn8497q07wbx7pllbvdsbx7_image-header_pEs_1730738846000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportivo Abanca - RCD Espanyol</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Deportivo de La Coruña y Espanyol.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241117113000 +0000" stop="20241117140000 +0000" channel="1u7lxp5kv2qw0vq8714pwpgyc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exc3tgskn2ft65su1puyqcvbh_image-header_pEs_1731419739000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Juventus - Sassuolo</title>
-    <desc lang="es">Vive el encuentro de Serie A Women entre Juventus y Sassuolo.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241117123000 +0000" stop="20241117150000 +0000" channel="7wmp86dcr6vj3eb9gwmugo1lg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4t1igp37mnf9dcg1h94vw2odm_image-header_pEs_1730738448000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Real Betis Féminas - Levante UD</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Betis y Levante.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241117130000 +0000" stop="20241117153000 +0000" channel="3kaoefnojgvz5ptyzwlts0duc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kgpciaxzejkzwf2ig2u3skee_image-header_pEs_1730728890000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bayern München - Carl Zeiss Jena</title>
-    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Carl Zeiss Jena y Bayern München.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241117143000 +0000" stop="20241117180000 +0000" channel="bofd1el87zxxrujtkkg2vgums">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56epgirid4es3da2hh4unvikt_image-header_pEs_1729267432000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - Manchester Basketball</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Bristol Flyers y Manchester Basketball.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241117143000 +0000" stop="20241117170000 +0000" channel="1trp777pt13kfjt1sap49dbtg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c058miyth09efrut7pcxda88l_image-header_pEs_1731419852000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2319,5 +2243,11 @@
     <title lang="es">Salta Máster - Semifinales</title>
     <desc lang="es">Prepárate para vivir la emoción del Padel en el Salta Máster A1 Padel en el Polideportivo Delmi de Salta, Argentina.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241117083000 +0000" stop="20241117171500 +0000" channel="76kit34ya5x0553oxcdzadagn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/au7epkwa8nanuy5dc4pr1js3p_image-header_pEs_1731851856000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">GP Solidario Motul de Barcelona - Domingo de carreras</title>
+    <desc lang="es">¡El Mundial de MotoGP 2024 se decide en el GP Solidario Motul de Barcelona! Jorge Martín y Pecco Bagnaia se juegan el campeonato de la clase reina en el circuito Barcelona - Catalunya. De igual modo, la cita española es especial para otros muchos pilotos de la categoría como Marc Márquez o Aleix Espargaró, que disputan su última cita con sus actuales equipos. ¡No te lo pierdas en DAZN!</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
