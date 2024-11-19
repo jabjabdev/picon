@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 19 21:24:56 2024">
+<tv date="Tue Nov 19 21:25:23 2024">
   <channel id="esp-e200438957c0ch20014">
     <display-name>esp-e200438957c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_0_200438957_20241115-160322.jpeg"/>
@@ -1075,6 +1075,18 @@
   <channel id="bmxi5qvmqg8lrkv87ngs7anvl">
     <display-name>bmxi5qvmqg8lrkv87ngs7anvl</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2u1loy2z4upd5fy7c95k5xmng_image-header_pEs_1730797654000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="epf2ma5sct8uln0fwgnqkbtkh">
+    <display-name>epf2ma5sct8uln0fwgnqkbtkh</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rggulultgpl61itmuj6j917ut_image-header_pEs_1725010337000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6ygxfwvpvd4qs07kx5zhiw3w7">
+    <display-name>6ygxfwvpvd4qs07kx5zhiw3w7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gmsn97sg1hkj1ned8cc73zflg_image-header_pEs_1731353513000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9wgpm0dnsktdp31g5b9ohq5w4">
+    <display-name>9wgpm0dnsktdp31g5b9ohq5w4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9i37k5pm26nb1d8o1phqby099_image-header_pEs_1715858181000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241116193000 +0000" stop="20241116230000 +0000" channel="esp-e200438957c0ch20014">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_0_200438957_20241115-160322.jpeg"/>
@@ -2689,5 +2701,23 @@
     <title lang="es">Nueva York - Día 1</title>
     <desc lang="es">La Pro Padel League visita Nueva York en la primera cita prevista de sus finales de la temporada 2024. Un torneo que cuenta con la presencia de célebres jugadores como Agustín Tapia, Ari Sánchez, Fede Chingotto, Martín Di Nenno, Gemma Triay, Paquito Navarro, Delfi Brea o Martita Ortega. Disfruta de los mejores partidos del día 2 en DAZN. ¡No te lo pierdas!</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241121000000 +0000" stop="20241121060000 +0000" channel="epf2ma5sct8uln0fwgnqkbtkh">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rggulultgpl61itmuj6j917ut_image-header_pEs_1725010337000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Forum8 Rally Japan - Shakedown</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Forum8 Rally Japan.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241124180000 +0000" stop="20241124220000 +0000" channel="6ygxfwvpvd4qs07kx5zhiw3w7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gmsn97sg1hkj1ned8cc73zflg_image-header_pEs_1731353513000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Bears (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241124212500 +0000" stop="20241125012500 +0000" channel="9wgpm0dnsktdp31g5b9ohq5w4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9i37k5pm26nb1d8o1phqby099_image-header_pEs_1715858181000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">49ers @ Packers (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
