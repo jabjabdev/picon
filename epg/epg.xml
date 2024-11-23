@@ -1,32 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 23 17:45:06 2024">
+<tv date="Sat Nov 23 17:57:04 2024">
   <channel id="3xug4zhj9kzkv2s2led9by2b5">
     <display-name>3xug4zhj9kzkv2s2led9by2b5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cpm8ubtupv2ly7e7qvhmozugp_image-header_pEs_1732100128000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1ggwzlmit3pebwemxt6b8l638">
-    <display-name>1ggwzlmit3pebwemxt6b8l638</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7b8jmbgkxq8vbkjgj6tbg6pn_image-header_pEs_1730813031000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1hkg1k8fn04f72dzc8zb54ro4">
-    <display-name>1hkg1k8fn04f72dzc8zb54ro4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epszgjml14vlant97wonvo2p5_image-header_pEs_1730816589000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="90j1wb14syadr6kjka2xvbnxo">
-    <display-name>90j1wb14syadr6kjka2xvbnxo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anj8joltuc3l4wor3tf9ddhao_image-header_pEs_1731341681000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1gu57ephfqaj6exgwp9bp09p0">
-    <display-name>1gu57ephfqaj6exgwp9bp09p0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cahag0oxr1a5yy36q5va7cwe_image-header_pEs_1730810405000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1iay94v8iiij2j98d0w1ws3ro">
-    <display-name>1iay94v8iiij2j98d0w1ws3ro</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86iysx9x7blent3iz432zamm0_image-header_pEs_1730818150000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1io526v90ff2hlmqdm4aryluc">
-    <display-name>1io526v90ff2hlmqdm4aryluc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6kgx7s3f8k07nrop89uzbksic_image-header_pEs_1730811844000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="b6aokaej7vu6uh7asjuuwxfro">
     <display-name>b6aokaej7vu6uh7asjuuwxfro</display-name>
@@ -456,47 +432,19 @@
     <display-name>bace1oviov7ggpm072asjvz10</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73orb0bvr3ffyseu44dbrrcsg_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1ggwzlmit3pebwemxt6b8l638">
+    <display-name>1ggwzlmit3pebwemxt6b8l638</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7b8jmbgkxq8vbkjgj6tbg6pn_image-header_pEs_1730813031000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1iay94v8iiij2j98d0w1ws3ro">
+    <display-name>1iay94v8iiij2j98d0w1ws3ro</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86iysx9x7blent3iz432zamm0_image-header_pEs_1730818150000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241123124500 +0000" stop="20241123170000 +0000" channel="3xug4zhj9kzkv2s2led9by2b5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cpm8ubtupv2ly7e7qvhmozugp_image-header_pEs_1732100128000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Petchputhai vs. Moradokpetch</title>
     <desc lang="es">Vive el encuentro de Rajadamnern World Series Muay Thai entre Moradokpetch y Petchputhai.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="1ggwzlmit3pebwemxt6b8l638">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7b8jmbgkxq8vbkjgj6tbg6pn_image-header_pEs_1730813031000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bayer Leverkusen - Heidenheim</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Heidenheim y Bayer Leverkusen.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="1hkg1k8fn04f72dzc8zb54ro4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epszgjml14vlant97wonvo2p5_image-header_pEs_1730816589000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Borussia Dortmund - Freiburg</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia Dortmund y Freiburg.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="90j1wb14syadr6kjka2xvbnxo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anj8joltuc3l4wor3tf9ddhao_image-header_pEs_1731341681000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Multigol - Jornada 11</title>
-    <desc lang="es">Disfruta en DAZN de las mejores imágenes y goles de la jornada 11 de la Bundesliga 2024/25. ¡No te lo pierdas!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="1gu57ephfqaj6exgwp9bp09p0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cahag0oxr1a5yy36q5va7cwe_image-header_pEs_1730810405000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Stuttgart - Bochum</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Bochum y Stuttgart.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="1iay94v8iiij2j98d0w1ws3ro">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86iysx9x7blent3iz432zamm0_image-header_pEs_1730818150000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hoffenheim - RB Leipzig</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre RB Leipzig y Hoffenheim.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123143000 +0000" stop="20241123164500 +0000" channel="1io526v90ff2hlmqdm4aryluc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6kgx7s3f8k07nrop89uzbksic_image-header_pEs_1730811844000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Wolfsburg - Union Berlin</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Union Berlin y Wolfsburg.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b6aokaej7vu6uh7asjuuwxfro">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5oo5s8xag950odocoiugowvl_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1138,6 +1086,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73orb0bvr3ffyseu44dbrrcsg_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Brighton - Southampton</title>
     <desc lang="es">Vive el encuentro de Premier League entre Brighton &amp; Hove Albion y Southampton.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123143000 +0000" stop="20241123170000 +0000" channel="1ggwzlmit3pebwemxt6b8l638">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7b8jmbgkxq8vbkjgj6tbg6pn_image-header_pEs_1730813031000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayer Leverkusen - Heidenheim</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Heidenheim y Bayer Leverkusen.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241123143000 +0000" stop="20241123170000 +0000" channel="1iay94v8iiij2j98d0w1ws3ro">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86iysx9x7blent3iz432zamm0_image-header_pEs_1730818150000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hoffenheim - RB Leipzig</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre RB Leipzig y Hoffenheim.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
