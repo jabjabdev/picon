@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 24 20:13:52 2024">
+<tv date="Sun Nov 24 21:12:02 2024">
   <channel id="2a69x9xce83itymcyj4s95v6c">
     <display-name>2a69x9xce83itymcyj4s95v6c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hw9yelo7f14e176zqhwk4awuz_image-header_pEs_1729204114000/fill/none/top/none/85/300/180/webp/image"/>
@@ -27,18 +27,6 @@
   <channel id="2owia15kxzh1wmaw7ddeqk7pw">
     <display-name>2owia15kxzh1wmaw7ddeqk7pw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x8tkd5o70j911dtgek28xuuhd_image-header_pEs_1732200051000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="asug5xzuc4dxplmstd6o36v4k">
-    <display-name>asug5xzuc4dxplmstd6o36v4k</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b5uu9bloamlqbxwiwsxp4dzx1_image-header_pEs_1730894788000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="81et0624hqjadmp4bq3zbcaac">
-    <display-name>81et0624hqjadmp4bq3zbcaac</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36q5cgjixp30idtk6w6j6v1yb_image-header_pEs_1730485498000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1ulgtl2csniyll2jyb8ma5tec">
-    <display-name>1ulgtl2csniyll2jyb8ma5tec</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b3n2kv658k3f4r10315hja3i_image-header_pEs_1731503434000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="24w72ngtqjdszhkowonmnscm9">
     <display-name>24w72ngtqjdszhkowonmnscm9</display-name>
@@ -681,24 +669,6 @@
     <title lang="es">Cowboys @ Commanders</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241124170000 +0000" stop="20241124193000 +0000" channel="asug5xzuc4dxplmstd6o36v4k">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b5uu9bloamlqbxwiwsxp4dzx1_image-header_pEs_1730894788000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Napoli - AS Roma</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Roma y Napoli.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241124170000 +0000" stop="20241124193000 +0000" channel="81et0624hqjadmp4bq3zbcaac">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36q5cgjixp30idtk6w6j6v1yb_image-header_pEs_1730485498000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">VCF Femenino - Real Betis Féminas</title>
-    <desc lang="es">Una nueva jornada de Liga F echa a andar. ¡Disfruta del encuentro entre VCF Femenino y Real Betis Féminas en DAZN!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241124170000 +0000" stop="20241124193000 +0000" channel="1ulgtl2csniyll2jyb8ma5tec">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b3n2kv658k3f4r10315hja3i_image-header_pEs_1731503434000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Como - Juventus</title>
-    <desc lang="es">Vive el encuentro de Serie A Women entre Juventus y Como.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241124180000 +0000" stop="20241124220000 +0000" channel="24w72ngtqjdszhkowonmnscm9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pto4ulilzl51o2q1ud890r51_image-header_pEs_1732200381000/fill/none/top/none/85/600/360/webp/image"/>
