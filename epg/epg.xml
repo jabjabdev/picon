@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 24 07:59:34 2024">
-  <channel id="8d9hdrhut5r5mf0ck4hbok2fk">
-    <display-name>8d9hdrhut5r5mf0ck4hbok2fk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7dxqlc3jqy2465mv6cak44qz_image-header_pEs_1732097930000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3qgw6gcvv4pmv34w1buhautki">
-    <display-name>3qgw6gcvv4pmv34w1buhautki</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/545et132jpewwmzx9otsz16sy_image-header_pEs_1732277702000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Nov 24 13:43:35 2024">
   <channel id="ayd7lk3pqgy62j3pma8x6a9uk">
     <display-name>ayd7lk3pqgy62j3pma8x6a9uk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9ls7w9fexf1ay4peek5odkvx_image-header_pEs_1730891006000/fill/none/top/none/85/300/180/webp/image"/>
@@ -544,14 +536,6 @@
     <display-name>esp-e200439205c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="dkvg4ssi3es7yf3i9n0u6qdzx">
-    <display-name>dkvg4ssi3es7yf3i9n0u6qdzx</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pv7kbw2yfm163vmffapb1c3q_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="eue8vbgim7f396gj5e5ynju37">
-    <display-name>eue8vbgim7f396gj5e5ynju37</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anmj23shzxfcsk6kgkefpooum_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cnt56ey5fgbpbwrwj21iimgxc">
     <display-name>cnt56ey5fgbpbwrwj21iimgxc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z3bnotqahtoqlrvhri65wyyh_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
@@ -744,18 +728,6 @@
     <display-name>esp-e200439278c0ch20080</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <programme start="20241124030000 +0000" stop="20241124090000 +0000" channel="8d9hdrhut5r5mf0ck4hbok2fk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7dxqlc3jqy2465mv6cak44qz_image-header_pEs_1732097930000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ruben Warr vs. Bovar Khanakov</title>
-    <desc lang="es">Vive el encuentro de Warr v Khanakov entre Ruben Warr y Bovar Khanakov.</desc>
-    <category lang="es">Bare Knuckle</category>
-  </programme>
-  <programme start="20241124040000 +0000" stop="20241124100000 +0000" channel="3qgw6gcvv4pmv34w1buhautki">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/545et132jpewwmzx9otsz16sy_image-header_pEs_1732277702000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Heineken Silver GP de Las Vegas - Carrera</title>
-    <desc lang="es">FanZone disponible | El Mundial de F1 2024 afronta su sprint final con la celebración del Heineken Silver GP de Las Vegas 2024. El 'Gran Circo' regresa al desierto de Mojave de Nevada para disputar una cita donde las altas velocidades y las bajas temperaturas pondrán a prueba, otro año más, la mecánica de los monoplazas, en especial los frenos. Max Verstappen puede proclamarse tetracampeón si gana o queda por delante de Lando Norris en la carrera del domingo, mientras que los Ferrari se postulan como uno de los grandes favoritos a la victoria. ¡No te pierdas el Heineken Silver GP de Las Vegas 2024 en DAZN!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20241124090000 +0000" stop="20241124150000 +0000" channel="ayd7lk3pqgy62j3pma8x6a9uk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9ls7w9fexf1ay4peek5odkvx_image-header_pEs_1730891006000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ronda 3 - Australia</title>
@@ -1559,18 +1531,6 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241124030000 +0000" stop="20241124070000 +0000" channel="dkvg4ssi3es7yf3i9n0u6qdzx">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pv7kbw2yfm163vmffapb1c3q_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Tercer y cuarto puesto - Venezuela - Estados Unidos (en español)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Béisbol</category>
-  </programme>
-  <programme start="20241124030000 +0000" stop="20241124070000 +0000" channel="eue8vbgim7f396gj5e5ynju37">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anmj23shzxfcsk6kgkefpooum_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Tercer y cuarto puesto - Venezuela - Estados Unidos</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Béisbol</category>
   </programme>
   <programme start="20241124100000 +0000" stop="20241124160000 +0000" channel="cnt56ey5fgbpbwrwj21iimgxc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z3bnotqahtoqlrvhri65wyyh_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
