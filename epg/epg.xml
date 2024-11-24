@@ -1,32 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 23 18:09:14 2024">
-  <channel id="b6aokaej7vu6uh7asjuuwxfro">
-    <display-name>b6aokaej7vu6uh7asjuuwxfro</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5oo5s8xag950odocoiugowvl_image-header_pEs_1728998594000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b6p2sdqvy8odw4u64ir2hucyc">
-    <display-name>b6p2sdqvy8odw4u64ir2hucyc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cqotxyjrosg9l32349k5wh2um_image-header_pEs_1728998594000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b5w5brvt7sdwv5v1d3dhd07bo">
-    <display-name>b5w5brvt7sdwv5v1d3dhd07bo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6leok9k1n512cvchclfhvunsp_image-header_pEs_1728998594000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b73kaf520do11jf2zrr00ljis">
-    <display-name>b73kaf520do11jf2zrr00ljis</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6s9f64pqbv4qgg5vnuo3l8i0_image-header_pEs_1728998594000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b7joxa472n4y2rdu0u7hluj9w">
-    <display-name>b7joxa472n4y2rdu0u7hluj9w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/btgrrkm119cccz0hb0stiwnvv_image-header_pEs_1728998594000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Nov 24 06:51:27 2024">
   <channel id="6z8o2nii9u9o2jzjamlmcy5uc">
     <display-name>6z8o2nii9u9o2jzjamlmcy5uc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19ezfzy3sbjv29a2sjsrxuyhq_image-header_pEs_1730804447000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="czsuoat8usd31ttmi9r8zb2bt">
-    <display-name>czsuoat8usd31ttmi9r8zb2bt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5jm6bhez2q9wzh01jmvsz2ed_image-header_pEs_1732377689000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5ekc4jpcqgs0vjgtcy1053leh">
     <display-name>5ekc4jpcqgs0vjgtcy1053leh</display-name>
@@ -636,45 +612,133 @@
     <display-name>esp-e200439205c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b6aokaej7vu6uh7asjuuwxfro">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5oo5s8xag950odocoiugowvl_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Arsenal - Nottingham Forest</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Arsenal y Nottingham Forest.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b6p2sdqvy8odw4u64ir2hucyc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cqotxyjrosg9l32349k5wh2um_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Aston Villa - Crystal Palace</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Crystal Palace y Aston Villa.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b5w5brvt7sdwv5v1d3dhd07bo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6leok9k1n512cvchclfhvunsp_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bournemouth - Brighton</title>
-    <desc lang="es">Vive el encuentro de Premier League entre AFC Bournemouth y Brighton &amp; Hove Albion.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b73kaf520do11jf2zrr00ljis">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6s9f64pqbv4qgg5vnuo3l8i0_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Everton - Brentford</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Everton y Brentford.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123150000 +0000" stop="20241123173000 +0000" channel="b7joxa472n4y2rdu0u7hluj9w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/btgrrkm119cccz0hb0stiwnvv_image-header_pEs_1728998594000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fulham - Wolverhampton</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Wolverhampton Wanderers y Fulham.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
+  <channel id="dkvg4ssi3es7yf3i9n0u6qdzx">
+    <display-name>dkvg4ssi3es7yf3i9n0u6qdzx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pv7kbw2yfm163vmffapb1c3q_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eue8vbgim7f396gj5e5ynju37">
+    <display-name>eue8vbgim7f396gj5e5ynju37</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anmj23shzxfcsk6kgkefpooum_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cnt56ey5fgbpbwrwj21iimgxc">
+    <display-name>cnt56ey5fgbpbwrwj21iimgxc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z3bnotqahtoqlrvhri65wyyh_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f1cqgt1qkx3ely2jfos5yftr6">
+    <display-name>f1cqgt1qkx3ely2jfos5yftr6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dayd1j1john0l2t3bsi6skk20_image-header_pEs_1732381463000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eln8q00vh0f4jeqou0x6dwp10">
+    <display-name>eln8q00vh0f4jeqou0x6dwp10</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7l5bx6wwxycp7fqnn6lt94s4o_image-header_pEs_1726830604000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="27t8ngszvgb6pz5h1g938aofv">
+    <display-name>27t8ngszvgb6pz5h1g938aofv</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edfvlhsavirkxaw5bu5dk354d_image-header_pEs_1726834206000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="av83um91a4uiew1mtfoxl5v6c">
+    <display-name>av83um91a4uiew1mtfoxl5v6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dw14prexf643dx8n3tff1apzk_image-header_pEs_1730914229000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1kwbv2dmjurkiwa6457j9sg7o">
+    <display-name>1kwbv2dmjurkiwa6457j9sg7o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9fqpqkg7gsmabvvbxeglnc5ct_image-header_pEs_1730907574000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1mdyl3asn8t6rnpcz88aqlslw">
+    <display-name>1mdyl3asn8t6rnpcz88aqlslw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3byg2egtpqw947rdlxn9pj6ua_image-header_pEs_1730840851000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b0q5m8awensdhp6958du3eqyt">
+    <display-name>b0q5m8awensdhp6958du3eqyt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b0rvnexc1wmqb9sc4iqi3vty6_image-header_pEs_1731686412000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1jrg33vnqrmj68ru3yiy3hj4k">
+    <display-name>1jrg33vnqrmj68ru3yiy3hj4k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/id3xulny9e21ofhetd3ivn3c_image-header_pEs_1730840851000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1l9frq39ra10lipx4kzsnv5sk">
+    <display-name>1l9frq39ra10lipx4kzsnv5sk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c4u21ynjwp8mcm5h5qv9o70sr_image-header_pEs_1730840851000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1lmfbi4nqtvstfbhuphpfnw9g">
+    <display-name>1lmfbi4nqtvstfbhuphpfnw9g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eyn835pfq69y35r5evajvqxlj_image-header_pEs_1730840851000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="70vbfm3rk1r28lzhthwufi2vo">
+    <display-name>70vbfm3rk1r28lzhthwufi2vo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6vj9b0w1zr8xgyp9n3kprdy9c_image-header_pEs_1732024983000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bb6mxypy6ue4iszpiy7npy8t0">
+    <display-name>bb6mxypy6ue4iszpiy7npy8t0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/euhrjd9h8gid3u9z5mbpjj8ys_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b9y623ypckv88el8q6r4lw1sk">
+    <display-name>b9y623ypckv88el8q6r4lw1sk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dm2a8fkmhw6mvbi6dkdf5bwm_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bcdu4obuf8b4r02jm5532e39w">
+    <display-name>bcdu4obuf8b4r02jm5532e39w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fwpvmj2mohevfphkuq3aj7k8_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bdnkuhx0lsaw99k32a2dahlp0">
+    <display-name>bdnkuhx0lsaw99k32a2dahlp0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3md1k1b537kwp6tfjj967tjyy_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bsnt2zuutdg5erfjd4ktt9f6c">
+    <display-name>bsnt2zuutdg5erfjd4ktt9f6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rds35m271s0fyoahmd1gi35u_image-header_pEs_1729721661000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="46jjkcse224ya3g0y35382r76">
+    <display-name>46jjkcse224ya3g0y35382r76</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2390ue1x4gx3vo10izv2fw97c_image-header_pEs_1731085811000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="awcwexww6b0jfzb0i1mtqwm50">
+    <display-name>awcwexww6b0jfzb0i1mtqwm50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cmtvnmcq9rjf2oq9n32f5dfv_image-header_pEs_1730914995000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eb8feu1fp3mp8sqtct77t1f9z">
+    <display-name>eb8feu1fp3mp8sqtct77t1f9z</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/etd01xbyd1deckppirz3r6jan_image-header_pEs_1726841766000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bd8umdv86yjcz8o1151nqacyc">
+    <display-name>bd8umdv86yjcz8o1151nqacyc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2yt07u5ffek5al5ogaz9ti5cc_image-header_pEs_1730596943000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1k4g10sxwroudfv5ew4czf7dg">
+    <display-name>1k4g10sxwroudfv5ew4czf7dg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43y4aluute48014gdwrr374qq_image-header_pEs_1730891825000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="btdx7nv15pq0sv05pqpdq72fo">
+    <display-name>btdx7nv15pq0sv05pqpdq72fo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajwszau7vqxiawdzdyxvgvd8g_image-header_pEs_1729721661000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6uiofcac4o6ct985m7f6qpq3b">
+    <display-name>6uiofcac4o6ct985m7f6qpq3b</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1scnoqtvt00smha2hhlskk68x_image-header_pEs_1730219761000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="721czcw56iepujw2r65i81yqc">
+    <display-name>721czcw56iepujw2r65i81yqc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ymozccojedifvxjl51z6hlz9_image-header_pEs_1732025720000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9foxa9kz3b2a0rjhkj8426luc">
+    <display-name>9foxa9kz3b2a0rjhkj8426luc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4l81amcoozfu5xgw4xe6xhn79_image-header_pEs_1730871410000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="augplf6v0nint6nwz87suygic">
+    <display-name>augplf6v0nint6nwz87suygic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2geyfjrcphfdpaccxlmr1uz0_image-header_pEs_1730913903000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2c5ziqx4jolrgnm3brkvcpm5o">
+    <display-name>2c5ziqx4jolrgnm3brkvcpm5o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctgm27q75n4nru7o4yw656ycv_image-header_pEs_1726486675000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2oajfimkon9a4oddyt2f5kds1">
+    <display-name>2oajfimkon9a4oddyt2f5kds1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ciwpz5c1pdxin2etuimf1agrg_image-header_pEs_1722027691000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241123151500 +0000" stop="20241123181500 +0000" channel="6z8o2nii9u9o2jzjamlmcy5uc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19ezfzy3sbjv29a2sjsrxuyhq_image-header_pEs_1730804447000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atlético de Madrid - Deportivo Alavés</title>
-    <desc lang="es">Narrador: Fran Guillén. Comentaristas: Juanfran y Miguel Quintana. Narración en euskera: Eñaut Zuazo. Equipo DAZN: Pablo Pinto | FanZone disponible. Disfruta de una nueva jornada de LALIGA EA SPORTS y vive en DAZN el partidazo entre Atlético de Madrid y Deportivo Alavés. ¡No te lo pierdas!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241123151500 +0000" stop="20241123173000 +0000" channel="czsuoat8usd31ttmi9r8zb2bt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5jm6bhez2q9wzh01jmvsz2ed_image-header_pEs_1732377689000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Multicámara - Atlético de Madrid - Deportivo Alavés</title>
     <desc lang="es">Narrador: Fran Guillén. Comentaristas: Juanfran y Miguel Quintana. Narración en euskera: Eñaut Zuazo. Equipo DAZN: Pablo Pinto | FanZone disponible. Disfruta de una nueva jornada de LALIGA EA SPORTS y vive en DAZN el partidazo entre Atlético de Madrid y Deportivo Alavés. ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
   </programme>
@@ -1589,5 +1653,191 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241124030000 +0000" stop="20241124070000 +0000" channel="dkvg4ssi3es7yf3i9n0u6qdzx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pv7kbw2yfm163vmffapb1c3q_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tercer y cuarto puesto - Venezuela - Estados Unidos (en español)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20241124030000 +0000" stop="20241124070000 +0000" channel="eue8vbgim7f396gj5e5ynju37">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anmj23shzxfcsk6kgkefpooum_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tercer y cuarto puesto - Venezuela - Estados Unidos</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20241124100000 +0000" stop="20241124160000 +0000" channel="cnt56ey5fgbpbwrwj21iimgxc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z3bnotqahtoqlrvhri65wyyh_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final - Japón - Taiwán (en español)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20241124100000 +0000" stop="20241124160000 +0000" channel="f1cqgt1qkx3ely2jfos5yftr6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dayd1j1john0l2t3bsi6skk20_image-header_pEs_1732381463000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final - Japón - Taiwán</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20241130121300 +0000" stop="20241130181300 +0000" channel="eln8q00vh0f4jeqou0x6dwp10">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7l5bx6wwxycp7fqnn6lt94s4o_image-header_pEs_1726830604000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lusail - Clasificación</title>
+    <desc lang="es">El mundial de F1 Academy está llegando a su recta final y el circuito de Lusail acoge la penúltima cita de la temporada. Disfruta en DAZN del mejor motor con las pilotos del presente y del futuro.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130133000 +0000" stop="20241130193000 +0000" channel="27t8ngszvgb6pz5h1g938aofv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edfvlhsavirkxaw5bu5dk354d_image-header_pEs_1726834206000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Qatar Airways GP de Catar - Carrera al sprint</title>
+    <desc lang="es">La cita de Catar es siempre una de las más espectaculares del calendario. El 'Gran Circo' está a las puertas de su última función y los grandes protagonistas del espectáculo quiere dejar a los aficionados con la boca abierta. Disfruta del mejor motor en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130140000 +0000" stop="20241130163000 +0000" channel="av83um91a4uiew1mtfoxl5v6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dw14prexf643dx8n3tff1apzk_image-header_pEs_1730914229000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Monza</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Monza y Como.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="1kwbv2dmjurkiwa6457j9sg7o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9fqpqkg7gsmabvvbxeglnc5ct_image-header_pEs_1730907574000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Werder Bremen - Stuttgart</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Werder Bremen y Stuttgart.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="1mdyl3asn8t6rnpcz88aqlslw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3byg2egtpqw947rdlxn9pj6ua_image-header_pEs_1730840851000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Union Berlin - Bayer Leverkusen</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Union Berlin y Bayer Leverkusen.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="b0q5m8awensdhp6958du3eqyt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b0rvnexc1wmqb9sc4iqi3vty6_image-header_pEs_1731686412000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multigol - Jornada 12</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="1jrg33vnqrmj68ru3yiy3hj4k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/id3xulny9e21ofhetd3ivn3c_image-header_pEs_1730840851000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RB Leipzig - Wolfsburg</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre RB Leipzig y Wolfsburg.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="1l9frq39ra10lipx4kzsnv5sk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c4u21ynjwp8mcm5h5qv9o70sr_image-header_pEs_1730840851000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Freiburg - Borussia Mönchengladbach</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia M'gladbach y Freiburg.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130170000 +0000" channel="1lmfbi4nqtvstfbhuphpfnw9g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eyn835pfq69y35r5evajvqxlj_image-header_pEs_1730840851000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Augsburg - Bochum</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Augsburg y Bochum.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130144500 +0000" stop="20241130171500 +0000" channel="70vbfm3rk1r28lzhthwufi2vo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6vj9b0w1zr8xgyp9n3kprdy9c_image-header_pEs_1732024983000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Deportivo Alavés - CD Leganés</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Deportivo Alavés y Leganés.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130150000 +0000" stop="20241130173000 +0000" channel="bb6mxypy6ue4iszpiy7npy8t0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/euhrjd9h8gid3u9z5mbpjj8ys_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Crystal Palace - Newcastle United</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Crystal Palace y Newcastle United.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130150000 +0000" stop="20241130173000 +0000" channel="b9y623ypckv88el8q6r4lw1sk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dm2a8fkmhw6mvbi6dkdf5bwm_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Brentford - Leicester City</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Leicester City y Brentford.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130150000 +0000" stop="20241130173000 +0000" channel="bcdu4obuf8b4r02jm5532e39w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fwpvmj2mohevfphkuq3aj7k8_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nottingham Forest - Ipswich Town</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Ipswich Town y Nottingham Forest.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130150000 +0000" stop="20241130173000 +0000" channel="bdnkuhx0lsaw99k32a2dahlp0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3md1k1b537kwp6tfjj967tjyy_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolverhampton - Bournemouth</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Wolverhampton Wanderers y AFC Bournemouth.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130160000 +0000" stop="20241130193000 +0000" channel="bsnt2zuutdg5erfjd4ktt9f6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rds35m271s0fyoahmd1gi35u_image-header_pEs_1729721661000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Caledonia Gladiators - London Lions</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y London Lions.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241130161500 +0000" stop="20241130221500 +0000" channel="46jjkcse224ya3g0y35382r76">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2390ue1x4gx3vo10izv2fw97c_image-header_pEs_1731085811000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">F2 - Qatar Airways GP de Catar - Carrera al sprint</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130170000 +0000" stop="20241130193000 +0000" channel="awcwexww6b0jfzb0i1mtqwm50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cmtvnmcq9rjf2oq9n32f5dfv_image-header_pEs_1730914995000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AC Milan - Empoli</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Empoli y Milan.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130173000 +0000" stop="20241130233000 +0000" channel="eb8feu1fp3mp8sqtct77t1f9z">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/etd01xbyd1deckppirz3r6jan_image-header_pEs_1726841766000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Qatar Airways GP de Catar - Clasificación</title>
+    <desc lang="es">La cita de Catar es siempre una de las más espectaculares del calendario. El 'Gran Circo' está a las puertas de su última función y los grandes protagonistas del espectáculo quiere dejar a los aficionados con la boca abierta. Disfruta del mejor motor en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130173000 +0000" stop="20241130200000 +0000" channel="bd8umdv86yjcz8o1151nqacyc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2yt07u5ffek5al5ogaz9ti5cc_image-header_pEs_1730596943000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">West Ham United - Arsenal</title>
+    <desc lang="es">Vive el encuentro de Premier League entre West Ham United y Arsenal.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130173000 +0000" stop="20241130200000 +0000" channel="1k4g10sxwroudfv5ew4czf7dg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43y4aluute48014gdwrr374qq_image-header_pEs_1730891825000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Borussia Dortmund - Bayern München</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia Dortmund y Bayern München.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130180000 +0000" stop="20241130213000 +0000" channel="btdx7nv15pq0sv05pqpdq72fo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajwszau7vqxiawdzdyxvgvd8g_image-header_pEs_1729721661000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Surrey 89ers - Bristol Flyers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Bristol Flyers y Surrey 89ers.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241130190000 +0000" stop="20241201010000 +0000" channel="6uiofcac4o6ct985m7f6qpq3b">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1scnoqtvt00smha2hhlskk68x_image-header_pEs_1730219761000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sunny Edwards vs. Galal Yafai</title>
+    <desc lang="es">Vive el encuentro de Edwards v Yafai entre Galal Yafai y Sunny Edwards.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241130193000 +0000" stop="20241130220000 +0000" channel="721czcw56iepujw2r65i81yqc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ymozccojedifvxjl51z6hlz9_image-header_pEs_1732025720000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Valladolid - Atlético de Madrid</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Atlético Madrid y Real Valladolid.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130193000 +0000" stop="20241130230000 +0000" channel="9foxa9kz3b2a0rjhkj8426luc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4l81amcoozfu5xgw4xe6xhn79_image-header_pEs_1730871410000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Universo Treviso - Pistoia</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Universo Treviso y Pistoia.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241130194500 +0000" stop="20241130221500 +0000" channel="augplf6v0nint6nwz87suygic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2geyfjrcphfdpaccxlmr1uz0_image-header_pEs_1730913903000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bologna - Venezia</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Bologna y Venezia.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241130200000 +0000" stop="20241201020000 +0000" channel="2c5ziqx4jolrgnm3brkvcpm5o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctgm27q75n4nru7o4yw656ycv_image-header_pEs_1726486675000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lusail - Carrera 1</title>
+    <desc lang="es">El mundial de F1 Academy está llegando a su recta final y el circuito de Lusail acoge la penúltima cita de la temporada. Disfruta en DAZN del mejor motor con las pilotos del presente y del futuro.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130210000 +0000" stop="20241201030000 +0000" channel="2oajfimkon9a4oddyt2f5kds1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ciwpz5c1pdxin2etuimf1agrg_image-header_pEs_1722027691000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">IRONMAN 70.3 - Western Australia</title>
+    <desc lang="es">IRONMAN 70.3 Western Australia</desc>
+    <category lang="es">Triatlón</category>
   </programme>
 </tv>
