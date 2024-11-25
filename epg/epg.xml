@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 25 10:10:18 2024">
+<tv date="Mon Nov 25 17:09:10 2024">
   <channel id="br8iihbdkq1mx89rz5rneg88p">
     <display-name>br8iihbdkq1mx89rz5rneg88p</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2x7fxvkv4o2jg88didvrboxgu_image-header_pEs_1731313259000/fill/none/top/none/85/300/180/webp/image"/>
@@ -799,6 +799,26 @@
   <channel id="esp-e200439280c0ch20080">
     <display-name>esp-e200439280c0ch20080</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="bhyy6a8wxs2gffoet0pt1njty">
+    <display-name>bhyy6a8wxs2gffoet0pt1njty</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rkuicdt5091d1dh7enzw1n78x_image-header_pEs_1729712442000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="br9gih633bgbslonor33jclck">
+    <display-name>br9gih633bgbslonor33jclck</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5t3w3q6kxpk8e8hbce0kgijk6_image-header_pEs_1729267433000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5zh8t1ssw9uleuw0prblyhu2l">
+    <display-name>5zh8t1ssw9uleuw0prblyhu2l</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ydhadmnb8ip5cqgcrgq1z8zm_image-header_pEs_1728560022000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="da2w5c5i5qefblu4x43nl3xl5">
+    <display-name>da2w5c5i5qefblu4x43nl3xl5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ksq4c2934gmh7aqfrq6kmar2_image-header_pEs_1732530432000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8yjmrucvcrvup9tzn0rhlwhlj">
+    <display-name>8yjmrucvcrvup9tzn0rhlwhlj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/l2enhwm44sx61td5d2qqpckoj_image-header_pEs_1724327650000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241125140000 +0000" stop="20241125200000 +0000" channel="br8iihbdkq1mx89rz5rneg88p">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2x7fxvkv4o2jg88didvrboxgu_image-header_pEs_1731313259000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1999,5 +2019,35 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Reino Unido | Final</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241128200000 +0000" stop="20241128223000 +0000" channel="bhyy6a8wxs2gffoet0pt1njty">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rkuicdt5091d1dh7enzw1n78x_image-header_pEs_1729712442000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">All Eyes on Us - Al Nassr vs. Damac Preview</title>
+    <desc lang="es">This week on Inside Al Nassr, Ade Oladipo is joined by Clarence Seedorf, the only player to win the Champions League with three clubs, and Michael Owen, England’s Ballon d’Or-winning forward. Two legends, one unmissable show!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241129193000 +0000" stop="20241129230000 +0000" channel="br9gih633bgbslonor33jclck">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5t3w3q6kxpk8e8hbce0kgijk6_image-header_pEs_1729267433000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Leicester Riders - Manchester Basketball</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Leicester Riders y Manchester Basketball.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241129200000 +0000" stop="20241130020000 +0000" channel="5zh8t1ssw9uleuw0prblyhu2l">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ydhadmnb8ip5cqgcrgq1z8zm_image-header_pEs_1728560022000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PFL Championship</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241130183000 +0000" stop="20241201003000 +0000" channel="da2w5c5i5qefblu4x43nl3xl5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ksq4c2934gmh7aqfrq6kmar2_image-header_pEs_1732530432000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Red Bull Batalla 2024 - Final</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20241201180000 +0000" stop="20241201220000 +0000" channel="8yjmrucvcrvup9tzn0rhlwhlj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/l2enhwm44sx61td5d2qqpckoj_image-header_pEs_1724327650000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RedZone - Semana 13</title>
+    <desc lang="es">No te pierdas ni un solo touchdown de la mano de Scott Hanson durante siete horas de fútbol americano de la NFL.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
