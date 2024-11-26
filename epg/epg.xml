@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 26 09:41:20 2024">
+<tv date="Tue Nov 26 13:20:02 2024">
   <channel id="t7trtmwm8qstd6x67r5125x1">
     <display-name>t7trtmwm8qstd6x67r5125x1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4roimno735hew3e9se2unjzy_image-header_pEs_1731326737000/fill/none/top/none/85/300/180/webp/image"/>
@@ -807,6 +807,10 @@
   <channel id="96zyoy2libjajdfgpb3a8uz6c">
     <display-name>96zyoy2libjajdfgpb3a8uz6c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1myhrysnfy50c187wpphkgr529_image-header_pEs_1721218556000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ewywer2601zjp3hebln55591w">
+    <display-name>ewywer2601zjp3hebln55591w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ene66hmlnadno2t09rglqbe3_image-header_pEs_1732549571000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241126120000 +0000" stop="20241126180000 +0000" channel="t7trtmwm8qstd6x67r5125x1">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4roimno735hew3e9se2unjzy_image-header_pEs_1731326737000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2019,5 +2023,11 @@
     <title lang="es">Código F1 - Catar</title>
     <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de Catar.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241127180000 +0000" stop="20241127213000 +0000" channel="ewywer2601zjp3hebln55591w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ene66hmlnadno2t09rglqbe3_image-header_pEs_1732549571000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">USK Praha - Reyer Venezia</title>
+    <desc lang="es">Watch Euroleague (W) Basketball action as USK Praha takes on Reyer Venezia.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
