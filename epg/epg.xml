@@ -1,13 +1,683 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 28 21:59:55 2024">
-  <channel id="5yp6bbxadcsgi8atnjawwfilg">
-    <display-name>5yp6bbxadcsgi8atnjawwfilg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/300/180/webp/image"/>
+<tv date="Thu Nov 28 22:09:52 2024">
+  <channel id="8pqvukg7mi53qpzjd962x4gvb">
+    <display-name>8pqvukg7mi53qpzjd962x4gvb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndja47uoes6716q885n2x9mib_image-header_pEs_1731353514000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241221150000 +0000" stop="20241221210000 +0000" channel="5yp6bbxadcsgi8atnjawwfilg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Usyk vs. Fury 2</title>
-    <desc lang="es">Se acerca la revancha entre Oleksandr Usyk y Tyson Fury. En el primer combate ganó Usyk y ahora, los dos pesos pesados vuelven a enfrentarse en Riad. ¿Quién será el vencedor?</desc>
-    <category lang="es">Boxeo</category>
+  <channel id="esp-e200489582c0ch20080">
+    <display-name>esp-e200489582c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200489582_20241128-075228.png"/>
+  </channel>
+  <channel id="esp-e200439203c0ch20012">
+    <display-name>esp-e200439203c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_2_200439203_20241127-185135.jpeg"/>
+  </channel>
+  <channel id="esp-e200427896c0ch20025">
+    <display-name>esp-e200427896c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427896_20241030-180800.jpeg"/>
+  </channel>
+  <channel id="esp-e200415972c0ch20005">
+    <display-name>esp-e200415972c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200415972_20241119-144900.jpeg"/>
+  </channel>
+  <channel id="esp-e200427886c0ch20024">
+    <display-name>esp-e200427886c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427886_20241030-141045.jpeg"/>
+  </channel>
+  <channel id="esp-e200427897c0ch20025">
+    <display-name>esp-e200427897c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427897_20241030-181211.jpeg"/>
+  </channel>
+  <channel id="esp-e200439135c0ch20011">
+    <display-name>esp-e200439135c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_11_200439135_20241125-115803.png"/>
+  </channel>
+  <channel id="esp-e200439204c0ch20012">
+    <display-name>esp-e200439204c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200489609c0ch20080">
+    <display-name>esp-e200489609c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200427887c0ch20024">
+    <display-name>esp-e200427887c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427887_20241030-141920.jpeg"/>
+  </channel>
+  <channel id="esp-e200418599c0ch20006">
+    <display-name>esp-e200418599c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418599_20241030-174009.jpeg"/>
+  </channel>
+  <channel id="esp-e200418687c0ch20002">
+    <display-name>esp-e200418687c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200418687_20241119-162919.jpeg"/>
+  </channel>
+  <channel id="esp-e200439205c0ch20012">
+    <display-name>esp-e200439205c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200439136c0ch20011">
+    <display-name>esp-e200439136c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200489610c0ch20080">
+    <display-name>esp-e200489610c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200406225c0ch20003">
+    <display-name>esp-e200406225c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200406225_20241104-170725.jpeg"/>
+  </channel>
+  <channel id="c6nnrz0gz1n7xh2xdcnffox9a">
+    <display-name>c6nnrz0gz1n7xh2xdcnffox9a</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mh59pt87ezkr1jg3e4mksbx13_image-header_pEs_1732818483000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200428988c0ch20025">
+    <display-name>esp-e200428988c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200428988_20241104-172443.jpeg"/>
+  </channel>
+  <channel id="esp-e200473927c0ch20020">
+    <display-name>esp-e200473927c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473927_20241120-135702.jpeg"/>
+  </channel>
+  <channel id="esp-e200415973c0ch20005">
+    <display-name>esp-e200415973c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200415973_20241101-182046.jpeg"/>
+  </channel>
+  <channel id="esp-e200427906c0ch20024">
+    <display-name>esp-e200427906c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427906_20241101-170118.jpeg"/>
+  </channel>
+  <channel id="esp-e200428989c0ch20025">
+    <display-name>esp-e200428989c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200428989_20241104-171835.jpeg"/>
+  </channel>
+  <channel id="esp-e200406083c0ch20022">
+    <display-name>esp-e200406083c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_2_200406083_20241119-221242.jpeg"/>
+  </channel>
+  <channel id="esp-e200405964c0ch20023">
+    <display-name>esp-e200405964c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200405964_20241119-214149.jpeg"/>
+  </channel>
+  <channel id="esp-e200473928c0ch20020">
+    <display-name>esp-e200473928c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473928_20241120-140908.jpeg"/>
+  </channel>
+  <channel id="esp-e200439277c0ch20080">
+    <display-name>esp-e200439277c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200427907c0ch20024">
+    <display-name>esp-e200427907c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427907_20241101-170602.jpeg"/>
+  </channel>
+  <channel id="esp-e200447380c0ch20007">
+    <display-name>esp-e200447380c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_2_200447380_20241119-222854.jpeg"/>
+  </channel>
+  <channel id="esp-e200406078c0ch20022">
+    <display-name>esp-e200406078c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_2_200406078_20241119-221522.jpeg"/>
+  </channel>
+  <channel id="esp-e200405923c0ch20023">
+    <display-name>esp-e200405923c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200405923_20241119-221737.jpeg"/>
+  </channel>
+  <channel id="esp-e200415947c0ch20004">
+    <display-name>esp-e200415947c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415947_20241101-193732.jpeg"/>
+  </channel>
+  <channel id="esp-e200418688c0ch20002">
+    <display-name>esp-e200418688c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200418688_20241126-101105.jpeg"/>
+  </channel>
+  <channel id="esp-e200418609c0ch20006">
+    <display-name>esp-e200418609c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418609_20241101-174508.jpeg"/>
+  </channel>
+  <channel id="esp-e200415948c0ch20004">
+    <display-name>esp-e200415948c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415948_20241101-193912.jpeg"/>
+  </channel>
+  <channel id="esp-e200439278c0ch20080">
+    <display-name>esp-e200439278c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200406219c0ch20002">
+    <display-name>esp-e200406219c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406219_20241101-185947.jpeg"/>
+  </channel>
+  <channel id="esp-e200406226c0ch20003">
+    <display-name>esp-e200406226c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200406226_20241106-121916.jpeg"/>
+  </channel>
+  <channel id="esp-e200469645c0ch20001">
+    <display-name>esp-e200469645c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_3_200469645_20241113-212442.jpeg"/>
+  </channel>
+  <channel id="esp-e200428999c0ch20024">
+    <display-name>esp-e200428999c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200428999_20241101-171135.jpeg"/>
+  </channel>
+  <channel id="esp-e200429037c0ch20025">
+    <display-name>esp-e200429037c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200429037_20241106-114707.jpeg"/>
+  </channel>
+  <channel id="esp-e200415974c0ch20005">
+    <display-name>esp-e200415974c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200415974_20241101-182330.jpeg"/>
+  </channel>
+  <channel id="esp-e200450515c0ch20020">
+    <display-name>esp-e200450515c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450515_20241114-144750.jpeg"/>
+  </channel>
+  <channel id="esp-e200406214c0ch20002">
+    <display-name>esp-e200406214c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406214_20241106-122241.jpeg"/>
+  </channel>
+  <channel id="esp-e200429036c0ch20025">
+    <display-name>esp-e200429036c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200429036_20241106-114912.jpeg"/>
+  </channel>
+  <channel id="esp-e200450516c0ch20020">
+    <display-name>esp-e200450516c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450516_20241114-144541.jpeg"/>
+  </channel>
+  <channel id="esp-e200428998c0ch20024">
+    <display-name>esp-e200428998c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200428998_20241101-171313.jpeg"/>
+  </channel>
+  <channel id="esp-e200406076c0ch20022">
+    <display-name>esp-e200406076c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406076_20241101-165238.jpeg"/>
+  </channel>
+  <channel id="esp-e200405921c0ch20023">
+    <display-name>esp-e200405921c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405921_20241101-165414.jpeg"/>
+  </channel>
+  <channel id="esp-e200418600c0ch20006">
+    <display-name>esp-e200418600c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418600_20241101-175016.jpeg"/>
+  </channel>
+  <channel id="esp-e200439279c0ch20080">
+    <display-name>esp-e200439279c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200418697c0ch20007">
+    <display-name>esp-e200418697c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200418697_20241101-172429.jpeg"/>
+  </channel>
+  <channel id="ci3e88yrcat7zxgghrsz23n6c">
+    <display-name>ci3e88yrcat7zxgghrsz23n6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ehu4zucl8592zkw1i5c561pj_image-header_pEs_1730682371000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200450517c0ch20020">
+    <display-name>esp-e200450517c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450517_20241114-144931.jpeg"/>
+  </channel>
+  <channel id="esp-e200418610c0ch20006">
+    <display-name>esp-e200418610c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418610_20241101-175322.jpeg"/>
+  </channel>
+  <channel id="esp-e200450518c0ch20020">
+    <display-name>esp-e200450518c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450518_20241114-145337.jpeg"/>
+  </channel>
+  <channel id="esp-e200418698c0ch20007">
+    <display-name>esp-e200418698c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200418698_20241101-172720.jpeg"/>
+  </channel>
+  <channel id="esp-e200415949c0ch20004">
+    <display-name>esp-e200415949c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415949_20241101-194344.jpeg"/>
+  </channel>
+  <channel id="esp-e200406077c0ch20022">
+    <display-name>esp-e200406077c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200406077_20241118-173102.jpeg"/>
+  </channel>
+  <channel id="esp-e200405922c0ch20023">
+    <display-name>esp-e200405922c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405922_20241101-165831.jpeg"/>
+  </channel>
+  <channel id="esp-e200415950c0ch20004">
+    <display-name>esp-e200415950c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415950_20241101-194703.jpeg"/>
+  </channel>
+  <channel id="esp-e200439280c0ch20080">
+    <display-name>esp-e200439280c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200406074c0ch20022">
+    <display-name>esp-e200406074c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406074_20241106-101554.jpeg"/>
+  </channel>
+  <channel id="esp-e200405919c0ch20023">
+    <display-name>esp-e200405919c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405919_20241106-101813.jpeg"/>
+  </channel>
+  <channel id="esp-e200451659c0ch20060">
+    <display-name>esp-e200451659c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200406075c0ch20022">
+    <display-name>esp-e200406075c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406075_20241106-102435.jpeg"/>
+  </channel>
+  <channel id="esp-e200405920c0ch20023">
+    <display-name>esp-e200405920c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405920_20241106-102648.jpeg"/>
+  </channel>
+  <channel id="esp-e200451660c0ch20060">
+    <display-name>esp-e200451660c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <programme start="20241128173000 +0000" stop="20241128213000 +0000" channel="8pqvukg7mi53qpzjd962x4gvb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndja47uoes6716q885n2x9mib_image-header_pEs_1731353514000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bears @ Lions (En Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241128184500 +0000" stop="20241128222958 +0000" channel="esp-e200489582c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200489582_20241128-075228.png"/>
+    <title lang="es">Chris Wakelin - Kyren Wilson</title>
+    <desc lang="es">Campeonato del Reino Unido | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241128190157 +0000" stop="20241128224504 +0000" channel="esp-e200439203c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_2_200439203_20241127-185135.jpeg"/>
+    <title lang="es">Jak Jones - Michael Holt</title>
+    <desc lang="es">Campeonato del Reino Unido | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129084500 +0000" stop="20241129101000 +0000" channel="esp-e200427896c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427896_20241030-180800.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">10 km Estilo Clásico Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241129085500 +0000" stop="20241129113500 +0000" channel="esp-e200415972c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200415972_20241119-144900.jpeg"/>
+    <title lang="es">Copa del Mundo - Pekín</title>
+    <desc lang="es">Día 1</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20241129101000 +0000" stop="20241129112500 +0000" channel="esp-e200427886c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427886_20241030-141045.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 1</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241129112500 +0000" stop="20241129125500 +0000" channel="esp-e200427897c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427897_20241030-181211.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">10 km Estilo Clásico Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241129124500 +0000" stop="20241129163000 +0000" channel="esp-e200439135c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_11_200439135_20241125-115803.png"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129124500 +0000" stop="20241129163000 +0000" channel="esp-e200439204c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129124500 +0000" stop="20241129163000 +0000" channel="esp-e200489609c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129135000 +0000" stop="20241129143000 +0000" channel="esp-e200427887c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427887_20241030-141920.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">7,5 km Compact Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241129160500 +0000" stop="20241129171000 +0000" channel="esp-e200418599c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418599_20241030-174009.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 1 Clasificación</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241129180000 +0000" stop="20241129220000 +0000" channel="esp-e200418687c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200418687_20241119-162919.jpeg"/>
+    <title lang="es">UCI Track Champions League - Apeldoorn</title>
+    <desc lang="es">Ronda 2</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241129184500 +0000" stop="20241129223000 +0000" channel="esp-e200439205c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129184500 +0000" stop="20241129223000 +0000" channel="esp-e200439136c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241129184500 +0000" stop="20241129223000 +0000" channel="esp-e200489610c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241130062000 +0000" stop="20241130080000 +0000" channel="esp-e200406225c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200406225_20241104-170725.jpeg"/>
+    <title lang="es">Copa del Mundo - Mylin</title>
+    <desc lang="es">Eslalon Gigante Paralelo | Masculino y Femenino</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20241128173000 +0000" stop="20241128213000 +0000" channel="c6nnrz0gz1n7xh2xdcnffox9a">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mh59pt87ezkr1jg3e4mksbx13_image-header_pEs_1732818483000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bears @ Lions - The Good, The Bad &amp; The Rugby Watchalong</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20241130080000 +0000" stop="20241130090000 +0000" channel="esp-e200428988c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200428988_20241104-172443.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">Sprint Clásico Masculino y Femenino | Clasificación</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130082500 +0000" stop="20241130112000 +0000" channel="esp-e200473927c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473927_20241120-135702.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Entrenamientos Libres</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130085500 +0000" stop="20241130123000 +0000" channel="esp-e200415973c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200415973_20241101-182046.jpeg"/>
+    <title lang="es">Copa del Mundo - Pekín</title>
+    <desc lang="es">Día 2</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20241130090000 +0000" stop="20241130101500 +0000" channel="esp-e200427906c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427906_20241101-170118.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 2</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130101500 +0000" stop="20241130121500 +0000" channel="esp-e200428989c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200428989_20241104-171835.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">Sprint Clásico Masculino y Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130113000 +0000" stop="20241130121500 +0000" channel="esp-e200406083c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_2_200406083_20241119-221242.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Individual Mixto</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241130120000 +0000" stop="20241130130000 +0000" channel="esp-e200405964c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200405964_20241119-214149.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Individual Mixto</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241130125000 +0000" stop="20241130151500 +0000" channel="esp-e200473928c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473928_20241120-140908.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Clasificación</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241130130000 +0000" stop="20241130163000 +0000" channel="esp-e200439277c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Semifinales</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241130130000 +0000" stop="20241130134500 +0000" channel="esp-e200427907c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427907_20241101-170602.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">10 km Gundersen | Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130133500 +0000" stop="20241130151500 +0000" channel="esp-e200447380c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_2_200447380_20241119-222854.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">Moguls Masculino y Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130140000 +0000" stop="20241130144500 +0000" channel="esp-e200406078c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_2_200406078_20241119-221522.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Mixto</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241130143000 +0000" stop="20241130155500 +0000" channel="esp-e200405923c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200405923_20241119-221737.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Mixto</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241130144500 +0000" stop="20241130163000 +0000" channel="esp-e200415947c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415947_20241101-193732.jpeg"/>
+    <title lang="es">Copa del Mundo - Killington</title>
+    <desc lang="es">Eslalon Gigante Femenino | 1ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130150000 +0000" stop="20241130190000 +0000" channel="esp-e200418688c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200418688_20241126-101105.jpeg"/>
+    <title lang="es">UCI Track Champions League - Apeldoorn</title>
+    <desc lang="es">Ronda 3</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20241130154500 +0000" stop="20241130174500 +0000" channel="esp-e200418609c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418609_20241101-174508.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 1</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130174500 +0000" stop="20241130190000 +0000" channel="esp-e200415948c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415948_20241101-193912.jpeg"/>
+    <title lang="es">Copa del Mundo - Killington</title>
+    <desc lang="es">Eslalon Gigante Femenino | 2ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241130184500 +0000" stop="20241130223000 +0000" channel="esp-e200439278c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Semifinales</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241201045000 +0000" stop="20241201064000 +0000" channel="esp-e200406219c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406219_20241101-185947.jpeg"/>
+    <title lang="es">Copa del Mundo - Pekín</title>
+    <desc lang="es">Big Air Masculino y Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201062000 +0000" stop="20241201075000 +0000" channel="esp-e200406226c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200406226_20241106-121916.jpeg"/>
+    <title lang="es">Copa del Mundo - Mylin</title>
+    <desc lang="es">Eslalon Paralelo | Masculino y Femenino</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20241201064500 +0000" stop="20241201102000 +0000" channel="esp-e200469645c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_3_200469645_20241113-212442.jpeg"/>
+    <title lang="es">Maratón de Valencia</title>
+    <desc lang="es">Edición 2024</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20241201072000 +0000" stop="20241201080000 +0000" channel="esp-e200428999c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200428999_20241101-171135.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">10 km Salida en Masa Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201081500 +0000" stop="20241201101000 +0000" channel="esp-e200429037c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200429037_20241106-114707.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">20 km Salida en Masa Estilo Libre Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201085500 +0000" stop="20241201115500 +0000" channel="esp-e200415974c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200415974_20241101-182330.jpeg"/>
+    <title lang="es">Copa del Mundo - Pekín</title>
+    <desc lang="es">Día 3</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20241201094500 +0000" stop="20241201104500 +0000" channel="esp-e200450515c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450515_20241114-144750.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Primera Carrera | Supersport 300</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241201095000 +0000" stop="20241201114000 +0000" channel="esp-e200406214c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406214_20241106-122241.jpeg"/>
+    <title lang="es">Copa del Mundo - Pekín</title>
+    <desc lang="es">Big Air | Masculino y Femenino</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20241201101000 +0000" stop="20241201113000 +0000" channel="esp-e200429036c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200429036_20241106-114912.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">20 km Salida en Masa Estilo Libre | Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201104500 +0000" stop="20241201114500 +0000" channel="esp-e200450516c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450516_20241114-144541.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Primera Carrera | Supersport</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241201112000 +0000" stop="20241201123000 +0000" channel="esp-e200428998c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200428998_20241101-171313.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 3</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201120000 +0000" stop="20241201124500 +0000" channel="esp-e200406076c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406076_20241101-165238.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Entrenamiento | Relevo Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241201123000 +0000" stop="20241201140500 +0000" channel="esp-e200405921c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405921_20241101-165414.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241201124000 +0000" stop="20241201140000 +0000" channel="esp-e200418600c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418600_20241101-175016.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 2 Clasificación</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201124500 +0000" stop="20241201160000 +0000" channel="esp-e200439279c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241201130000 +0000" stop="20241201143000 +0000" channel="esp-e200418697c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200418697_20241101-172429.jpeg"/>
+    <title lang="es">Copa del Mundo - Dublín</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241128193000 +0000" stop="20241128223000 +0000" channel="ci3e88yrcat7zxgghrsz23n6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ehu4zucl8592zkw1i5c561pj_image-header_pEs_1730682371000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">London Lions - Surrey 89ers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Surrey 89ers y London Lions.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241201130000 +0000" stop="20241201140000 +0000" channel="esp-e200450517c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450517_20241114-144931.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Segunda Carrera | Supersport 300</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241201140000 +0000" stop="20241201161500 +0000" channel="esp-e200418610c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418610_20241101-175322.jpeg"/>
+    <title lang="es">Copa del Mundo - Ruka</title>
+    <desc lang="es">HS 142 Masculino | Día 2</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201140000 +0000" stop="20241201151000 +0000" channel="esp-e200450518c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_4_200450518_20241114-145337.jpeg"/>
+    <title lang="es">Juegos Intercontinentales - Jerez</title>
+    <desc lang="es">Segunda Carrera | Supersport</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241201143000 +0000" stop="20241201160000 +0000" channel="esp-e200418698c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200418698_20241101-172720.jpeg"/>
+    <title lang="es">Copa del Mundo - Dublín</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241201144500 +0000" stop="20241201163000 +0000" channel="esp-e200415949c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415949_20241101-194344.jpeg"/>
+    <title lang="es">Copa del Mundo - Killington</title>
+    <desc lang="es">Eslalon Femenino | 1ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201154000 +0000" stop="20241201162500 +0000" channel="esp-e200406077c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200406077_20241118-173102.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Entrenamiento | Relevo Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241201160000 +0000" stop="20241201174500 +0000" channel="esp-e200405922c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405922_20241101-165831.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Relevo Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241201174500 +0000" stop="20241201190000 +0000" channel="esp-e200415950c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200415950_20241101-194703.jpeg"/>
+    <title lang="es">Copa del Mundo - Killington</title>
+    <desc lang="es">Eslalon Femenino | 2ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241201184500 +0000" stop="20241201220000 +0000" channel="esp-e200439280c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Reino Unido | Final | Sesión 2</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241203142000 +0000" stop="20241203152000 +0000" channel="esp-e200406074c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406074_20241106-101554.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Individual Masculino Entrenamiento</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241203150500 +0000" stop="20241203165000 +0000" channel="esp-e200405919c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405919_20241106-101813.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Individual Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241204124500 +0000" stop="20241204170000 +0000" channel="esp-e200451659c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Shoot Out | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241204142000 +0000" stop="20241204152000 +0000" channel="esp-e200406075c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406075_20241106-102435.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Individual Femenino Entrenamiento</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241204150500 +0000" stop="20241204164500 +0000" channel="esp-e200405920c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200405920_20241106-102648.jpeg"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Individual Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241204184500 +0000" stop="20241204230000 +0000" channel="esp-e200451660c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Shoot Out | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
