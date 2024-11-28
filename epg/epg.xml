@@ -1,33 +1,13 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 28 20:53:02 2024">
+<tv date="Thu Nov 28 21:07:57 2024">
   <channel id="5yp6bbxadcsgi8atnjawwfilg">
     <display-name>5yp6bbxadcsgi8atnjawwfilg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cgantcf9jwwa7i73j6k45jfn">
-    <display-name>cgantcf9jwwa7i73j6k45jfn</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1izlg8cgad8vq12m892o4l0bfo_image-header_pEs_1731947722000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9qfcqp5628r24y16eekpjguai">
-    <display-name>9qfcqp5628r24y16eekpjguai</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/r8k2gupth2cl146dwhor8rgsg_image-header_pEs_1732561130000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241221150000 +0000" stop="20241221210000 +0000" channel="5yp6bbxadcsgi8atnjawwfilg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uyr89e26cshf1sxm4c68l898y_image-header_pEs_1731341036000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Usyk vs. Fury 2</title>
     <desc lang="es">Se acerca la revancha entre Oleksandr Usyk y Tyson Fury. En el primer combate ganó Usyk y ahora, los dos pesos pesados vuelven a enfrentarse en Riad. ¿Quién será el vencedor?</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241128150000 +0000" stop="20241128220000 +0000" channel="cgantcf9jwwa7i73j6k45jfn">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1izlg8cgad8vq12m892o4l0bfo_image-header_pEs_1731947722000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">X Series 19 - Gib vs. Slim</title>
-    <desc lang="es">Misfits Boxing se dirige a Qatar para una gran noche de acción, encabezada por el combate entre Gib y Slim.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241128173000 +0000" stop="20241128204500 +0000" channel="9qfcqp5628r24y16eekpjguai">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/r8k2gupth2cl146dwhor8rgsg_image-header_pEs_1732561130000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">X-Series 19 - Angry Ginge Watchalong</title>
-    <desc lang="es">Vive con Andry Ginge el gran evento de X-Series en Catar, encabezado por el combate de Gib vs. Slim</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
