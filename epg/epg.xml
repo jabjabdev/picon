@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 28 19:58:21 2024">
+<tv date="Thu Nov 28 20:23:42 2024">
   <channel id="3aic7xm3k8clse1gunri6ic5v">
     <display-name>3aic7xm3k8clse1gunri6ic5v</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vl4dc8ece5o7319s8fzvzl2n_image-header_pEs_1730194982000/fill/none/top/none/85/300/180/webp/image"/>
@@ -783,6 +783,22 @@
   <channel id="esp-e200451660c0ch20060">
     <display-name>esp-e200451660c0ch20060</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200439203c0ch20012">
+    <display-name>esp-e200439203c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_2_200439203_20241127-185135.jpeg"/>
+  </channel>
+  <channel id="8tqg9vmcz4i46x1bzyqvl3ml0">
+    <display-name>8tqg9vmcz4i46x1bzyqvl3ml0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bsu3x9cyprt157zx9pfzn805j_image-header_pEs_1732736663000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="15n4huubs84i9hdacshapfx1r">
+    <display-name>15n4huubs84i9hdacshapfx1r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dptadbqtdvkq1iutsdwz9jjb2_image-header_pEs_1732023554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8s2a3difp54qapmhu3pcnli50">
+    <display-name>8s2a3difp54qapmhu3pcnli50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2uo238b6ums7bdbp2qenvgckw_image-header_pEs_1732734465000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241128141500 +0000" stop="20241128201500 +0000" channel="3aic7xm3k8clse1gunri6ic5v">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vl4dc8ece5o7319s8fzvzl2n_image-header_pEs_1730194982000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1959,5 +1975,29 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Shoot Out | 1ª ronda</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241128190157 +0000" stop="20241128224504 +0000" channel="esp-e200439203c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_2_200439203_20241127-185135.jpeg"/>
+    <title lang="es">Jak Jones - Michael Holt</title>
+    <desc lang="es">Campeonato del Reino Unido | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241203200000 +0000" stop="20241203223000 +0000" channel="8tqg9vmcz4i46x1bzyqvl3ml0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bsu3x9cyprt157zx9pfzn805j_image-header_pEs_1732736663000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Octavos de final - AC Milan - Sassuolo</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia entre Sassuolo y Milan.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241203220000 +0000" stop="20241204040000 +0000" channel="15n4huubs84i9hdacshapfx1r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dptadbqtdvkq1iutsdwz9jjb2_image-header_pEs_1732023554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 3</title>
+    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241204200000 +0000" stop="20241204223000 +0000" channel="8s2a3difp54qapmhu3pcnli50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2uo238b6ums7bdbp2qenvgckw_image-header_pEs_1732734465000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Octavos de final - Fiorentina - Empoli</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia entre Fiorentina y Empoli.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
