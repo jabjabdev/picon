@@ -1,25 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Dec 02 11:50:37 2024">
-  <channel id="esp-e200415972c0ch20005">
-    <display-name>esp-e200415972c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200415972_20241119-144900.jpeg"/>
-  </channel>
-  <channel id="esp-e200427897c0ch20025">
-    <display-name>esp-e200427897c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427897_20241030-181211.jpeg"/>
-  </channel>
-  <channel id="esp-e200489609c0ch20080">
-    <display-name>esp-e200489609c0ch20080</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200427887c0ch20024">
-    <display-name>esp-e200427887c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427887_20241030-141920.jpeg"/>
-  </channel>
-  <channel id="esp-e200418599c0ch20006">
-    <display-name>esp-e200418599c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418599_20241030-174009.jpeg"/>
-  </channel>
+<tv date="Mon Dec 02 21:57:52 2024">
   <channel id="esp-e200418687c0ch20002">
     <display-name>esp-e200418687c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200418687_20241119-162919.jpeg"/>
@@ -216,10 +196,6 @@
     <display-name>esp-e200451660c0ch20060</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="am1mabt5lecjdizpkt29iofrl">
-    <display-name>am1mabt5lecjdizpkt29iofrl</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6x57vb01bdszm3ssh7rwxw480_image-header_pEs_1718786825000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="em92vz24x9eircagoy2tpnfvh">
     <display-name>em92vz24x9eircagoy2tpnfvh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25dyoewqnmq1ex6iyt2dc98gt_image-header_pEs_1731517585000/fill/none/top/none/85/300/180/webp/image"/>
@@ -227,10 +203,6 @@
   <channel id="ax5flj3sc5k748os356wvjvo4">
     <display-name>ax5flj3sc5k748os356wvjvo4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2xdbrmnda4uktt5xvttx0ye2_image-header_pEs_1730910342000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="96zyoy2libjajdfgpb3a8uz6c">
-    <display-name>96zyoy2libjajdfgpb3a8uz6c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1myhrysnfy50c187wpphkgr529_image-header_pEs_1721218556000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="451w7ilx8qrhltnjbevwrb190">
     <display-name>451w7ilx8qrhltnjbevwrb190</display-name>
@@ -1308,36 +1280,30 @@
     <display-name>ezq9zo8o09rj4qjxow9ijyizx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1laef7kip02qz1an8626kij68j_image-header_pEs_1733134067000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241129085500 +0000" stop="20241129113500 +0000" channel="esp-e200415972c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200415972_20241119-144900.jpeg"/>
-    <title lang="es">Copa del Mundo - Pekín</title>
-    <desc lang="es">Día 1</desc>
-    <category lang="es">Patinaje</category>
-  </programme>
-  <programme start="20241129112500 +0000" stop="20241129125500 +0000" channel="esp-e200427897c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200427897_20241030-181211.jpeg"/>
-    <title lang="es">Copa del Mundo - Ruka</title>
-    <desc lang="es">10 km Estilo Clásico Masculino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241129124500 +0000" stop="20241129163000 +0000" channel="esp-e200489609c0ch20080">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Campeonato del Reino Unido | Cuartos de final</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241129135000 +0000" stop="20241129143000 +0000" channel="esp-e200427887c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_3_200427887_20241030-141920.jpeg"/>
-    <title lang="es">Copa del Mundo - Ruka</title>
-    <desc lang="es">7,5 km Compact Masculino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241129160500 +0000" stop="20241129171000 +0000" channel="esp-e200418599c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200418599_20241030-174009.jpeg"/>
-    <title lang="es">Copa del Mundo - Ruka</title>
-    <desc lang="es">HS 142 Masculino | Día 1 Clasificación</desc>
-    <category lang="es">Esquí</category>
-  </programme>
+  <channel id="am1mabt5lecjdizpkt29iofrl">
+    <display-name>am1mabt5lecjdizpkt29iofrl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eqx2c55dqy4qx7izp37idscuc_image-header_pEs_1718786825000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2swyg6occtrmkw8xeum9v0q8j">
+    <display-name>2swyg6occtrmkw8xeum9v0q8j</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iexphftb6p9r7838v3ii56om_image-header_pEs_1733165459000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2aqqwixe67ufcc47km3gj1cvp">
+    <display-name>2aqqwixe67ufcc47km3gj1cvp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/akvb6ekq2hnww8w3khogl9pbd_image-header_pEs_1733159554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="en4othe230hs3xfsplamvto5p">
+    <display-name>en4othe230hs3xfsplamvto5p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rh983yzqm9stlezpbwaai0zk_image-header_pEs_1732917119000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2dzj1do2a9klb66xup8840eim">
+    <display-name>2dzj1do2a9klb66xup8840eim</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2f3dtycp2ze1f3v95ozl7fiiw_image-header_pEs_1733147585000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1ysc2w3ncqqeu5yg7m3sgjo1g">
+    <display-name>1ysc2w3ncqqeu5yg7m3sgjo1g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9ib7cxjvnse9yovyj825gbcqm_image-header_pEs_1730292596000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241129180000 +0000" stop="20241129220000 +0000" channel="esp-e200418687c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200418687_20241119-162919.jpeg"/>
     <title lang="es">UCI Track Champions League - Apeldoorn</title>
@@ -1632,12 +1598,6 @@
     <desc lang="es">Shoot Out | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20241202120000 +0000" stop="20241202140000 +0000" channel="am1mabt5lecjdizpkt29iofrl">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6x57vb01bdszm3ssh7rwxw480_image-header_pEs_1718786825000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">San Juan Open - Día 1</title>
-    <desc lang="es">Disfruta en DAZN de los mejores partidos de pádel y vive con nosotros el torneo de A1 Padel que se celebra de 2 al 8 de diciembre en el estadio Aldo Cantoni (San Juan, Argentina). ¡No te lo pierdas!</desc>
-    <category lang="es">Pádel</category>
-  </programme>
   <programme start="20241202190000 +0000" stop="20241202213000 +0000" channel="em92vz24x9eircagoy2tpnfvh">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25dyoewqnmq1ex6iyt2dc98gt_image-header_pEs_1731517585000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Super8 - Jornada 15</title>
@@ -1649,12 +1609,6 @@
     <title lang="es">AS Roma - Atalanta</title>
     <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Roma.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241202200000 +0000" stop="20241203020000 +0000" channel="96zyoy2libjajdfgpb3a8uz6c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1myhrysnfy50c187wpphkgr529_image-header_pEs_1721218556000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código F1 - Catar</title>
-    <desc lang="es">Tomás Slafer presenta un nuevo episodio de Código F1 con los detalles más interesantes del Gran Premio de Catar.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241202230000 +0000" stop="20241203030000 +0000" channel="451w7ilx8qrhltnjbevwrb190">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gxtop3fzqz341b18lu8croekm_image-header_pEs_1720438411000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3270,5 +3224,41 @@
     <title lang="es">Al Ittihad vs. Al Nassr - Matchday Live</title>
     <desc lang="es">Follow all the action as Al Nassr faces Al Ittihad, joining our watchalong host and guests for for passionate play by play commentary and interactive fan experience, as well as all the pre-match build-up and post-match reaction.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241202120000 +0000" stop="20241203040000 +0000" channel="am1mabt5lecjdizpkt29iofrl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eqx2c55dqy4qx7izp37idscuc_image-header_pEs_1718786825000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">San Juan Open - Día 1</title>
+    <desc lang="es">Disfruta en DAZN de los mejores partidos de pádel y vive con nosotros el torneo de A1 Padel que se celebra de 2 al 8 de diciembre en el estadio Aldo Cantoni (San Juan, Argentina). ¡No te lo pierdas!</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241203190000 +0000" stop="20241204010000 +0000" channel="2swyg6occtrmkw8xeum9v0q8j">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iexphftb6p9r7838v3ii56om_image-header_pEs_1733165459000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">KnuckleMania V - Rueda de prensa</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20241205180000 +0000" stop="20241205203000 +0000" channel="2aqqwixe67ufcc47km3gj1cvp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/akvb6ekq2hnww8w3khogl9pbd_image-header_pEs_1733159554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">FIFA Club World Cup - Sorteo</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241205230000 +0000" stop="20241206050000 +0000" channel="en4othe230hs3xfsplamvto5p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rh983yzqm9stlezpbwaai0zk_image-header_pEs_1732917119000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Keith Richardson vs. Michael Larrimore - Pesaje</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20241207143000 +0000" stop="20241207170000 +0000" channel="2dzj1do2a9klb66xup8840eim">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2f3dtycp2ze1f3v95ozl7fiiw_image-header_pEs_1733147585000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multigol - Jornada 13</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241208000000 +0000" stop="20241208060000 +0000" channel="1ysc2w3ncqqeu5yg7m3sgjo1g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9ib7cxjvnse9yovyj825gbcqm_image-header_pEs_1730292596000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Liam Paro vs. Richardson Hitchins</title>
+    <desc lang="es">Disfruta en DAZN del mejor boxeo y vive con nosotros el combate entre Liam Paro y Richardson Hitchins. ¡No te lo pierdas!</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
