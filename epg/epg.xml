@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 03 10:18:32 2024">
+<tv date="Tue Dec 03 10:19:19 2024">
   <channel id="esp-e200473927c0ch20020">
     <display-name>esp-e200473927c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473927_20241120-135702.jpeg"/>
@@ -1403,6 +1403,14 @@
   <channel id="esp-e200470947c0ch20018">
     <display-name>esp-e200470947c0ch20018</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="db733570-4da8-4ae6-fe88-08dd0e324662">
+    <display-name>db733570-4da8-4ae6-fe88-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALVilladeArandavisitorASOBALPuenteGenillocalpng-082549.png"/>
+  </channel>
+  <channel id="2bb86ff5-d3fc-4993-9efd-08dd0e03944b">
+    <display-name>2bb86ff5-d3fc-4993-9efd-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALBarcelonavisitorASOBALLogronolocalpng-083012.png"/>
   </channel>
   <programme start="20241130082500 +0000" stop="20241130112000 +0000" channel="esp-e200473927c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200473927_20241120-135702.jpeg"/>
@@ -3510,5 +3518,17 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | 1ª ronda</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241207152500 +0000" stop="20241207180000 +0000" channel="db733570-4da8-4ae6-fe88-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALVilladeArandavisitorASOBALPuenteGenillocalpng-082549.png"/>
+    <title lang="es">Ángel Ximénez Puente Genil - Balonmano Villa de Aranda</title>
+    <desc lang="es">El partido entre Ángel Ximénez Puente Genil y Balonmano Villa de Aranda correspondiente a la Jornada 12 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20241207165500 +0000" stop="20241207193000 +0000" channel="2bb86ff5-d3fc-4993-9efd-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALBarcelonavisitorASOBALLogronolocalpng-083012.png"/>
+    <title lang="es">Logroño La Rioja - Barça</title>
+    <desc lang="es">El partido entre Logroño La Rioja y Barça correspondiente a la Jornada 12 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
