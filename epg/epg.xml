@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 03 21:39:20 2024">
-  <channel id="esp-e200439278c0ch20080">
-    <display-name>esp-e200439278c0ch20080</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
+<tv date="Wed Dec 04 07:06:13 2024">
   <channel id="esp-e200406219c0ch20002">
     <display-name>esp-e200406219c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406219_20241101-185947.jpeg"/>
@@ -119,22 +115,6 @@
   <channel id="esp-e200451660c0ch20060">
     <display-name>esp-e200451660c0ch20060</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="bg25ufr91xkt4ixq46xrl80lw">
-    <display-name>bg25ufr91xkt4ixq46xrl80lw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9x4l91hj1puoao6v43s3yp3y6_image-header_pEs_1730912190000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8tqg9vmcz4i46x1bzyqvl3ml0">
-    <display-name>8tqg9vmcz4i46x1bzyqvl3ml0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bsu3x9cyprt157zx9pfzn805j_image-header_pEs_1732736663000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bggjpu9y4dcffnwef4lp7baqc">
-    <display-name>bggjpu9y4dcffnwef4lp7baqc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctysh1ieo5dttrpk0ndz0cw3j_image-header_pEs_1730912342000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="15n4huubs84i9hdacshapfx1r">
-    <display-name>15n4huubs84i9hdacshapfx1r</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dptadbqtdvkq1iutsdwz9jjb2_image-header_pEs_1732023554000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="295mhqww9g6kybv3j0mcj12j8">
     <display-name>295mhqww9g6kybv3j0mcj12j8</display-name>
@@ -1176,10 +1156,6 @@
     <display-name>ezq9zo8o09rj4qjxow9ijyizx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1laef7kip02qz1an8626kij68j_image-header_pEs_1733134067000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="2swyg6occtrmkw8xeum9v0q8j">
-    <display-name>2swyg6occtrmkw8xeum9v0q8j</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iexphftb6p9r7838v3ii56om_image-header_pEs_1733165459000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="2aqqwixe67ufcc47km3gj1cvp">
     <display-name>2aqqwixe67ufcc47km3gj1cvp</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/akvb6ekq2hnww8w3khogl9pbd_image-header_pEs_1733159554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1336,10 +1312,6 @@
     <display-name>2bb86ff5-d3fc-4993-9efd-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALBarcelonavisitorASOBALLogronolocalpng-083012.png"/>
   </channel>
-  <channel id="6tg2lj3x37q9xxmj75iehl678">
-    <display-name>6tg2lj3x37q9xxmj75iehl678</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn4p385a0pnb4zjxxjx9wyboh_image-header_pEs_1722969003000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="dpbao0h6fpjwejv1mzhxbcscl">
     <display-name>dpbao0h6fpjwejv1mzhxbcscl</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/74p1k1jw1aaf1fk84mvvyvle0_image-header_pEs_1731353515000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1452,12 +1424,10 @@
     <display-name>esp-e200501636c0ch20024</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120415.jpeg"/>
   </channel>
-  <programme start="20241130184500 +0000" stop="20241130223000 +0000" channel="esp-e200439278c0ch20080">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Campeonato del Reino Unido | Semifinales</desc>
-    <category lang="es">Snooker</category>
-  </programme>
+  <channel id="51t0268dcewpygdbsan3drq50">
+    <display-name>51t0268dcewpygdbsan3drq50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p7kubr96rrq31nkqs8iupxekp_image-header_pEs_1733150788000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241201045000 +0000" stop="20241201064000 +0000" channel="esp-e200406219c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200406219_20241101-185947.jpeg"/>
     <title lang="es">Copa del Mundo - Pekín</title>
@@ -1631,30 +1601,6 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Shoot Out | 1ª ronda</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241203193000 +0000" stop="20241203220000 +0000" channel="bg25ufr91xkt4ixq46xrl80lw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9x4l91hj1puoao6v43s3yp3y6_image-header_pEs_1730912190000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ipswich Town - Crystal Palace</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Ipswich Town y Crystal Palace.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241203200000 +0000" stop="20241203223000 +0000" channel="8tqg9vmcz4i46x1bzyqvl3ml0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bsu3x9cyprt157zx9pfzn805j_image-header_pEs_1732736663000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Octavos de final - AC Milan - Sassuolo</title>
-    <desc lang="es">Vive el encuentro de Coppa Italia entre Sassuolo y Milan.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241203201500 +0000" stop="20241203224500 +0000" channel="bggjpu9y4dcffnwef4lp7baqc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctysh1ieo5dttrpk0ndz0cw3j_image-header_pEs_1730912342000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Leicester City - West Ham United</title>
-    <desc lang="es">Vive el encuentro de Premier League entre West Ham United y Leicester City.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241203220000 +0000" stop="20241204040000 +0000" channel="15n4huubs84i9hdacshapfx1r">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dptadbqtdvkq1iutsdwz9jjb2_image-header_pEs_1732023554000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 3</title>
-    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20241204101000 +0000" stop="20241204134000 +0000" channel="295mhqww9g6kybv3j0mcj12j8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gximskfd6icrgmmbk2qgupp3_image-header_pEs_1730910724000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3217,12 +3163,6 @@
     <desc lang="es">Follow all the action as Al Nassr faces Al Ittihad, joining our watchalong host and guests for for passionate play by play commentary and interactive fan experience, as well as all the pre-match build-up and post-match reaction.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20241203190000 +0000" stop="20241204010000 +0000" channel="2swyg6occtrmkw8xeum9v0q8j">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6iexphftb6p9r7838v3ii56om_image-header_pEs_1733165459000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">KnuckleMania V - Rueda de prensa</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Bare Knuckle</category>
-  </programme>
   <programme start="20241205180000 +0000" stop="20241205203000 +0000" channel="2aqqwixe67ufcc47km3gj1cvp">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/akvb6ekq2hnww8w3khogl9pbd_image-header_pEs_1733159554000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FIFA Club World Cup - Sorteo</title>
@@ -3457,12 +3397,6 @@
     <desc lang="es">El partido entre Logroño La Rioja y Barça correspondiente a la Jornada 12 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20241203120000 +0000" stop="20241204040000 +0000" channel="6tg2lj3x37q9xxmj75iehl678">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn4p385a0pnb4zjxxjx9wyboh_image-header_pEs_1722969003000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">San Juan Open - Día 2</title>
-    <desc lang="es">Disfruta en DAZN de los mejores partidos de pádel y vive con nosotros el torneo de A1 Padel que se celebra de 2 al 8 de diciembre en el estadio Aldo Cantoni (San Juan, Argentina). ¡No te lo pierdas!</desc>
-    <category lang="es">Pádel</category>
-  </programme>
   <programme start="20241206011500 +0000" stop="20241206051500 +0000" channel="dpbao0h6fpjwejv1mzhxbcscl">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/74p1k1jw1aaf1fk84mvvyvle0_image-header_pEs_1731353515000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Packers @ Lions (en Español)</title>
@@ -3630,5 +3564,11 @@
     <title lang="es">Copa del Mundo - Lillehammer</title>
     <desc lang="es">Masculino Compact 7 km 500</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241209230000 +0000" stop="20241210030000 +0000" channel="51t0268dcewpygdbsan3drq50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p7kubr96rrq31nkqs8iupxekp_image-header_pEs_1733150788000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bengals @ Cowboys</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
