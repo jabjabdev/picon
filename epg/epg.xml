@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 05 04:44:57 2024">
+<tv date="Thu Dec 05 04:45:31 2024">
   <channel id="esp-e200406074c0ch20022">
     <display-name>esp-e200406074c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406074_20241106-101554.jpeg"/>
@@ -1363,6 +1363,38 @@
   <channel id="esp-e200471101c0ch20060">
     <display-name>esp-e200471101c0ch20060</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="b1b6b581-3cb7-4a77-7533-08dd0e37795d">
+    <display-name>b1b6b581-3cb7-4a77-7533-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-1jpg-164752.jpg"/>
+  </channel>
+  <channel id="fd024bce-ecf7-4ca0-3e39-08dd0e0201c6">
+    <display-name>fd024bce-ecf7-4ca0-3e39-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-2jpg-164815.jpg"/>
+  </channel>
+  <channel id="36e27cee-a593-4bd3-7535-08dd0e37795d">
+    <display-name>36e27cee-a593-4bd3-7535-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-3jpg-164950.jpg"/>
+  </channel>
+  <channel id="1e6dd1e1-3e05-4613-fe9e-08dd0e324662">
+    <display-name>1e6dd1e1-3e05-4613-fe9e-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152302.jpg"/>
+  </channel>
+  <channel id="40072f5e-e948-4598-fe9f-08dd0e324662">
+    <display-name>40072f5e-e948-4598-fe9f-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152611.jpg"/>
+  </channel>
+  <channel id="1b01893d-0137-40e7-9f14-08dd0e03944b">
+    <display-name>1b01893d-0137-40e7-9f14-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152948.jpg"/>
+  </channel>
+  <channel id="43214c31-0b2e-439d-c413-08dd0e3b90d7">
+    <display-name>43214c31-0b2e-439d-c413-08dd0e3b90d7</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-153251.jpg"/>
+  </channel>
+  <channel id="1647eed9-57e4-43b9-c414-08dd0e3b90d7">
+    <display-name>1647eed9-57e4-43b9-c414-08dd0e3b90d7</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-153604.jpg"/>
   </channel>
   <programme start="20241203142000 +0000" stop="20241203152000 +0000" channel="esp-e200406074c0ch20022">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200406074_20241106-101554.jpeg"/>
@@ -3410,5 +3442,53 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | 2ª ronda</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241210071500 +0000" stop="20241210140000 +0000" channel="b1b6b581-3cb7-4a77-7533-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-1jpg-164752.jpg"/>
+    <title lang="es">Copa Base individual | Día 1 - Jornada de mañana</title>
+    <desc lang="es">El Navarra Arena en Pamplona (Navarra) acoge el la Copa Base Individual y el Campeonato de España de Conjuntos de Gimnasia Rítmica 2024.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20241210141500 +0000" stop="20241210204500 +0000" channel="fd024bce-ecf7-4ca0-3e39-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-2jpg-164815.jpg"/>
+    <title lang="es">Copa Base individual | Día 1 - Jornada de tarde</title>
+    <desc lang="es">El Navarra Arena en Pamplona (Navarra) acoge el la Copa Base Individual y el Campeonato de España de Conjuntos de Gimnasia Rítmica 2024.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20241211071500 +0000" stop="20241211151500 +0000" channel="36e27cee-a593-4bd3-7535-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/GR-IND-3jpg-164950.jpg"/>
+    <title lang="es">Copa Base individual | Día 2 - Jornada de mañana</title>
+    <desc lang="es">El Navarra Arena en Pamplona (Navarra) acoge el la Copa Base Individual y el Campeonato de España de Conjuntos de Gimnasia Rítmica 2024.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20241211192500 +0000" stop="20241212020000 +0000" channel="1e6dd1e1-3e05-4613-fe9e-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152302.jpg"/>
+    <title lang="es">Venezuela Master Final 2024: Fase de grupos - Día 1</title>
+    <desc lang="es">Disfruta de los partidos del Venezuela Master Final 2024, disputado en la Universidad Metropolitana de Caracas.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241212192500 +0000" stop="20241213020000 +0000" channel="40072f5e-e948-4598-fe9f-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152611.jpg"/>
+    <title lang="es">Venezuela Master Final 2024: Fase de grupos - Día 2</title>
+    <desc lang="es">Disfruta de los partidos del Venezuela Master Final 2024, disputado en la Universidad Metropolitana de Caracas.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241213192500 +0000" stop="20241214020000 +0000" channel="1b01893d-0137-40e7-9f14-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-152948.jpg"/>
+    <title lang="es">Venezuela Master Final 2024: Fase de grupos - Día 3</title>
+    <desc lang="es">Disfruta de los partidos del Venezuela Master Final 2024, disputado en la Universidad Metropolitana de Caracas.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241214215500 +0000" stop="20241215020000 +0000" channel="43214c31-0b2e-439d-c413-08dd0e3b90d7">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-153251.jpg"/>
+    <title lang="es">Venezuela Master Final 2024: Semifinales</title>
+    <desc lang="es">Disfruta de los partidos del Venezuela Master Final 2024, disputado en la Universidad Metropolitana de Caracas.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20241215195500 +0000" stop="20241215230000 +0000" channel="1647eed9-57e4-43b9-c414-08dd0e3b90d7">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/04/Venezuela-Master-Finaljpg-153604.jpg"/>
+    <title lang="es">Venezuela Master Final 2024: Final</title>
+    <desc lang="es">Disfruta de los partidos del Venezuela Master Final 2024, disputado en la Universidad Metropolitana de Caracas.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
