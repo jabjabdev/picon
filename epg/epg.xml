@@ -1,16 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 11 10:52:10 2024">
+<tv date="Wed Dec 11 12:48:15 2024">
   <channel id="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <display-name>7894e54b-c2c4-4b6f-7505-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
-  </channel>
-  <channel id="esp-e200448138c0ch20012">
-    <display-name>esp-e200448138c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200448138_20241110-170406.jpeg"/>
-  </channel>
-  <channel id="esp-e200430134c0ch20025">
-    <display-name>esp-e200430134c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200430134_20241127-120951.jpeg"/>
   </channel>
   <channel id="esp-e200470161c0ch20018">
     <display-name>esp-e200470161c0ch20018</display-name>
@@ -151,10 +143,6 @@
   <channel id="021bbc61-6ac8-4ef5-9f07-08dd0e03944b">
     <display-name>021bbc61-6ac8-4ef5-9f07-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/UkrainianPremierLeagueRukhvisitorUkrainianPremierLeaguePolissyalocalpng-120208.png"/>
-  </channel>
-  <channel id="esp-e200501635c0ch20024">
-    <display-name>esp-e200501635c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120415.jpeg"/>
   </channel>
   <channel id="esp-e200501636c0ch20024">
     <display-name>esp-e200501636c0ch20024</display-name>
@@ -711,10 +699,6 @@
   <channel id="d6091acf-39e0-4d2d-5f1e-08dd0e033b96">
     <display-name>d6091acf-39e0-4d2d-5f1e-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/09/Flyer-Etapa-final-del-cicuito-1920-x-1080-pxjpg-161011.jpg"/>
-  </channel>
-  <channel id="29r8u19npb9y3iaj3hkzb6xhw">
-    <display-name>29r8u19npb9y3iaj3hkzb6xhw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10abbyj50y8b32ghrd5r4ref7_image-header_pEs_1731599102000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2nqh0gs9cztly2na79qm8rrx0">
     <display-name>2nqh0gs9cztly2na79qm8rrx0</display-name>
@@ -1412,23 +1396,23 @@
     <display-name>edzv69oto0l3lja8fu34iwsea</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/229jag72oipy6sca6w5tcvenn_image-header_pEs_1733909712000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="7sjqrgtjr73cikd8f6emmziu7">
+    <display-name>7sjqrgtjr73cikd8f6emmziu7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cwrcagn7qwb741s5lims55q7q_image-header_pEs_1733911057000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="coac3okaobya40cylmob13rps">
+    <display-name>coac3okaobya40cylmob13rps</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4mmbg1os5udgiql7c6sywdzn_image-header_pEs_1733912116000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8reyuhakwrtt3fnnq1fc1pnv8">
+    <display-name>8reyuhakwrtt3fnnq1fc1pnv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4hjtb78m6ni1xosxzlgp9h303_image-header_pEs_1732755748000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241208205500 +0000" stop="20241209000000 +0000" channel="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
     <title lang="es">San Juan Open 2024: Final</title>
     <desc lang="es">Disfruta de los partidos del San Juan Open 2024, disputado en el estadio Aldo Cantoni de la ciudad argentina.</desc>
     <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20241208080000 +0000" stop="20241208113000 +0000" channel="esp-e200448138c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200448138_20241110-170406.jpeg"/>
-    <title lang="es">Grand Slam - Tokyo 2020</title>
-    <desc lang="es">Día 2</desc>
-    <category lang="es">Judo</category>
-  </programme>
-  <programme start="20241208085000 +0000" stop="20241208101500 +0000" channel="esp-e200430134c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200430134_20241127-120951.jpeg"/>
-    <title lang="es">Copa del Mundo - Lillehammer</title>
-    <desc lang="es">Esquiatlón | Masculino</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20241208105000 +0000" stop="20241208120000 +0000" channel="esp-e200470161c0ch20018">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_0_200470161_20241127-130558.jpeg"/>
@@ -1639,12 +1623,6 @@
     <title lang="es">Polissya - Rukh</title>
     <desc lang="es">El partido correspondiente a la Jornada 16 de la Ukrainian Premier League 2024/25.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241208100500 +0000" stop="20241208111000 +0000" channel="esp-e200501635c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120415.jpeg"/>
-    <title lang="es">Copa del Mundo - Lillehammer</title>
-    <desc lang="es">Masculino HS 140</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20241208125000 +0000" stop="20241208133000 +0000" channel="esp-e200501636c0ch20024">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120415.jpeg"/>
@@ -2479,12 +2457,6 @@
     <title lang="es">Circuito Petanca LALIGA+ | Etapa Final - Día 2</title>
     <desc lang="es">Sagunto (Valencia) acoge la Etapa final del Circuito de Petanca LALIGA+ 2024 en las categorías masculina, femenina y juvenil.</desc>
     <category lang="es">Petanca</category>
-  </programme>
-  <programme start="20241211111000 +0000" stop="20241211144000 +0000" channel="29r8u19npb9y3iaj3hkzb6xhw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10abbyj50y8b32ghrd5r4ref7_image-header_pEs_1731599102000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Taoyuan Pauian Pilots - Suwon Sonicboom</title>
-    <desc lang="es">Vive el encuentro de East Asia Super League entre Taoyuan Pauian Pilots y Suwon Sonicboom.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241211131000 +0000" stop="20241211164000 +0000" channel="2nqh0gs9cztly2na79qm8rrx0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cscllqjc68o3hbajn58p6oxsl_image-header_pEs_1731597810000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3529,5 +3501,23 @@
     <title lang="es">Vargas vs. Guerrero - Preliminares</title>
     <desc lang="es">Disfruta de los combates preliminares previos a la gran velada de boxeo encabezada por la pelea estelar entre Antonio Vargas y Winston Guerrero.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241212220000 +0000" stop="20241213040000 +0000" channel="7sjqrgtjr73cikd8f6emmziu7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cwrcagn7qwb741s5lims55q7q_image-header_pEs_1733911057000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vargas vs. Guerrero - Pesaje</title>
+    <desc lang="es">Disfruta del pesaje previo al combate estelar entre Antonio Vargas y WInston Guerrero.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241213170000 +0000" stop="20241213230000 +0000" channel="coac3okaobya40cylmob13rps">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4mmbg1os5udgiql7c6sywdzn_image-header_pEs_1733912116000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PFL Europe Championship - Pesaje</title>
+    <desc lang="es">Sigue en directo el pesaje de la PFL Europe Championship que se disputará en el LDLC Arena de Lyon.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20241217200000 +0000" stop="20241217223000 +0000" channel="8reyuhakwrtt3fnnq1fc1pnv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4hjtb78m6ni1xosxzlgp9h303_image-header_pEs_1732755748000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Octavos de final - Juventus - Cagliari</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia entre Cagliari y Juventus.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
