@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 11 12:49:37 2024">
+<tv date="Wed Dec 11 12:49:58 2024">
   <channel id="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <display-name>7894e54b-c2c4-4b6f-7505-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
@@ -1411,10 +1411,6 @@
   <channel id="ba01f8fd-4549-47e6-9f41-08dd0e03944b">
     <display-name>ba01f8fd-4549-47e6-9f41-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/11/kar-femjpg-100916.jpg"/>
-  </channel>
-  <channel id="29r8u19npb9y3iaj3hkzb6xhw">
-    <display-name>29r8u19npb9y3iaj3hkzb6xhw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1h2try7g9g5hkf66u53h5g9rd_image-header_pEs_1731599102000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="84c87df8-6266-4138-3e61-08dd0e0201c6">
     <display-name>84c87df8-6266-4138-3e61-08dd0e0201c6</display-name>
@@ -3537,12 +3533,6 @@
     <title lang="es">Gran Final Liga Iberdrola Senior - Femenina</title>
     <desc lang="es">El Pabellón Municipal de los Deportes de Ponteveda (Galicia) acogerá los días 14 y 15 de diciembre las Finales de la Liga Iberdrola y la Liga Nacional de Kárate.</desc>
     <category lang="es">Artes Marciales</category>
-  </programme>
-  <programme start="20241211111000 +0000" stop="20241211141000 +0000" channel="29r8u19npb9y3iaj3hkzb6xhw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1h2try7g9g5hkf66u53h5g9rd_image-header_pEs_1731599102000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Taoyuan Pauian Pilots - Suwon Sonicboom</title>
-    <desc lang="es">Vive el encuentro de East Asia Super League entre Taoyuan Pauian Pilots y Suwon Sonicboom.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241215095500 +0000" stop="20241215121000 +0000" channel="84c87df8-6266-4138-3e61-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/11/kar-masjpg-101030.jpg"/>
