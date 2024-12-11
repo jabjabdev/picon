@@ -1,20 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 11 07:04:41 2024">
+<tv date="Wed Dec 11 10:50:29 2024">
   <channel id="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <display-name>7894e54b-c2c4-4b6f-7505-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
-  </channel>
-  <channel id="esp-e200446827c0ch20008">
-    <display-name>esp-e200446827c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200446827_20241128-124107.jpeg"/>
-  </channel>
-  <channel id="esp-e200444380c0ch20007">
-    <display-name>esp-e200444380c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120831.jpeg"/>
-  </channel>
-  <channel id="esp-e200452424c0ch20013">
-    <display-name>esp-e200452424c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_0_200452424_20241127-133216.jpeg"/>
   </channel>
   <channel id="esp-e200448138c0ch20012">
     <display-name>esp-e200448138c0ch20012</display-name>
@@ -147,10 +135,6 @@
   <channel id="8ea08f85-ae28-423d-9f00-08dd0e03944b">
     <display-name>8ea08f85-ae28-423d-9f00-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/ASOBALBidasoavisitorASOBALAnaitasunalocalpng-095047.png"/>
-  </channel>
-  <channel id="f804df2f-a9e0-44bb-7525-08dd0e37795d">
-    <display-name>f804df2f-a9e0-44bb-7525-08dd0e37795d</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/IsuzuUTEALeagueThumbnailCentralCoastMarinersSydneyFCmatchpng-111943.png"/>
   </channel>
   <channel id="452ec0f5-95de-41aa-9f06-08dd0e03944b">
     <display-name>452ec0f5-95de-41aa-9f06-08dd0e03944b</display-name>
@@ -727,10 +711,6 @@
   <channel id="d6091acf-39e0-4d2d-5f1e-08dd0e033b96">
     <display-name>d6091acf-39e0-4d2d-5f1e-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/09/Flyer-Etapa-final-del-cicuito-1920-x-1080-pxjpg-161011.jpg"/>
-  </channel>
-  <channel id="4nmcz8tv6pf3me7uqyvwc03b">
-    <display-name>4nmcz8tv6pf3me7uqyvwc03b</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ug7vc1nvfrhrcfvm6mfbo1y7_image-header_pEs_1732181180000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="29r8u19npb9y3iaj3hkzb6xhw">
     <display-name>29r8u19npb9y3iaj3hkzb6xhw</display-name>
@@ -1424,29 +1404,19 @@
     <display-name>esp-e200447621c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_3_200447621_20241205-123625.jpeg"/>
   </channel>
+  <channel id="7w3e8kng08fxkc9jfar7ph07o">
+    <display-name>7w3e8kng08fxkc9jfar7ph07o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5as612oxr2394k0h5wocpvn27_image-header_pEs_1733910209000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="edzv69oto0l3lja8fu34iwsea">
+    <display-name>edzv69oto0l3lja8fu34iwsea</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/229jag72oipy6sca6w5tcvenn_image-header_pEs_1733909712000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241208205500 +0000" stop="20241209000000 +0000" channel="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
     <title lang="es">San Juan Open 2024: Final</title>
     <desc lang="es">Disfruta de los partidos del San Juan Open 2024, disputado en el estadio Aldo Cantoni de la ciudad argentina.</desc>
     <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20241208010000 +0000" stop="20241208070000 +0000" channel="esp-e200446827c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200446827_20241128-124107.jpeg"/>
-    <title lang="es">UFC 310 - Alexandre Pantoja - Kai Asakura</title>
-    <desc lang="es">Velada completa - Sin anuncios</desc>
-    <category lang="es">MMA</category>
-  </programme>
-  <programme start="20241208060000 +0000" stop="20241208093500 +0000" channel="esp-e200444380c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240404-120831.jpeg"/>
-    <title lang="es">Circuito Mundial - Pekín</title>
-    <desc lang="es">Día 2</desc>
-    <category lang="es">Pista Corta</category>
-  </programme>
-  <programme start="20241208072000 +0000" stop="20241208090000 +0000" channel="esp-e200452424c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_0_200452424_20241127-133216.jpeg"/>
-    <title lang="es">Copa del Mundo - Yanqing</title>
-    <desc lang="es">Eslalon paralelo | Masculino y Femenino</desc>
-    <category lang="es">Snowboard</category>
   </programme>
   <programme start="20241208080000 +0000" stop="20241208113000 +0000" channel="esp-e200448138c0ch20012">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200448138_20241110-170406.jpeg"/>
@@ -1645,12 +1615,6 @@
     <title lang="es">Helvetia Anaitasuna - Bidasoa Irun</title>
     <desc lang="es">El partido entre Helvetia Anaitasuna y Bidasoa Irun correspondiente a la Jornada 12 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20241208062500 +0000" stop="20241208090000 +0000" channel="f804df2f-a9e0-44bb-7525-08dd0e37795d">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/IsuzuUTEALeagueThumbnailCentralCoastMarinersSydneyFCmatchpng-111943.png"/>
-    <title lang="es">Central Coast Mariners - Sydney FC</title>
-    <desc lang="es">El partido correspondiente a la Jornada 7 de la Isuzu UTE A-League 2024/25.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241208102500 +0000" stop="20241208130000 +0000" channel="452ec0f5-95de-41aa-9f06-08dd0e03944b">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/03/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueInhuletslocalpng-114942.png"/>
@@ -2515,12 +2479,6 @@
     <title lang="es">Circuito Petanca LALIGA+ | Etapa Final - Día 2</title>
     <desc lang="es">Sagunto (Valencia) acoge la Etapa final del Circuito de Petanca LALIGA+ 2024 en las categorías masculina, femenina y juvenil.</desc>
     <category lang="es">Petanca</category>
-  </programme>
-  <programme start="20241211080000 +0000" stop="20241211140000 +0000" channel="4nmcz8tv6pf3me7uqyvwc03b">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ug7vc1nvfrhrcfvm6mfbo1y7_image-header_pEs_1732181180000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Conor Wallace vs. Asemahle Wellem</title>
-    <desc lang="es">Vive el encuentro de Wallace v Wellem entre Asemahle Wellem y Conor Wallace.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20241211111000 +0000" stop="20241211144000 +0000" channel="29r8u19npb9y3iaj3hkzb6xhw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10abbyj50y8b32ghrd5r4ref7_image-header_pEs_1731599102000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3559,5 +3517,17 @@
     <title lang="es">Copa del Mundo - Arosa</title>
     <desc lang="es">Esquícross Masculino y Femenino</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241211141000 +0000" stop="20241211164000 +0000" channel="7w3e8kng08fxkc9jfar7ph07o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5as612oxr2394k0h5wocpvn27_image-header_pEs_1733910209000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Mundial 2034 de la FIFA - Anuncio de Organizador</title>
+    <desc lang="es">No te pierdas el acto de la FIFA donde se va a anunciar organizador de la Copa del Mundo de selecciones del año 2036.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241213233000 +0000" stop="20241214053000 +0000" channel="edzv69oto0l3lja8fu34iwsea">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/229jag72oipy6sca6w5tcvenn_image-header_pEs_1733909712000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vargas vs. Guerrero - Preliminares</title>
+    <desc lang="es">Disfruta de los combates preliminares previos a la gran velada de boxeo encabezada por la pelea estelar entre Antonio Vargas y Winston Guerrero.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
