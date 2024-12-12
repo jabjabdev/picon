@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 12 04:16:54 2024">
+<tv date="Thu Dec 12 04:17:09 2024">
   <channel id="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <display-name>7894e54b-c2c4-4b6f-7505-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
@@ -1351,6 +1351,54 @@
   <channel id="u3hxsbkeei2sgnc6un1afbis">
     <display-name>u3hxsbkeei2sgnc6un1afbis</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4f42cb0imfy06vn1r6y5gwwe0_image-header_pEs_1733328762000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200494458c0ch20018">
+    <display-name>esp-e200494458c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494458_20241211-124317.jpeg"/>
+  </channel>
+  <channel id="esp-e200494373c0ch20017">
+    <display-name>esp-e200494373c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494373_20241211-124301.jpeg"/>
+  </channel>
+  <channel id="esp-e200494564c0ch20019">
+    <display-name>esp-e200494564c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494564_20241211-124331.jpeg"/>
+  </channel>
+  <channel id="esp-e200494289c0ch20016">
+    <display-name>esp-e200494289c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494289_20241211-124245.jpeg"/>
+  </channel>
+  <channel id="esp-e200494290c0ch20016">
+    <display-name>esp-e200494290c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494290_20241211-124531.jpeg"/>
+  </channel>
+  <channel id="esp-e200494459c0ch20018">
+    <display-name>esp-e200494459c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494459_20241211-124604.jpeg"/>
+  </channel>
+  <channel id="esp-e200494374c0ch20017">
+    <display-name>esp-e200494374c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494374_20241211-124546.jpeg"/>
+  </channel>
+  <channel id="esp-e200494565c0ch20019">
+    <display-name>esp-e200494565c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494565_20241211-124840.jpeg"/>
+  </channel>
+  <channel id="esp-e200494375c0ch20017">
+    <display-name>esp-e200494375c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494375_20241211-125232.jpeg"/>
+  </channel>
+  <channel id="esp-e200494460c0ch20018">
+    <display-name>esp-e200494460c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494460_20241211-125253.jpeg"/>
+  </channel>
+  <channel id="esp-e200494566c0ch20019">
+    <display-name>esp-e200494566c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494566_20241211-125306.jpeg"/>
+  </channel>
+  <channel id="esp-e200494291c0ch20016">
+    <display-name>esp-e200494291c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494291_20241211-125218.jpeg"/>
   </channel>
   <programme start="20241208205500 +0000" stop="20241209000000 +0000" channel="7894e54b-c2c4-4b6f-7505-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/11/28/San-Juan-Openjpg-162413.jpg"/>
@@ -3379,5 +3427,77 @@
     <title lang="es">Juventus - Vålerenga</title>
     <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Vålerenga y Juventus.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241218100000 +0000" stop="20241218130000 +0000" channel="esp-e200494458c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494458_20241211-124317.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218100000 +0000" stop="20241218130000 +0000" channel="esp-e200494373c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494373_20241211-124301.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218100000 +0000" stop="20241218130000 +0000" channel="esp-e200494564c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494564_20241211-124331.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218100000 +0000" stop="20241218130000 +0000" channel="esp-e200494289c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494289_20241211-124245.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218143000 +0000" stop="20241218173000 +0000" channel="esp-e200494290c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494290_20241211-124531.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218143000 +0000" stop="20241218173000 +0000" channel="esp-e200494459c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494459_20241211-124604.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218143000 +0000" stop="20241218173000 +0000" channel="esp-e200494374c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494374_20241211-124546.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218143000 +0000" stop="20241218173000 +0000" channel="esp-e200494565c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494565_20241211-124840.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218190000 +0000" stop="20241218220000 +0000" channel="esp-e200494375c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200494375_20241211-125232.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218190000 +0000" stop="20241218220000 +0000" channel="esp-e200494460c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200494460_20241211-125253.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218190000 +0000" stop="20241218220000 +0000" channel="esp-e200494566c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200494566_20241211-125306.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20241218190000 +0000" stop="20241218220000 +0000" channel="esp-e200494291c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200494291_20241211-125218.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">German Masters | Clasificación</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
