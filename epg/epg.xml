@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 12 23:10:02 2024">
+<tv date="Thu Dec 12 23:11:17 2024">
   <channel id="esp-e200470968c0ch20019">
     <display-name>esp-e200470968c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1355,6 +1355,10 @@
   <channel id="esp-e200444395c0ch20002">
     <display-name>esp-e200444395c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200444395_20241120-124302.jpeg"/>
+  </channel>
+  <channel id="ccag7aypkp1j04hfu1yzvvmig">
+    <display-name>ccag7aypkp1j04hfu1yzvvmig</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2bi2lbge14r2h0y1bp98pxuik_image-header_pEs_1730912398000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241209190000 +0000" stop="20241209210000 +0000" channel="esp-e200470968c0ch20019">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -3389,5 +3393,11 @@
     <title lang="es">Copa del Mundo - Titisee Neustadt</title>
     <desc lang="es">Masculino | Clasificación</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241212170000 +0000" stop="20241213000000 +0000" channel="ccag7aypkp1j04hfu1yzvvmig">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2bi2lbge14r2h0y1bp98pxuik_image-header_pEs_1730912398000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Mourad Aliev vs. Davide Brito</title>
+    <desc lang="es">Disfruta en DAZN del mejor boxeo y vive con nosotros el combate entre Mourad Aliev vs. Davide Brito. ¡No te lo pierdas!</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
