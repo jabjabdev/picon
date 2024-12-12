@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 12 23:26:12 2024">
+<tv date="Thu Dec 12 23:27:54 2024">
   <channel id="esp-e200470968c0ch20019">
     <display-name>esp-e200470968c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1359,6 +1359,14 @@
   <channel id="ccag7aypkp1j04hfu1yzvvmig">
     <display-name>ccag7aypkp1j04hfu1yzvvmig</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2bi2lbge14r2h0y1bp98pxuik_image-header_pEs_1730912398000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b6rppnrgwaqmbx861tv6h73f8">
+    <display-name>b6rppnrgwaqmbx861tv6h73f8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7z81vkrfkx9f8ukxm36qw08aj_image-header_pEs_1732724233000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2fh7gm71tqs6ov4ibfmmyiha6">
+    <display-name>2fh7gm71tqs6ov4ibfmmyiha6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eus5kmme9nnu78vckmmmb7tqn_image-header_pEs_1733311454000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20241209190000 +0000" stop="20241209210000 +0000" channel="esp-e200470968c0ch20019">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -3399,5 +3407,17 @@
     <title lang="es">Mourad Aliev vs. Davide Brito</title>
     <desc lang="es">Disfruta en DAZN del mejor boxeo y vive con nosotros el combate entre Mourad Aliev vs. Davide Brito. ¡No te lo pierdas!</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20241212200000 +0000" stop="20241212233000 +0000" channel="b6rppnrgwaqmbx861tv6h73f8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7z81vkrfkx9f8ukxm36qw08aj_image-header_pEs_1732724233000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hammarby - FC Barcelona (+ La Central)</title>
+    <desc lang="es">Disfruta del encuentro de fase de grupos de la UEFA Women's Champions League que enfrenta a Hammarby y FC Barcelona en el Tele2 Arena. Y tras el partido, no te pierdas un nuevo programa de La Central en el que repasamos todo lo que ha deparado la quinta jornada de la máxima competición continental de fútbol femenino.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241212220000 +0000" stop="20241213060000 +0000" channel="2fh7gm71tqs6ov4ibfmmyiha6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eus5kmme9nnu78vckmmmb7tqn_image-header_pEs_1733311454000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Venezuela Máster Final - Día 2</title>
+    <desc lang="es">Prepárate para vivir la emoción del Padel en el Venezuel Máster Final A1 Padel.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
