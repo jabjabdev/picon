@@ -1,38 +1,28 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 19 21:15:22 2024">
-  <channel id="2xaofy0m1um59i0g7dv1b0xyk">
-    <display-name>2xaofy0m1um59i0g7dv1b0xyk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9gwi2hqkbff8ajc5xyfm3iq82_image-header_pEs_1733827240000/fill/none/top/none/85/300/180/webp/image"/>
+<tv date="Thu Dec 19 21:17:10 2024">
+  <channel id="dyfzxtlnn2xb262nbiassvugt">
+    <display-name>dyfzxtlnn2xb262nbiassvugt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="181p2e2iq5xlk82gzgt69r7qt">
     <display-name>181p2e2iq5xlk82gzgt69r7qt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qhkc2f1shxleax8nhlnln26e_image-header_pEs_1733827240000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="dyfzxtlnn2xb262nbiassvugt">
-    <display-name>dyfzxtlnn2xb262nbiassvugt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="8vftsbhb0ufg495qpffz5stn8">
     <display-name>8vftsbhb0ufg495qpffz5stn8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cwj0npqf3y61dle5vac5q0su_image-header_pEs_1732734600000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20241219150000 +0000" stop="20241219194500 +0000" channel="2xaofy0m1um59i0g7dv1b0xyk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9gwi2hqkbff8ajc5xyfm3iq82_image-header_pEs_1733827240000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cuartos de final - Sesión 1</title>
-    <desc lang="es">Disfruta del Riyadh Season Snooker Championship en DAZN. El torneo perteneciente al World Snooker Tour que se celebra por segunda vez en Arabia Saudí, reúne a jugadores de talla mundial como Ronnie O'Sullivan, Luca Brecel, Mark Selby, Judd Trump o Kyren Wilson. 'No te lo pierdas!</desc>
-    <category lang="es">Snooker</category>
+  <programme start="20241219170000 +0000" stop="20241219231500 +0000" channel="dyfzxtlnn2xb262nbiassvugt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Round Robin - Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20241219190000 +0000" stop="20241219231500 +0000" channel="181p2e2iq5xlk82gzgt69r7qt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qhkc2f1shxleax8nhlnln26e_image-header_pEs_1733827240000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Cuartos de final - Sesión 2</title>
     <desc lang="es">Disfruta del Riyadh Season Snooker Championship en DAZN. El torneo perteneciente al World Snooker Tour que se celebra por segunda vez en Arabia Saudí, reúne a jugadores de talla mundial como Ronnie O'Sullivan, Luca Brecel, Mark Selby, Judd Trump o Kyren Wilson. 'No te lo pierdas!</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241219170000 +0000" stop="20241219231500 +0000" channel="dyfzxtlnn2xb262nbiassvugt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Round Robin - Día 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20241219200000 +0000" stop="20241219230000 +0000" channel="8vftsbhb0ufg495qpffz5stn8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cwj0npqf3y61dle5vac5q0su_image-header_pEs_1732734600000/fill/none/top/none/85/600/360/webp/image"/>
