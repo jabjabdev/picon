@@ -1,25 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 19 22:35:47 2024">
-  <channel id="dyfzxtlnn2xb262nbiassvugt">
-    <display-name>dyfzxtlnn2xb262nbiassvugt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="181p2e2iq5xlk82gzgt69r7qt">
-    <display-name>181p2e2iq5xlk82gzgt69r7qt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qhkc2f1shxleax8nhlnln26e_image-header_pEs_1733827240000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8vftsbhb0ufg495qpffz5stn8">
-    <display-name>8vftsbhb0ufg495qpffz5stn8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cwj0npqf3y61dle5vac5q0su_image-header_pEs_1732734600000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4sli2bodvu1vnz0bnyc0muz3e">
-    <display-name>4sli2bodvu1vnz0bnyc0muz3e</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3daa7i38vs8bkbkkmxuaic2e9_image-header_pEs_1734417526000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6xtyi900syjojd59vn7xqs844">
-    <display-name>6xtyi900syjojd59vn7xqs844</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jqmkfh7vp7sq1h4i6szwicvyf_image-header_pEs_1730283686000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Fri Dec 20 11:12:27 2024">
   <channel id="chiix0a1h5noejsrnnyy0px5c">
     <display-name>chiix0a1h5noejsrnnyy0px5c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/300/180/webp/image"/>
@@ -956,36 +936,42 @@
     <display-name>esp-e200452574c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200452574_20241212-093840.jpeg"/>
   </channel>
-  <programme start="20241219170000 +0000" stop="20241219231500 +0000" channel="dyfzxtlnn2xb262nbiassvugt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9j5oplgcyrx3nhuzcd1ydb1ay_image-header_pEs_1723595596000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Round Robin - Día 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
-  </programme>
-  <programme start="20241219190000 +0000" stop="20241219231500 +0000" channel="181p2e2iq5xlk82gzgt69r7qt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qhkc2f1shxleax8nhlnln26e_image-header_pEs_1733827240000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cuartos de final - Sesión 2</title>
-    <desc lang="es">Disfruta del Riyadh Season Snooker Championship en DAZN. El torneo perteneciente al World Snooker Tour que se celebra por segunda vez en Arabia Saudí, reúne a jugadores de talla mundial como Ronnie O'Sullivan, Luca Brecel, Mark Selby, Judd Trump o Kyren Wilson. 'No te lo pierdas!</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241219200000 +0000" stop="20241219230000 +0000" channel="8vftsbhb0ufg495qpffz5stn8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cwj0npqf3y61dle5vac5q0su_image-header_pEs_1732734600000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Octavos de final - Inter - Udinese</title>
-    <desc lang="es">Vive el encuentro de Coppa Italia entre Internazionale y Udinese.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20241219220000 +0000" stop="20241220040000 +0000" channel="4sli2bodvu1vnz0bnyc0muz3e">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3daa7i38vs8bkbkkmxuaic2e9_image-header_pEs_1734417526000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Usyk vs. Fury 2 - La historia de Tyson</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20241220011500 +0000" stop="20241220051500 +0000" channel="6xtyi900syjojd59vn7xqs844">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jqmkfh7vp7sq1h4i6szwicvyf_image-header_pEs_1730283686000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Broncos @ Chargers</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
+  <channel id="bwfjax16ws009utkif02fsiz8">
+    <display-name>bwfjax16ws009utkif02fsiz8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7pgvy9hs2zt9ptzz3jefecie8_image-header_pEs_1732494508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9v624sxgf4lzf9a1pkr05cupa">
+    <display-name>9v624sxgf4lzf9a1pkr05cupa</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rsewz5ewkoltqmtyw7yztqld_image-header_pEs_1734199223000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bvmmeuphptsaj0chjl0pc2r6c">
+    <display-name>bvmmeuphptsaj0chjl0pc2r6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76jtyl5kqqlpwgt8m1b6aadj_image-header_pEs_1732494508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bwuarpgll3clnk3scu7xbaxas">
+    <display-name>bwuarpgll3clnk3scu7xbaxas</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/duqqwtv3t0q33nsjitytc5arc_image-header_pEs_1732494849000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bx9avxt4rbqdfvttecl4817v8">
+    <display-name>bx9avxt4rbqdfvttecl4817v8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ewewyqo5ls4g2cn2yu8xtm7zn_image-header_pEs_1732494508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bxnl2pjrc523jr3yij03t2m8k">
+    <display-name>bxnl2pjrc523jr3yij03t2m8k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss0w1dmexql86jby5wlve7p3_image-header_pEs_1732494508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bufh3lgfusvbqnu46478mn02c">
+    <display-name>bufh3lgfusvbqnu46478mn02c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e3cnds3xa3un4nvpy0acadik_image-header_pEs_1732494508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="by1y9hinyt9l3dc9cggsyg36c">
+    <display-name>by1y9hinyt9l3dc9cggsyg36c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bi2bch1tfgyg4bky3j81o646y_image-header_pEs_1732494849000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bw0uir5z0tq8xr7j69z0vuoes">
+    <display-name>bw0uir5z0tq8xr7j69z0vuoes</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8jscdfzxdm7hms77r6dwflzxz_image-header_pEs_1732494849000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241220090000 +0000" stop="20241220150000 +0000" channel="chiix0a1h5noejsrnnyy0px5c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carlos Sainz, una inteligencia sobrenatural</title>
@@ -2391,5 +2377,59 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Superprestige - Mol</title>
     <desc lang="es">Masculino</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241226123000 +0000" stop="20241226150000 +0000" channel="bwfjax16ws009utkif02fsiz8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7pgvy9hs2zt9ptzz3jefecie8_image-header_pEs_1732494508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester City - Everton</title>
+    <desc lang="es">Disfruta del partidazo entre Manchester City - Everton. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226123000 +0000" stop="20241226183000 +0000" channel="9v624sxgf4lzf9a1pkr05cupa">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rsewz5ewkoltqmtyw7yztqld_image-header_pEs_1734199223000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Gavere - Élite femenina y masculina</title>
+    <desc lang="es">La ciudad belga de Gavere acoge la quinta prueba del Mundial de Cyclocross 2024/2025. ¡Siguelo en directo en DAZN a través de los canales de Eurosport!</desc>
+    <category lang="es">Ciclocrós</category>
+  </programme>
+  <programme start="20241226150000 +0000" stop="20241226173000 +0000" channel="bvmmeuphptsaj0chjl0pc2r6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76jtyl5kqqlpwgt8m1b6aadj_image-header_pEs_1732494508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelsea - Fulham</title>
+    <desc lang="es">Disfruta del partidazo entre Chelsea - Fulham. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226150000 +0000" stop="20241226173000 +0000" channel="bwuarpgll3clnk3scu7xbaxas">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/duqqwtv3t0q33nsjitytc5arc_image-header_pEs_1732494849000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Newcastle United - Aston Villa</title>
+    <desc lang="es">Disfruta del partidazo entre Newcastle United - Aston Villa. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226150000 +0000" stop="20241226173000 +0000" channel="bx9avxt4rbqdfvttecl4817v8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ewewyqo5ls4g2cn2yu8xtm7zn_image-header_pEs_1732494508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nottingham Forest - Tottenham</title>
+    <desc lang="es">Disfruta del partidazo entre Nottingham Forest - Tottenham. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226150000 +0000" stop="20241226173000 +0000" channel="bxnl2pjrc523jr3yij03t2m8k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss0w1dmexql86jby5wlve7p3_image-header_pEs_1732494508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Southampton - West Ham United</title>
+    <desc lang="es">Disfruta del partidazo entre Southampton - West Ham United. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226150000 +0000" stop="20241226173000 +0000" channel="bufh3lgfusvbqnu46478mn02c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e3cnds3xa3un4nvpy0acadik_image-header_pEs_1732494508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bournemouth - Crystal Palace</title>
+    <desc lang="es">Disfruta del partidazo entre Bournemouth - Crystal Palace. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226173000 +0000" stop="20241226200000 +0000" channel="by1y9hinyt9l3dc9cggsyg36c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bi2bch1tfgyg4bky3j81o646y_image-header_pEs_1732494849000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolverhampton - Manchester United</title>
+    <desc lang="es">Disfruta del partidazo entre Wolverhampton - Manchester United. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226200000 +0000" stop="20241226223000 +0000" channel="bw0uir5z0tq8xr7j69z0vuoes">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8jscdfzxdm7hms77r6dwflzxz_image-header_pEs_1732494849000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Liverpool - Leicester City</title>
+    <desc lang="es">Disfruta del partidazo entre Liverpool - Leicester City. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
