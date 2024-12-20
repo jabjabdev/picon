@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Dec 20 11:12:41 2024">
+<tv date="Fri Dec 20 11:13:22 2024">
   <channel id="chiix0a1h5noejsrnnyy0px5c">
     <display-name>chiix0a1h5noejsrnnyy0px5c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/300/180/webp/image"/>
@@ -979,6 +979,22 @@
   <channel id="esp-e200448154c0ch20007">
     <display-name>esp-e200448154c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200448154_20241212-112745.jpeg"/>
+  </channel>
+  <channel id="d95319a5-4950-470d-ff00-08dd0e324662">
+    <display-name>d95319a5-4950-470d-ff00-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBRealValladolidvisitorPrimeraFEBPalencialocalpng-114400.png"/>
+  </channel>
+  <channel id="9d1065e6-59ba-41f7-ff01-08dd0e324662">
+    <display-name>9d1065e6-59ba-41f7-ff01-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBCastellouvisitorPrimeraFEBCartagenalocalpng-114601.png"/>
+  </channel>
+  <channel id="2d5064d7-c7fa-4a74-7584-08dd0e37795d">
+    <display-name>2d5064d7-c7fa-4a74-7584-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBMorounvisitorPrimeraFEBBetislocalpng-115037.png"/>
+  </channel>
+  <channel id="9779eeec-47f1-41f1-65d1-08dd1e646927">
+    <display-name>9779eeec-47f1-41f1-65d1-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBFuenlabradavisitorPrimeraFEBEstudianteslocalpng-114831.png"/>
   </channel>
   <programme start="20241220090000 +0000" stop="20241220150000 +0000" channel="chiix0a1h5noejsrnnyy0px5c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2451,5 +2467,29 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Copa del Mundo - Gavere</title>
     <desc lang="es">Masculino</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241228172500 +0000" stop="20241228210000 +0000" channel="d95319a5-4950-470d-ff00-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBRealValladolidvisitorPrimeraFEBPalencialocalpng-114400.png"/>
+    <title lang="es">Súper Agropal Palencia - UEMC Real Valladolid</title>
+    <desc lang="es">El partido entre Súper Agropal Palencia y UEMC Real Valladolid correspondiente a la Jornada 14 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241229102500 +0000" stop="20241229140000 +0000" channel="9d1065e6-59ba-41f7-ff01-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBCastellouvisitorPrimeraFEBCartagenalocalpng-114601.png"/>
+    <title lang="es">Odilo Cartagena - Amics Castelló</title>
+    <desc lang="es">El partido entre Odilo Cartagena y Amics Castelló correspondiente a la Jornada 14 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241229105500 +0000" stop="20241229143000 +0000" channel="2d5064d7-c7fa-4a74-7584-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBMorounvisitorPrimeraFEBBetislocalpng-115037.png"/>
+    <title lang="es">Real Betis Baloncesto - Naturavia Morón</title>
+    <desc lang="es">El partido entre Real Betis Baloncesto y Naturavia Morón correspondiente a la Jornada 14 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20241229105500 +0000" stop="20241229143000 +0000" channel="9779eeec-47f1-41f1-65d1-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBFuenlabradavisitorPrimeraFEBEstudianteslocalpng-114831.png"/>
+    <title lang="es">Movistar Estudiantes - Flexicar Fuenlabrada</title>
+    <desc lang="es">El partido entre Movistar Estudiantes y Flexicar Fuenlabrada correspondiente a la Jornada 14 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
