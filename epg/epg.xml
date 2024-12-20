@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Dec 20 11:12:27 2024">
+<tv date="Fri Dec 20 11:12:41 2024">
   <channel id="chiix0a1h5noejsrnnyy0px5c">
     <display-name>chiix0a1h5noejsrnnyy0px5c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/300/180/webp/image"/>
@@ -971,6 +971,14 @@
   <channel id="bw0uir5z0tq8xr7j69z0vuoes">
     <display-name>bw0uir5z0tq8xr7j69z0vuoes</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8jscdfzxdm7hms77r6dwflzxz_image-header_pEs_1732494849000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200448153c0ch20007">
+    <display-name>esp-e200448153c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200448153_20241212-112459.jpeg"/>
+  </channel>
+  <channel id="esp-e200448154c0ch20007">
+    <display-name>esp-e200448154c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200448154_20241212-112745.jpeg"/>
   </channel>
   <programme start="20241220090000 +0000" stop="20241220150000 +0000" channel="chiix0a1h5noejsrnnyy0px5c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rgmxeku5gpm1vq31s83pc9gz_image-header_pEs_1733741037000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2431,5 +2439,17 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Liverpool - Leicester City</title>
     <desc lang="es">Disfruta del partidazo entre Liverpool - Leicester City. ¡No te pierdas la Premier League 2024/25 en DAZN!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20241226123000 +0000" stop="20241226140000 +0000" channel="esp-e200448153c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200448153_20241212-112459.jpeg"/>
+    <title lang="es">Copa del Mundo - Gavere</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20241226140000 +0000" stop="20241226153000 +0000" channel="esp-e200448154c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200448154_20241212-112745.jpeg"/>
+    <title lang="es">Copa del Mundo - Gavere</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
