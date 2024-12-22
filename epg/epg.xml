@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Sun Dec 22 08:55:38 2024">
+<tv date="Sun Dec 22 14:46:34 2024">
   <channel id="esp-e200494378c0ch20017">
     <display-name>esp-e200494378c0ch20017</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_0_200494378_20241218-231155.jpeg"/>
-  </channel>
-  <channel id="b8maye1hj7kasy70gfdgb5ogk">
-    <display-name>b8maye1hj7kasy70gfdgb5ogk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1saw1oljmlrbo36jlvj5v5ms_image-header_pEs_1731157488000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cpa1apl2pz5hrrg4pqwhl79qs">
     <display-name>cpa1apl2pz5hrrg4pqwhl79qs</display-name>
@@ -640,10 +636,6 @@
     <display-name>d54a4033-2b96-47d7-9f74-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/Daikin-HandballBundesligaThumbnailVfLGummersbachFuechseBerlinmatchpng-101858.png"/>
   </channel>
-  <channel id="esp-e200450453c0ch20008">
-    <display-name>esp-e200450453c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_3_200450453_20241123-110007.jpeg"/>
-  </channel>
   <channel id="f49e382f-248c-4446-755d-08dd0e37795d">
     <display-name>f49e382f-248c-4446-755d-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/IsuzuUTEALeagueThumbnailAdelaideUnitedSydneyFCmatchpng-093720.png"/>
@@ -988,17 +980,15 @@
     <display-name>esp-e200431314c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200431314_20241212-124448.jpeg"/>
   </channel>
+  <channel id="b8maye1hj7kasy70gfdgb5ogk">
+    <display-name>b8maye1hj7kasy70gfdgb5ogk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2byqem43jeodjjsrmfo4tlmcz_image-header_pEs_1731157488000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241219185716 +0000" stop="20241219215716 +0000" channel="esp-e200494378c0ch20017">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_0_200494378_20241218-231155.jpeg"/>
     <title lang="es">Scott Donaldson - Alexander Ursenbacher</title>
     <desc lang="es">German Masters | Clasificación</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20241222113000 +0000" stop="20241222140000 +0000" channel="b8maye1hj7kasy70gfdgb5ogk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1saw1oljmlrbo36jlvj5v5ms_image-header_pEs_1731157488000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">AS Roma - Parma</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Roma y Parma.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241222123000 +0000" stop="20241222150000 +0000" channel="cpa1apl2pz5hrrg4pqwhl79qs">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ec0ck0daezagzqsmd5247609x_image-header_pEs_1731606998000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1950,12 +1940,6 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
 17 de la Daikin Handball-Bundesliga 2024/25.</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20241222132500 +0000" stop="20241222143000 +0000" channel="esp-e200450453c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_3_200450453_20241123-110007.jpeg"/>
-    <title lang="es">Copa del Mundo - Engelberg</title>
-    <desc lang="es">Masculino HS 140 | Clasificación</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20241220080000 +0000" stop="20241220103500 +0000" channel="f49e382f-248c-4446-755d-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/IsuzuUTEALeagueThumbnailAdelaideUnitedSydneyFCmatchpng-093720.png"/>
     <title lang="es">Adelaide United - Sydney FC</title>
@@ -2471,5 +2455,11 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">World Challenge - Gelsenkirchen</title>
     <desc lang="es">Persecución por Equipos</desc>
     <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20241222113000 +0000" stop="20241222150000 +0000" channel="b8maye1hj7kasy70gfdgb5ogk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2byqem43jeodjjsrmfo4tlmcz_image-header_pEs_1731157488000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AS Roma - Parma</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Roma y Parma.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
