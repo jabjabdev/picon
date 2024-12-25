@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 25 11:13:29 2024">
-  <channel id="2p07wdi4gp4btcyw43g7awnpw">
-    <display-name>2p07wdi4gp4btcyw43g7awnpw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f3kez8z9vc8wnttbuvbtb6q6s_image-header_pEs_1731590020000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Wed Dec 25 12:49:35 2024">
   <channel id="2aczik1eya1pp5o7a8qs9onis">
     <display-name>2aczik1eya1pp5o7a8qs9onis</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ygbkh1ot3b8nzcj7ykaqnul8_image-header_pEs_1731589892000/fill/none/top/none/85/300/180/webp/image"/>
@@ -15,14 +11,6 @@
   <channel id="7ffoleaef0rpgg63rlyx34qhg">
     <display-name>7ffoleaef0rpgg63rlyx34qhg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rhik9l346mb11c45dbk3mrz00_image-header_pEs_1720438922000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200447916c0ch20002">
-    <display-name>esp-e200447916c0ch20002</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200447916_20241122-170243.jpeg"/>
-  </channel>
-  <channel id="esp-e200447863c0ch20006">
-    <display-name>esp-e200447863c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200447863_20241122-165536.jpeg"/>
   </channel>
   <channel id="0656d65e-1b15-4f11-5f2d-08dd0e033b96">
     <display-name>0656d65e-1b15-4f11-5f2d-08dd0e033b96</display-name>
@@ -99,10 +87,6 @@
   <channel id="25e314e9-9cff-4215-65ca-08dd1e646927">
     <display-name>25e314e9-9cff-4215-65ca-08dd1e646927</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/BasketballBundesligaThumbnailVechtaOldenburgmatchpng-104438.png"/>
-  </channel>
-  <channel id="esp-e200411441c0ch20022">
-    <display-name>esp-e200411441c0ch20022</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200411441_20241120-105312.jpeg"/>
   </channel>
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
@@ -680,12 +664,10 @@
     <display-name>esp-e200523835c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200523835_20241219-083637.jpeg"/>
   </channel>
-  <programme start="20241225114000 +0000" stop="20241225151000 +0000" channel="2p07wdi4gp4btcyw43g7awnpw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f3kez8z9vc8wnttbuvbtb6q6s_image-header_pEs_1731590020000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ryukyu Golden Kings - New Taipei Kings</title>
-    <desc lang="es">Vive el encuentro de East Asia Super League entre Ryukyu Golden Kings y New Taipei Kings.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
+  <channel id="2p07wdi4gp4btcyw43g7awnpw">
+    <display-name>2p07wdi4gp4btcyw43g7awnpw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a4a9b489cpdu42qonp9sfdhk_image-header_pEs_1731590020000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20241225121000 +0000" stop="20241225154000 +0000" channel="2aczik1eya1pp5o7a8qs9onis">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ygbkh1ot3b8nzcj7ykaqnul8_image-header_pEs_1731589892000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Taoyuan Pauian Pilots - Hiroshima Dragonflies</title>
@@ -703,18 +685,6 @@
     <title lang="es">Ravens @ Texans</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20241222084500 +0000" stop="20241222103000 +0000" channel="esp-e200447916c0ch20002">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200447916_20241122-170243.jpeg"/>
-    <title lang="es">Copa del Mundo - Alta Badía</title>
-    <desc lang="es">Masculino Eslalon gigante | Día 1, 1ª manga</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241222094500 +0000" stop="20241222113000 +0000" channel="esp-e200447863c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200447863_20241122-165536.jpeg"/>
-    <title lang="es">Copa del Mundo - Saint Moritz</title>
-    <desc lang="es">Femenino Super-G</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20241222102500 +0000" stop="20241222140000 +0000" channel="0656d65e-1b15-4f11-5f2d-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/12/PrimeraFEBMenorcavisitorPrimeraFEBFuenlabradalocalpng-122214.png"/>
@@ -830,12 +800,6 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Vechta - Oldenburg</title>
     <desc lang="es">El partido correspondiente a la Jornada 14 de la easyCredit BBL 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20241222104500 +0000" stop="20241222111500 +0000" channel="esp-e200411441c0ch20022">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200411441_20241120-105312.jpeg"/>
-    <title lang="es">Copa del Mundo - Le Grand-Bornand</title>
-    <desc lang="es">Salida en masa Masculino | Entrenamiento</desc>
-    <category lang="es">Triatlón</category>
   </programme>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -1701,5 +1665,11 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Two-Nights Tour - Garmisch-Partenkirchen</title>
     <desc lang="es">Femenino HS 142</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20241225104000 +0000" stop="20241225134000 +0000" channel="2p07wdi4gp4btcyw43g7awnpw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a4a9b489cpdu42qonp9sfdhk_image-header_pEs_1731590020000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ryukyu Golden Kings - New Taipei Kings</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre Ryukyu Golden Kings y New Taipei Kings.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
