@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Dec 26 07:46:50 2024">
+<tv date="Thu Dec 26 07:47:04 2024">
   <channel id="2e9f236f-2a72-4fa2-9f42-08dd0e03944b">
     <display-name>2e9f236f-2a72-4fa2-9f42-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/Alimerka-OviedoBetispng-115205.png"/>
@@ -559,6 +559,30 @@
   <channel id="bywfg7shyq9ey9h4qn1o86ec4">
     <display-name>bywfg7shyq9ey9h4qn1o86ec4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/40ys5tnkz5fyk305h6ta7gsqi_image-header_pEs_1734085524000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200436856c0ch20026">
+    <display-name>esp-e200436856c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200436856_20241129-182306.jpeg"/>
+  </channel>
+  <channel id="esp-e200436857c0ch20026">
+    <display-name>esp-e200436857c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200436857_20241129-181202.jpeg"/>
+  </channel>
+  <channel id="esp-e200514428c0ch20001">
+    <display-name>esp-e200514428c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200514428_20241213-101615.jpeg"/>
+  </channel>
+  <channel id="esp-e200492649c0ch20002">
+    <display-name>esp-e200492649c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200492649_20241205-102319.jpeg"/>
+  </channel>
+  <channel id="esp-e200492650c0ch20002">
+    <display-name>esp-e200492650c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200492650_20241205-103555.jpeg"/>
+  </channel>
+  <channel id="esp-e200523840c0ch20003">
+    <display-name>esp-e200523840c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200523840_20241217-093415.jpeg"/>
   </channel>
   <programme start="20241223175500 +0000" stop="20241223213000 +0000" channel="2e9f236f-2a72-4fa2-9f42-08dd0e03944b">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/Alimerka-OviedoBetispng-115205.png"/>
@@ -1401,5 +1425,41 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Brentford - Arsenal</title>
     <desc lang="es">Vive el encuentro de Premier League entre Arsenal y Brentford.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250101091500 +0000" stop="20250101103000 +0000" channel="esp-e200436856c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200436856_20241129-182306.jpeg"/>
+    <title lang="es">Copa del Mundo - Toblach</title>
+    <desc lang="es">15 km Persecución | Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250101111500 +0000" stop="20250101123000 +0000" channel="esp-e200436857c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200436857_20241129-181202.jpeg"/>
+    <title lang="es">Copa del Mundo - Toblach</title>
+    <desc lang="es">15 km Persecución | Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250101123000 +0000" stop="20250101151500 +0000" channel="esp-e200514428c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200514428_20241213-101615.jpeg"/>
+    <title lang="es">Cuatro Trampolines - Garmisch-Partenkirchen</title>
+    <desc lang="es">HS 142 Masculino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250101124200 +0000" stop="20250101135700 +0000" channel="esp-e200492649c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200492649_20241205-102319.jpeg"/>
+    <title lang="es">X2O Trofee - Baal</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250101135700 +0000" stop="20250101152000 +0000" channel="esp-e200492650c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200492650_20241205-103555.jpeg"/>
+    <title lang="es">X2O Trofee - Baal</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250101150500 +0000" stop="20250101164500 +0000" channel="esp-e200523840c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200523840_20241217-093415.jpeg"/>
+    <title lang="es">Two-Nights Tour - Oberstdorf</title>
+    <desc lang="es">Femenino HS 137</desc>
+    <category lang="es">Esquí</category>
   </programme>
 </tv>
