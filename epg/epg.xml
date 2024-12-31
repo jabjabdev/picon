@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 31 13:59:15 2024">
+<tv date="Tue Dec 31 17:08:51 2024">
   <channel id="07bd224d-85f4-4223-5f49-08dd0e033b96">
     <display-name>07bd224d-85f4-4223-5f49-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/BasketballBundesligaThumbnailMBCAlbaBerlinmatchpng-104007.png"/>
@@ -27,10 +27,6 @@
   <channel id="2c806b3c-7d60-4a3e-5f34-08dd0e033b96">
     <display-name>2c806b3c-7d60-4a3e-5f34-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/Movistar-EstudiantesSilbo-San-Pablo-Burgospng-162843.png"/>
-  </channel>
-  <channel id="e0f35132-932a-4de3-9f5b-08dd0e03944b">
-    <display-name>e0f35132-932a-4de3-9f5b-08dd0e03944b</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/LALIGAFCFUTURES1920x1080jpg-120724.jpg"/>
   </channel>
   <channel id="2cdf81e6-58b9-48ec-5f33-08dd0e033b96">
     <display-name>2cdf81e6-58b9-48ec-5f33-08dd0e033b96</display-name>
@@ -79,14 +75,6 @@
   <channel id="d2eed36e-36da-42ee-65d2-08dd1e646927">
     <display-name>d2eed36e-36da-42ee-65d2-08dd1e646927</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBTizonaBurgoslocalpng-122919.png"/>
-  </channel>
-  <channel id="esp-e200447952c0ch20003">
-    <display-name>esp-e200447952c0ch20003</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200447952_20241212-122353.jpeg"/>
-  </channel>
-  <channel id="esp-e200436851c0ch20026">
-    <display-name>esp-e200436851c0ch20026</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_6_200436851_20241212-122618.jpeg"/>
   </channel>
   <channel id="esp-e200459538c0ch20005">
     <display-name>esp-e200459538c0ch20005</display-name>
@@ -1012,6 +1000,14 @@
     <display-name>8dbl0t732zhcc279hhdl4jwx0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4fzyejn3uca8a17qw45z0dpxx_image-header_pEs_1735644269000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200485804c0ch20017">
+    <display-name>esp-e200485804c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200485886c0ch20018">
+    <display-name>esp-e200485886c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
   <programme start="20241228165500 +0000" stop="20241228203000 +0000" channel="07bd224d-85f4-4223-5f49-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/BasketballBundesligaThumbnailMBCAlbaBerlinmatchpng-104007.png"/>
     <title lang="es">MBC - Alba Berlin</title>
@@ -1054,12 +1050,6 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Movistar Estudiantes - Silbö San Pablo Burgos</title>
     <desc lang="es">El partido entre Movistar Estudiantes y Silbö San Pablo Burgos correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20241228085500 +0000" stop="20241228140000 +0000" channel="e0f35132-932a-4de3-9f5b-08dd0e03944b">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/LALIGAFCFUTURES1920x1080jpg-120724.jpg"/>
-    <title lang="es">XXVIII Torneo Internacional FC FUTURES | Fase de Grupos - J3</title>
-    <desc lang="es">Partidos de la fase de grupos del XXVIII Torneo Internacional FC FUTURES en la Ciudad Deportiva Maspalomas, Gran Canaria.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20241228165500 +0000" stop="20241228200000 +0000" channel="2cdf81e6-58b9-48ec-5f33-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/LALIGAFCFUTURES1920x1080jpg-120810.jpg"/>
@@ -1132,18 +1122,6 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Grupo Ureta Tizona Burgos - Silbö San Pablo Burgos</title>
     <desc lang="es">El partido entre Grupo Ureta Tizona Burgos y Silbö San Pablo Burgos correspondiente a la Jornada 14 de Primera FEB 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20241228114500 +0000" stop="20241228130000 +0000" channel="esp-e200447952c0ch20003">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200447952_20241212-122353.jpeg"/>
-    <title lang="es">Copa del Mundo - Semmering</title>
-    <desc lang="es">Eslalon gigante | Femenino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241228131500 +0000" stop="20241228151500 +0000" channel="esp-e200436851c0ch20026">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_6_200436851_20241212-122618.jpeg"/>
-    <title lang="es">Copa del Mundo - Toblach</title>
-    <desc lang="es">Sprint Freestyle | Masculino y Femenino</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20241228151500 +0000" stop="20241228170000 +0000" channel="esp-e200459538c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200459538_20241212-123059.jpeg"/>
@@ -2530,5 +2508,17 @@ The match on Matchday 13 of the easyCredit BBL 2024/25.</desc>
     <title lang="es">Interim Rajadamnern Super Lightweight Title</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250106230000 +0000" stop="20250107010000 +0000" channel="esp-e200485804c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250106230000 +0000" stop="20250107010000 +0000" channel="esp-e200485886c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
