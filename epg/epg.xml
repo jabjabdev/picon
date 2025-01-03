@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 02 09:24:00 2025">
+<tv date="Fri Jan 03 05:14:15 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -15,14 +15,6 @@
   <channel id="2c806b3c-7d60-4a3e-5f34-08dd0e033b96">
     <display-name>2c806b3c-7d60-4a3e-5f34-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/Movistar-EstudiantesSilbo-San-Pablo-Burgospng-162843.png"/>
-  </channel>
-  <channel id="esp-e200459563c0ch20006">
-    <display-name>esp-e200459563c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200459563_20241220-194347.jpeg"/>
-  </channel>
-  <channel id="esp-e200459564c0ch20006">
-    <display-name>esp-e200459564c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200459564_20241220-194855.jpeg"/>
   </channel>
   <channel id="esp-e200436852c0ch20026">
     <display-name>esp-e200436852c0ch20026</display-name>
@@ -63,10 +55,6 @@
   <channel id="esp-e200523840c0ch20003">
     <display-name>esp-e200523840c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200523840_20241217-093415.jpeg"/>
-  </channel>
-  <channel id="8e7735a2-e460-43f1-3eb1-08dd0e0201c6">
-    <display-name>8e7735a2-e460-43f1-3eb1-08dd0e0201c6</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/24/BasketballBundesligaThumbnailLudwigsburgHeidelbergmatchpng-112500.png"/>
   </channel>
   <channel id="1065b4c5-cfa1-4df8-65db-08dd1e646927">
     <display-name>1065b4c5-cfa1-4df8-65db-08dd1e646927</display-name>
@@ -643,10 +631,6 @@
   <channel id="esp-e200485886c0ch20018">
     <display-name>esp-e200485886c0ch20018</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="chtc1wl2htr5l7pyp2s9jxfys">
-    <display-name>chtc1wl2htr5l7pyp2s9jxfys</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t02h5zu275j6rbboyq8vn7xb_image-header_pEs_1734509362000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="67h7skrtvutcl0nzteuvvc1zl">
     <display-name>67h7skrtvutcl0nzteuvvc1zl</display-name>
@@ -1484,6 +1468,14 @@
     <display-name>esp-e200485185c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485185_20241223-092427.jpeg"/>
   </channel>
+  <channel id="epy05gjnaq67mmu4xhpj2ygic">
+    <display-name>epy05gjnaq67mmu4xhpj2ygic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/37yov69qie3tfopxwxs0gkta2_image-header_pEs_1734979776000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="693ghdmp5181calp1u7vp3gxu">
+    <display-name>693ghdmp5181calp1u7vp3gxu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1r376xlhjjja61ewfmj24xat66_image-header_pEs_1730284492000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
     <title lang="es">Real Betis Baloncesto - Alimerka Oviedo</title>
@@ -1507,18 +1499,6 @@
     <title lang="es">Movistar Estudiantes - Silbö San Pablo Burgos</title>
     <desc lang="es">El partido entre Movistar Estudiantes y Silbö San Pablo Burgos correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20241230165500 +0000" stop="20241230190000 +0000" channel="esp-e200459563c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200459563_20241220-194347.jpeg"/>
-    <title lang="es">Superprestige - Diegem</title>
-    <desc lang="es">Femenino</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20241230194000 +0000" stop="20241230210000 +0000" channel="esp-e200459564c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200459564_20241220-194855.jpeg"/>
-    <title lang="es">Superprestige - Diegem</title>
-    <desc lang="es">Masculino</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20241231101500 +0000" stop="20241231120000 +0000" channel="esp-e200436852c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200436852_20241129-175524.jpeg"/>
@@ -1579,12 +1559,6 @@
     <title lang="es">Two-Nights Tour - Oberstdorf</title>
     <desc lang="es">Femenino HS 137</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20241230182500 +0000" stop="20241230220000 +0000" channel="8e7735a2-e460-43f1-3eb1-08dd0e0201c6">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/24/BasketballBundesligaThumbnailLudwigsburgHeidelbergmatchpng-112500.png"/>
-    <title lang="es">Ludwigsburg - Heidelberg</title>
-    <desc lang="es">El partido correspondiente a la Jornada 14 de la easyCredit BBL 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20241231122500 +0000" stop="20241231160000 +0000" channel="1065b4c5-cfa1-4df8-65db-08dd1e646927">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/24/BasketballBundesligaThumbnailAlbaBerlinRostockmatchpng-112710.png"/>
@@ -2449,12 +2423,6 @@
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250102190000 +0000" stop="20250102213000 +0000" channel="chtc1wl2htr5l7pyp2s9jxfys">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t02h5zu275j6rbboyq8vn7xb_image-header_pEs_1734509362000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Semifinal - Inter - Atalanta</title>
-    <desc lang="es">Vive el encuentro de Supercoppa de Italia entre Inter y Atalanta.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250103123000 +0000" stop="20250103183000 +0000" channel="67h7skrtvutcl0nzteuvvc1zl">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90ruicuw3af7m88qj2gyhzhmd_image-header_pEs_1734006589000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3709,5 +3677,17 @@
     <title lang="es">Día 4 - Pista 15 - 1º Turno</title>
     <desc lang="es">Australian Open | Previa 3ª Ronda</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104023000 +0000" channel="epy05gjnaq67mmu4xhpj2ygic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/37yov69qie3tfopxwxs0gkta2_image-header_pEs_1734979776000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Olympique Marseille</title>
+    <desc lang="es">Vive el encuentro de Club Friendlies Women entre Como y Olympique Marseille.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250106012000 +0000" stop="20250106052000 +0000" channel="693ghdmp5181calp1u7vp3gxu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1r376xlhjjja61ewfmj24xat66_image-header_pEs_1730284492000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Lions (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
