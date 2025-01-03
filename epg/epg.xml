@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 03 19:44:15 2025">
+<tv date="Fri Jan 03 19:44:25 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -1739,6 +1739,38 @@
   <channel id="esp-e200487490c0ch20090">
     <display-name>esp-e200487490c0ch20090</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20090_2_200487490_20241226-210133.jpeg"/>
+  </channel>
+  <channel id="8bd9006c-bb59-41d0-5f66-08dd0e033b96">
+    <display-name>8bd9006c-bb59-41d0-5f66-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/LigaFemeninaEndesaThumbnailPerfumeriuasAvenidaOseusConstrucciounmatchpng-114008.png"/>
+  </channel>
+  <channel id="7cb3d396-a9da-41d8-5f6d-08dd0e033b96">
+    <display-name>7cb3d396-a9da-41d8-5f6d-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailOldenburgWuerzburgmatchpng-120305.png"/>
+  </channel>
+  <channel id="f3057147-5bd6-4002-5f6e-08dd0e033b96">
+    <display-name>f3057147-5bd6-4002-5f6e-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailUlmRostockmatchpng-120603.png"/>
+  </channel>
+  <channel id="30d933b0-1a9d-4892-5f6f-08dd0e033b96">
+    <display-name>30d933b0-1a9d-4892-5f6f-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailSkylinersAlbaBerlinmatchpng-120804.png"/>
+  </channel>
+  <channel id="765b164d-3ba9-4d21-75a6-08dd0e37795d">
+    <display-name>765b164d-3ba9-4d21-75a6-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/LigaFemeninaEndesaThumbnailIDKEustrokenCasademontZaragozamatchpng-121032.png"/>
+  </channel>
+  <channel id="8402ef61-1f27-42a9-5f6a-08dd0e033b96">
+    <display-name>8402ef61-1f27-42a9-5f6a-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailMelbourneVictoryWesternUnitedFCmatchpng-113210.png"/>
+  </channel>
+  <channel id="a173d838-7740-4413-5f6b-08dd0e033b96">
+    <display-name>a173d838-7740-4413-5f6b-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailSydneyFCCentralCoastMarinersmatchpng-113718.png"/>
+  </channel>
+  <channel id="d0a9f239-490a-42f9-5f6c-08dd0e033b96">
+    <display-name>d0a9f239-490a-42f9-5f6c-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailPerthGloryAucklandFCmatchpng-113826.png"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -4349,5 +4381,53 @@
     <title lang="es">Sony Open in Hawaii - Día 1</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250111162500 +0000" stop="20250111200000 +0000" channel="8bd9006c-bb59-41d0-5f66-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/LigaFemeninaEndesaThumbnailPerfumeriuasAvenidaOseusConstrucciounmatchpng-114008.png"/>
+    <title lang="es">Perfumerías Avenida - Osés Construcción</title>
+    <desc lang="es">El partido entre Perfumerías Avenida y Osés Construcción correspondiente a la Jornada 16 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250111165500 +0000" stop="20250111203000 +0000" channel="7cb3d396-a9da-41d8-5f6d-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailOldenburgWuerzburgmatchpng-120305.png"/>
+    <title lang="es">Oldenburg - Würzburg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 16 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250111182500 +0000" stop="20250111220000 +0000" channel="f3057147-5bd6-4002-5f6e-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailUlmRostockmatchpng-120603.png"/>
+    <title lang="es">Ulm - Rostock</title>
+    <desc lang="es">El partido correspondiente a la Jornada 16 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250112162500 +0000" stop="20250112200000 +0000" channel="30d933b0-1a9d-4892-5f6f-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/BasketballBundesligaThumbnailSkylinersAlbaBerlinmatchpng-120804.png"/>
+    <title lang="es">Skyliners - Alba Berlin</title>
+    <desc lang="es">El partido correspondiente a la Jornada 16 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250112182500 +0000" stop="20250112220000 +0000" channel="765b164d-3ba9-4d21-75a6-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/LigaFemeninaEndesaThumbnailIDKEustrokenCasademontZaragozamatchpng-121032.png"/>
+    <title lang="es">IDK Eustroken - Casademont Zaragoza</title>
+    <desc lang="es">El partido entre IDK Eustroken y Casademont Zaragoza correspondiente a la Jornada 16 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250110080000 +0000" stop="20250110103500 +0000" channel="8402ef61-1f27-42a9-5f6a-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailMelbourneVictoryWesternUnitedFCmatchpng-113210.png"/>
+    <title lang="es">Melbourne Victory - Western United FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 13 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250111080000 +0000" stop="20250111103500 +0000" channel="a173d838-7740-4413-5f6b-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailSydneyFCCentralCoastMarinersmatchpng-113718.png"/>
+    <title lang="es">Sydney FC - Central Coast Mariners</title>
+    <desc lang="es">El partido correspondiente a la Jornada 13 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250111101000 +0000" stop="20250111124500 +0000" channel="d0a9f239-490a-42f9-5f6c-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailPerthGloryAucklandFCmatchpng-113826.png"/>
+    <title lang="es">Perth Glory - Auckland FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 13 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
