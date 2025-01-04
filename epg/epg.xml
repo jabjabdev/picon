@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jan 04 17:24:43 2025">
+<tv date="Sat Jan 04 20:11:13 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -1771,6 +1771,54 @@
   <channel id="binlz8no6aop7fmrabrnyh5w4">
     <display-name>binlz8no6aop7fmrabrnyh5w4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54nsg83e0iza4xkqo4vtwi4wm_image-header_pEs_1734112576000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200529267c0ch20001">
+    <display-name>esp-e200529267c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529267_20250102-225546.jpeg"/>
+  </channel>
+  <channel id="esp-e200529268c0ch20001">
+    <display-name>esp-e200529268c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529268_20250102-230059.jpeg"/>
+  </channel>
+  <channel id="esp-e200528833c0ch20010">
+    <display-name>esp-e200528833c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200528833_20250102-130241.jpeg"/>
+  </channel>
+  <channel id="esp-e200528834c0ch20010">
+    <display-name>esp-e200528834c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200528834_20250102-130404.jpeg"/>
+  </channel>
+  <channel id="esp-e200437193c0ch20022">
+    <display-name>esp-e200437193c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200437193_20241211-232811.jpeg"/>
+  </channel>
+  <channel id="esp-e200437118c0ch20023">
+    <display-name>esp-e200437118c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200437118_20241211-232916.jpeg"/>
+  </channel>
+  <channel id="esp-e200499379c0ch20003">
+    <display-name>esp-e200499379c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200499379_20241216-152136.jpeg"/>
+  </channel>
+  <channel id="esp-e200523266c0ch20093">
+    <display-name>esp-e200523266c0ch20093</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_2_200523266_20241228-095503.jpeg"/>
+  </channel>
+  <channel id="esp-e200494268c0ch20011">
+    <display-name>esp-e200494268c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200494268_20241230-201931.jpeg"/>
+  </channel>
+  <channel id="esp-e200487147c0ch20025">
+    <display-name>esp-e200487147c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200487147_20241213-123526.jpeg"/>
+  </channel>
+  <channel id="esp-e200487491c0ch20090">
+    <display-name>esp-e200487491c0ch20090</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20090_2_200487491_20241228-100316.jpeg"/>
+  </channel>
+  <channel id="esp-e200523286c0ch20093">
+    <display-name>esp-e200523286c0ch20093</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_2_200523286_20241228-101242.jpeg"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -4429,5 +4477,77 @@
     <title lang="es">Lazio - Como</title>
     <desc lang="es">Vive el encuentro de Serie A entre Lazio y Como.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250110060000 +0000" stop="20250110080000 +0000" channel="esp-e200529267c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529267_20250102-225546.jpeg"/>
+    <title lang="es">Carlos Alcaraz - Alexei Popyrin</title>
+    <desc lang="es">Partido benéfico | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250110080000 +0000" stop="20250110100000 +0000" channel="esp-e200529268c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529268_20250102-230059.jpeg"/>
+    <title lang="es">Jannik Sinner - Stefanos Tsitsipas</title>
+    <desc lang="es">Partido benéfico | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250110090100 +0000" stop="20250110101500 +0000" channel="esp-e200528833c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200528833_20250102-130241.jpeg"/>
+    <title lang="es">Copa del Mundo - Monte Shahdagh</title>
+    <desc lang="es">Sprint | 1ª parte</desc>
+    <category lang="es">Esquí de Travesía</category>
+  </programme>
+  <programme start="20250110101500 +0000" stop="20250110111500 +0000" channel="esp-e200528834c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200528834_20250102-130404.jpeg"/>
+    <title lang="es">Copa del Mundo - Monte Shahdagh</title>
+    <desc lang="es">Sprint | 2ª parte</desc>
+    <category lang="es">Esquí de Travesía</category>
+  </programme>
+  <programme start="20250110122000 +0000" stop="20250110131000 +0000" channel="esp-e200437193c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200437193_20241211-232811.jpeg"/>
+    <title lang="es">Copa del Mundo - Oberhof</title>
+    <desc lang="es">Sprint Masculino | Entrenamiento</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250110130500 +0000" stop="20250110144000 +0000" channel="esp-e200437118c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200437118_20241211-232916.jpeg"/>
+    <title lang="es">Copa del Mundo - Oberhof</title>
+    <desc lang="es">Sprint Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250110165000 +0000" stop="20250110184000 +0000" channel="esp-e200499379c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200499379_20241216-152136.jpeg"/>
+    <title lang="es">Copa del Mundo - Kreischberg</title>
+    <desc lang="es">Big Air | Masculino y Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250110170000 +0000" stop="20250111000000 +0000" channel="esp-e200523266c0ch20093">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_2_200523266_20241228-095503.jpeg"/>
+    <title lang="es">Sony Open in Hawaii - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Groups'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250110180000 +0000" stop="20250110204000 +0000" channel="esp-e200494268c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200494268_20241230-201931.jpeg"/>
+    <title lang="es">Campeonato de Europa - Heerenveen</title>
+    <desc lang="es">Día 1</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20250110215500 +0000" stop="20250110225000 +0000" channel="esp-e200487147c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200487147_20241213-123526.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Ciudad de México</title>
+    <desc lang="es">Libres 1</desc>
+    <category lang="es">Formula E</category>
+  </programme>
+  <programme start="20250111000000 +0000" stop="20250111033000 +0000" channel="esp-e200487491c0ch20090">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20090_2_200487491_20241228-100316.jpeg"/>
+    <title lang="es">Sony Open in Hawaii - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250111000000 +0000" stop="20250111033000 +0000" channel="esp-e200523286c0ch20093">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_2_200523286_20241228-101242.jpeg"/>
+    <title lang="es">Sony Open in Hawaii - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Groups'</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
