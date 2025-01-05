@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jan 05 06:33:09 2025">
+<tv date="Sun Jan 05 18:30:36 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -608,10 +608,6 @@
     <display-name>5v5vv5x59134lwjt1vx92iq4v</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bkxdygehhz8k31xdn4bpxhol_image-header_pEs_1734008577000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="cd9a1rlq8ctfvvihl13t2u784">
-    <display-name>cd9a1rlq8ctfvvihl13t2u784</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8sxgxpwxbtn6ww0kkela995nj_image-header_pEs_1733502239000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="a8gp1bxfr297n8ghzefjo03kk">
     <display-name>a8gp1bxfr297n8ghzefjo03kk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/69tcg6q3zh18tfie1p3y3bzcg_image-header_pEs_1734720737000/fill/none/top/none/85/300/180/webp/image"/>
@@ -715,14 +711,6 @@
   <channel id="c65kd5w22z083sj10frkt7f9w">
     <display-name>c65kd5w22z083sj10frkt7f9w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9q9xyx3zeljhtb2tkmzqto479_image-header_pEs_1735649710000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5gvgsfqwahwqt8gawfz8xis5r">
-    <display-name>5gvgsfqwahwqt8gawfz8xis5r</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/t5ueznxmsaa71wzuz49ocxdj9_image-header_pEs_1729204115000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bwtwnsgwrb4i2mi1uj6f2hk09">
-    <display-name>bwtwnsgwrb4i2mi1uj6f2hk09</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vb4tm8wm4qnx1pe4y2yaax5dp_image-header_pEs_1730205621000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="45iiovpsa68kt1ezsn838zlg1">
     <display-name>45iiovpsa68kt1ezsn838zlg1</display-name>
@@ -1920,6 +1908,14 @@
     <display-name>esp-e200481383c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
+  <channel id="5gvgsfqwahwqt8gawfz8xis5r">
+    <display-name>5gvgsfqwahwqt8gawfz8xis5r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/t5ueznxmsaa71wzuz49ocxdj9_image-header_pEs_1729204115000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bwtwnsgwrb4i2mi1uj6f2hk09">
+    <display-name>bwtwnsgwrb4i2mi1uj6f2hk09</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vb4tm8wm4qnx1pe4y2yaax5dp_image-header_pEs_1730205621000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
     <title lang="es">Real Betis Baloncesto - Alimerka Oviedo</title>
@@ -2832,12 +2828,6 @@
     <desc lang="es">Vive en DAZN, a través de los canales de Eurosport, de un clásico navideño, especialmente para Fin de Año y Año Nuevo, como son los saltos. Y más si es el Torneo de los Cuatro Trampolines.</desc>
     <category lang="es">Saltos de Esquí</category>
   </programme>
-  <programme start="20250105160000 +0000" stop="20250105193000 +0000" channel="cd9a1rlq8ctfvvihl13t2u784">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8sxgxpwxbtn6ww0kkela995nj_image-header_pEs_1733502239000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Sheffield Sharks - London Lions</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre London Lions y Sheffield Sharks.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20250105160000 +0000" stop="20250105193000 +0000" channel="a8gp1bxfr297n8ghzefjo03kk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/69tcg6q3zh18tfie1p3y3bzcg_image-header_pEs_1734720737000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pistoia - Olimpia Milano</title>
@@ -2993,18 +2983,6 @@
     <title lang="es">Wolverhampton - Nottingham Forest</title>
     <desc lang="es">Vive el encuentro de Premier League entre Nottingham Forest y Wolverhampton Wanderers.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250105170000 +0000" stop="20250105210000 +0000" channel="5gvgsfqwahwqt8gawfz8xis5r">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/t5ueznxmsaa71wzuz49ocxdj9_image-header_pEs_1729204115000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Panthers @ Falcons (en Español)</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
-  <programme start="20250105170000 +0000" stop="20250105210000 +0000" channel="bwtwnsgwrb4i2mi1uj6f2hk09">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vb4tm8wm4qnx1pe4y2yaax5dp_image-header_pEs_1730205621000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Saints @ Buccaneers (en Español)</title>
-    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
-    <category lang="es">Fútbol Americano</category>
   </programme>
   <programme start="20250105212500 +0000" stop="20250106012500 +0000" channel="45iiovpsa68kt1ezsn838zlg1">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ngh2dr566prc11e4cyv5zilku_image-header_pEs_1730284575000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4799,5 +4777,17 @@
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250105220000 +0000" channel="5gvgsfqwahwqt8gawfz8xis5r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/t5ueznxmsaa71wzuz49ocxdj9_image-header_pEs_1729204115000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Panthers @ Falcons (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250105220000 +0000" channel="bwtwnsgwrb4i2mi1uj6f2hk09">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vb4tm8wm4qnx1pe4y2yaax5dp_image-header_pEs_1730205621000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Saints @ Buccaneers (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
