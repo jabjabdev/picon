@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 09 00:30:14 2025">
+<tv date="Thu Jan 09 00:36:55 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -2659,6 +2659,14 @@
   <channel id="c6k3plvhac9g481xwld3jb0gk">
     <display-name>c6k3plvhac9g481xwld3jb0gk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9yb6yt9m2l5rw8pcd0s7w4a0o_image-header_pEs_1734172366000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200534242c0ch20010">
+    <display-name>esp-e200534242c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200534242_20250108-130450.jpeg"/>
+  </channel>
+  <channel id="esp-e200533717c0ch20037">
+    <display-name>esp-e200533717c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_6_200533717_20250108-171059.jpeg"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -6649,5 +6657,17 @@
     <title lang="es">Arsenal - Tottenham</title>
     <desc lang="es">Vive el encuentro de Premier League entre Tottenham Hotspur y Arsenal.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250109060000 +0000" stop="20250109080000 +0000" channel="esp-e200534242c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200534242_20250108-130450.jpeg"/>
+    <title lang="es">Sára Bejlek - Jil Teichmann </title>
+    <desc lang="es">Femenino | Individuales | Previa - 3ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250113170000 +0000" stop="20250113184500 +0000" channel="esp-e200533717c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_6_200533717_20250108-171059.jpeg"/>
+    <title lang="es">Presentación Giro de Italia 2025</title>
+    <desc lang="es">Recorrido y Etapas | Masculino y Femenino</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
