@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 08 12:30:11 2025">
+<tv date="Wed Jan 08 12:34:49 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -2559,6 +2559,14 @@
   <channel id="8qfzbjfhxnv98001gdrbdepuw">
     <display-name>8qfzbjfhxnv98001gdrbdepuw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cffoa857axb6v1s40oskgdd81_image-header_pEs_1734691145000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1775f7e8-4d56-40cc-75c1-08dd0e37795d">
+    <display-name>1775f7e8-4d56-40cc-75c1-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/08/LigaNacionalBasquetbolThumbnailObrasOberaumatchpng-110014.png"/>
+  </channel>
+  <channel id="d721a7af-3ec0-481b-75c2-08dd0e37795d">
+    <display-name>d721a7af-3ec0-481b-75c2-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/08/LigaNacionalBasquetbolThumbnailSanMartiunAtenasmatchpng-110033.png"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -6399,5 +6407,17 @@
     <title lang="es">Beterbiev vs. Bivol II - Rueda de prensa</title>
     <desc lang="es">Sigue en directo la rueda de prensa de Artur Beterbiev y Dmitry Bivol.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250109223000 +0000" stop="20250110020000 +0000" channel="1775f7e8-4d56-40cc-75c1-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/08/LigaNacionalBasquetbolThumbnailObrasOberaumatchpng-110014.png"/>
+    <title lang="es">Obras - Oberá</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250111000000 +0000" stop="20250111033000 +0000" channel="d721a7af-3ec0-481b-75c2-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/08/LigaNacionalBasquetbolThumbnailSanMartiunAtenasmatchpng-110033.png"/>
+    <title lang="es">San Martín - Atenas</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
