@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 08 12:36:51 2025">
+<tv date="Wed Jan 08 18:30:14 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -2567,6 +2567,38 @@
   <channel id="d721a7af-3ec0-481b-75c2-08dd0e37795d">
     <display-name>d721a7af-3ec0-481b-75c2-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/08/LigaNacionalBasquetbolThumbnailSanMartiunAtenasmatchpng-110033.png"/>
+  </channel>
+  <channel id="23d9rfa20n1ws11jf3j5t1yj8">
+    <display-name>23d9rfa20n1ws11jf3j5t1yj8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4s9qqb2clxdd9og245e2hpkys_image-header_pEs_1736351072000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="24fd84yinsjv8z60146om1d0h">
+    <display-name>24fd84yinsjv8z60146om1d0h</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oqftfdarac8z1olicv7ntiqw2_image-header_pEs_1736154697000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4eqwypqy9bmud47yfqbwy2ffw">
+    <display-name>4eqwypqy9bmud47yfqbwy2ffw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i4ie5dzh9yet1e39ngb8fgc6x_image-header_pEs_1730283686000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f3szvs4p53o4pm3hcx34kqyok">
+    <display-name>f3szvs4p53o4pm3hcx34kqyok</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9yw7s5zw7570i901zxo1aqep_image-header_pEs_1736350329000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="alan0bc712njnu3ko57fq85ph">
+    <display-name>alan0bc712njnu3ko57fq85ph</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b9lkhed23mcczcst6hxewa9u_image-header_pEs_1736154697000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4qprrdu72paricj42srtp1vb0">
+    <display-name>4qprrdu72paricj42srtp1vb0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12ysn5d2393xo1u5m34etjpyb2_image-header_pEs_1715786978000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="95svg8mu46iymzoehca57lmhs">
+    <display-name>95svg8mu46iymzoehca57lmhs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p0u9l5pioeiiz83zsexuyqa2_image-header_pEs_1715861218000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b8zs4itd41v8umo4lx0ty8qfy">
+    <display-name>b8zs4itd41v8umo4lx0ty8qfy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/udoi9t8ro04t1wsivpz5ws2n3_image-header_pEs_1715861223000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -6419,5 +6451,53 @@
     <title lang="es">San Martín - Atenas</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250111170000 +0000" stop="20250111183000 +0000" channel="23d9rfa20n1ws11jf3j5t1yj8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4s9qqb2clxdd9og245e2hpkys_image-header_pEs_1736351072000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super Amara Bera Bera - Paris 92</title>
+    <desc lang="es">Vive el encuentro de EHF Women's European League entre Bera Bera y Paris 92.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250111213000 +0000" stop="20250112013000 +0000" channel="24fd84yinsjv8z60146om1d0h">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oqftfdarac8z1olicv7ntiqw2_image-header_pEs_1736154697000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chargers @ Texans (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250112003000 +0000" stop="20250112043000 +0000" channel="4eqwypqy9bmud47yfqbwy2ffw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i4ie5dzh9yet1e39ngb8fgc6x_image-header_pEs_1730283686000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Steelers @ Ravens (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250112130000 +0000" stop="20250112143000 +0000" channel="f3szvs4p53o4pm3hcx34kqyok">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9yw7s5zw7570i901zxo1aqep_image-header_pEs_1736350329000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">H.C. Dunarea Braila - ATTICGO Bm Elche</title>
+    <desc lang="es">Vive el encuentro de EHF Women's European League entre Dunărea Brăila y Elche.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250112180000 +0000" stop="20250112220000 +0000" channel="alan0bc712njnu3ko57fq85ph">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b9lkhed23mcczcst6hxewa9u_image-header_pEs_1736154697000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Broncos @ Bills (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250112213000 +0000" stop="20250113013000 +0000" channel="4qprrdu72paricj42srtp1vb0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12ysn5d2393xo1u5m34etjpyb2_image-header_pEs_1715786978000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Packers @ Eagles (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250113003000 +0000" stop="20250113043000 +0000" channel="95svg8mu46iymzoehca57lmhs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p0u9l5pioeiiz83zsexuyqa2_image-header_pEs_1715861218000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Commanders @ Buccaneers (en Español)</title>
+    <desc lang="es">​Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250114003000 +0000" stop="20250114043000 +0000" channel="b8zs4itd41v8umo4lx0ty8qfy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/udoi9t8ro04t1wsivpz5ws2n3_image-header_pEs_1715861223000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Rams (en Español)</title>
+    <desc lang="es">​Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
