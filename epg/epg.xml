@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 09 12:36:46 2025">
+<tv date="Thu Jan 09 18:35:00 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -2559,6 +2559,18 @@
   <channel id="5c612u46h57uf8trlkj8lv9ck">
     <display-name>5c612u46h57uf8trlkj8lv9ck</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3lyfyaqd0opciot3isfweq5rh_image-header_pEs_1735301382000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4d14e4fe-6fbb-43a2-ff34-08dd0e324662">
+    <display-name>4d14e4fe-6fbb-43a2-ff34-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURA-LLpng-132729.png"/>
+  </channel>
+  <channel id="f6054724-f2a2-49e7-9fbc-08dd0e03944b">
+    <display-name>f6054724-f2a2-49e7-9fbc-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURA-LLpng-133507.png"/>
+  </channel>
+  <channel id="f9c7f504-49dd-4b6b-75ca-08dd0e37795d">
+    <display-name>f9c7f504-49dd-4b6b-75ca-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURApng-131039.png"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -6398,6 +6410,24 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3lyfyaqd0opciot3isfweq5rh_image-header_pEs_1735301382000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Napoli - AS Roma</title>
     <desc lang="es">Vive el encuentro de Coppa Italia Women entre Napoli y AS Roma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250111104500 +0000" stop="20250111111500 +0000" channel="4d14e4fe-6fbb-43a2-ff34-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURA-LLpng-132729.png"/>
+    <title lang="es">Las Palmas Atlético - CD Arcángel San Miguel</title>
+    <desc lang="es">El filial amarillo busca abrir el 2025 defendiendo el liderato de la tercera división</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250111130000 +0000" stop="20250111153000 +0000" channel="f6054724-f2a2-49e7-9fbc-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURA-LLpng-133507.png"/>
+    <title lang="es">Juvenil A - Real Oviedo</title>
+    <desc lang="es">El equipo de Héctor Nuez se estrena en la copa contra los asturianos en una eliminatoria clave</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250112110000 +0000" stop="20250112160000 +0000" channel="f9c7f504-49dd-4b6b-75ca-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURApng-131039.png"/>
+    <title lang="es">UD Las Palmas - Getafe CF</title>
+    <desc lang="es">El equipo de Diego Martínez juega su primer partido de 2025 en casa ante el Getafe CF en un partido en la pelea por la permanencia</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
