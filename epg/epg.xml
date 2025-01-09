@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 09 18:36:50 2025">
+<tv date="Fri Jan 10 00:30:18 2025">
   <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
     <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -2571,6 +2571,34 @@
   <channel id="f9c7f504-49dd-4b6b-75ca-08dd0e37795d">
     <display-name>f9c7f504-49dd-4b6b-75ca-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURApng-131039.png"/>
+  </channel>
+  <channel id="buwruw02j3n6pcrndmd8tez9y">
+    <display-name>buwruw02j3n6pcrndmd8tez9y</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cvpim6avbr31a1p7643drskav_image-header_pEs_1735305773000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="asilvq9fycmtcjy20rl8ek26g">
+    <display-name>asilvq9fycmtcjy20rl8ek26g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xn9i64uh6eooo5k3ach3hyx1_image-header_pEs_1735305996000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c0854qfsp5e0fyr0u6i1qhmzl">
+    <display-name>c0854qfsp5e0fyr0u6i1qhmzl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3nuj2zjvg9ma2cau3mpiqerby_image-header_pEs_1736261700000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5f7ihi1oczrw09qghqrfwrvv8">
+    <display-name>5f7ihi1oczrw09qghqrfwrvv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4uafuna7pdhe4d50mokbqh4oi_image-header_pEs_1735301382000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c7rjp8cc5tsvay7yspgopbu38">
+    <display-name>c7rjp8cc5tsvay7yspgopbu38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8t3gx7wynlmxgid5hf2y5aok4_image-header_pEs_1734172366000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5cxdd4mztul4gp7qe01w5bbx0">
+    <display-name>5cxdd4mztul4gp7qe01w5bbx0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eggcpxe56u3x2qh1g1yi3kmz6_image-header_pEs_1735301382000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c9udwhwue5o5mpocyuwe0iot0">
+    <display-name>c9udwhwue5o5mpocyuwe0iot0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cfpi9htpds3uwroxo8sqjcuzq_image-header_pEs_1734172366000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
@@ -6428,6 +6456,48 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/09/MINIATURApng-131039.png"/>
     <title lang="es">UD Las Palmas - Getafe CF</title>
     <desc lang="es">El equipo de Diego Martínez juega su primer partido de 2025 en casa ante el Getafe CF en un partido en la pelea por la permanencia</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250116003000 +0000" stop="20250116063000 +0000" channel="buwruw02j3n6pcrndmd8tez9y">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cvpim6avbr31a1p7643drskav_image-header_pEs_1735305773000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250116003000 +0000" stop="20250116063000 +0000" channel="asilvq9fycmtcjy20rl8ek26g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xn9i64uh6eooo5k3ach3hyx1_image-header_pEs_1735305996000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - ES2</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250116010000 +0000" stop="20250116070000 +0000" channel="c0854qfsp5e0fyr0u6i1qhmzl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3nuj2zjvg9ma2cau3mpiqerby_image-header_pEs_1736261700000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Austin - Atlanta</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250116170000 +0000" stop="20250116193000 +0000" channel="5f7ihi1oczrw09qghqrfwrvv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4uafuna7pdhe4d50mokbqh4oi_image-header_pEs_1735301382000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AC Milan - Fiorentina</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia Women entre AC Milan y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250116193000 +0000" stop="20250116220000 +0000" channel="c7rjp8cc5tsvay7yspgopbu38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8t3gx7wynlmxgid5hf2y5aok4_image-header_pEs_1734172366000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ipswich Town - Brighton</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Ipswich Town y Brighton &amp; Hove Albion.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250116194500 +0000" stop="20250116221500 +0000" channel="5cxdd4mztul4gp7qe01w5bbx0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eggcpxe56u3x2qh1g1yi3kmz6_image-header_pEs_1735301382000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - Sassuolo</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia Women entre Inter y Sassuolo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250116200000 +0000" stop="20250116223000 +0000" channel="c9udwhwue5o5mpocyuwe0iot0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cfpi9htpds3uwroxo8sqjcuzq_image-header_pEs_1734172366000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester United - Southampton</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Southampton y Manchester United.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
