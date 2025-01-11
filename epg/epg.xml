@@ -1,281 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jan 11 06:37:25 2025">
-  <channel id="cf91fd63-f919-402f-fee5-08dd0e324662">
-    <display-name>cf91fd63-f919-402f-fee5-08dd0e324662</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
-  </channel>
-  <channel id="26d3357e-3831-4db5-fed8-08dd0e324662">
-    <display-name>26d3357e-3831-4db5-fed8-08dd0e324662</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/Odilo-CartagenaAmics-Castello2xpng-102350.png"/>
-  </channel>
-  <channel id="8e9a95de-ede5-474b-9f46-08dd0e03944b">
-    <display-name>8e9a95de-ede5-474b-9f46-08dd0e03944b</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/ObradoiroValladolidpng-162350.png"/>
-  </channel>
-  <channel id="2c806b3c-7d60-4a3e-5f34-08dd0e033b96">
-    <display-name>2c806b3c-7d60-4a3e-5f34-08dd0e033b96</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/Movistar-EstudiantesSilbo-San-Pablo-Burgospng-162843.png"/>
-  </channel>
-  <channel id="esp-e200481744c0ch20005">
-    <display-name>esp-e200481744c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481744_20241220-092133.jpeg"/>
-  </channel>
-  <channel id="esp-e200484486c0ch20012">
-    <display-name>esp-e200484486c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484486_20241219-122902.jpeg"/>
-  </channel>
-  <channel id="esp-e200485529c0ch20015">
-    <display-name>esp-e200485529c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485529_20241219-123248.jpeg"/>
-  </channel>
-  <channel id="esp-e200485893c0ch20018">
-    <display-name>esp-e200485893c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200484000c0ch20011">
-    <display-name>esp-e200484000c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484000_20241219-122826.jpeg"/>
-  </channel>
-  <channel id="esp-e200485178c0ch20014">
-    <display-name>esp-e200485178c0ch20014</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485178_20241219-123049.jpeg"/>
-  </channel>
-  <channel id="esp-e200482390c0ch20007">
-    <display-name>esp-e200482390c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482390_20241219-121103.jpeg"/>
-  </channel>
-  <channel id="esp-e200483552c0ch20010">
-    <display-name>esp-e200483552c0ch20010</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483552_20241219-122654.jpeg"/>
-  </channel>
-  <channel id="esp-e200482064c0ch20006">
-    <display-name>esp-e200482064c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482064_20241219-113011.jpeg"/>
-  </channel>
-  <channel id="esp-e200485811c0ch20017">
-    <display-name>esp-e200485811c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485811_20241220-123549.jpeg"/>
-  </channel>
-  <channel id="esp-e200483185c0ch20009">
-    <display-name>esp-e200483185c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483185_20241219-121317.jpeg"/>
-  </channel>
-  <channel id="esp-e200481747c0ch20005">
-    <display-name>esp-e200481747c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481747_20241219-112026.jpeg"/>
-  </channel>
-  <channel id="esp-e200481376c0ch20004">
-    <display-name>esp-e200481376c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481376_20241219-110617.jpeg"/>
-  </channel>
-  <channel id="esp-e200482724c0ch20008">
-    <display-name>esp-e200482724c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482724_20241219-121156.jpeg"/>
-  </channel>
-  <channel id="esp-e200484851c0ch20013">
-    <display-name>esp-e200484851c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484851_20241219-123003.jpeg"/>
-  </channel>
-  <channel id="esp-e200481748c0ch20005">
-    <display-name>esp-e200481748c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481748_20241219-124006.jpeg"/>
-  </channel>
-  <channel id="esp-e200483553c0ch20010">
-    <display-name>esp-e200483553c0ch20010</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483553_20241219-124521.jpeg"/>
-  </channel>
-  <channel id="esp-e200485530c0ch20015">
-    <display-name>esp-e200485530c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485530_20241219-124928.jpeg"/>
-  </channel>
-  <channel id="esp-e200484001c0ch20011">
-    <display-name>esp-e200484001c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484001_20241219-124611.jpeg"/>
-  </channel>
-  <channel id="esp-e200481377c0ch20004">
-    <display-name>esp-e200481377c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481377_20241219-123916.jpeg"/>
-  </channel>
-  <channel id="esp-e200482725c0ch20008">
-    <display-name>esp-e200482725c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482725_20241219-124406.jpeg"/>
-  </channel>
-  <channel id="esp-e200482391c0ch20007">
-    <display-name>esp-e200482391c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482391_20241219-124325.jpeg"/>
-  </channel>
-  <channel id="esp-e200485179c0ch20014">
-    <display-name>esp-e200485179c0ch20014</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485179_20241219-124852.jpeg"/>
-  </channel>
-  <channel id="esp-e200485894c0ch20018">
-    <display-name>esp-e200485894c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485894_20250101-170108.jpeg"/>
-  </channel>
-  <channel id="esp-e200485812c0ch20017">
-    <display-name>esp-e200485812c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485812_20241220-123907.jpeg"/>
-  </channel>
-  <channel id="esp-e200482065c0ch20006">
-    <display-name>esp-e200482065c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482065_20241219-124246.jpeg"/>
-  </channel>
-  <channel id="esp-e200484487c0ch20012">
-    <display-name>esp-e200484487c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484487_20241219-124653.jpeg"/>
-  </channel>
-  <channel id="esp-e200483186c0ch20009">
-    <display-name>esp-e200483186c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483186_20241219-124441.jpeg"/>
-  </channel>
-  <channel id="esp-e200484852c0ch20013">
-    <display-name>esp-e200484852c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484852_20241219-124807.jpeg"/>
-  </channel>
-  <channel id="esp-e200485531c0ch20015">
-    <display-name>esp-e200485531c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485531_20241219-130757.jpeg"/>
-  </channel>
-  <channel id="esp-e200483554c0ch20010">
-    <display-name>esp-e200483554c0ch20010</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483554_20241219-130335.jpeg"/>
-  </channel>
-  <channel id="esp-e200482066c0ch20006">
-    <display-name>esp-e200482066c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482066_20241219-125807.jpeg"/>
-  </channel>
-  <channel id="esp-e200483187c0ch20009">
-    <display-name>esp-e200483187c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483187_20241219-125958.jpeg"/>
-  </channel>
-  <channel id="esp-e200481749c0ch20005">
-    <display-name>esp-e200481749c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481749_20241219-125635.jpeg"/>
-  </channel>
-  <channel id="esp-e200484488c0ch20012">
-    <display-name>esp-e200484488c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484488_20241219-130513.jpeg"/>
-  </channel>
-  <channel id="esp-e200485813c0ch20017">
-    <display-name>esp-e200485813c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485813_20241220-133947.jpeg"/>
-  </channel>
-  <channel id="esp-e200482726c0ch20008">
-    <display-name>esp-e200482726c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482726_20241219-125922.jpeg"/>
-  </channel>
-  <channel id="esp-e200484853c0ch20013">
-    <display-name>esp-e200484853c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484853_20241219-130637.jpeg"/>
-  </channel>
-  <channel id="esp-e200482392c0ch20007">
-    <display-name>esp-e200482392c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482392_20241219-125844.jpeg"/>
-  </channel>
-  <channel id="esp-e200485895c0ch20018">
-    <display-name>esp-e200485895c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485895_20250101-170209.jpeg"/>
-  </channel>
-  <channel id="esp-e200485180c0ch20014">
-    <display-name>esp-e200485180c0ch20014</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485180_20241219-130721.jpeg"/>
-  </channel>
-  <channel id="esp-e200481378c0ch20004">
-    <display-name>esp-e200481378c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481378_20241219-125528.jpeg"/>
-  </channel>
-  <channel id="esp-e200484002c0ch20011">
-    <display-name>esp-e200484002c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484002_20241219-130422.jpeg"/>
-  </channel>
-  <channel id="esp-e200484489c0ch20012">
-    <display-name>esp-e200484489c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484489_20241219-132337.jpeg"/>
-  </channel>
-  <channel id="esp-e200482727c0ch20008">
-    <display-name>esp-e200482727c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482727_20241219-131834.jpeg"/>
-  </channel>
-  <channel id="esp-e200485896c0ch20018">
-    <display-name>esp-e200485896c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485896_20241220-134126.jpeg"/>
-  </channel>
-  <channel id="esp-e200485532c0ch20015">
-    <display-name>esp-e200485532c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485532_20241219-132449.jpeg"/>
-  </channel>
-  <channel id="esp-e200482067c0ch20006">
-    <display-name>esp-e200482067c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482067_20241219-131616.jpeg"/>
-  </channel>
-  <channel id="esp-e200483188c0ch20009">
-    <display-name>esp-e200483188c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483188_20241219-131928.jpeg"/>
-  </channel>
-  <channel id="esp-e200484003c0ch20011">
-    <display-name>esp-e200484003c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484003_20241219-132216.jpeg"/>
-  </channel>
-  <channel id="esp-e200485814c0ch20017">
-    <display-name>esp-e200485814c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485814_20241220-134038.jpeg"/>
-  </channel>
-  <channel id="esp-e200483555c0ch20010">
-    <display-name>esp-e200483555c0ch20010</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483555_20241219-132012.jpeg"/>
-  </channel>
-  <channel id="esp-e200482393c0ch20007">
-    <display-name>esp-e200482393c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482393_20241219-131714.jpeg"/>
-  </channel>
-  <channel id="esp-e200484854c0ch20013">
-    <display-name>esp-e200484854c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484854_20241219-132258.jpeg"/>
-  </channel>
-  <channel id="esp-e200485181c0ch20014">
-    <display-name>esp-e200485181c0ch20014</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485181_20241219-132418.jpeg"/>
-  </channel>
-  <channel id="esp-e200481379c0ch20004">
-    <display-name>esp-e200481379c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481379_20241219-131125.jpeg"/>
-  </channel>
-  <channel id="esp-e200481750c0ch20005">
-    <display-name>esp-e200481750c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481750_20241219-131513.jpeg"/>
-  </channel>
-  <channel id="esp-e200485533c0ch20015">
-    <display-name>esp-e200485533c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485533_20241219-141147.jpeg"/>
-  </channel>
-  <channel id="esp-e200482728c0ch20008">
-    <display-name>esp-e200482728c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482728_20241219-135349.jpeg"/>
-  </channel>
-  <channel id="esp-e200481751c0ch20005">
-    <display-name>esp-e200481751c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481751_20241219-135105.jpeg"/>
-  </channel>
-  <channel id="esp-e200484004c0ch20011">
-    <display-name>esp-e200484004c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484004_20241219-140052.jpeg"/>
-  </channel>
-  <channel id="esp-e200484855c0ch20013">
-    <display-name>esp-e200484855c0ch20013</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484855_20241219-140341.jpeg"/>
-  </channel>
-  <channel id="esp-e200484490c0ch20012">
-    <display-name>esp-e200484490c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484490_20241219-140205.jpeg"/>
-  </channel>
-  <channel id="esp-e200482068c0ch20006">
-    <display-name>esp-e200482068c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482068_20241219-135144.jpeg"/>
-  </channel>
-  <channel id="esp-e200485897c0ch20018">
-    <display-name>esp-e200485897c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485897_20241220-134325.jpeg"/>
-  </channel>
+<tv date="Sat Jan 11 18:30:14 2025">
   <channel id="esp-e200499348c0ch20022">
     <display-name>esp-e200499348c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200499348_20241216-100645.jpeg"/>
@@ -319,14 +43,6 @@
   <channel id="esp-e200485185c0ch20014">
     <display-name>esp-e200485185c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485185_20241223-092427.jpeg"/>
-  </channel>
-  <channel id="esp-e200529263c0ch20001">
-    <display-name>esp-e200529263c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200529263_20250102-123421.jpeg"/>
-  </channel>
-  <channel id="esp-e200529264c0ch20001">
-    <display-name>esp-e200529264c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200529264_20250102-123755.jpeg"/>
   </channel>
   <channel id="esp-e200483560c0ch20010">
     <display-name>esp-e200483560c0ch20010</display-name>
@@ -556,46 +272,6 @@
     <display-name>d0a9f239-490a-42f9-5f6c-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/03/IsuzuUTEALeagueThumbnailPerthGloryAucklandFCmatchpng-113826.png"/>
   </channel>
-  <channel id="3if6dtgfhmq164762tgp04y2f">
-    <display-name>3if6dtgfhmq164762tgp04y2f</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/175ewkyselm831dkee4l376gxg_image-header_pEs_1734535831000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="47ley9p6nkskk3yc2clmbrmoo">
-    <display-name>47ley9p6nkskk3yc2clmbrmoo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4do0vs8oqxv5hqkzhiungz8w6_image-header_pEs_1728028591000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4bhk9k5dl3dcxv4ovbp2seuj8">
-    <display-name>4bhk9k5dl3dcxv4ovbp2seuj8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7vgh1l7yog0vcx7co6613ujxr_image-header_pEs_1732888400000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4bt1bciy48mmtx9dv57h1lv6c">
-    <display-name>4bt1bciy48mmtx9dv57h1lv6c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aguviejvn01dythfonjmd8jvq_image-header_pEs_1735074372000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7jhwwqtmxi70el5rlr3rs8bv8">
-    <display-name>7jhwwqtmxi70el5rlr3rs8bv8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzict4dg0iwxyjhlbfkmo366f_image-header_pEs_1735646191000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1xgmumhasu4fve7zygre55kwk">
-    <display-name>1xgmumhasu4fve7zygre55kwk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16ssp50ylxc8hpozm8y6zbqtw_image-header_pEs_1734739580000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cdyqhxu785xeowzaa5nt3hq8k">
-    <display-name>cdyqhxu785xeowzaa5nt3hq8k</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c5palk98smu2yolk8znpcfalw_image-header_pEs_1733502241000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="chiqju8jcm2swv6sm9t7vowlw">
-    <display-name>chiqju8jcm2swv6sm9t7vowlw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/75g8n0rka4p3dg05rb3e8qloy_image-header_pEs_1731413673000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cv5kfho62c9gyqp293ywddchb">
-    <display-name>cv5kfho62c9gyqp293ywddchb</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6zfpe96914i305f4z0acue20h_image-header_pEs_1734739580000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="binlz8no6aop7fmrabrnyh5w4">
-    <display-name>binlz8no6aop7fmrabrnyh5w4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54nsg83e0iza4xkqo4vtwi4wm_image-header_pEs_1734112576000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200529267c0ch20001">
     <display-name>esp-e200529267c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529267_20250102-225546.jpeg"/>
@@ -820,26 +496,6 @@
     <display-name>esp-e200481383c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
-  <channel id="esp-e200531786c0ch20007">
-    <display-name>esp-e200531786c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200531786_20250106-110638.jpeg"/>
-  </channel>
-  <channel id="esp-e200531920c0ch20015">
-    <display-name>esp-e200531920c0ch20015</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_4_200531920_20250106-151830.jpeg"/>
-  </channel>
-  <channel id="esp-e200531731c0ch20006">
-    <display-name>esp-e200531731c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200531731_20250106-104643.jpeg"/>
-  </channel>
-  <channel id="esp-e200531848c0ch20008">
-    <display-name>esp-e200531848c0ch20008</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_4_200531848_20250106-152313.jpeg"/>
-  </channel>
-  <channel id="esp-e200531725c0ch20004">
-    <display-name>esp-e200531725c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200531725_20250106-100618.jpeg"/>
-  </channel>
   <channel id="6j3hl9v3u6pyhgdba6mk8z6z8">
     <display-name>6j3hl9v3u6pyhgdba6mk8z6z8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vrpx8rqtbevh1cminhawkad9b_image-header_pEs_1736154697000/fill/none/top/none/85/300/180/webp/image"/>
@@ -847,10 +503,6 @@
   <channel id="1j97vwuvy4vg4xhwt5dpqirin">
     <display-name>1j97vwuvy4vg4xhwt5dpqirin</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/172i4wl9f2bwxunpaag4t75b8_image-header_pEs_1735302560000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200531894c0ch20010">
-    <display-name>esp-e200531894c0ch20010</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_3_200531894_20250106-130149.jpeg"/>
   </channel>
   <channel id="ch8nolxm7ilenpww62ntz8q9u">
     <display-name>ch8nolxm7ilenpww62ntz8q9u</display-name>
@@ -860,17 +512,9 @@
     <display-name>6lh81pjw719bxk8tjbq2tdvkk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ccm55w5env9f148g121teaoyz_image-header_pEs_1730283686000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="esp-e200531909c0ch20012">
-    <display-name>esp-e200531909c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_5_200531909_20250106-135822.jpeg"/>
-  </channel>
   <channel id="2xlt61plflc3vnolswia1jxz9">
     <display-name>2xlt61plflc3vnolswia1jxz9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/clbassn1jtgrv04c59kw4bqed_image-header_pEs_1734512418000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200531899c0ch20011">
-    <display-name>esp-e200531899c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200531899_20250106-130444.jpeg"/>
   </channel>
   <channel id="8a4i74k3ftouz849zmfcpkys4">
     <display-name>8a4i74k3ftouz849zmfcpkys4</display-name>
@@ -883,10 +527,6 @@
   <channel id="bia58p2j8xv6rfmktg6585ul0">
     <display-name>bia58p2j8xv6rfmktg6585ul0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7q2hd3pm2gai0epr04zt7d0ge_image-header_pEs_1735652598000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200531904c0ch20018">
-    <display-name>esp-e200531904c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_5_200531904_20250106-153655.jpeg"/>
   </channel>
   <channel id="21m57tslo6zofookkx0pdmxw4">
     <display-name>21m57tslo6zofookkx0pdmxw4</display-name>
@@ -2904,420 +2544,14 @@
     <display-name>esp-e200484668c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
-  <programme start="20250107175500 +0000" stop="20250107213000 +0000" channel="cf91fd63-f919-402f-fee5-08dd0e324662">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/BetisAlimerka-Oviedopng-162751.png"/>
-    <title lang="es">Real Betis Baloncesto - Alimerka Oviedo</title>
-    <desc lang="es">El partido entre Real Betis Baloncesto y Alimerka Oviedo correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250107191000 +0000" stop="20250107224500 +0000" channel="26d3357e-3831-4db5-fed8-08dd0e324662">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/19/Odilo-CartagenaAmics-Castello2xpng-102350.png"/>
-    <title lang="es">Odilo Cartagena - Amics Castelló</title>
-    <desc lang="es">El partido entre Odilo Cartagena - Amics Castelló correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250107191000 +0000" stop="20250107224500 +0000" channel="8e9a95de-ede5-474b-9f46-08dd0e03944b">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/ObradoiroValladolidpng-162350.png"/>
-    <title lang="es">Monbus Obradoiro - UEMC Real Valladolid</title>
-    <desc lang="es">El partido entre Monbus Obradoiro y UEMC Real Valladolid correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250107191000 +0000" stop="20250107224500 +0000" channel="2c806b3c-7d60-4a3e-5f34-08dd0e033b96">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/18/Movistar-EstudiantesSilbo-San-Pablo-Burgospng-162843.png"/>
-    <title lang="es">Movistar Estudiantes - Silbö San Pablo Burgos</title>
-    <desc lang="es">El partido entre Movistar Estudiantes y Silbö San Pablo Burgos correspondiente a la vuelta de los Cuartos de final de la Copa España de Baloncesto 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250107084233 +0000" stop="20250107104233 +0000" channel="esp-e200481744c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481744_20241220-092133.jpeg"/>
-    <title lang="es">Día 2 - 1573 Arena - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 1ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200484486c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484486_20241219-122902.jpeg"/>
-    <title lang="es">Día 3 - Pista 13 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200485529c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485529_20241219-123248.jpeg"/>
-    <title lang="es">Día 3 - Pista 11 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200485893c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Australian Open</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200484000c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484000_20241219-122826.jpeg"/>
-    <title lang="es">Día 3 - Pista 12 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200485178c0ch20014">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485178_20241219-123049.jpeg"/>
-    <title lang="es">Día 3 - Pista 15 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200482390c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482390_20241219-121103.jpeg"/>
-    <title lang="es">Día 3 - Pista 5 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200483552c0ch20010">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483552_20241219-122654.jpeg"/>
-    <title lang="es">Día 3 - Pista 8 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200482064c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482064_20241219-113011.jpeg"/>
-    <title lang="es">Día 3 - Pista 3 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200485811c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485811_20241220-123549.jpeg"/>
-    <title lang="es">Día 3 - Pista 16 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200483185c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483185_20241219-121317.jpeg"/>
-    <title lang="es">Día 3 - Pista 7 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200481747c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481747_20241219-112026.jpeg"/>
-    <title lang="es">Día 3 - 1573 Arena - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200481376c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481376_20241219-110617.jpeg"/>
-    <title lang="es">Día 3 - Kia Arena - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200482724c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482724_20241219-121156.jpeg"/>
-    <title lang="es">Día 3 - Pista 6 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="esp-e200484851c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484851_20241219-123003.jpeg"/>
-    <title lang="es">Día 3 - Pista 14 - 1º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200481748c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481748_20241219-124006.jpeg"/>
-    <title lang="es">Día 3 - 1573 Arena - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108013502 +0000" stop="20250108033502 +0000" channel="esp-e200483553c0ch20010">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483553_20241219-124521.jpeg"/>
-    <title lang="es">Día 3 - Pista 8 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200485530c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485530_20241219-124928.jpeg"/>
-    <title lang="es">Día 3 - Pista 11 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200484001c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484001_20241219-124611.jpeg"/>
-    <title lang="es">Día 3 - Pista 12 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108011210 +0000" stop="20250108031210 +0000" channel="esp-e200481377c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481377_20241219-123916.jpeg"/>
-    <title lang="es">Día 3 - Kia Arena - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200482725c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482725_20241219-124406.jpeg"/>
-    <title lang="es">Día 3 - Pista 6 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108013941 +0000" stop="20250108033941 +0000" channel="esp-e200482391c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482391_20241219-124325.jpeg"/>
-    <title lang="es">Día 3 - Pista 5 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108013931 +0000" stop="20250108033931 +0000" channel="esp-e200485179c0ch20014">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485179_20241219-124852.jpeg"/>
-    <title lang="es">Día 3 - Pista 15 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200485894c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485894_20250101-170108.jpeg"/>
-    <title lang="es">Día 3 - Pista 17 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108013932 +0000" stop="20250108033932 +0000" channel="esp-e200485812c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485812_20241220-123907.jpeg"/>
-    <title lang="es">Día 3 - Pista 16 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108011740 +0000" stop="20250108031740 +0000" channel="esp-e200482065c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482065_20241219-124246.jpeg"/>
-    <title lang="es">Día 3 - Pista 3 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200484487c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484487_20241219-124653.jpeg"/>
-    <title lang="es">Día 3 - Pista 13 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108011731 +0000" stop="20250108031731 +0000" channel="esp-e200483186c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483186_20241219-124441.jpeg"/>
-    <title lang="es">Día 3 - Pista 7 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108010000 +0000" stop="20250108030000 +0000" channel="esp-e200484852c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484852_20241219-124807.jpeg"/>
-    <title lang="es">Día 3 - Pista 14 - 2º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030000 +0000" stop="20250108050000 +0000" channel="esp-e200485531c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485531_20241219-130757.jpeg"/>
-    <title lang="es">Día 3 - Pista 11 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108033942 +0000" stop="20250108053942 +0000" channel="esp-e200483554c0ch20010">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483554_20241219-130335.jpeg"/>
-    <title lang="es">Día 3 - Pista 8 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108031542 +0000" stop="20250108051542 +0000" channel="esp-e200482066c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482066_20241219-125807.jpeg"/>
-    <title lang="es">Día 3 - Pista 3 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108035342 +0000" stop="20250108055342 +0000" channel="esp-e200483187c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483187_20241219-125958.jpeg"/>
-    <title lang="es">Día 3 - Pista 7 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030000 +0000" stop="20250108050000 +0000" channel="esp-e200481749c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481749_20241219-125635.jpeg"/>
-    <title lang="es">Día 3 - 1573 Arena - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030000 +0000" stop="20250108050000 +0000" channel="esp-e200484488c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484488_20241219-130513.jpeg"/>
-    <title lang="es">Día 3 - Pista 13 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108041608 +0000" stop="20250108061608 +0000" channel="esp-e200485813c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485813_20241220-133947.jpeg"/>
-    <title lang="es">Día 3 - Pista 16 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030621 +0000" stop="20250108050621 +0000" channel="esp-e200482726c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482726_20241219-125922.jpeg"/>
-    <title lang="es">Día 3 - Pista 6 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030000 +0000" stop="20250108050000 +0000" channel="esp-e200484853c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484853_20241219-130637.jpeg"/>
-    <title lang="es">Día 3 - Pista 14 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108042706 +0000" stop="20250108062706 +0000" channel="esp-e200482392c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482392_20241219-125844.jpeg"/>
-    <title lang="es">Día 3 - Pista 5 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108034716 +0000" stop="20250108054716 +0000" channel="esp-e200485895c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485895_20250101-170209.jpeg"/>
-    <title lang="es">Día 3 - Pista 17 - 3º Turno </title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108033836 +0000" stop="20250108053836 +0000" channel="esp-e200485180c0ch20014">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485180_20241219-130721.jpeg"/>
-    <title lang="es">Día 3 - Pista 15 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108033619 +0000" stop="20250108053619 +0000" channel="esp-e200481378c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481378_20241219-125528.jpeg"/>
-    <title lang="es">Día 3 - Kia Arena - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108030000 +0000" stop="20250108050000 +0000" channel="esp-e200484002c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484002_20241219-130422.jpeg"/>
-    <title lang="es">Día 3 - Pista 12 - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200484489c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484489_20241219-132337.jpeg"/>
-    <title lang="es">Día 3 - Pista 13 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200482727c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482727_20241219-131834.jpeg"/>
-    <title lang="es">Día 3 - Pista 6 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108054628 +0000" stop="20250108074628 +0000" channel="esp-e200485896c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485896_20241220-134126.jpeg"/>
-    <title lang="es">Día 3 - Pista 17 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200485532c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485532_20241219-132449.jpeg"/>
-    <title lang="es">Día 3 - Pista 11 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200482067c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482067_20241219-131616.jpeg"/>
-    <title lang="es">Día 3 - Pista 3 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108055120 +0000" stop="20250108075120 +0000" channel="esp-e200483188c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200483188_20241219-131928.jpeg"/>
-    <title lang="es">Día 3 - Pista 7 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200484003c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484003_20241219-132216.jpeg"/>
-    <title lang="es">Día 3 - Pista 12 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108064637 +0000" stop="20250108084637 +0000" channel="esp-e200485814c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200485814_20241220-134038.jpeg"/>
-    <title lang="es">Día 3 - Pista 16 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108055857 +0000" stop="20250108075857 +0000" channel="esp-e200483555c0ch20010">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200483555_20241219-132012.jpeg"/>
-    <title lang="es">Día 3 - Pista 8 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108065800 +0000" stop="20250108085800 +0000" channel="esp-e200482393c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200482393_20241219-131714.jpeg"/>
-    <title lang="es">Día 3 - Pista 5 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200484854c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484854_20241219-132258.jpeg"/>
-    <title lang="es">Día 3 - Pista 14 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108065055 +0000" stop="20250108085055 +0000" channel="esp-e200485181c0ch20014">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485181_20241219-132418.jpeg"/>
-    <title lang="es">Día 3 - Pista 15 - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108063425 +0000" stop="20250108083425 +0000" channel="esp-e200481379c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200481379_20241219-131125.jpeg"/>
-    <title lang="es">Día 3 - Kia Arena - 3º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="esp-e200481750c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481750_20241219-131513.jpeg"/>
-    <title lang="es">Día 3 - 1573 Arena - 4º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200485533c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200485533_20241219-141147.jpeg"/>
-    <title lang="es">Día 3 - Pista 11 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200482728c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200482728_20241219-135349.jpeg"/>
-    <title lang="es">Día 3 - Pista 6 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200481751c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200481751_20241219-135105.jpeg"/>
-    <title lang="es">Día 3 - 1573 Arena - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200484004c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200484004_20241219-140052.jpeg"/>
-    <title lang="es">Día 3 - Pista 12 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200484855c0ch20013">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200484855_20241219-140341.jpeg"/>
-    <title lang="es">Día 3 - Pista 14 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200484490c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200484490_20241219-140205.jpeg"/>
-    <title lang="es">Día 3 - Pista 13 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200482068c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200482068_20241219-135144.jpeg"/>
-    <title lang="es">Día 3 - Pista 3 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="esp-e200485897c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200485897_20241220-134325.jpeg"/>
-    <title lang="es">Día 3 - Pista 17 - 5º Turno</title>
-    <desc lang="es">Australian Open | Previa 2ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
+  <channel id="832404tfbclpafny18pnscohw">
+    <display-name>832404tfbclpafny18pnscohw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10tinffgz4q261ta098qwlez0h_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4itctwtanadzihctvbutazifo">
+    <display-name>4itctwtanadzihctvbutazifo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/desqoqydcqr0rmf4ztyt2qm9z_image-header_pEs_1736172595000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250108163000 +0000" stop="20250108181500 +0000" channel="esp-e200499348c0ch20022">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200499348_20241216-100645.jpeg"/>
     <title lang="es">Copa del Mundo - Madonna di Campiglio</title>
@@ -3382,18 +2616,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_6_200485185_20241223-092427.jpeg"/>
     <title lang="es">Día 4 - Pista 15 - 1º Turno</title>
     <desc lang="es">Australian Open | Previa 3ª Ronda</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108060000 +0000" stop="20250108080000 +0000" channel="esp-e200529263c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200529263_20250102-123421.jpeg"/>
-    <title lang="es">Qinwen Zheng - Elina Svitolina</title>
-    <desc lang="es">Partido benéfico | Australian Open</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250108080000 +0000" stop="20250108100000 +0000" channel="esp-e200529264c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200529264_20250102-123755.jpeg"/>
-    <title lang="es">Carlos Alcaraz - Alex De Minaur</title>
-    <desc lang="es">Partido benéfico | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250109015959 +0000" stop="20250109035959 +0000" channel="esp-e200483560c0ch20010">
@@ -3738,66 +2960,6 @@
     <desc lang="es">El partido correspondiente a la Jornada 13 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250110090000 +0000" stop="20250110150000 +0000" channel="3if6dtgfhmq164762tgp04y2f">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/175ewkyselm831dkee4l376gxg_image-header_pEs_1734535831000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Espargabros</title>
-    <desc lang="es">[Estreno 10 de enero] Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250110110000 +0000" stop="20250110133000 +0000" channel="47ley9p6nkskk3yc2clmbrmoo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4do0vs8oqxv5hqkzhiungz8w6_image-header_pEs_1728028591000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Erasmus FC</title>
-    <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110151000 +0000" stop="20250110174000 +0000" channel="4bhk9k5dl3dcxv4ovbp2seuj8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7vgh1l7yog0vcx7co6613ujxr_image-header_pEs_1732888400000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Eastern Flames - Al Hilal</title>
-    <desc lang="es">Vive el encuentro de Women’s Premier League entre Eastern Flames - Al Hilal.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110170000 +0000" stop="20250110193000 +0000" channel="4bt1bciy48mmtx9dv57h1lv6c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aguviejvn01dythfonjmd8jvq_image-header_pEs_1735074372000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Al Ahli - Al Amal</title>
-    <desc lang="es">Vive el encuentro de Women’s Premier League entre Al Ahli y Al Amal.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110193000 +0000" stop="20250110220000 +0000" channel="7jhwwqtmxi70el5rlr3rs8bv8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzict4dg0iwxyjhlbfkmo366f_image-header_pEs_1735646191000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rayo Vallecano - RC Celta</title>
-    <desc lang="es">Vive el encuentro de Primera División entre Rayo Vallecano y Celta de Vigo.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110193000 +0000" stop="20250110220000 +0000" channel="1xgmumhasu4fve7zygre55kwk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16ssp50ylxc8hpozm8y6zbqtw_image-header_pEs_1734739580000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Borussia Dortmund - Bayer Leverkusen</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia Dortmund y Bayer Leverkusen.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110193000 +0000" stop="20250110230000 +0000" channel="cdyqhxu785xeowzaa5nt3hq8k">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c5palk98smu2yolk8znpcfalw_image-header_pEs_1733502241000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Caledonia Gladiators - Cheshire Phoenix</title>
-    <desc lang="es">Vive el encuentro de SLB Trophy entre Caledonia Gladiators - Cheshire Phoenix.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250110193000 +0000" stop="20250110230000 +0000" channel="chiqju8jcm2swv6sm9t7vowlw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/75g8n0rka4p3dg05rb3e8qloy_image-header_pEs_1731413673000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Leicester Riders - Manchester Basketball</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Leicester Riders y Manchester Basketball.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250110193000 +0000" stop="20250110220000 +0000" channel="cv5kfho62c9gyqp293ywddchb">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6zfpe96914i305f4z0acue20h_image-header_pEs_1734739580000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Señal táctica - Borussia Dortmund - Bayer Leverkusen</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia Dortmund - Bayer Leverkusen.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250110194500 +0000" stop="20250110221500 +0000" channel="binlz8no6aop7fmrabrnyh5w4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54nsg83e0iza4xkqo4vtwi4wm_image-header_pEs_1734112576000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Lazio - Como</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Lazio y Como.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250110060000 +0000" stop="20250110080000 +0000" channel="esp-e200529267c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200529267_20250102-225546.jpeg"/>
     <title lang="es">Carlos Alcaraz - Alexei Popyrin</title>
@@ -3990,7 +3152,7 @@
     <desc lang="es">Disfruta de la temporada 2025 de la Formula E en DAZN y vive a través de los canales de Eurosport el ePrix de México. ¡No te lo pierdas!</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250111091500 +0000" stop="20250111110000 +0000" channel="esp-e200499358c0ch20015">
+  <programme start="20250112091500 +0000" stop="20250112110000 +0000" channel="esp-e200499358c0ch20015">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_4_200499358_20241211-113013.jpeg"/>
     <title lang="es">Copa del Mundo - Adelboden</title>
     <desc lang="es">Eslalon Gigante | Masculino | 1ª manga</desc>
@@ -4026,7 +3188,7 @@
     <desc lang="es">Eslalon Gigante Paralelo | Masculino y Femenino</desc>
     <category lang="es">Snowboard</category>
   </programme>
-  <programme start="20250111121500 +0000" stop="20250111133000 +0000" channel="esp-e200499359c0ch20015">
+  <programme start="20250112120500 +0000" stop="20250112133000 +0000" channel="esp-e200499359c0ch20015">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_4_200499359_20241211-113239.jpeg"/>
     <title lang="es">Copa del Mundo - Adelboden</title>
     <desc lang="es">Eslalon Gigante | Masculino | 2ª manga</desc>
@@ -4134,36 +3296,6 @@
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250107094812 +0000" stop="20250107114812 +0000" channel="esp-e200531786c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200531786_20250106-110638.jpeg"/>
-    <title lang="es">Yosuke Watanuki - Juan Manuel Cerundolo</title>
-    <desc lang="es">Masculino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531920c0ch20015">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_4_200531920_20250106-151830.jpeg"/>
-    <title lang="es">Sara Bejlek - Kathinka Von Deichmann</title>
-    <desc lang="es">Femenino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531731c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200531731_20250106-104643.jpeg"/>
-    <title lang="es">Elena Pridankina - Elena Micic</title>
-    <desc lang="es">Femenino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531848c0ch20008">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_4_200531848_20250106-152313.jpeg"/>
-    <title lang="es">Darya Astakhova - Ena Shibahara</title>
-    <desc lang="es">Femenino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531725c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200531725_20250106-100618.jpeg"/>
-    <title lang="es">Antoine Escoffier - Blake Ellis</title>
-    <desc lang="es">Masculino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20250111213000 +0000" stop="20250112013000 +0000" channel="6j3hl9v3u6pyhgdba6mk8z6z8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vrpx8rqtbevh1cminhawkad9b_image-header_pEs_1736154697000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chargers @ Texans</title>
@@ -4174,12 +3306,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/172i4wl9f2bwxunpaag4t75b8_image-header_pEs_1735302560000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 1 y resumen de la jornada</title>
     <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250107090724 +0000" stop="20250107110724 +0000" channel="esp-e200531894c0ch20010">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_3_200531894_20250106-130149.jpeg"/>
-    <title lang="es">Han Shi - Jil Teichmann</title>
-    <desc lang="es">Femenino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250112003000 +0000" stop="20250112063000 +0000" channel="ch8nolxm7ilenpww62ntz8q9u">
@@ -4194,23 +3320,11 @@
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531909c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_5_200531909_20250106-135822.jpeg"/>
-    <title lang="es">Nicolas Mejia - Benjamin Hassan</title>
-    <desc lang="es">Masculino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20250112030000 +0000" stop="20250112090000 +0000" channel="2xlt61plflc3vnolswia1jxz9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/clbassn1jtgrv04c59kw4bqed_image-header_pEs_1734512418000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">The American Contender Regional - Final del oeste</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531899c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200531899_20250106-130444.jpeg"/>
-    <title lang="es">Jesper de Jong - Aziz Dougaz</title>
-    <desc lang="es">Masculino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20250112110000 +0000" stop="20250112133000 +0000" channel="8a4i74k3ftouz849zmfcpkys4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/chchzqbxxyf5jrlzh40rug1y4_image-header_pEs_1735651240000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4229,12 +3343,6 @@
     <title lang="es">Genoa - Parma</title>
     <desc lang="es">Vive el encuentro de Serie A entre Genoa y Parma.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250107090000 +0000" stop="20250107110000 +0000" channel="esp-e200531904c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_5_200531904_20250106-153655.jpeg"/>
-    <title lang="es">Linda Fruhvirtova - Francesca Jones</title>
-    <desc lang="es">Femenino | Individuales | Previa 1ª Ronda | Australian Open - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20250112113000 +0000" stop="20250112140000 +0000" channel="21m57tslo6zofookkx0pdmxw4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5m9mp5ao1ul8gmp5zej9s8rkj_image-header_pEs_1735742977000/fill/none/top/none/85/600/360/webp/image"/>
@@ -7259,5 +6367,17 @@
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 7 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="832404tfbclpafny18pnscohw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10tinffgz4q261ta098qwlez0h_image-header_pEs_1732211560000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 8</title>
+    <desc lang="es">Join Ariel Helwani and Ade Oladipo on DAZN’s latest weekly boxing show, airing every Tuesday, the duo dive deep into the biggest stories surrounding boxing and are joined every week by a special guest.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250115173000 +0000" stop="20250115210000 +0000" channel="4itctwtanadzihctvbutazifo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/desqoqydcqr0rmf4ztyt2qm9z_image-header_pEs_1736172595000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Promitheas Patras - Karşıyaka</title>
+    <desc lang="es">Watch Basketball Champions League Basketball action as Promitheas Patras takes on Karşıyaka.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
