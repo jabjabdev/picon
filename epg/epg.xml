@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 13 12:37:10 2025">
+<tv date="Mon Jan 13 18:30:14 2025">
   <channel id="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <display-name>9b202a0f-42f6-4291-3eb6-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
@@ -3128,6 +3128,22 @@
     <display-name>esp-e200534735c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200534735_20250108-164722.jpeg"/>
   </channel>
+  <channel id="8zj8whqxt2gs8l4yyccddn7dg">
+    <display-name>8zj8whqxt2gs8l4yyccddn7dg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1azbkar6tmg3v1glmk9io39oyn_image-header_pEs_1736760350000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bjfbc4ei9ial69d3gz4zyfeok">
+    <display-name>bjfbc4ei9ial69d3gz4zyfeok</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rfyvaxfdxnng1sfiic9dgokpn_image-header_pEs_1736760565000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6qkn5hix5g6py5d6up82105qs">
+    <display-name>6qkn5hix5g6py5d6up82105qs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5l8vahyn5ln4jgp0x3k64b54m_image-header_pEs_1736424058000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1gnl9g1i103lt3b9pqoxw1s2">
+    <display-name>1gnl9g1i103lt3b9pqoxw1s2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xwsa9s2ascywetypdt6bip1p_image-header_pEs_1735314821000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250110191000 +0000" stop="20250110224500 +0000" channel="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
     <title lang="es">Grupo Ureta Tizona Burgos - Inveready Gipuzkoa</title>
@@ -4016,7 +4032,7 @@
     <desc lang="es">Masters | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250113130000 +0000" stop="20250113133000 +0000" channel="esp-e200475387c0ch20001">
+  <programme start="20250113140017 +0000" stop="20250113143017 +0000" channel="esp-e200475387c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
@@ -7819,5 +7835,29 @@
     <title lang="es">Copa del Mundo - Wengen</title>
     <desc lang="es">Descenso | Masculino | Entrenamientos</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250118213000 +0000" stop="20250119013000 +0000" channel="8zj8whqxt2gs8l4yyccddn7dg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1azbkar6tmg3v1glmk9io39oyn_image-header_pEs_1736760350000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Texans @ Chiefs</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250119010000 +0000" stop="20250119050000 +0000" channel="bjfbc4ei9ial69d3gz4zyfeok">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rfyvaxfdxnng1sfiic9dgokpn_image-header_pEs_1736760565000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Commanders @ Lions</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250119150000 +0000" stop="20250119183000 +0000" channel="6qkn5hix5g6py5d6up82105qs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5l8vahyn5ln4jgp0x3k64b54m_image-header_pEs_1736424058000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
+    <desc lang="es">Vive el encuentro de SLB Cup entre Bristol Flyers - Caledonia Gladiators.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250119184500 +0000" stop="20250119204500 +0000" channel="1gnl9g1i103lt3b9pqoxw1s2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xwsa9s2ascywetypdt6bip1p_image-header_pEs_1735314821000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Snooker - Final (Sesión 2)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Polideportivo</category>
   </programme>
 </tv>
