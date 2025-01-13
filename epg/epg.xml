@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 13 12:34:54 2025">
+<tv date="Mon Jan 13 12:37:10 2025">
   <channel id="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <display-name>9b202a0f-42f6-4291-3eb6-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
@@ -3115,6 +3115,18 @@
   <channel id="0b5698c7-7e14-4244-5f92-08dd0e033b96">
     <display-name>0b5698c7-7e14-4244-5f92-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/LigaNacionalBasquetbolThumbnailSanLorenzoLaUniounFSAmatchpng-111448.png"/>
+  </channel>
+  <channel id="esp-e200545095c0ch20027">
+    <display-name>esp-e200545095c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_12_200545095_20250113-105626.jpeg"/>
+  </channel>
+  <channel id="esp-e200545094c0ch20027">
+    <display-name>esp-e200545094c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_12_200545094_20250113-110127.jpeg"/>
+  </channel>
+  <channel id="esp-e200534735c0ch20027">
+    <display-name>esp-e200534735c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200534735_20250108-164722.jpeg"/>
   </channel>
   <programme start="20250110191000 +0000" stop="20250110224500 +0000" channel="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
@@ -7789,5 +7801,23 @@
     <title lang="es">San Lorenzo - La Unión FSA</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250114030000 +0000" stop="20250114070000 +0000" channel="esp-e200545095c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_12_200545095_20250113-105626.jpeg"/>
+    <title lang="es"> - Vendée Globe</title>
+    <desc lang="es">|</desc>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="esp-e200545094c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_12_200545094_20250113-110127.jpeg"/>
+    <title lang="es"> - Vendée Globe</title>
+    <desc lang="es">|</desc>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20250116113000 +0000" stop="20250116133000 +0000" channel="esp-e200534735c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200534735_20250108-164722.jpeg"/>
+    <title lang="es">Copa del Mundo - Wengen</title>
+    <desc lang="es">Descenso | Masculino | Entrenamientos</desc>
+    <category lang="es">Esquí</category>
   </programme>
 </tv>
