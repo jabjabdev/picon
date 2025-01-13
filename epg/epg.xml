@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 13 18:30:14 2025">
+<tv date="Mon Jan 13 18:35:04 2025">
   <channel id="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <display-name>9b202a0f-42f6-4291-3eb6-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
@@ -3143,6 +3143,50 @@
   <channel id="1gnl9g1i103lt3b9pqoxw1s2">
     <display-name>1gnl9g1i103lt3b9pqoxw1s2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xwsa9s2ascywetypdt6bip1p_image-header_pEs_1735314821000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d33c2916-f7c9-4262-9fcf-08dd0e03944b">
+    <display-name>d33c2916-f7c9-4262-9fcf-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/dna-zaragozajpg-123350.jpg"/>
+  </channel>
+  <channel id="23a16435-65d7-4d6f-9fc3-08dd0e03944b">
+    <display-name>23a16435-65d7-4d6f-9fc3-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/BasketballBundesligaThumbnailAlbaBerlinHeidelbergmatchpng-115452.png"/>
+  </channel>
+  <channel id="bf967d93-95e2-4b56-9fc4-08dd0e03944b">
+    <display-name>bf967d93-95e2-4b56-9fc4-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/BasketballBundesligaThumbnailLoewenBraunschweigUlmmatchpng-115405.png"/>
+  </channel>
+  <channel id="5bffb775-adb4-4527-3efc-08dd0e0201c6">
+    <display-name>5bffb775-adb4-4527-3efc-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-MAN-1jpg-130239.jpg"/>
+  </channel>
+  <channel id="99e1563f-5598-4d0b-ff33-08dd0e324662">
+    <display-name>99e1563f-5598-4d0b-ff33-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-MAN-2jpg-130308.jpg"/>
+  </channel>
+  <channel id="4df179dc-b2e9-4be7-75cb-08dd0e37795d">
+    <display-name>4df179dc-b2e9-4be7-75cb-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/WOM-MON-1jpg-130351.jpg"/>
+  </channel>
+  <channel id="9890ca9e-ba7b-4943-3efd-08dd0e0201c6">
+    <display-name>9890ca9e-ba7b-4943-3efd-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/WOM-MON-2jpg-130409.jpg"/>
+  </channel>
+  <channel id="be33f136-3fde-480a-6625-08dd1e646927">
+    <display-name>be33f136-3fde-480a-6625-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/4-MAN-1jpg-130501.jpg"/>
+  </channel>
+  <channel id="a87eb9d4-0730-4124-3efe-08dd0e0201c6">
+    <display-name>a87eb9d4-0730-4124-3efe-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/4-MAN-2jpg-130452.jpg"/>
+  </channel>
+  <channel id="ac4dd34e-c95e-44de-9fbb-08dd0e03944b">
+    <display-name>ac4dd34e-c95e-44de-9fbb-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-WOM-1jpg-130524.jpg"/>
+  </channel>
+  <channel id="d4552b85-24d8-40f9-75cc-08dd0e37795d">
+    <display-name>d4552b85-24d8-40f9-75cc-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-WOM-2jpg-130517.jpg"/>
   </channel>
   <programme start="20250110191000 +0000" stop="20250110224500 +0000" channel="9b202a0f-42f6-4291-3eb6-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBGipuzkoavisitorPrimeraFEBTizonaBurgoslocalpng-101746.png"/>
@@ -7859,5 +7903,71 @@
     <title lang="es">Snooker - Final (Sesión 2)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20250118141000 +0000" stop="20250118191000 +0000" channel="d33c2916-f7c9-4262-9fcf-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/dna-zaragozajpg-123350.jpg"/>
+    <title lang="es">European DNA Clubes (Zaragoza)</title>
+    <desc lang="es">El Palacio de los Deportes de Zaragoza acoge el sábado 18 de enero el European DNA Clubes en las categorías sub-16, sub-18 y sub-20. </desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250118182500 +0000" stop="20250118220000 +0000" channel="23a16435-65d7-4d6f-9fc3-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/BasketballBundesligaThumbnailAlbaBerlinHeidelbergmatchpng-115452.png"/>
+    <title lang="es">Alba Berlin - Heidelberg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 17 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250119145500 +0000" stop="20250119183000 +0000" channel="bf967d93-95e2-4b56-9fc4-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/BasketballBundesligaThumbnailLoewenBraunschweigUlmmatchpng-115405.png"/>
+    <title lang="es">Löwen Braunschweig - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 17 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250118085500 +0000" stop="20250118095000 +0000" channel="5bffb775-adb4-4527-3efc-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-MAN-1jpg-130239.jpg"/>
+    <title lang="es">Innsbruck |  2-Man Bobsleigh Heat 1</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250118102500 +0000" stop="20250118112000 +0000" channel="99e1563f-5598-4d0b-ff33-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-MAN-2jpg-130308.jpg"/>
+    <title lang="es">Innsbruck |  2-Man Bobsleigh Heat 2</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250118125500 +0000" stop="20250118135000 +0000" channel="4df179dc-b2e9-4be7-75cb-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/WOM-MON-1jpg-130351.jpg"/>
+    <title lang="es">Innsbruck |  Women's Monobob Heat 1</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250118142500 +0000" stop="20250118152000 +0000" channel="9890ca9e-ba7b-4943-3efd-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/WOM-MON-2jpg-130409.jpg"/>
+    <title lang="es">Innsbruck |  Women's Monobob Heat 2</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250119101000 +0000" stop="20250119110500 +0000" channel="be33f136-3fde-480a-6625-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/4-MAN-1jpg-130501.jpg"/>
+    <title lang="es">Innsbruck |  4-Man Bobsleigh Heat 1</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250119114000 +0000" stop="20250119124000 +0000" channel="a87eb9d4-0730-4124-3efe-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/4-MAN-2jpg-130452.jpg"/>
+    <title lang="es">Innsbruck |  4-Man Bobsleigh Heat 2</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250119135500 +0000" stop="20250119145000 +0000" channel="ac4dd34e-c95e-44de-9fbb-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-WOM-1jpg-130524.jpg"/>
+    <title lang="es">Innsbruck |  2-Woman Bobsleigh Heat 1</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250119152000 +0000" stop="20250119161500 +0000" channel="d4552b85-24d8-40f9-75cc-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/2-WOM-2jpg-130517.jpg"/>
+    <title lang="es">Innsbruck |  2-Woman Bobsleigh Heat 2</title>
+    <desc lang="es">Innsbruck (Austria) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
   </programme>
 </tv>
