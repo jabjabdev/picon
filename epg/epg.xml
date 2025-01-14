@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 14 12:30:51 2025">
+<tv date="Tue Jan 14 12:37:17 2025">
   <channel id="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <display-name>17dd25c3-8a4a-4721-3eb7-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
@@ -3412,6 +3412,42 @@
     <display-name>1r55ar6azpmc4dxr9xaz27yao</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4x41ox6w9srj321gdjby4vwrq_image-header_pEs_1735941841000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200545581c0ch20012">
+    <display-name>esp-e200545581c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200545581_20250114-095638.jpeg"/>
+  </channel>
+  <channel id="esp-e200545586c0ch20013">
+    <display-name>esp-e200545586c0ch20013</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_3_200545586_20250114-100006.jpeg"/>
+  </channel>
+  <channel id="esp-e200545571c0ch20010">
+    <display-name>esp-e200545571c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_3_200545571_20250114-094927.jpeg"/>
+  </channel>
+  <channel id="esp-e200545591c0ch20014">
+    <display-name>esp-e200545591c0ch20014</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_3_200545591_20250114-100404.jpeg"/>
+  </channel>
+  <channel id="esp-e200545576c0ch20011">
+    <display-name>esp-e200545576c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200545576_20250114-095353.jpeg"/>
+  </channel>
+  <channel id="esp-e200545566c0ch20007">
+    <display-name>esp-e200545566c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200545566_20250114-094541.jpeg"/>
+  </channel>
+  <channel id="esp-e200538811c0ch20045">
+    <display-name>esp-e200538811c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200538812c0ch20045">
+    <display-name>esp-e200538812c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200538813c0ch20045">
+    <display-name>esp-e200538813c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
   <programme start="20250111162500 +0000" stop="20250111200000 +0000" channel="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
     <title lang="es">Naturavia Morón - UEMC Real Valladolid</title>
@@ -4624,7 +4660,7 @@
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250114113000 +0000" stop="20250114130000 +0000" channel="esp-e200504264c0ch20021">
+  <programme start="20250117113000 +0000" stop="20250117130000 +0000" channel="esp-e200504264c0ch20021">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200504264_20241221-104533.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Super-G | Masculino</desc>
@@ -8529,5 +8565,59 @@
     <title lang="es">Darren Till vs. Anthony Taylor</title>
     <desc lang="es">Vive el encuentro de MF &amp; DAZN: X-Series 20 - Darren Till v Anthony Taylor entre Anthony Taylor y Darren Till.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545581c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200545581_20250114-095638.jpeg"/>
+    <title lang="es">M. Arevalo / M. Pavic - R. Hijikata / J. Kubler</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545586c0ch20013">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_3_200545586_20250114-100006.jpeg"/>
+    <title lang="es">N. Lammons / J. Withrow - M. Giron / E. King</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545571c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_3_200545571_20250114-094927.jpeg"/>
+    <title lang="es">P. Nouza / R. Rikl - S. Doumbia / F. Reboul</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545591c0ch20014">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20014_3_200545591_20250114-100404.jpeg"/>
+    <title lang="es">K. Kawa / K. Zimmermann - E. Alexandrova / Y. Yuan</title>
+    <desc lang="es">Femenino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545576c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200545576_20250114-095353.jpeg"/>
+    <title lang="es">A. Krunic / N. Stojanovic - K. Birrell / O. Gadecki</title>
+    <desc lang="es">Femenino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250115100000 +0000" stop="20250115123000 +0000" channel="esp-e200545566c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200545566_20250114-094541.jpeg"/>
+    <title lang="es">H. Heliovaara / H. Patten - R. Bollipalli / R. Seggerman</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250117003000 +0000" stop="20250117040000 +0000" channel="esp-e200538811c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour Down Under - Etapa 1</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250118003000 +0000" stop="20250118040000 +0000" channel="esp-e200538812c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour Down Under - Etapa 2</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250119003000 +0000" stop="20250119041500 +0000" channel="esp-e200538813c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour Down Under - Etapa 3</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
