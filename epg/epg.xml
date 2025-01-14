@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 14 18:35:10 2025">
+<tv date="Wed Jan 15 00:30:16 2025">
   <channel id="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <display-name>17dd25c3-8a4a-4721-3eb7-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
@@ -3471,6 +3471,34 @@
   <channel id="a867b263-6cff-4020-5f8b-08dd0e033b96">
     <display-name>a867b263-6cff-4020-5f8b-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/IsuzuUTEALeagueThumbnailAdelaideUnitedMelbourneVictorymatchpng-094529.png"/>
+  </channel>
+  <channel id="2i1swzl25q0hj035gyejm4s17">
+    <display-name>2i1swzl25q0hj035gyejm4s17</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/41kxlgaro5olc9jp707k9iszv_image-header_pEs_1735315901000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9qjcwnygdl7rmtchkkhdkuzur">
+    <display-name>9qjcwnygdl7rmtchkkhdkuzur</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pkd6r9gquxk7i4uyvbuk5ajl_image-header_pEs_1735316500000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bbid0smp1yz6i6jnphmlzz9g9">
+    <display-name>bbid0smp1yz6i6jnphmlzz9g9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cgv4pmm29cglxaig3k44htz93_image-header_pEs_1735380442000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2hx9e4iloxse482e47ceahtm8">
+    <display-name>2hx9e4iloxse482e47ceahtm8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/efw7qa317v8jfxa65ol67q8f4_image-header_pEs_1735380665000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2qwrrxp42vxlr2k64i5tu6cd0">
+    <display-name>2qwrrxp42vxlr2k64i5tu6cd0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/35ouau74jy0dw3iyuk9eq9tlx_image-header_pEs_1734286057000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6b7mbxls4uls59gvj2pqmqtin">
+    <display-name>6b7mbxls4uls59gvj2pqmqtin</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8w5yzf01gsxy16zso571a95rc_image-header_pEs_1736593077000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7yaowc15sd6pqs7eutozgbzkl">
+    <display-name>7yaowc15sd6pqs7eutozgbzkl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahcwcopv020yo2nj3cc8hjhtx_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250111162500 +0000" stop="20250111200000 +0000" channel="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
@@ -8678,6 +8706,48 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/IsuzuUTEALeagueThumbnailAdelaideUnitedMelbourneVictorymatchpng-094529.png"/>
     <title lang="es">Adelaide United - Melbourne Victory</title>
     <desc lang="es">El partido correspondiente a la Jornada 15 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250121003000 +0000" stop="20250121063000 +0000" channel="2i1swzl25q0hj035gyejm4s17">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/41kxlgaro5olc9jp707k9iszv_image-header_pEs_1735315901000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121023000 +0000" stop="20250121083000 +0000" channel="9qjcwnygdl7rmtchkkhdkuzur">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pkd6r9gquxk7i4uyvbuk5ajl_image-header_pEs_1735316500000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121073000 +0000" stop="20250121133000 +0000" channel="bbid0smp1yz6i6jnphmlzz9g9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cgv4pmm29cglxaig3k44htz93_image-header_pEs_1735380442000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121100000 +0000" stop="20250121160000 +0000" channel="2hx9e4iloxse482e47ceahtm8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/efw7qa317v8jfxa65ol67q8f4_image-header_pEs_1735380665000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121101000 +0000" stop="20250121134000 +0000" channel="2qwrrxp42vxlr2k64i5tu6cd0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/35ouau74jy0dw3iyuk9eq9tlx_image-header_pEs_1734286057000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jeonju Egis - New Taipei Kings</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre New Taipei Kings y Jeonju Egis.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250121142000 +0000" stop="20250121165000 +0000" channel="6b7mbxls4uls59gvj2pqmqtin">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8w5yzf01gsxy16zso571a95rc_image-header_pEs_1736593077000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Khaleej vs. Al Nassr - Matchday Live</title>
+    <desc lang="es">Follow all the action as Al Nassr faces Al Khaleej, joining our watchalong host and guests for for passionate play by play commentary and interactive fan experience, as well as all the pre-match build-up and post-match reaction.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250121170000 +0000" stop="20250121193000 +0000" channel="7yaowc15sd6pqs7eutozgbzkl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahcwcopv020yo2nj3cc8hjhtx_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">La Central</title>
+    <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
