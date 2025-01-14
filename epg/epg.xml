@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 14 12:37:17 2025">
+<tv date="Tue Jan 14 18:30:17 2025">
   <channel id="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <display-name>17dd25c3-8a4a-4721-3eb7-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
@@ -831,10 +831,6 @@
   <channel id="esp-e200503278c0ch20019">
     <display-name>esp-e200503278c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_0_200503278_20250102-143134.jpeg"/>
-  </channel>
-  <channel id="esp-e200502971c0ch20036">
-    <display-name>esp-e200502971c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200502971_20241224-114809.jpeg"/>
   </channel>
   <channel id="esp-e200502888c0ch20036">
     <display-name>esp-e200502888c0ch20036</display-name>
@@ -3448,6 +3444,22 @@
     <display-name>esp-e200538813c0ch20045</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
+  <channel id="2u2virclpvfaa7o0hv3e4lkul">
+    <display-name>2u2virclpvfaa7o0hv3e4lkul</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c31h4xe6ysszt0z4vb652tkxg_image-header_pEs_1736780073000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2xd05q1zfy3qxd1w9f5d5kk4s">
+    <display-name>2xd05q1zfy3qxd1w9f5d5kk4s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ejm0vxuz54r11k9hiwq1pu2n3_image-header_pEs_1736760565000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ehs6lzrvvkdxamdf0obzifvye">
+    <display-name>ehs6lzrvvkdxamdf0obzifvye</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/o2u8aerpw5u813zw75mf9s7tg_image-header_pEs_1736831812000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1w6f5f2fgltx9juzjkjx94v4m">
+    <display-name>1w6f5f2fgltx9juzjkjx94v4m</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jfi7mta8n9e31ewy77jtchhl0_image-header_pEs_1736760566000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250111162500 +0000" stop="20250111200000 +0000" channel="17dd25c3-8a4a-4721-3eb7-08dd0e0201c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBRealValladolidvisitorPrimeraFEBMorounlocalpng-101905.png"/>
     <title lang="es">Naturavia Morón - UEMC Real Valladolid</title>
@@ -4695,12 +4707,6 @@
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Moguls | Masculino y Femenino | Final</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250114133000 +0000" stop="20250114140000 +0000" channel="esp-e200502971c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200502971_20241224-114809.jpeg"/>
-    <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
-    <desc lang="es">SBX | Masculino y Femenino | Finales</desc>
-    <category lang="es">Snowboard</category>
   </programme>
   <programme start="20250114160000 +0000" stop="20250114181500 +0000" channel="esp-e200502888c0ch20036">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200502888_20241219-185417.jpeg"/>
@@ -8619,5 +8625,29 @@
     <title lang="es">Tour Down Under - Etapa 3</title>
     <desc lang="es">Femenino</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250115130000 +0000" stop="20250115190000 +0000" channel="2u2virclpvfaa7o0hv3e4lkul">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c31h4xe6ysszt0z4vb652tkxg_image-header_pEs_1736780073000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Crocker vs. Donovan - Launch Press Conference</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250119010000 +0000" stop="20250119050000 +0000" channel="2xd05q1zfy3qxd1w9f5d5kk4s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ejm0vxuz54r11k9hiwq1pu2n3_image-header_pEs_1736760565000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Commanders @ Lions (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250119200000 +0000" stop="20250120000000 +0000" channel="ehs6lzrvvkdxamdf0obzifvye">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/o2u8aerpw5u813zw75mf9s7tg_image-header_pEs_1736831812000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rams @ Eagles (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250119233000 +0000" stop="20250120033000 +0000" channel="1w6f5f2fgltx9juzjkjx94v4m">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jfi7mta8n9e31ewy77jtchhl0_image-header_pEs_1736760566000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ravens @ Bills (en Español)</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
