@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 15 12:30:52 2025">
+<tv date="Wed Jan 15 12:35:01 2025">
   <channel id="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <display-name>b848890b-5dc2-44db-5f62-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -3563,6 +3563,10 @@
   <channel id="344e4ltfx8xvihoqblvf8s0lw">
     <display-name>344e4ltfx8xvihoqblvf8s0lw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13serinp1fnjy1upgkexaenwe2_image-header_pEs_1736831812000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="457dea47-b200-4006-9fee-08dd0e03944b">
+    <display-name>457dea47-b200-4006-9fee-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/15/LigaNacionalBasquetbolThumbnailGimnasiaCRZaurateBasketmatchpng-111352.png"/>
   </channel>
   <programme start="20250112102500 +0000" stop="20250112140000 +0000" channel="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -8909,5 +8913,11 @@
     <title lang="es">Rams @ Eagles</title>
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250119225500 +0000" stop="20250120023000 +0000" channel="457dea47-b200-4006-9fee-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/15/LigaNacionalBasquetbolThumbnailGimnasiaCRZaurateBasketmatchpng-111352.png"/>
+    <title lang="es">Gimnasia - Zárate Basket</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
