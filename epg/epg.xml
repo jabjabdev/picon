@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 15 18:30:16 2025">
+<tv date="Wed Jan 15 18:35:08 2025">
   <channel id="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <display-name>b848890b-5dc2-44db-5f62-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -3567,6 +3567,14 @@
   <channel id="eqi69hnirlyuzxquj8up4xtb0">
     <display-name>eqi69hnirlyuzxquj8up4xtb0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3skd8zimdnddy4jp6f0idrivk_image-header_pEs_1735551927000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="848e984b-d595-474d-ff37-08dd0e324662">
+    <display-name>848e984b-d595-474d-ff37-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
+  </channel>
+  <channel id="b2a2bf0b-7353-438b-ff38-08dd0e324662">
+    <display-name>b2a2bf0b-7353-438b-ff38-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Odilo-Cartagena-SielboSan-Pablo-Burgospng-121813.png"/>
   </channel>
   <programme start="20250112102500 +0000" stop="20250112140000 +0000" channel="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -8919,5 +8927,17 @@
     <title lang="es">Multigol - Jornada 17</title>
     <desc lang="es">Disfruta en DAZN del multigol de la jornada 17 de la Bundesliga de Alemania.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250124155500 +0000" stop="20250124193000 +0000" channel="848e984b-d595-474d-ff37-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
+    <title lang="es">Monbus Obradoiro - Real Betis Baloncesto</title>
+    <desc lang="es">El partido entre Monbus Obradoiro y Real Betis Baloncesto correspondiente a las semifinales de la Copa España de Baloncesto 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250124185500 +0000" stop="20250124223000 +0000" channel="b2a2bf0b-7353-438b-ff38-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Odilo-Cartagena-SielboSan-Pablo-Burgospng-121813.png"/>
+    <title lang="es">Odilo Cartagena - Sïlbo San Pablo Burgos</title>
+    <desc lang="es">El partido entre Odilo Cartagena y Sïlbo San Pablo Burgos correspondiente a las semifinales de la Copa España de Baloncesto 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
