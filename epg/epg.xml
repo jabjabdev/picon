@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 15 18:37:24 2025">
+<tv date="Thu Jan 16 00:30:12 2025">
   <channel id="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <display-name>b848890b-5dc2-44db-5f62-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -3615,6 +3615,30 @@
   <channel id="esp-e200549181c0ch20014">
     <display-name>esp-e200549181c0ch20014</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="9zlxfq6ptsaauuqavgv5zeufx">
+    <display-name>9zlxfq6ptsaauuqavgv5zeufx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dcomfxxs26jvw2fz1rw7si50h_image-header_pEs_1735380952000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ccvibjdh35sql9qeil0io68xa">
+    <display-name>ccvibjdh35sql9qeil0io68xa</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e5z5a7nctpeli9ufyn2y389cn_image-header_pEs_1735381402000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eudxb8afwvfxzzbgfqdw6ytae">
+    <display-name>eudxb8afwvfxzzbgfqdw6ytae</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/51gk60c2e3xj0lsep6rxeix84_image-header_pEs_1735381573000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7kqj9jp9aekypifqbcx92brs0">
+    <display-name>7kqj9jp9aekypifqbcx92brs0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/83ay4442jdlwxvcuik4topbp0_image-header_pEs_1735381769000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2crt7h9wu953htydodo77tous">
+    <display-name>2crt7h9wu953htydodo77tous</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/850zhgfgdlceq0kxmk3pbe1es_image-header_pEs_1734286057000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2rjgem32y4e5orchceu285qms">
+    <display-name>2rjgem32y4e5orchceu285qms</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esfz336ggysklmw4eqpp9aekr_image-header_pEs_1734285645000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250112102500 +0000" stop="20250112140000 +0000" channel="b848890b-5dc2-44db-5f62-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/27/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBEstudianteslocalpng-102426.png"/>
@@ -9039,5 +9063,41 @@
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122003000 +0000" stop="20250122063000 +0000" channel="9zlxfq6ptsaauuqavgv5zeufx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dcomfxxs26jvw2fz1rw7si50h_image-header_pEs_1735380952000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122023000 +0000" stop="20250122083000 +0000" channel="ccvibjdh35sql9qeil0io68xa">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e5z5a7nctpeli9ufyn2y389cn_image-header_pEs_1735381402000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122073000 +0000" stop="20250122133000 +0000" channel="eudxb8afwvfxzzbgfqdw6ytae">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/51gk60c2e3xj0lsep6rxeix84_image-header_pEs_1735381573000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122160000 +0000" channel="7kqj9jp9aekypifqbcx92brs0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/83ay4442jdlwxvcuik4topbp0_image-header_pEs_1735381769000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122101000 +0000" stop="20250122134000 +0000" channel="2crt7h9wu953htydodo77tous">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/850zhgfgdlceq0kxmk3pbe1es_image-header_pEs_1734286057000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hiroshima Dragonflies - Taoyuan Pauian Pilots</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre Hiroshima Dragonflies y Taoyuan Pauian Pilots.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250122121000 +0000" stop="20250122154000 +0000" channel="2rjgem32y4e5orchceu285qms">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esfz336ggysklmw4eqpp9aekr_image-header_pEs_1734285645000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Meralco Bolts - Ryukyu Golden Kings</title>
+    <desc lang="es">Vive el encuentro de East Asia Super League entre Meralco Bolts - Ryukyu Golden Kings.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
