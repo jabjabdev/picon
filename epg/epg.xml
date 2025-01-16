@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 16 12:30:48 2025">
+<tv date="Thu Jan 16 12:34:59 2025">
   <channel id="esp-e200475385c0ch20001">
     <display-name>esp-e200475385c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -3659,6 +3659,18 @@
   <channel id="asilvq9fycmtcjy20rl8ek26g">
     <display-name>asilvq9fycmtcjy20rl8ek26g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5b12tcbt57pxygpedcot68obt_image-header_pEs_1737025806000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7089e817-6089-4e2e-75e6-08dd0e37795d">
+    <display-name>7089e817-6089-4e2e-75e6-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/BasketballBundesligaThumbnailChemnitzHamburgmatchpng-144923.png"/>
+  </channel>
+  <channel id="0db64310-7e17-4490-75fc-08dd0e37795d">
+    <display-name>0db64310-7e17-4490-75fc-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/MINIATURA-LLpng-112354.png"/>
+  </channel>
+  <channel id="bee7bef0-4316-4ec6-9ff5-08dd0e03944b">
+    <display-name>bee7bef0-4316-4ec6-9ff5-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/MINIATURA-LLpng-112559.png"/>
   </channel>
   <programme start="20250113073000 +0000" stop="20250113103000 +0000" channel="esp-e200475385c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -9149,5 +9161,23 @@
     <title lang="es">Tien - Medvedev</title>
     <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250117182500 +0000" stop="20250117220000 +0000" channel="7089e817-6089-4e2e-75e6-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/BasketballBundesligaThumbnailChemnitzHamburgmatchpng-144923.png"/>
+    <title lang="es">Chemnitz - Hamburg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 17 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250119110000 +0000" stop="20250119140000 +0000" channel="0db64310-7e17-4490-75fc-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/MINIATURA-LLpng-112354.png"/>
+    <title lang="es">Las Palmas Atlético - Estrella CF</title>
+    <desc lang="es">Arrancamos la segunda vuelta en Tercera División con derbi canario entre el primer filial amarillo y el conjunto sureño.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250119131500 +0000" stop="20250119183000 +0000" channel="bee7bef0-4316-4ec6-9ff5-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/MINIATURA-LLpng-112559.png"/>
+    <title lang="es">Real Madrid CF - UD Las Palmas</title>
+    <desc lang="es">El equipo que entrena Diego Martínez visita un estadio en el que jamás ha ganado. Reto mayúsculo en el Santiago Bernabéu.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
