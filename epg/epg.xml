@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 17 00:30:11 2025">
+<tv date="Fri Jan 17 00:37:13 2025">
   <channel id="esp-e200475385c0ch20001">
     <display-name>esp-e200475385c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -3807,6 +3807,18 @@
   <channel id="hk5z7gvazdky2r89a8febkrc">
     <display-name>hk5z7gvazdky2r89a8febkrc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a32xuoapakvjt001sda5maree_image-header_pEs_1735382190000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200553577c0ch20062">
+    <display-name>esp-e200553577c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_6_200553577_20250116-201735.jpeg"/>
+  </channel>
+  <channel id="esp-e200553578c0ch20062">
+    <display-name>esp-e200553578c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_6_200553578_20250116-202221.jpeg"/>
+  </channel>
+  <channel id="esp-e200553579c0ch20062">
+    <display-name>esp-e200553579c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
   <programme start="20250113073000 +0000" stop="20250113103000 +0000" channel="esp-e200475385c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -9518,6 +9530,24 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a32xuoapakvjt001sda5maree_image-header_pEs_1735382190000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Semifinales - ES1</title>
     <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119023000 +0000" stop="20250119050000 +0000" channel="esp-e200553577c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_6_200553577_20250116-201735.jpeg"/>
+    <title lang="es">Open de Australia - Animación</title>
+    <desc lang="es">John Cain Arena</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119050000 +0000" stop="20250119073000 +0000" channel="esp-e200553578c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_6_200553578_20250116-202221.jpeg"/>
+    <title lang="es">Open de Australia - Animación</title>
+    <desc lang="es">John Cain Arena</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119073000 +0000" stop="20250119100000 +0000" channel="esp-e200553579c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
 </tv>
