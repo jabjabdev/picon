@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 17 18:37:37 2025">
+<tv date="Sat Jan 18 00:30:15 2025">
   <channel id="esp-e200475385c0ch20001">
     <display-name>esp-e200475385c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -4168,6 +4168,50 @@
     <display-name>esp-e200564318c0ch20060</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
+  <channel id="eoi5lh094mvjhh1s6i7nztuv7">
+    <display-name>eoi5lh094mvjhh1s6i7nztuv7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cc7eeq36ra6mux1ndg6vp1hkm_image-header_pEs_1736990804000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="fffgwethwgo9xiqlhdyhaiw7">
+    <display-name>fffgwethwgo9xiqlhdyhaiw7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e7ld8mf360skil0974xeohb9z_image-header_pEs_1735383671000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8pe17mmw2kmz7si5iqekiav7">
+    <display-name>8pe17mmw2kmz7si5iqekiav7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2evmilhhp0udjbs7ze0yafcfe_image-header_pEs_1735382731000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="di53107krwnp6gt02a4bczgb5">
+    <display-name>di53107krwnp6gt02a4bczgb5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3zsx3wzz8b2setze08qa9lk1t_image-header_pEs_1735382997000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4vtjt2qgniklkge61x71fc3nw">
+    <display-name>4vtjt2qgniklkge61x71fc3nw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9zkroyvckdkcoqi62gg66a3d9_image-header_pEs_1728028591000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4equ4f27pvw8mhoof3hv5jlsk">
+    <display-name>4equ4f27pvw8mhoof3hv5jlsk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/33udwavaa3xtnekkr83t8f4iv_image-header_pEs_1736983950000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="28v1gpzrlptr8u9n9jz3exv6c">
+    <display-name>28v1gpzrlptr8u9n9jz3exv6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/acon4ocxjbaxhmmqpqt4t0ozb_image-header_pEs_1734196913000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7b7v48iu09dddxtrjx1s54qvo">
+    <display-name>7b7v48iu09dddxtrjx1s54qvo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d686hjc50pfeox8m2el2nwast_image-header_pEs_1733502240000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cls8w05hp5n6dp6b35o52zwno">
+    <display-name>cls8w05hp5n6dp6b35o52zwno</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/742qx98zruj04fzm8mgqkuy65_image-header_pEs_1733502239000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cn93i3o27v7q6tt05hsznqj2s">
+    <display-name>cn93i3o27v7q6tt05hsznqj2s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awv6mxfmo4tw7paed4pt52ywv_image-header_pEs_1733502241000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="brxn6zbips4drnsu955mldx5g">
+    <display-name>brxn6zbips4drnsu955mldx5g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56umbqnpm2dqybxx33j38tohy_image-header_pEs_1736324679000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250113073000 +0000" stop="20250113103000 +0000" channel="esp-e200475385c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
@@ -5998,7 +6042,7 @@
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250117180000 +0000" stop="20250118000000 +0000" channel="esp-e200523304c0ch20092">
+  <programme start="20250117183000 +0000" stop="20250118000000 +0000" channel="esp-e200523304c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523304_20250105-075556.jpeg"/>
     <title lang="es">The American Express - Día 2</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
@@ -10419,5 +10463,71 @@
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino | Individuales | Cuartos de final | Australian Open</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123230000 +0000" stop="20250124010000 +0000" channel="eoi5lh094mvjhh1s6i7nztuv7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cc7eeq36ra6mux1ndg6vp1hkm_image-header_pEs_1736990804000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Reserve Cup - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250124010000 +0000" stop="20250124070000 +0000" channel="fffgwethwgo9xiqlhdyhaiw7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e7ld8mf360skil0974xeohb9z_image-header_pEs_1735383671000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final dobles mixto - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250124033000 +0000" stop="20250124093000 +0000" channel="8pe17mmw2kmz7si5iqekiav7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2evmilhhp0udjbs7ze0yafcfe_image-header_pEs_1735382731000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinales - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250124080000 +0000" stop="20250124140000 +0000" channel="di53107krwnp6gt02a4bczgb5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3zsx3wzz8b2setze08qa9lk1t_image-header_pEs_1735382997000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinales - ES1</title>
+    <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250124110000 +0000" stop="20250124133000 +0000" channel="4vtjt2qgniklkge61x71fc3nw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9zkroyvckdkcoqi62gg66a3d9_image-header_pEs_1728028591000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Erasmus FC</title>
+    <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250124152000 +0000" stop="20250124175000 +0000" channel="4equ4f27pvw8mhoof3hv5jlsk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/33udwavaa3xtnekkr83t8f4iv_image-header_pEs_1736983950000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eastern Flames - Al Qadsiah</title>
+    <desc lang="es">Vive el encuentro de Women’s Premier League entre Al Qadsiah y Eastern Flames.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250124193000 +0000" stop="20250124220000 +0000" channel="28v1gpzrlptr8u9n9jz3exv6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/acon4ocxjbaxhmmqpqt4t0ozb_image-header_pEs_1734196913000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolfsburg - Holstein Kiel</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Wolfsburg y Holstein Kiel.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250124193000 +0000" stop="20250124230000 +0000" channel="7b7v48iu09dddxtrjx1s54qvo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d686hjc50pfeox8m2el2nwast_image-header_pEs_1733502240000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester Basketball - Surrey 89ers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y Surrey 89ers.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250124193000 +0000" stop="20250124230000 +0000" channel="cls8w05hp5n6dp6b35o52zwno">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/742qx98zruj04fzm8mgqkuy65_image-header_pEs_1733502239000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sheffield Sharks - Cheshire Phoenix</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Sheffield Sharks y Cheshire Phoenix.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250124193000 +0000" stop="20250124230000 +0000" channel="cn93i3o27v7q6tt05hsznqj2s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awv6mxfmo4tw7paed4pt52ywv_image-header_pEs_1733502241000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Caledonia Gladiators - Leicester Riders</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators - Leicester Riders.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250124194500 +0000" stop="20250124221500 +0000" channel="brxn6zbips4drnsu955mldx5g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56umbqnpm2dqybxx33j38tohy_image-header_pEs_1736324679000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Cagliari</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Cagliari y Torino.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
