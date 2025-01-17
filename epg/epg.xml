@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 17 00:37:13 2025">
+<tv date="Fri Jan 17 12:30:12 2025">
   <channel id="esp-e200475385c0ch20001">
     <display-name>esp-e200475385c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -984,10 +984,6 @@
     <display-name>dmsvblve0t1xl3c03lm68wu87</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/84rdcn2uotxix54pssmoajpkt_image-header_pEs_1735306251000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="cktl9b4yyuwmlj3ba2x14bqoq">
-    <display-name>cktl9b4yyuwmlj3ba2x14bqoq</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10v1wdlo3hio51d2j7x587jvg3_image-header_pEs_1736531406000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="b5tlxzptoq70sglhd777mp2ru">
     <display-name>b5tlxzptoq70sglhd777mp2ru</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ux9zsepj04qs1q7ln7fz8ava_image-header_pEs_1728028591000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1179,10 +1175,6 @@
   <channel id="esp-e200500646c0ch20017">
     <display-name>esp-e200500646c0ch20017</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200500646_20241221-120537.jpeg"/>
-  </channel>
-  <channel id="esp-e200534735c0ch20020">
-    <display-name>esp-e200534735c0ch20020</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240403-132515.jpeg"/>
   </channel>
   <channel id="esp-e200502908c0ch20036">
     <display-name>esp-e200502908c0ch20036</display-name>
@@ -3684,10 +3676,6 @@
     <display-name>esp-e200550694c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_8_200550694_20250116-102835.jpeg"/>
   </channel>
-  <channel id="esp-e200482112c0ch20006">
-    <display-name>esp-e200482112c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_8_200482112_20250116-111431.jpeg"/>
-  </channel>
   <channel id="esp-e200482772c0ch20008">
     <display-name>esp-e200482772c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_8_200482772_20250116-110923.jpeg"/>
@@ -3819,6 +3807,10 @@
   <channel id="esp-e200553579c0ch20062">
     <display-name>esp-e200553579c0ch20062</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="7gi12uo4l97intozvmkyxrjt2">
+    <display-name>7gi12uo4l97intozvmkyxrjt2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1at7n5f2lz6m61se39rrfb0y74_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250113073000 +0000" stop="20250113103000 +0000" channel="esp-e200475385c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -5296,12 +5288,6 @@
     <desc lang="es">El Abierto de Australia es uno de los cuatro torneos Grand Slam en el circuito ATP junto con Roland Garros, Wimbledon y el Abierto de Estados Unidos. Disfruta en DAZN, a través de los canales de Eurosport, del primer 'grande' de la temporada y que junta a los mejores jugadores del mundo sobre canchas de superficie dura. ¡No te lo pierdas!</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117090000 +0000" stop="20250117150000 +0000" channel="cktl9b4yyuwmlj3ba2x14bqoq">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10v1wdlo3hio51d2j7x587jvg3_image-header_pEs_1736531406000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Decoded - Fernando Alonso</title>
-    <desc lang="es"/>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250117110000 +0000" stop="20250117133000 +0000" channel="b5tlxzptoq70sglhd777mp2ru">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ux9zsepj04qs1q7ln7fz8ava_image-header_pEs_1728028591000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Erasmus FC</title>
@@ -5512,19 +5498,19 @@
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117073000 +0000" stop="20250117100000 +0000" channel="esp-e200483724c0ch20010">
+  <programme start="20250117092128 +0000" stop="20250117115128 +0000" channel="esp-e200483724c0ch20010">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117073000 +0000" stop="20250117100000 +0000" channel="esp-e200484665c0ch20012">
+  <programme start="20250117074723 +0000" stop="20250117101723 +0000" channel="esp-e200484665c0ch20012">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117073000 +0000" stop="20250117100000 +0000" channel="esp-e200481416c0ch20004">
+  <programme start="20250117081911 +0000" stop="20250117104911 +0000" channel="esp-e200481416c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
@@ -5554,7 +5540,7 @@
     <desc lang="es">Slopestyle | Masculino y Femenino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250117092000 +0000" stop="20250117110000 +0000" channel="esp-e200500699c0ch20016">
+  <programme start="20250117092500 +0000" stop="20250117110019 +0000" channel="esp-e200500699c0ch20016">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_2_200500699_20250105-085845.jpeg"/>
     <title lang="es">Copa del Mundo - Reiteralm</title>
     <desc lang="es">Esquícross | Día 2 | Masculino y Femenino</desc>
@@ -5566,7 +5552,7 @@
     <desc lang="es">Copa del Mundo</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250117103000 +0000" stop="20250117130000 +0000" channel="esp-e200475414c0ch20001">
+  <programme start="20250117104820 +0000" stop="20250117131820 +0000" channel="esp-e200475414c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
@@ -5588,12 +5574,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200500646_20241221-120537.jpeg"/>
     <title lang="es">Copa del Mundo - Wengen</title>
     <desc lang="es">Super-G | Masculino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250117113000 +0000" stop="20250117133000 +0000" channel="esp-e200534735c0ch20020">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240403-132515.jpeg"/>
-    <title lang="es">Wengen - Masculino Descenso</title>
-    <desc lang="es">Copa del Mundo</desc>
     <category lang="es">Esquí</category>
   </programme>
   <programme start="20250117120000 +0000" stop="20250117133000 +0000" channel="esp-e200502908c0ch20036">
@@ -8782,7 +8762,7 @@
     <desc lang="es">Margaret Court Arena</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117103000 +0000" stop="20250117130000 +0000" channel="esp-e200550593c0ch20060">
+  <programme start="20250117104805 +0000" stop="20250117131805 +0000" channel="esp-e200550593c0ch20060">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20060_6_200550593_20250115-201820.jpeg"/>
     <title lang="es">Open de Australia - Animación</title>
     <desc lang="es">Rod Laver Arena</desc>
@@ -9346,12 +9326,6 @@
     <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250117100000 +0000" stop="20250117120000 +0000" channel="esp-e200482112c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_8_200482112_20250116-111431.jpeg"/>
-    <title lang="es">I. Khromacheva / J. Withrow - D. Saville / L. Saville</title>
-    <desc lang="es">Open de Australia | Día 6 - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20250117100000 +0000" stop="20250117120000 +0000" channel="esp-e200482772c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_8_200482772_20250116-110923.jpeg"/>
     <title lang="es">D. Krawczyk / N. Skupski - T. Babos / M. Arevalo</title>
@@ -9549,5 +9523,11 @@
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121220000 +0000" stop="20250122040000 +0000" channel="7gi12uo4l97intozvmkyxrjt2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1at7n5f2lz6m61se39rrfb0y74_image-header_pEs_1737041299000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 9</title>
+    <desc lang="es">Join Ariel Helwani and Ade Oladipo on DAZN’s latest weekly boxing show, airing every Tuesday, the duo dive deep into the biggest stories surrounding boxing and are joined every week by a special guest.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
