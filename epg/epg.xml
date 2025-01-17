@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jan 18 00:30:15 2025">
+<tv date="Sat Jan 18 00:37:22 2025">
   <channel id="esp-e200475385c0ch20001">
     <display-name>esp-e200475385c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -4211,6 +4211,38 @@
   <channel id="brxn6zbips4drnsu955mldx5g">
     <display-name>brxn6zbips4drnsu955mldx5g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56umbqnpm2dqybxx33j38tohy_image-header_pEs_1736324679000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200566941c0ch20061">
+    <display-name>esp-e200566941c0ch20061</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566937c0ch20060">
+    <display-name>esp-e200566937c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566944c0ch20061">
+    <display-name>esp-e200566944c0ch20061</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566938c0ch20060">
+    <display-name>esp-e200566938c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566945c0ch20061">
+    <display-name>esp-e200566945c0ch20061</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566946c0ch20061">
+    <display-name>esp-e200566946c0ch20061</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566939c0ch20060">
+    <display-name>esp-e200566939c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200566943c0ch20060">
+    <display-name>esp-e200566943c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
   <programme start="20250113073000 +0000" stop="20250113103000 +0000" channel="esp-e200475385c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -10529,5 +10561,53 @@
     <title lang="es">Torino - Cagliari</title>
     <desc lang="es">Vive el encuentro de Serie A entre Cagliari y Torino.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250122000000 +0000" stop="20250122023000 +0000" channel="esp-e200566941c0ch20061">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122003000 +0000" stop="20250122030000 +0000" channel="esp-e200566937c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Femenino | Individuales | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122023000 +0000" stop="20250122050000 +0000" channel="esp-e200566944c0ch20061">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122030000 +0000" stop="20250122053000 +0000" channel="esp-e200566938c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Masculino | Individuales | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122050000 +0000" stop="20250122073000 +0000" channel="esp-e200566945c0ch20061">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122073000 +0000" stop="20250122100000 +0000" channel="esp-e200566946c0ch20061">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122080000 +0000" stop="20250122103000 +0000" channel="esp-e200566939c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Femenino | Individuales | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122103000 +0000" stop="20250122130000 +0000" channel="esp-e200566943c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Masculino | Individuales | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
