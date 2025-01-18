@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jan 18 12:37:16 2025">
+<tv date="Sat Jan 18 18:37:20 2025">
   <channel id="esp-e200504263c0ch20020">
     <display-name>esp-e200504263c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504263_20241221-104157.jpeg"/>
@@ -3856,6 +3856,38 @@
     <display-name>csgzna7xilhy7og1krp5bocus</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d975dz39aiho66jtlbwrwwuq5_image-header_pEs_1737027283000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200567118c0ch20013">
+    <display-name>esp-e200567118c0ch20013</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_4_200567118_20250118-110615.jpeg"/>
+  </channel>
+  <channel id="esp-e200567097c0ch20009">
+    <display-name>esp-e200567097c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200567097_20250118-103648.jpeg"/>
+  </channel>
+  <channel id="esp-e200567123c0ch20010">
+    <display-name>esp-e200567123c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200567123_20250118-105107.jpeg"/>
+  </channel>
+  <channel id="esp-e200567148c0ch20006">
+    <display-name>esp-e200567148c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_8_200567148_20250118-111208.jpeg"/>
+  </channel>
+  <channel id="esp-e200567040c0ch20005">
+    <display-name>esp-e200567040c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200567040_20250118-113507.jpeg"/>
+  </channel>
+  <channel id="esp-e200567138c0ch20011">
+    <display-name>esp-e200567138c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_4_200567138_20250118-144535.jpeg"/>
+  </channel>
+  <channel id="esp-e200567133c0ch20012">
+    <display-name>esp-e200567133c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_4_200567133_20250118-144812.jpeg"/>
+  </channel>
+  <channel id="esp-e200567153c0ch20037">
+    <display-name>esp-e200567153c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_5_200567153_20250118-122538.jpeg"/>
+  </channel>
   <programme start="20250117093000 +0000" stop="20250117110000 +0000" channel="esp-e200504263c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504263_20241221-104157.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
@@ -5482,7 +5514,7 @@
     <desc lang="es">Descenso | Masculino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250118120000 +0000" stop="20250118140000 +0000" channel="esp-e200504301c0ch20020">
+  <programme start="20250118123000 +0000" stop="20250118140000 +0000" channel="esp-e200504301c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504301_20241221-110823.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Eslalon Gigante | Femenino | 2ª manga</desc>
@@ -9639,5 +9671,53 @@
     <title lang="es">Hamburger SV - Köln</title>
     <desc lang="es">Vive el encuentro de 2. Bundesliga entre Hamburger SV y Köln.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567118c0ch20013">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_4_200567118_20250118-110615.jpeg"/>
+    <title lang="es">N. Johnston / B. Willwerth - H. Gokpinar / I. Iutkin</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567097c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200567097_20250118-103648.jpeg"/>
+    <title lang="es">V. Barros / T. Kostovic - B. Black / M. Xu</title>
+    <desc lang="es">Femenino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567123c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200567123_20250118-105107.jpeg"/>
+    <title lang="es">A. De Marchi / W. Rejchtman Vinciguerra - P. Albuquerque Dietrich / C. Doig</title>
+    <desc lang="es">Masculino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567148c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_8_200567148_20250118-111208.jpeg"/>
+    <title lang="es">D. Dilek / B. Zeltina - E. Jones / H. Klugman</title>
+    <desc lang="es">Open de Australia | Día 8 - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567040c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200567040_20250118-113507.jpeg"/>
+    <title lang="es">S. Errani / A. Vavassori - O. Nicholls / H. Patten</title>
+    <desc lang="es">Mixto | Dobles | 2ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567138c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_4_200567138_20250118-144535.jpeg"/>
+    <title lang="es">A. Kumru / N. Leme Da Silva - C. An / S. Lam</title>
+    <desc lang="es">Femenino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119100000 +0000" stop="20250119123000 +0000" channel="esp-e200567133c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_4_200567133_20250118-144812.jpeg"/>
+    <title lang="es">R. Alame / R. Alame - M. Phanthala / R. Zhang</title>
+    <desc lang="es">Femenino | Dobles | 1ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250119110000 +0000" stop="20250119133000 +0000" channel="esp-e200567153c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_5_200567153_20250118-122538.jpeg"/>
+    <title lang="es">A. Goransson / S. Verbeek - L. Saville / L. Tu</title>
+    <desc lang="es">Masculino | Dobles | 3ª ronda | Australian Open</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
