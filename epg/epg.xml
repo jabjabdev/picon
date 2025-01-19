@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jan 19 12:37:18 2025">
+<tv date="Sun Jan 19 18:37:18 2025">
   <channel id="esp-e200504263c0ch20020">
     <display-name>esp-e200504263c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504263_20241221-104157.jpeg"/>
@@ -1204,10 +1204,6 @@
     <display-name>esp-e200504299c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504299_20241221-111700.jpeg"/>
   </channel>
-  <channel id="esp-e200503282c0ch20019">
-    <display-name>esp-e200503282c0ch20019</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200503282_20250105-192226.jpeg"/>
-  </channel>
   <channel id="esp-e200500657c0ch20017">
     <display-name>esp-e200500657c0ch20017</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200500657_20241221-124011.jpeg"/>
@@ -1255,10 +1251,6 @@
   <channel id="esp-e200504693c0ch20021">
     <display-name>esp-e200504693c0ch20021</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_6_200504693_20250105-184952.jpeg"/>
-  </channel>
-  <channel id="esp-e200454706c0ch20026">
-    <display-name>esp-e200454706c0ch20026</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200454706_20250107-144041.jpeg"/>
   </channel>
   <channel id="esp-e200454782c0ch20027">
     <display-name>esp-e200454782c0ch20027</display-name>
@@ -1415,10 +1407,6 @@
   <channel id="0b5698c7-7e14-4244-5f92-08dd0e033b96">
     <display-name>0b5698c7-7e14-4244-5f92-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/LigaNacionalBasquetbolThumbnailSanLorenzoLaUniounFSAmatchpng-111448.png"/>
-  </channel>
-  <channel id="6qkn5hix5g6py5d6up82105qs">
-    <display-name>6qkn5hix5g6py5d6up82105qs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5l8vahyn5ln4jgp0x3k64b54m_image-header_pEs_1736424058000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1gnl9g1i103lt3b9pqoxw1s2">
     <display-name>1gnl9g1i103lt3b9pqoxw1s2</display-name>
@@ -5586,12 +5574,6 @@
     <desc lang="es">Eslalon Gigante | Masculino | 2ª manga</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250119120000 +0000" stop="20250119133000 +0000" channel="esp-e200503282c0ch20019">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200503282_20250105-192226.jpeg"/>
-    <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
-    <desc lang="es">Big Air | Finales | Masculino y Femenino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20250119120000 +0000" stop="20250119131500 +0000" channel="esp-e200500657c0ch20017">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200500657_20241221-124011.jpeg"/>
     <title lang="es">Copa del Mundo - Wengen</title>
@@ -5664,12 +5646,6 @@
     <desc lang="es">Sprint | Masculino</desc>
     <category lang="es">Esquí de fondo</category>
   </programme>
-  <programme start="20250119143000 +0000" stop="20250119150000 +0000" channel="esp-e200454706c0ch20026">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200454706_20250107-144041.jpeg"/>
-    <title lang="es">Copa del Mundo - Schonach</title>
-    <desc lang="es">Compact 5 km | Femenino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20250119143500 +0000" stop="20250119154500 +0000" channel="esp-e200454782c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200454782_20250105-184800.jpeg"/>
     <title lang="es">Copa del Mundo - Les Rousses</title>
@@ -5688,7 +5664,7 @@
     <desc lang="es">Gala</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20250119163000 +0000" stop="20250120000000 +0000" channel="esp-e200523311c0ch20091">
+  <programme start="20250119164500 +0000" stop="20250120000000 +0000" channel="esp-e200523311c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523311_20250106-124320.jpeg"/>
     <title lang="es">The American Express - Día 4</title>
     <desc lang="es">PGA Tour | Señal Alternativa / 'Featured Group'</desc>
@@ -5700,19 +5676,19 @@
     <desc lang="es">Korn Ferry Tour (PGA)</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250119171500 +0000" stop="20250120000000 +0000" channel="esp-e200523313c0ch20093">
+  <programme start="20250119174500 +0000" stop="20250120000000 +0000" channel="esp-e200523313c0ch20093">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_0_200523313_20250106-123933.jpeg"/>
     <title lang="es">The American Express - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250119171500 +0000" stop="20250120000000 +0000" channel="esp-e200523314c0ch20094">
+  <programme start="20250119173000 +0000" stop="20250120000000 +0000" channel="esp-e200523314c0ch20094">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20094_0_200523314_20250106-123620.jpeg"/>
     <title lang="es">The American Express - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250119173000 +0000" stop="20250120000000 +0000" channel="esp-e200523312c0ch20092">
+  <programme start="20250119174500 +0000" stop="20250120000000 +0000" channel="esp-e200523312c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523312_20250106-125409.jpeg"/>
     <title lang="es">The American Express - Día 4</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
@@ -5902,12 +5878,6 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/13/LigaNacionalBasquetbolThumbnailSanLorenzoLaUniounFSAmatchpng-111448.png"/>
     <title lang="es">San Lorenzo - La Unión FSA</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250119150000 +0000" stop="20250119183000 +0000" channel="6qkn5hix5g6py5d6up82105qs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5l8vahyn5ln4jgp0x3k64b54m_image-header_pEs_1736424058000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
-    <desc lang="es">Vive el encuentro de SLB Cup entre Bristol Flyers - Caledonia Gladiators.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250119184500 +0000" stop="20250119204500 +0000" channel="1gnl9g1i103lt3b9pqoxw1s2">
