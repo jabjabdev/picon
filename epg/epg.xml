@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 20 12:30:13 2025">
+<tv date="Mon Jan 20 12:37:06 2025">
   <channel id="esp-e200504263c0ch20020">
     <display-name>esp-e200504263c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504263_20241221-104157.jpeg"/>
@@ -3931,6 +3931,14 @@
   <channel id="60is9qy3l15zvbmso10xfgs9g">
     <display-name>60is9qy3l15zvbmso10xfgs9g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vq4erafgezp512j7r8mjjezhk_image-header_pEs_1737355428000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200567298c0ch20004">
+    <display-name>esp-e200567298c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_11_200567298_20250120-091459.jpeg"/>
+  </channel>
+  <channel id="esp-e200567291c0ch20002">
+    <display-name>esp-e200567291c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_11_200567291_20250120-091734.jpeg"/>
   </channel>
   <programme start="20250117093000 +0000" stop="20250117110000 +0000" channel="esp-e200504263c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504263_20241221-104157.jpeg"/>
@@ -9829,5 +9837,17 @@
     <title lang="es">Commanders @ Eagles</title>
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250121100000 +0000" stop="20250121123000 +0000" channel="esp-e200567298c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_11_200567298_20250120-091459.jpeg"/>
+    <title lang="es">- S. Zhang / R. Bopanna</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250121100000 +0000" stop="20250121123000 +0000" channel="esp-e200567291c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_11_200567291_20250120-091734.jpeg"/>
+    <title lang="es">E. Perez / K. Krawietz - K. Birrell / J. Smith</title>
+    <desc lang="es">|  |  | Australian Open</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
