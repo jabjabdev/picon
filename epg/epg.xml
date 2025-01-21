@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 21 18:34:59 2025">
+<tv date="Tue Jan 21 18:37:25 2025">
   <channel id="esp-e200502836c0ch20035">
     <display-name>esp-e200502836c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200502836_20241224-100022.jpeg"/>
@@ -3471,6 +3471,50 @@
   <channel id="a1d1d807-0769-4abc-5fcc-08dd0e033b96">
     <display-name>a1d1d807-0769-4abc-5fcc-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/MINIATURA-LLpng-130400.png"/>
+  </channel>
+  <channel id="esp-e200569362c0ch20006">
+    <display-name>esp-e200569362c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_4_200569362_20250121-155017.jpeg"/>
+  </channel>
+  <channel id="esp-e200568871c0ch20002">
+    <display-name>esp-e200568871c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_4_200568871_20250121-123347.jpeg"/>
+  </channel>
+  <channel id="esp-e200569327c0ch20004">
+    <display-name>esp-e200569327c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200569327_20250121-154617.jpeg"/>
+  </channel>
+  <channel id="esp-e200569658c0ch20008">
+    <display-name>esp-e200569658c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_8_200569658_20250121-161824.jpeg"/>
+  </channel>
+  <channel id="esp-e200569368c0ch20007">
+    <display-name>esp-e200569368c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200569368_20250121-144020.jpeg"/>
+  </channel>
+  <channel id="esp-e200569356c0ch20005">
+    <display-name>esp-e200569356c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200569356_20250121-143637.jpeg"/>
+  </channel>
+  <channel id="esp-e200569384c0ch20015">
+    <display-name>esp-e200569384c0ch20015</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_8_200569384_20250121-161448.jpeg"/>
+  </channel>
+  <channel id="esp-e200569606c0ch20010">
+    <display-name>esp-e200569606c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_8_200569606_20250121-160725.jpeg"/>
+  </channel>
+  <channel id="esp-e200569619c0ch20009">
+    <display-name>esp-e200569619c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200569619_20250121-155904.jpeg"/>
+  </channel>
+  <channel id="esp-e200569389c0ch20012">
+    <display-name>esp-e200569389c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_8_200569389_20250121-160856.jpeg"/>
+  </channel>
+  <channel id="esp-e200568613c0ch20001">
+    <display-name>esp-e200568613c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200568613_20250121-113551.jpeg"/>
   </channel>
   <programme start="20250117133000 +0000" stop="20250117184500 +0000" channel="esp-e200502836c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200502836_20241224-100022.jpeg"/>
@@ -8679,5 +8723,71 @@
     <title lang="es">Juvenil A - Atlético Paso</title>
     <desc lang="es">El equipo que entrena Héctor Nuez recibe a un conjunto muy peligroso en el Estadio de Gran Canaria.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200569362c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_4_200569362_20250121-155017.jpeg"/>
+    <title lang="es">Y. Wang / K. Yodpetch - E. Jones / H. Klugman</title>
+    <desc lang="es">Femenino | Dobles | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200568871c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_4_200568871_20250121-123347.jpeg"/>
+    <title lang="es">O. Nicholls / H. Patten - K. Birrell / J. Smith</title>
+    <desc lang="es">Mixtos | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200569327c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200569327_20250121-154617.jpeg"/>
+    <title lang="es">M. Cabrillana / S. Takamuro - Y. Kamiji / L. Shuker</title>
+    <desc lang="es">Femenino | WHEELCHAIR DOUBLE | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200569658c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_8_200569658_20250121-161824.jpeg"/>
+    <title lang="es">J. Zhenxu / A. Parker - T. Egberink / T. Oda</title>
+    <desc lang="es">Masculino | Silla de ruedas dobles | Cuartos de final | Open de Australia</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200569368c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200569368_20250121-144020.jpeg"/>
+    <title lang="es">X. Li / Z. Wang - C. Fairbank / M. Venter</title>
+    <desc lang="es">Femenino | Dobles (Silla de ruedas) | Cuartos de final | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122123000 +0000" channel="esp-e200569356c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200569356_20250121-143637.jpeg"/>
+    <title lang="es">O. Bonding / J. Leach - J. Mackenzie / N. McDonald</title>
+    <desc lang="es">Masculino | Junior Dobles | Cuartos de final | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122120000 +0000" channel="esp-e200569384c0ch20015">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_8_200569384_20250121-161448.jpeg"/>
+    <title lang="es">W. Sonobe / M. Stojsavljevic - A. Kovackova / J. Kovackova</title>
+    <desc lang="es">Open de Australia | Dobles Junior femenino | Cuartos de final</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122120000 +0000" channel="esp-e200569606c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_8_200569606_20250121-160725.jpeg"/>
+    <title lang="es">A. Bernal / L. De Greef - M. Tanaka / Z. Zhu</title>
+    <desc lang="es">Femenino | WHEELCHAIR DOUBLE | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122120000 +0000" channel="esp-e200569619c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200569619_20250121-155904.jpeg"/>
+    <title lang="es">J. Griffioen / A. Van Koot - S. Funamizu / K. Montjane</title>
+    <desc lang="es">Femenino | WHEELCHAIR DOUBLE | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122100000 +0000" stop="20250122120000 +0000" channel="esp-e200569389c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_8_200569389_20250121-160856.jpeg"/>
+    <title lang="es">J. Stusek / L. Vujovic - T. Krejcova / V. Valdmannova</title>
+    <desc lang="es">Femenino | Dobles | Cuartos de final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250122133000 +0000" stop="20250122153000 +0000" channel="esp-e200568613c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200568613_20250121-113551.jpeg"/>
+    <title lang="es">L. Hewitt / M. Philippoussis - M. Baghdatis / J. Blake</title>
+    <desc lang="es">Masculino | Dobles (Leyendas) | 1ª Ronda | Exhibición - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
