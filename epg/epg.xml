@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 21 06:36:59 2025">
+<tv date="Tue Jan 21 12:37:08 2025">
   <channel id="esp-e200502836c0ch20035">
     <display-name>esp-e200502836c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200502836_20241224-100022.jpeg"/>
@@ -1380,10 +1380,6 @@
     <display-name>esp-e200482589c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
-  <channel id="esp-e200485741c0ch20016">
-    <display-name>esp-e200485741c0ch20016</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
   <channel id="esp-e200485563c0ch20015">
     <display-name>esp-e200485563c0ch20015</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
@@ -1422,10 +1418,6 @@
   </channel>
   <channel id="esp-e200485343c0ch20014">
     <display-name>esp-e200485343c0ch20014</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200484221c0ch20011">
-    <display-name>esp-e200484221c0ch20011</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
   <channel id="esp-e200503161c0ch20038">
@@ -2342,10 +2334,6 @@
   </channel>
   <channel id="esp-e200564313c0ch20060">
     <display-name>esp-e200564313c0ch20060</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200564321c0ch20061">
-    <display-name>esp-e200564321c0ch20061</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
   <channel id="esp-e200564314c0ch20060">
@@ -5478,7 +5466,7 @@
     <desc lang="es">Open de Australia | Día 10 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250121070000 +0000" stop="20250121093000 +0000" channel="esp-e200502935c0ch20035">
+  <programme start="20250121150000 +0000" stop="20250121173000 +0000" channel="esp-e200502935c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_6_200502935_20250113-145527.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Semifinal 1 | Femenino</desc>
@@ -5497,12 +5485,6 @@
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250121073000 +0000" stop="20250121100000 +0000" channel="esp-e200482589c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">Open de Australia | Día 10 - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250121073000 +0000" stop="20250121100000 +0000" channel="esp-e200485741c0ch20016">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Open de Australia | Día 10 - Sin anuncios</desc>
@@ -5568,19 +5550,13 @@
     <desc lang="es">Open de Australia | Día 10 - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250121073000 +0000" stop="20250121100000 +0000" channel="esp-e200484221c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">Open de Australia | Día 10 - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20250121083000 +0000" stop="20250121103000 +0000" channel="esp-e200503161c0ch20038">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20038_6_200503161_20241231-155658.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Relevos 4 x 7,5km | Femenino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250121083000 +0000" stop="20250121100000 +0000" channel="esp-e200504302c0ch20020">
+  <programme start="20250121093000 +0000" stop="20250121110000 +0000" channel="esp-e200504302c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200504302_20241221-112255.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Eslalon | Femenino | 1ª manga</desc>
@@ -5610,13 +5586,13 @@
     <desc lang="es">Masculino | Individuales | Cuartos de final | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250121103000 +0000" stop="20250121120000 +0000" channel="esp-e200503162c0ch20038">
+  <programme start="20250121103126 +0000" stop="20250121120126 +0000" channel="esp-e200503162c0ch20038">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20038_6_200503162_20241231-155836.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Relevos 4 x 7,5 km | Masculino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250121110000 +0000" stop="20250121133000 +0000" channel="esp-e200502936c0ch20035">
+  <programme start="20250121190000 +0000" stop="20250121213000 +0000" channel="esp-e200502936c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_6_200502936_20250113-145706.jpeg"/>
     <title lang="es">Juegos Mundiales Universitarios de Invierno - Turín</title>
     <desc lang="es">Semifinal 2 | Femenino</desc>
@@ -6946,12 +6922,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino | Individuales | Cuartos de final | Australian Open</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250121073000 +0000" stop="20250121100000 +0000" channel="esp-e200564321c0ch20061">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250121080000 +0000" stop="20250121103000 +0000" channel="esp-e200564314c0ch20060">
