@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 22 18:30:20 2025">
+<tv date="Wed Jan 22 18:36:58 2025">
   <channel id="esp-e200502835c0ch20035">
     <display-name>esp-e200502835c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200502835_20241224-100903.jpeg"/>
@@ -3095,6 +3095,38 @@
   <channel id="d611qpqdrbmi2l8mix0gkg42m">
     <display-name>d611qpqdrbmi2l8mix0gkg42m</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1splzq6iqzug71pfpjl2s55mjc_image-header_pEs_1737557944000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200475865c0ch20021">
+    <display-name>esp-e200475865c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200475865_20250122-162159.jpeg"/>
+  </channel>
+  <channel id="esp-e200475866c0ch20021">
+    <display-name>esp-e200475866c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_12_200475866_20250122-091429.jpeg"/>
+  </channel>
+  <channel id="esp-e200569821c0ch20021">
+    <display-name>esp-e200569821c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200569821_20250122-162803.jpeg"/>
+  </channel>
+  <channel id="esp-e200569892c0ch20009">
+    <display-name>esp-e200569892c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_3_200569892_20250122-132251.jpeg"/>
+  </channel>
+  <channel id="esp-e200569897c0ch20010">
+    <display-name>esp-e200569897c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200569897_20250122-113213.jpeg"/>
+  </channel>
+  <channel id="esp-e200569828c0ch20004">
+    <display-name>esp-e200569828c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_8_200569828_20250122-100236.jpeg"/>
+  </channel>
+  <channel id="esp-e200569844c0ch20008">
+    <display-name>esp-e200569844c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_3_200569844_20250122-131827.jpeg"/>
+  </channel>
+  <channel id="esp-e200569839c0ch20007">
+    <display-name>esp-e200569839c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200569839_20250122-112828.jpeg"/>
   </channel>
   <programme start="20250118153000 +0000" stop="20250118192000 +0000" channel="esp-e200502835c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200502835_20241224-100903.jpeg"/>
@@ -7739,5 +7771,53 @@
     <title lang="es">Pacheco vs. Nelson - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250123003000 +0000" stop="20250123023000 +0000" channel="esp-e200475865c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200475865_20250122-162159.jpeg"/>
+    <title lang="es">A. Göransson / S. Verbeek - S. Bolelli / A. Vavassori</title>
+    <desc lang="es">Masculino | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123023000 +0000" stop="20250123043000 +0000" channel="esp-e200475866c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_12_200475866_20250122-091429.jpeg"/>
+    <title lang="es">M. Philippoussis / P. Rafter - M. Baghdatis / T. Haas</title>
+    <desc lang="es">Masculino | Dobles (AO Legends) | 1ª Ronda | Exhibición - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123043000 +0000" stop="20250123063000 +0000" channel="esp-e200569821c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200569821_20250122-162803.jpeg"/>
+    <title lang="es">K. Krawietz / T. Pütz - H. Heliövaara / H. Patten</title>
+    <desc lang="es">Masculino | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569892c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_3_200569892_20250122-132251.jpeg"/>
+    <title lang="es">A. De Marchi / W. Rejchtman Vinciguerra - M. Exsted / J. Kumstat</title>
+    <desc lang="es">Masculino | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569897c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200569897_20250122-113213.jpeg"/>
+    <title lang="es">Charlie Cooper - Benjamin Wenzel</title>
+    <desc lang="es">Masculino | Junior Individual (Silla de ruedas) | Round Robin | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569828c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_8_200569828_20250122-100236.jpeg"/>
+    <title lang="es">H. Davidson / R. Shaw - A. Lapthorne / S. Schroder</title>
+    <desc lang="es">Masculino | Dobles (Silla de ruedas Quad) | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569844c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_3_200569844_20250122-131827.jpeg"/>
+    <title lang="es">X. Li / Z. Wang - Y. Kamiji / L. Shuker</title>
+    <desc lang="es">Femenino | Dobles (Silla de ruedas) | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569839c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200569839_20250122-112828.jpeg"/>
+    <title lang="es">A. Kovackova / J. Kovackova - A. Penickova / K. Penickova</title>
+    <desc lang="es">Femenino | Junior Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
