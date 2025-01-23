@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 23 06:36:53 2025">
+<tv date="Thu Jan 23 12:36:48 2025">
   <channel id="esp-e200523311c0ch20091">
     <display-name>esp-e200523311c0ch20091</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523311_20250106-124320.jpeg"/>
@@ -2488,10 +2488,6 @@
     <display-name>esp-e200569821c0ch20021</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_3_200569821_20250122-162803.jpeg"/>
   </channel>
-  <channel id="esp-e200569892c0ch20009">
-    <display-name>esp-e200569892c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_3_200569892_20250122-132251.jpeg"/>
-  </channel>
   <channel id="esp-e200569897c0ch20010">
     <display-name>esp-e200569897c0ch20010</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200569897_20250122-113213.jpeg"/>
@@ -2599,6 +2595,14 @@
   <channel id="esp-e200524260c0ch20003">
     <display-name>esp-e200524260c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200524260_20250101-211042.jpeg"/>
+  </channel>
+  <channel id="esp-e200570857c0ch20004">
+    <display-name>esp-e200570857c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200570857_20250123-095025.jpeg"/>
+  </channel>
+  <channel id="esp-e200570945c0ch20005">
+    <display-name>esp-e200570945c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_8_200570945_20250123-095317.jpeg"/>
   </channel>
   <programme start="20250119164500 +0000" stop="20250120000000 +0000" channel="esp-e200523311c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523311_20250106-124320.jpeg"/>
@@ -6332,12 +6336,6 @@
     <desc lang="es">Masculino | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569892c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_3_200569892_20250122-132251.jpeg"/>
-    <title lang="es">A. De Marchi / W. Rejchtman Vinciguerra - M. Exsted / J. Kumstat</title>
-    <desc lang="es">Masculino | Dobles | Semifinales | Open de Australia - Sin anuncios</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20250123073000 +0000" stop="20250123100000 +0000" channel="esp-e200569897c0ch20010">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_4_200569897_20250122-113213.jpeg"/>
     <title lang="es">Charlie Cooper - Benjamin Wenzel</title>
@@ -6499,5 +6497,17 @@
     <title lang="es">Copa del Mundo - Schladming</title>
     <desc lang="es">Eslalon | Masculino | 2ª manga</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250124083000 +0000" stop="20250124110000 +0000" channel="esp-e200570857c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200570857_20250123-095025.jpeg"/>
+    <title lang="es">M. Tanaka / Z. Zhu - X. Li / Z. Wang</title>
+    <desc lang="es">Femenino | WHEELCHAIR DOUBLE | Final | Australian Open</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250124090000 +0000" stop="20250124113000 +0000" channel="esp-e200570945c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_8_200570945_20250123-095317.jpeg"/>
+    <title lang="es">A. Penickova / K. Penickova - E. Jones / H. Klugman</title>
+    <desc lang="es">Femenino | Dobles | Final | Australian Open</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
