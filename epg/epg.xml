@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 23 18:30:17 2025">
+<tv date="Thu Jan 23 18:34:57 2025">
   <channel id="esp-e200523311c0ch20091">
     <display-name>esp-e200523311c0ch20091</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523311_20250106-124320.jpeg"/>
@@ -2607,6 +2607,22 @@
   <channel id="c1p47syoy7mek50dazwfzszpy">
     <display-name>c1p47syoy7mek50dazwfzszpy</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/l1jtc5ckmowe1wdp4o471fccx_image-header_pEs_1732023554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f7f2e22a-f362-4801-3f43-08dd0e0201c6">
+    <display-name>f7f2e22a-f362-4801-3f43-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/CTO-ESP-CESAjpg-123855.jpg"/>
+  </channel>
+  <channel id="01db495b-1acd-418e-667b-08dd1e646927">
+    <display-name>01db495b-1acd-418e-667b-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/CTO-ESP-CTO-A-TRAVES-IINDjpg-123918.jpg"/>
+  </channel>
+  <channel id="dd3655bb-dffc-4859-3f36-08dd0e0201c6">
+    <display-name>dd3655bb-dffc-4859-3f36-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/LigaNacionalBasquetbolThumbnailLaZaurateBasketFerromatchpng-153821.png"/>
+  </channel>
+  <channel id="88d859c4-90b1-4381-ff64-08dd0e324662">
+    <display-name>88d859c4-90b1-4381-ff64-08dd0e324662</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/23/IsuzuUTEALeagueThumbnailWesternUnitedCentralCoastMarinersmatchpng-163643.png"/>
   </channel>
   <programme start="20250119164500 +0000" stop="20250120000000 +0000" channel="esp-e200523311c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523311_20250106-124320.jpeg"/>
@@ -6519,5 +6535,30 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 10</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250125090000 +0000" stop="20250125124500 +0000" channel="f7f2e22a-f362-4801-3f43-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/CTO-ESP-CESAjpg-123855.jpg"/>
+    <title lang="es">Cto. de España CESA Cross Sub-16 y Sub-18</title>
+    <desc lang="es">El Parque del Cerro de los Ángeles de Getafe (Madrid) acoge el Campeonato de España Sub-16, Sub-18, Adaptado e
+Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250126080500 +0000" stop="20250126141500 +0000" channel="01db495b-1acd-418e-667b-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/CTO-ESP-CTO-A-TRAVES-IINDjpg-123918.jpg"/>
+    <title lang="es">Cto. de España de Campo a Través Individual</title>
+    <desc lang="es">El Parque del Cerro de los Ángeles de Getafe (Madrid) acoge el Campeonato de España de Campo a Través Individual y por Federaciones Autonómicas de atletismo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250126225500 +0000" stop="20250127023000 +0000" channel="dd3655bb-dffc-4859-3f36-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/LigaNacionalBasquetbolThumbnailLaZaurateBasketFerromatchpng-153821.png"/>
+    <title lang="es">Zárate Basket - Ferro</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250129072500 +0000" stop="20250129100000 +0000" channel="88d859c4-90b1-4381-ff64-08dd0e324662">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/23/IsuzuUTEALeagueThumbnailWesternUnitedCentralCoastMarinersmatchpng-163643.png"/>
+    <title lang="es">Western United - Central Coast Mariners</title>
+    <desc lang="es">El partido correspondiente a la Jornada 14 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
