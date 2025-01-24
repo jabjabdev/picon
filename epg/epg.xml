@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 24 12:30:34 2025">
+<tv date="Fri Jan 24 12:34:59 2025">
   <channel id="esp-e200487853c0ch20096">
     <display-name>esp-e200487853c0ch20096</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
@@ -2267,6 +2267,34 @@
   <channel id="d06ifhux40elcglwix40b72nf">
     <display-name>d06ifhux40elcglwix40b72nf</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j1chcfnqe2hg0age1qipdjo3_image-header_pEs_1737562956000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="16788519-35f1-49f4-5fc2-08dd0e033b96">
+    <display-name>16788519-35f1-49f4-5fc2-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
+  </channel>
+  <channel id="6cbe5123-bfc0-4747-665f-08dd1e646927">
+    <display-name>6cbe5123-bfc0-4747-665f-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailLudwigsburgUlmmatchpng-094314.png"/>
+  </channel>
+  <channel id="71e7b32f-88ae-403d-3a83-08dd3bb81e17">
+    <display-name>71e7b32f-88ae-403d-3a83-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/miercoleshexagoncupOKjpg-093128.jpg"/>
+  </channel>
+  <channel id="f6759f12-a0a2-4405-8f33-08dd3c339e86">
+    <display-name>f6759f12-a0a2-4405-8f33-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/jueveshexagoncupOKjpg-093857.jpg"/>
+  </channel>
+  <channel id="8e257086-b29b-4665-2aeb-08dd3bb2cab1">
+    <display-name>8e257086-b29b-4665-2aeb-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/vierneshexagoncupOKjpg-095225.jpg"/>
+  </channel>
+  <channel id="2b286679-73a9-45db-2aec-08dd3bb2cab1">
+    <display-name>2b286679-73a9-45db-2aec-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/sabadohexagoncupOKjpg-095434.jpg"/>
+  </channel>
+  <channel id="5e3d288a-c3ee-43d9-8f35-08dd3c339e86">
+    <display-name>5e3d288a-c3ee-43d9-8f35-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/domingohexagoncupOKjpg-095621.jpg"/>
   </channel>
   <programme start="20250120190000 +0000" stop="20250120220000 +0000" channel="esp-e200487853c0ch20096">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
@@ -5670,5 +5698,47 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">E1 Series - Contrarreloj de clasificación</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Powerboat Racing</category>
+  </programme>
+  <programme start="20250202145500 +0000" stop="20250202183000 +0000" channel="16788519-35f1-49f4-5fc2-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
+    <title lang="es">Bayern - Alba Berlin</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250202162500 +0000" stop="20250202200000 +0000" channel="6cbe5123-bfc0-4747-665f-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailLudwigsburgUlmmatchpng-094314.png"/>
+    <title lang="es">Ludwigsburg - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250129112500 +0000" stop="20250129210000 +0000" channel="71e7b32f-88ae-403d-3a83-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/miercoleshexagoncupOKjpg-093128.jpg"/>
+    <title lang="es">Hexagon Cup - Día 1</title>
+    <desc lang="es">Día 1 de competición de la Hexagon Cup 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250130112500 +0000" stop="20250130210000 +0000" channel="f6759f12-a0a2-4405-8f33-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/jueveshexagoncupOKjpg-093857.jpg"/>
+    <title lang="es">Hexagon Cup - Día 2</title>
+    <desc lang="es">Día 2 de competición de la Hexagon Cup 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250131112500 +0000" stop="20250131210000 +0000" channel="8e257086-b29b-4665-2aeb-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/vierneshexagoncupOKjpg-095225.jpg"/>
+    <title lang="es">Hexagon Cup - Día 3</title>
+    <desc lang="es">Día 3 de competición de la Hexagon Cup 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250201112500 +0000" stop="20250201210000 +0000" channel="2b286679-73a9-45db-2aec-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/sabadohexagoncupOKjpg-095434.jpg"/>
+    <title lang="es">Hexagon Cup - Día 4</title>
+    <desc lang="es">Día 4 de competición de la Hexagon Cup 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250202105500 +0000" stop="20250202220000 +0000" channel="5e3d288a-c3ee-43d9-8f35-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/domingohexagoncupOKjpg-095621.jpg"/>
+    <title lang="es">Hexagon Cup - Finales</title>
+    <desc lang="es">Jornada final de competición de la Hexagon Cup 2025.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
