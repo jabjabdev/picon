@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 24 06:36:43 2025">
+<tv date="Fri Jan 24 12:30:34 2025">
   <channel id="esp-e200487853c0ch20096">
     <display-name>esp-e200487853c0ch20096</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
@@ -942,10 +942,6 @@
   </channel>
   <channel id="esp-e200481627c0ch20004">
     <display-name>esp-e200481627c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200476623c0ch20002">
-    <display-name>esp-e200476623c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
   <channel id="esp-e200481958c0ch20005">
@@ -1972,10 +1968,6 @@
     <display-name>aya31npfzrmadfv00xduxf310</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1c6w71z8p46pf1kltelbpixzzi_image-header_pEs_1737397590000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="d06ifhux40elcglwix40b72nf">
-    <display-name>d06ifhux40elcglwix40b72nf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dr7d6g2ogqw54801rt4ilaf37_image-header_pEs_1737562956000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="b2uikpt9e11wx8a4uqxekez9w">
     <display-name>b2uikpt9e11wx8a4uqxekez9w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19c9a3pr169ci1eb2wphkxtar3_image-header_pEs_1737411242000/fill/none/top/none/85/300/180/webp/image"/>
@@ -2271,6 +2263,10 @@
   <channel id="esp-e200487537c0ch20090">
     <display-name>esp-e200487537c0ch20090</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="d06ifhux40elcglwix40b72nf">
+    <display-name>d06ifhux40elcglwix40b72nf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j1chcfnqe2hg0age1qipdjo3_image-header_pEs_1737562956000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250120190000 +0000" stop="20250120220000 +0000" channel="esp-e200487853c0ch20096">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
@@ -3683,12 +3679,6 @@
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250124050000 +0000" stop="20250124073000 +0000" channel="esp-e200481627c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Australian Open</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250124060558 +0000" stop="20250124083558 +0000" channel="esp-e200476623c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Australian Open</desc>
@@ -5230,12 +5220,6 @@
     <desc lang="es">Watch the latest World Rally Championship action from Monte-Carlo.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250124095000 +0000" stop="20250124135000 +0000" channel="d06ifhux40elcglwix40b72nf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dr7d6g2ogqw54801rt4ilaf37_image-header_pEs_1737562956000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">E1 Series - Contrarreloj de clasificación</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Powerboat Racing</category>
-  </programme>
   <programme start="20250124104200 +0000" stop="20250124164200 +0000" channel="b2uikpt9e11wx8a4uqxekez9w">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19c9a3pr169ci1eb2wphkxtar3_image-header_pEs_1737411242000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rally Monte-Carlo - Stage 6</title>
@@ -5680,5 +5664,11 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">AT&amp;T Pebble Beach Pro Am - Día 1 - Comentarios en español</title>
     <desc lang="es">PGA Tour | Señal Principal</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250124100000 +0000" stop="20250124123500 +0000" channel="d06ifhux40elcglwix40b72nf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j1chcfnqe2hg0age1qipdjo3_image-header_pEs_1737562956000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">E1 Series - Contrarreloj de clasificación</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Powerboat Racing</category>
   </programme>
 </tv>
