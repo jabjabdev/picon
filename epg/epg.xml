@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 24 12:36:42 2025">
+<tv date="Fri Jan 24 18:30:15 2025">
   <channel id="esp-e200487853c0ch20096">
     <display-name>esp-e200487853c0ch20096</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
@@ -2296,6 +2296,10 @@
     <display-name>5e3d288a-c3ee-43d9-8f35-08dd3c339e86</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/domingohexagoncupOKjpg-095621.jpg"/>
   </channel>
+  <channel id="22xyq3z5ri0m0x0bibl9es1ge">
+    <display-name>22xyq3z5ri0m0x0bibl9es1ge</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rg21rnoeveu914kpfso1cxwbj_image-header_pEs_1737723398000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250120190000 +0000" stop="20250120220000 +0000" channel="esp-e200487853c0ch20096">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20096_0_200487853_20250107-151814.jpeg"/>
     <title lang="es">The Bahamas Great Abaco Classic - Día 2</title>
@@ -3742,7 +3746,7 @@
     <desc lang="es">Open de Australia | Magazine</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250124123000 +0000" stop="20250124132000 +0000" channel="esp-e200471683c0ch20022">
+  <programme start="20250124123500 +0000" stop="20250124132000 +0000" channel="esp-e200471683c0ch20022">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_0_200471683_20250112-182242.jpeg"/>
     <title lang="es">Copa del Mundo - Antholz</title>
     <desc lang="es">Sprint | Masculino | Entrenamiento</desc>
@@ -3766,13 +3770,13 @@
     <desc lang="es">Masculino HS 235 | Vuelo con Esquís | Clasificación</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250124170000 +0000" stop="20250124200000 +0000" channel="esp-e200523390c0ch20091">
+  <programme start="20250124173000 +0000" stop="20250124200000 +0000" channel="esp-e200523390c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523390_20250112-194935.jpeg"/>
     <title lang="es">Farmers Insurance Open - Día 3</title>
     <desc lang="es">PGA Tour | Señal Alternativa (1ª parte)</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250124171500 +0000" stop="20250125010000 +0000" channel="esp-e200523393c0ch20094">
+  <programme start="20250124174500 +0000" stop="20250125010000 +0000" channel="esp-e200523393c0ch20094">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20094_0_200523393_20250113-091127.jpeg"/>
     <title lang="es">Farmers Insurance Open - Día 3</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
@@ -5740,5 +5744,11 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">Hexagon Cup - Finales</title>
     <desc lang="es">Jornada final de competición de la Hexagon Cup 2025.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250125194500 +0000" stop="20250126014500 +0000" channel="22xyq3z5ri0m0x0bibl9es1ge">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rg21rnoeveu914kpfso1cxwbj_image-header_pEs_1737723398000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Smith vs. Ouizza - Eddie Hearn Watchalong</title>
+    <desc lang="es">Join Eddie Hearn for coverage of the Matchroom card in Nottingham, headlined by Dalton Smith vs. Walid Ouizza.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
