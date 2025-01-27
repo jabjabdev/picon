@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 27 12:36:37 2025">
+<tv date="Mon Jan 27 18:30:13 2025">
   <channel id="848e984b-d595-474d-ff37-08dd0e324662">
     <display-name>848e984b-d595-474d-ff37-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -1619,6 +1619,14 @@
   <channel id="esp-e200571925c0ch20020">
     <display-name>esp-e200571925c0ch20020</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_5_200571925_20250126-124602.jpeg"/>
+  </channel>
+  <channel id="5u30pv5eiujkpxjdzik8auf20">
+    <display-name>5u30pv5eiujkpxjdzik8auf20</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6p1364oyl27ckeoh5h4jctnfu_image-header_pEs_1737813120000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5bdazcow2vc5ds8xbm3cttq1g">
+    <display-name>5bdazcow2vc5ds8xbm3cttq1g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ar9530zeh6lo32ux6gr4fa2s0_image-header_pEs_1737989677000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250124155500 +0000" stop="20250124193000 +0000" channel="848e984b-d595-474d-ff37-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -4050,5 +4058,17 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">World Tour - Val Thorens</title>
     <desc lang="es">Individual masculino y femenino</desc>
     <category lang="es">Free Ride</category>
+  </programme>
+  <programme start="20250127180000 +0000" stop="20250127203000 +0000" channel="5u30pv5eiujkpxjdzik8auf20">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6p1364oyl27ckeoh5h4jctnfu_image-header_pEs_1737813120000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Copa Africana de Naciones - Sorteo</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250129170000 +0000" stop="20250129193000 +0000" channel="5bdazcow2vc5ds8xbm3cttq1g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ar9530zeh6lo32ux6gr4fa2s0_image-header_pEs_1737989677000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AS Roma - Napoli</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia Women entre Napoli y Roma.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
