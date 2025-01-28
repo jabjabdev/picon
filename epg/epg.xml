@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 28 18:30:16 2025">
+<tv date="Tue Jan 28 18:35:04 2025">
   <channel id="848e984b-d595-474d-ff37-08dd0e324662">
     <display-name>848e984b-d595-474d-ff37-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -1531,6 +1531,42 @@
   <channel id="c100dax0cwaff791higb9rtae">
     <display-name>c100dax0cwaff791higb9rtae</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9wrzdjy1n6h1b2qtqzo6hztq_image-header_pEs_1737972251000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1eefbc88-35bd-4107-3a98-08dd3bb81e17">
+    <display-name>1eefbc88-35bd-4107-3a98-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailOberauOliumpicomatchpng-100137.png"/>
+  </channel>
+  <channel id="7ef121f1-9e34-4212-1816-08dd3af437e6">
+    <display-name>7ef121f1-9e34-4212-1816-08dd3af437e6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
+  </channel>
+  <channel id="0eff6374-c811-4c9a-1e15-08dd3cbff2ba">
+    <display-name>0eff6374-c811-4c9a-1e15-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURAELCHEjpg-122722.jpg"/>
+  </channel>
+  <channel id="22c029cc-7b23-46dc-7610-08dd0e37795d">
+    <display-name>22c029cc-7b23-46dc-7610-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/IsuzuUTEALeagueThumbnailSydneyFCAdelaideUnitedmatchpng-152611.png"/>
+  </channel>
+  <channel id="58cd192c-b90b-496d-7611-08dd0e37795d">
+    <display-name>58cd192c-b90b-496d-7611-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/IsuzuUTEALeagueThumbnailCentralCoastMarinersNewcastleJetsmatchpng-153326.png"/>
+  </channel>
+  <channel id="a99f7eda-1cfb-4503-f4c8-08dd3bbdec09">
+    <display-name>a99f7eda-1cfb-4503-f4c8-08dd3bbdec09</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURATENERIFEjpg-122644.jpg"/>
+  </channel>
+  <channel id="3f11a73d-8a14-45c8-3a9d-08dd3bb81e17">
+    <display-name>3f11a73d-8a14-45c8-3a9d-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURATERORjpg-122604.jpg"/>
+  </channel>
+  <channel id="643de07e-8211-45b6-f4cc-08dd3bbdec09">
+    <display-name>643de07e-8211-45b6-f4cc-08dd3bbdec09</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURASAN-FERNANDOjpg-123046.jpg"/>
+  </channel>
+  <channel id="370d275b-c53f-4ad8-2b08-08dd3bb2cab1">
+    <display-name>370d275b-c53f-4ad8-2b08-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/MINIATURA-LLjpg-141244.jpg"/>
   </channel>
   <programme start="20250124155500 +0000" stop="20250124193000 +0000" channel="848e984b-d595-474d-ff37-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -3830,5 +3866,59 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">BKFC - Mohegan Sun</title>
     <desc lang="es">Julian Lane vs. Cameron Vancamp headline BKFC: Mohegan Sun.</desc>
     <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20250202225500 +0000" stop="20250203023000 +0000" channel="1eefbc88-35bd-4107-3a98-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailOberauOliumpicomatchpng-100137.png"/>
+    <title lang="es">Oberá - Olímpico</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250203182500 +0000" stop="20250203220000 +0000" channel="7ef121f1-9e34-4212-1816-08dd3af437e6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
+    <title lang="es">Löwen Braunschweig - Vechta</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250129183000 +0000" stop="20250129213000 +0000" channel="0eff6374-c811-4c9a-1e15-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURAELCHEjpg-122722.jpg"/>
+    <title lang="es">Juvenil A - Elche CF</title>
+    <desc lang="es">Octavos de final de la Copa del Rey Juvenil. Nuestros chicos se juegan un pase que sería histórico para la entidad.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250201052500 +0000" stop="20250201080000 +0000" channel="22c029cc-7b23-46dc-7610-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/IsuzuUTEALeagueThumbnailSydneyFCAdelaideUnitedmatchpng-152611.png"/>
+    <title lang="es">Sydney FC - Adelaide United</title>
+    <desc lang="es">El partido correspondiente a la Jornada 17 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250201080000 +0000" stop="20250201103500 +0000" channel="58cd192c-b90b-496d-7611-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/21/IsuzuUTEALeagueThumbnailCentralCoastMarinersNewcastleJetsmatchpng-153326.png"/>
+    <title lang="es">Central Coast Mariners - Newcastle Jets</title>
+    <desc lang="es">El partido correspondiente a la Jornada 17 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250201124500 +0000" stop="20250201153000 +0000" channel="a99f7eda-1cfb-4503-f4c8-08dd3bbdec09">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURATENERIFEjpg-122644.jpg"/>
+    <title lang="es">Cadete A - CD Tenerife</title>
+    <desc lang="es">Derbi canario en la categoría Cadete Autonómico. Partidazo para definir quién se coloca en el liderato de la competición.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250201164500 +0000" stop="20250201193000 +0000" channel="3f11a73d-8a14-45c8-3a9d-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURATERORjpg-122604.jpg"/>
+    <title lang="es">Las Palmas C - UD Teror</title>
+    <desc lang="es">Dificil partido para nuestro segundo filial ante uno de los grandes de la Regional Preferente.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250202110000 +0000" stop="20250202140000 +0000" channel="643de07e-8211-45b6-f4cc-08dd3bbdec09">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/20242025MINIATURASAN-FERNANDOjpg-123046.jpg"/>
+    <title lang="es">Las Palmas Atlético - UD San Fernando</title>
+    <desc lang="es">El conjunto de Raúl Martín quiere continuar con la línea positiva ante un rival directo: la UD San Fernando.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250203180000 +0000" stop="20250203230000 +0000" channel="370d275b-c53f-4ad8-2b08-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/MINIATURA-LLjpg-141244.jpg"/>
+    <title lang="es">Girona FC - UD Las Palmas</title>
+    <desc lang="es">Los amarillos visitan Montilivi en el partido que cierra la jornada 22 en LaLiga EA Sport. Duro duelo ante el Girona de Michel.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
