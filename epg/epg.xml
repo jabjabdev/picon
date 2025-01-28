@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 28 00:30:16 2025">
+<tv date="Tue Jan 28 12:34:58 2025">
   <channel id="848e984b-d595-474d-ff37-08dd0e324662">
     <display-name>848e984b-d595-474d-ff37-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -1511,6 +1511,14 @@
   <channel id="91unwaywtxna3jipyxmkzinm0">
     <display-name>91unwaywtxna3jipyxmkzinm0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/57akg2lcnggpb2lqxto66mpji_image-header_pEs_1735837053000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="debd9ea2-0a31-4891-2af2-08dd3bb2cab1">
+    <display-name>debd9ea2-0a31-4891-2af2-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailUniounOliumpicomatchpng-095603.png"/>
+  </channel>
+  <channel id="5abef3eb-6723-43c0-8f3c-08dd3c339e86">
+    <display-name>5abef3eb-6723-43c0-8f3c-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailAtenasRiachuelomatchpng-095706.png"/>
   </channel>
   <programme start="20250124155500 +0000" stop="20250124193000 +0000" channel="848e984b-d595-474d-ff37-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -3780,5 +3788,17 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">Venezuela - Puerto Rico</title>
     <desc lang="es">Vive el encuentro de Caribbean Series entre Venezuela - Puerto Rico.</desc>
     <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20250131232500 +0000" stop="20250201030000 +0000" channel="debd9ea2-0a31-4891-2af2-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailUniounOliumpicomatchpng-095603.png"/>
+    <title lang="es">Unión - Olímpico</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250201232500 +0000" stop="20250202030000 +0000" channel="5abef3eb-6723-43c0-8f3c-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailAtenasRiachuelomatchpng-095706.png"/>
+    <title lang="es">Atenas - Riachuelo</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
