@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 28 12:34:58 2025">
+<tv date="Tue Jan 28 18:30:16 2025">
   <channel id="848e984b-d595-474d-ff37-08dd0e324662">
     <display-name>848e984b-d595-474d-ff37-08dd0e324662</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -1519,6 +1519,18 @@
   <channel id="5abef3eb-6723-43c0-8f3c-08dd3c339e86">
     <display-name>5abef3eb-6723-43c0-8f3c-08dd3c339e86</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/LigaNacionalBasquetbolThumbnailAtenasRiachuelomatchpng-095706.png"/>
+  </channel>
+  <channel id="bkkx4qwnnjn8ws33l3k3dkaq5">
+    <display-name>bkkx4qwnnjn8ws33l3k3dkaq5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebi3hdbs7tcr18bna9zv18mfn_image-header_pEs_1737987606000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a9nj12fur9w6jid0b1x9ec7sb">
+    <display-name>a9nj12fur9w6jid0b1x9ec7sb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5i6govb4fr31gzpy3c5jesv77_image-header_pEs_1738073561000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c100dax0cwaff791higb9rtae">
+    <display-name>c100dax0cwaff791higb9rtae</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9wrzdjy1n6h1b2qtqzo6hztq_image-header_pEs_1737972251000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250124155500 +0000" stop="20250124193000 +0000" channel="848e984b-d595-474d-ff37-08dd0e324662">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/14/Monbus-ObradoiroReal-Betis-Baloncestopng-121806.png"/>
@@ -3800,5 +3812,23 @@ Inclusivo de Campo a Través por Selecciones Autonómicas de atletismo.</desc>
     <title lang="es">Atenas - Riachuelo</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250131000000 +0000" stop="20250131040000 +0000" channel="bkkx4qwnnjn8ws33l3k3dkaq5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebi3hdbs7tcr18bna9zv18mfn_image-header_pEs_1737987606000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pro Bowl Skills Showdown</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250201120000 +0000" stop="20250201180000 +0000" channel="a9nj12fur9w6jid0b1x9ec7sb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5i6govb4fr31gzpy3c5jesv77_image-header_pEs_1738073561000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Petchmorakot vs. Josh Hill</title>
+    <desc lang="es">Vive el encuentro de Rajadamnern World Series Muay Thai entre Ye Naing Oo y Denzel Thakun.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250201230000 +0000" stop="20250202050000 +0000" channel="c100dax0cwaff791higb9rtae">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9wrzdjy1n6h1b2qtqzo6hztq_image-header_pEs_1737972251000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">BKFC - Mohegan Sun</title>
+    <desc lang="es">Julian Lane vs. Cameron Vancamp headline BKFC: Mohegan Sun.</desc>
+    <category lang="es">Bare Knuckle</category>
   </programme>
 </tv>
