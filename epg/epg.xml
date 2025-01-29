@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 29 12:30:14 2025">
+<tv date="Wed Jan 29 18:30:13 2025">
   <channel id="c167fbff-e29a-4228-75d5-08dd0e37795d">
     <display-name>c167fbff-e29a-4228-75d5-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/BasketballBundesligaThumbnailUlmBonnmatchpng-161702.png"/>
@@ -1463,6 +1463,10 @@
   <channel id="d8r0tdbkkzjjpqyfopk46b5ec">
     <display-name>d8r0tdbkkzjjpqyfopk46b5ec</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rztl93kwv7c14q40eggoy420_image-header_pEs_1737987606000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4imx81jatlejzgfzbzkd2vn11">
+    <display-name>4imx81jatlejzgfzbzkd2vn11</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ickuvzpl4e811vdiohu8z038b_image-header_pEs_1737987606000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250125182500 +0000" stop="20250125220000 +0000" channel="c167fbff-e29a-4228-75d5-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/BasketballBundesligaThumbnailUlmBonnmatchpng-161702.png"/>
@@ -3657,6 +3661,12 @@
   <programme start="20250202200000 +0000" stop="20250203000000 +0000" channel="d8r0tdbkkzjjpqyfopk46b5ec">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11rztl93kwv7c14q40eggoy420_image-header_pEs_1737987606000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pro Bowl - AFC vs. NFC</title>
+    <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250202200000 +0000" stop="20250203000000 +0000" channel="4imx81jatlejzgfzbzkd2vn11">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ickuvzpl4e811vdiohu8z038b_image-header_pEs_1737987606000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pro Bowl - AFC vs. NFC (en Español)</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
