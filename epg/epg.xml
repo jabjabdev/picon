@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 29 18:30:13 2025">
+<tv date="Wed Jan 29 18:36:35 2025">
   <channel id="c167fbff-e29a-4228-75d5-08dd0e37795d">
     <display-name>c167fbff-e29a-4228-75d5-08dd0e37795d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/BasketballBundesligaThumbnailUlmBonnmatchpng-161702.png"/>
@@ -1467,6 +1467,14 @@
   <channel id="4imx81jatlejzgfzbzkd2vn11">
     <display-name>4imx81jatlejzgfzbzkd2vn11</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ickuvzpl4e811vdiohu8z038b_image-header_pEs_1737987606000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200576592c0ch20024">
+    <display-name>esp-e200576592c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+  </channel>
+  <channel id="esp-e200576593c0ch20024">
+    <display-name>esp-e200576593c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
   </channel>
   <programme start="20250125182500 +0000" stop="20250125220000 +0000" channel="c167fbff-e29a-4228-75d5-08dd0e37795d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/16/BasketballBundesligaThumbnailUlmBonnmatchpng-161702.png"/>
@@ -3669,5 +3677,17 @@
     <title lang="es">Pro Bowl - AFC vs. NFC (en Español)</title>
     <desc lang="es">Acción de la temporada 2024 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250201062000 +0000" stop="20250201080000 +0000" channel="esp-e200576592c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+    <title lang="es">Beidahu - SBX</title>
+    <desc lang="es">Copa del Mundo</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20250202062000 +0000" stop="20250202080000 +0000" channel="esp-e200576593c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+    <title lang="es">Beidahu - SBX</title>
+    <desc lang="es">Copa del Mundo</desc>
+    <category lang="es">Snowboard</category>
   </programme>
 </tv>
