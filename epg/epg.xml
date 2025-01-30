@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 30 12:30:13 2025">
+<tv date="Thu Jan 30 18:35:10 2025">
   <channel id="a02b9784-5364-4307-5fac-08dd0e033b96">
     <display-name>a02b9784-5364-4307-5fac-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/17/LigaFemeninaEndesaThumbnailSparGironaLointekGernikamatchpng-081530.png"/>
@@ -235,10 +235,6 @@
   <channel id="esp-e200504401c0ch20016">
     <display-name>esp-e200504401c0ch20016</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_6_200504401_20250116-085429.jpeg"/>
-  </channel>
-  <channel id="esp-e200504459c0ch20017">
-    <display-name>esp-e200504459c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200504459_20250116-085445.jpeg"/>
   </channel>
   <channel id="esp-e200504516c0ch20018">
     <display-name>esp-e200504516c0ch20018</display-name>
@@ -1412,6 +1408,46 @@
     <display-name>3gsvi42ycom8c4pa66qxaubzk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n3ubwpzjjcxl1n6ppopkt9jk5_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="0fb0bfc2-7808-4d2f-5fde-08dd0e033b96">
+    <display-name>0fb0bfc2-7808-4d2f-5fde-08dd0e033b96</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton1OKjpg-141002.jpg"/>
+  </channel>
+  <channel id="96386f99-a658-4e37-a010-08dd0e03944b">
+    <display-name>96386f99-a658-4e37-a010-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton2OKjpg-141051.jpg"/>
+  </channel>
+  <channel id="fc0b18d4-a561-4de6-6682-08dd1e646927">
+    <display-name>fc0b18d4-a561-4de6-6682-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Women-skeleton1OKjpg-141129.jpg"/>
+  </channel>
+  <channel id="4e88d50c-132b-437c-6683-08dd1e646927">
+    <display-name>4e88d50c-132b-437c-6683-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Women-skeleton2OKjpg-141202.jpg"/>
+  </channel>
+  <channel id="670fb72d-f633-47c9-7600-08dd0e37795d">
+    <display-name>670fb72d-f633-47c9-7600-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlAinFCAlRayyanSCmatchpng-121950.png"/>
+  </channel>
+  <channel id="5c133f6d-0d44-4dd0-7601-08dd0e37795d">
+    <display-name>5c133f6d-0d44-4dd0-7601-08dd0e37795d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailEsteghlalFCAlShortamatchpng-122142.png"/>
+  </channel>
+  <channel id="96fe8590-44ac-41f4-665a-08dd1e646927">
+    <display-name>96fe8590-44ac-41f4-665a-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlSaddSCAlAhliSaudiFCmatchpng-122320.png"/>
+  </channel>
+  <channel id="7935dac7-f9c5-45fb-9ff6-08dd0e03944b">
+    <display-name>7935dac7-f9c5-45fb-9ff6-08dd0e03944b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlNassrClubAlWaslFCmatchpng-122627.png"/>
+  </channel>
+  <channel id="d4df9c22-87fc-414f-3f33-08dd0e0201c6">
+    <display-name>d4df9c22-87fc-414f-3f33-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlGharafaSCPakhtakormatchpng-122903.png"/>
+  </channel>
+  <channel id="e84326a6-7db7-4981-665b-08dd1e646927">
+    <display-name>e84326a6-7db7-4981-665b-08dd1e646927</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlHilalFCPersepolisFCmatchpng-123033.png"/>
+  </channel>
   <programme start="20250126162500 +0000" stop="20250126200000 +0000" channel="a02b9784-5364-4307-5fac-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/17/LigaFemeninaEndesaThumbnailSparGironaLointekGernikamatchpng-081530.png"/>
     <title lang="es">Spar Girona - Lointek Gernika</title>
@@ -1766,12 +1802,6 @@
     <desc lang="es">German Masters | 3ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250130140000 +0000" stop="20250130170000 +0000" channel="esp-e200504459c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_6_200504459_20250116-085445.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">German Masters | 3ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20250130140000 +0000" stop="20250130170000 +0000" channel="esp-e200504516c0ch20018">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200504516_20250116-085504.jpeg"/>
     <title lang="es">Snooker</title>
@@ -1802,7 +1832,7 @@
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250130173000 +0000" stop="20250131000000 +0000" channel="esp-e200523476c0ch20093">
+  <programme start="20250130181500 +0000" stop="20250131000000 +0000" channel="esp-e200523476c0ch20093">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">AT&amp;T Pebble Beach Pro Am - Día 1</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
@@ -3529,5 +3559,65 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Episode 11</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250207075500 +0000" stop="20250207091500 +0000" channel="0fb0bfc2-7808-4d2f-5fde-08dd0e033b96">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton1OKjpg-141002.jpg"/>
+    <title lang="es">Lillehammer 1 | Men's Skeleton Heat 1</title>
+    <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250207094000 +0000" stop="20250207105000 +0000" channel="96386f99-a658-4e37-a010-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton2OKjpg-141051.jpg"/>
+    <title lang="es">Lillehammer 1 | Men's Skeleton Heat 2</title>
+    <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250207115500 +0000" stop="20250207131500 +0000" channel="fc0b18d4-a561-4de6-6682-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Women-skeleton1OKjpg-141129.jpg"/>
+    <title lang="es">Lillehammer 1 | Women's Skeleton Heat 1</title>
+    <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250207134000 +0000" stop="20250207145000 +0000" channel="4e88d50c-132b-437c-6683-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Women-skeleton2OKjpg-141202.jpg"/>
+    <title lang="es">Lillehammer 1 | Women's Skeleton Heat 2</title>
+    <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250203132000 +0000" stop="20250203160000 +0000" channel="670fb72d-f633-47c9-7600-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlAinFCAlRayyanSCmatchpng-121950.png"/>
+    <title lang="es">Al Ain FC - Al Rayyan SC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250203152000 +0000" stop="20250203180000 +0000" channel="5c133f6d-0d44-4dd0-7601-08dd0e37795d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailEsteghlalFCAlShortamatchpng-122142.png"/>
+    <title lang="es">Esteghlal FC - Al Shorta</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250203152000 +0000" stop="20250203180000 +0000" channel="96fe8590-44ac-41f4-665a-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlSaddSCAlAhliSaudiFCmatchpng-122320.png"/>
+    <title lang="es">Al Sadd SC - Al Ahli Saudi FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250203172000 +0000" stop="20250203200000 +0000" channel="7935dac7-f9c5-45fb-9ff6-08dd0e03944b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlNassrClubAlWaslFCmatchpng-122627.png"/>
+    <title lang="es">Al Nassr Club - Al Wasl FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250204152000 +0000" stop="20250204180000 +0000" channel="d4df9c22-87fc-414f-3f33-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlGharafaSCPakhtakormatchpng-122903.png"/>
+    <title lang="es">Al Gharafa SC - Pakhtakor</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250204172000 +0000" stop="20250204200000 +0000" channel="e84326a6-7db7-4981-665b-08dd1e646927">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/AFCChampionsLeagueThumbnailAlHilalFCPersepolisFCmatchpng-123033.png"/>
+    <title lang="es">Al Hilal FC - Persepolis FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
