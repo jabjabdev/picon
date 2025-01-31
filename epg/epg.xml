@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 31 06:36:51 2025">
+<tv date="Fri Jan 31 18:35:23 2025">
   <channel id="esp-e200504509c0ch20018">
     <display-name>esp-e200504509c0ch20018</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200504509_20250116-083951.jpeg"/>
@@ -1564,6 +1564,10 @@
     <display-name>esp-e200523640c0ch20092</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523640_20250126-112304.jpeg"/>
   </channel>
+  <channel id="c6f59954-ccff-4512-3f45-08dd0e0201c6">
+    <display-name>c6f59954-ccff-4512-3f45-08dd0e0201c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/31/IsuzuUTEALeagueThumbnailsPerthGloryCentralCoastMarinersmatchpng-121008.png"/>
+  </channel>
   <programme start="20250127190000 +0000" stop="20250127220000 +0000" channel="esp-e200504509c0ch20018">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200504509_20250116-083951.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2128,7 +2132,7 @@
     <desc lang="es">Masculino | Trofeo Serra de Tramuntana (151,3 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250131135000 +0000" stop="20250131150000 +0000" channel="esp-e200471956c0ch20026">
+  <programme start="20250131140231 +0000" stop="20250131151231 +0000" channel="esp-e200471956c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_6_200471956_20250117-065831.jpeg"/>
     <title lang="es">Copa del Mundo - Seefeld</title>
     <desc lang="es">HS 109 Masculino | Día 1</desc>
@@ -2170,7 +2174,7 @@
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250131173000 +0000" stop="20250201000000 +0000" channel="esp-e200523480c0ch20093">
+  <programme start="20250131180000 +0000" stop="20250201000000 +0000" channel="esp-e200523480c0ch20093">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_0_200523480_20250121-193558.jpeg"/>
     <title lang="es">AT&amp;T Pebble Beach Pro Am - Día 2</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
@@ -3909,5 +3913,11 @@
     <title lang="es">Phoenix Open - Día 1</title>
     <desc lang="es">PGA Tour | Grupo Destacado (2ª parte)</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250207101000 +0000" stop="20250207124500 +0000" channel="c6f59954-ccff-4512-3f45-08dd0e0201c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/31/IsuzuUTEALeagueThumbnailsPerthGloryCentralCoastMarinersmatchpng-121008.png"/>
+    <title lang="es">Perth Glory - Central Coast Mariners</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
