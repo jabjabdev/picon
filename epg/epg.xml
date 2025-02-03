@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 03 18:34:58 2025">
+<tv date="Tue Feb 04 00:30:13 2025">
   <channel id="esp-e200523474c0ch20091">
     <display-name>esp-e200523474c0ch20091</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
@@ -1771,6 +1771,30 @@
   <channel id="fc5e482a-11bb-46fd-306e-08dd3af19e48">
     <display-name>fc5e482a-11bb-46fd-306e-08dd3af19e48</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Skeleton-mixed-teamOKjpg-141515.jpg"/>
+  </channel>
+  <channel id="2sb55h6z6gyztma3026jfykqe">
+    <display-name>2sb55h6z6gyztma3026jfykqe</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4dd58987c2rjoiowbcx4lwomj_image-header_pEs_1730910957000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f17p2vq2g8dhd051emd8ey7ml">
+    <display-name>f17p2vq2g8dhd051emd8ey7ml</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/frsabzf7ra2kmnaf4qkehpvl_image-header_pEs_1738585663000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ijl3tmv0k9cm5hsn3m5dpnv8">
+    <display-name>3ijl3tmv0k9cm5hsn3m5dpnv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2xqoo11mfqvw125cny5qdwep9_image-header_pEs_1738604650000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3sy0cxujlercl911u9td19hjo">
+    <display-name>3sy0cxujlercl911u9td19hjo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3zo7n50ixjjukd873b52ycwr1_image-header_pEs_1737390679000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8nfkwz4a460hqukieu6m5l4ao">
+    <display-name>8nfkwz4a460hqukieu6m5l4ao</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86wulf3vhs2myq3udqi2jcdg5_image-header_pEs_1735893464000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="byje5zx0wyviz3xqpyx5z70no">
+    <display-name>byje5zx0wyviz3xqpyx5z70no</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5p0b7ozou0f1q6tmatlbs4p95_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250130164500 +0000" stop="20250131000000 +0000" channel="esp-e200523474c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
@@ -4430,5 +4454,41 @@
     <title lang="es">Lillehammer 1 | Skeleton Mixed Team</title>
     <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
     <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250206194500 +0000" stop="20250206221500 +0000" channel="2sb55h6z6gyztma3026jfykqe">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4dd58987c2rjoiowbcx4lwomj_image-header_pEs_1730910957000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fiorentina - Inter</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Internazionale y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250208123500 +0000" stop="20250208183500 +0000" channel="f17p2vq2g8dhd051emd8ey7ml">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/frsabzf7ra2kmnaf4qkehpvl_image-header_pEs_1738585663000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ciclocross - Middelkerke - Femenino y masculino</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclocrós</category>
+  </programme>
+  <programme start="20250209230000 +0000" stop="20250210030000 +0000" channel="3ijl3tmv0k9cm5hsn3m5dpnv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2xqoo11mfqvw125cny5qdwep9_image-header_pEs_1738604650000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super Bowl LIX - Eagles vs. Chiefs</title>
+    <desc lang="es">Ve la Super Bowl LIX en directo, con la retransmisión estadounidense, el show del descanso de Kendrick Lamar y los anuncios de USA</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250210170000 +0000" stop="20250210193000 +0000" channel="3sy0cxujlercl911u9td19hjo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3zo7n50ixjjukd873b52ycwr1_image-header_pEs_1737390679000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carl Zeiss Jena - SC Freiburg</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Freiburg y Carl Zeiss Jena.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250210190000 +0000" stop="20250210213000 +0000" channel="8nfkwz4a460hqukieu6m5l4ao">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/86wulf3vhs2myq3udqi2jcdg5_image-header_pEs_1735893464000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 - Jornada 23</title>
+    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250210194500 +0000" stop="20250210221500 +0000" channel="byje5zx0wyviz3xqpyx5z70no">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5p0b7ozou0f1q6tmatlbs4p95_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - Fiorentina</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Internazionale y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
