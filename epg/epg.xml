@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 03 12:34:58 2025">
+<tv date="Mon Feb 03 18:30:14 2025">
   <channel id="esp-e200523474c0ch20091">
     <display-name>esp-e200523474c0ch20091</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
@@ -1687,6 +1687,42 @@
   <channel id="d98fd048-4a52-4625-79d0-08dd3bbe4109">
     <display-name>d98fd048-4a52-4625-79d0-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALBenidormvisitorASOBALBMGuadalajaralocalpng-113558.png"/>
+  </channel>
+  <channel id="bxcn44xmbmdy7qali53dy7wgk">
+    <display-name>bxcn44xmbmdy7qali53dy7wgk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhq1qjbydkcees5nag9qrh9n_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="by3udfsnub93nf42mws4pf310">
+    <display-name>by3udfsnub93nf42mws4pf310</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8eriksc13b7m37ep1gpfhac5g_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bxq7l50nyndo7udl2zywqe42c">
+    <display-name>bxq7l50nyndo7udl2zywqe42c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7un4l8c0ztvply9w7s8ge99yw_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c01mxvqtpsdq8qsbpi62ahbf8">
+    <display-name>c01mxvqtpsdq8qsbpi62ahbf8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/apcijcrdsg0z4xagjb35m04kc_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c0f8krxa2jjd69cgx4of4bg2c">
+    <display-name>c0f8krxa2jjd69cgx4of4bg2c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e37atzlnudc29dpjo1wuxtuo6_image-header_pEs_1738573158000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bwz4m9x6nth5gwtbggrzizllg">
+    <display-name>bwz4m9x6nth5gwtbggrzizllg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u61hr1mvmw2k29gzzeh5m650_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="byx0rzvswvqhf4dzz4lt27wgk">
+    <display-name>byx0rzvswvqhf4dzz4lt27wgk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jmgfaoa73fda35g2izrm9icx_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bzam0svtavi9icrzwmje0ct1w">
+    <display-name>bzam0svtavi9icrzwmje0ct1w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1laxmm73k3s65lfub77ydtthp_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bzo70peil5jeh5podqsngja50">
+    <display-name>bzo70peil5jeh5podqsngja50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pzweifacixkoz4ikhxen83af_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250130164500 +0000" stop="20250131000000 +0000" channel="esp-e200523474c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
@@ -4219,5 +4255,59 @@
     <title lang="es">Impulse Guadalajara - Servigroup Hoteles Benidorm</title>
     <desc lang="es">El partido entre Impulse Guadalajara y Servigroup Hoteles Benidorm correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250207194500 +0000" stop="20250207221500 +0000" channel="bxcn44xmbmdy7qali53dy7wgk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhq1qjbydkcees5nag9qrh9n_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Juventus</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Juventus y Como.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250208140000 +0000" stop="20250208163000 +0000" channel="by3udfsnub93nf42mws4pf310">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8eriksc13b7m37ep1gpfhac5g_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hellas Verona - Atalanta</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Hellas Verona.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250208170000 +0000" stop="20250208193000 +0000" channel="bxq7l50nyndo7udl2zywqe42c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7un4l8c0ztvply9w7s8ge99yw_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Empoli - AC Milan</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Empoli y Milan.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250208194500 +0000" stop="20250208221500 +0000" channel="c01mxvqtpsdq8qsbpi62ahbf8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/apcijcrdsg0z4xagjb35m04kc_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Genoa</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Genoa y Torino.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250209113000 +0000" stop="20250209140000 +0000" channel="c0f8krxa2jjd69cgx4of4bg2c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e37atzlnudc29dpjo1wuxtuo6_image-header_pEs_1738573158000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Venezia - AS Roma</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Roma y Venezia.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250209140000 +0000" stop="20250209163000 +0000" channel="bwz4m9x6nth5gwtbggrzizllg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u61hr1mvmw2k29gzzeh5m650_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cagliari - Parma</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Parma y Cagliari.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250209140000 +0000" stop="20250209163000 +0000" channel="byx0rzvswvqhf4dzz4lt27wgk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jmgfaoa73fda35g2izrm9icx_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lazio - Monza</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Lazio y Monza.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250209170000 +0000" stop="20250209193000 +0000" channel="bzam0svtavi9icrzwmje0ct1w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1laxmm73k3s65lfub77ydtthp_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lecce - Bologna</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Lecce y Bologna.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250209194500 +0000" stop="20250209221500 +0000" channel="bzo70peil5jeh5podqsngja50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pzweifacixkoz4ikhxen83af_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Napoli - Udinese</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Napoli y Udinese.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
