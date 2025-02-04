@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 04 18:34:59 2025">
+<tv date="Tue Feb 04 18:36:45 2025">
   <channel id="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <display-name>16788519-35f1-49f4-5fc2-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -1559,6 +1559,10 @@
   <channel id="f44af81c-45bc-4b33-79ee-08dd3bbe4109">
     <display-name>f44af81c-45bc-4b33-79ee-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-120007.png"/>
+  </channel>
+  <channel id="esp-e200580939c0ch20030">
+    <display-name>esp-e200580939c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_8_200580939_20250204-115952.jpeg"/>
   </channel>
   <programme start="20250202145500 +0000" stop="20250202183000 +0000" channel="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -3900,5 +3904,11 @@
     <title lang="es">UD Las Palmas - Villarreal CF</title>
     <desc lang="es">Los futbolistas entrenados por Diego Martínez afrontan un partido importante ante el Villarreal CF en el Estadio de Gran Canaria.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250204190000 +0000" stop="20250204210000 +0000" channel="esp-e200580939c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_8_200580939_20250204-115952.jpeg"/>
+    <title lang="es">Alfie Burden - Paul Deaville</title>
+    <desc lang="es">Abierto de Gales | Clasificación</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
