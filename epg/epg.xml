@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 04 18:30:13 2025">
+<tv date="Tue Feb 04 18:34:59 2025">
   <channel id="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <display-name>16788519-35f1-49f4-5fc2-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -1551,6 +1551,14 @@
   <channel id="405xruv0rv605b5jjr4u7i9yx">
     <display-name>405xruv0rv605b5jjr4u7i9yx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k3i0vf96dh44dh0o319knb6s_image-header_pEs_1736763998000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4dfcb15d-7d11-4e54-1e3f-08dd3cbff2ba">
+    <display-name>4dfcb15d-7d11-4e54-1e3f-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-115737.png"/>
+  </channel>
+  <channel id="f44af81c-45bc-4b33-79ee-08dd3bbe4109">
+    <display-name>f44af81c-45bc-4b33-79ee-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-120007.png"/>
   </channel>
   <programme start="20250202145500 +0000" stop="20250202183000 +0000" channel="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -3880,5 +3888,17 @@
     <title lang="es">MotoGP - 2025 Season Launch Event</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250208111500 +0000" stop="20250208140000 +0000" channel="4dfcb15d-7d11-4e54-1e3f-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-115737.png"/>
+    <title lang="es">Juvenil A - CF Unión Viera</title>
+    <desc lang="es">Los chicos de Héctor Nuez afrontan una difícil jornada ante un correoso Unión Viera. Derbi grancanario en el Anexo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250208153000 +0000" stop="20250208203000 +0000" channel="f44af81c-45bc-4b33-79ee-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-120007.png"/>
+    <title lang="es">UD Las Palmas - Villarreal CF</title>
+    <desc lang="es">Los futbolistas entrenados por Diego Martínez afrontan un partido importante ante el Villarreal CF en el Estadio de Gran Canaria.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
