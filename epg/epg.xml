@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Feb 05 12:36:38 2025">
+<tv date="Wed Feb 05 18:30:13 2025">
   <channel id="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <display-name>16788519-35f1-49f4-5fc2-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -415,10 +415,6 @@
   <channel id="esp-e200568352c0ch20031">
     <display-name>esp-e200568352c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568352_20250124-173932.jpeg"/>
-  </channel>
-  <channel id="esp-e200573067c0ch20050">
-    <display-name>esp-e200573067c0ch20050</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
   <channel id="esp-e200532439c0ch20001">
     <display-name>esp-e200532439c0ch20001</display-name>
@@ -1560,10 +1556,6 @@
     <display-name>esp-e200580939c0ch20030</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_8_200580939_20250204-115952.jpeg"/>
   </channel>
-  <channel id="e859rcamej8m2h5dkyinzwj4m">
-    <display-name>e859rcamej8m2h5dkyinzwj4m</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11qfdlln2a23r1bau9grqt2p2d_image-header_pEs_1738678071000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="6ugmz8rh7lql8koaycx81tnc">
     <display-name>6ugmz8rh7lql8koaycx81tnc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss5c7wigwso51jsgeukzmjnym_image-header_pEs_1738608378000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1703,6 +1695,18 @@
   <channel id="esp-e200519563c0ch20002">
     <display-name>esp-e200519563c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
+  </channel>
+  <channel id="9levqrik8e9lduqutupg9hhzn">
+    <display-name>9levqrik8e9lduqutupg9hhzn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17pz1472uvv771eyolevaqbe94_image-header_pEs_1738744788000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3rn1guad8agrgd2ev95vb8isb">
+    <display-name>3rn1guad8agrgd2ev95vb8isb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ds0ssi05cnb510lgj8a0qwxjw_image-header_pEs_1738744787000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1a7mr1uel5jkqqdtgnl55bv2r">
+    <display-name>1a7mr1uel5jkqqdtgnl55bv2r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dxeowi4ft0p1s7o198xydrsm_image-header_pEs_1738744788000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250202145500 +0000" stop="20250202183000 +0000" channel="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -2327,12 +2331,6 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | Clasificación</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205134500 +0000" stop="20250205150000 +0000" channel="esp-e200573067c0ch20050">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
-    <title lang="es">Estrella de Bessèges - Etapa 1</title>
-    <desc lang="es"/>
-    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20250205135700 +0000" stop="20250205152000 +0000" channel="esp-e200532439c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532439_20250124-155205.jpeg"/>
@@ -4045,12 +4043,6 @@
     <desc lang="es">Abierto de Gales | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="e859rcamej8m2h5dkyinzwj4m">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11qfdlln2a23r1bau9grqt2p2d_image-header_pEs_1738678071000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Chisora vs. Wallin - Open Workout</title>
-    <desc lang="es">Watch the pre-fight open workouts, ahead of a fantastic heavyweight battle between Derek Chisora and Otto Wallin.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20250207130000 +0000" stop="20250207190000 +0000" channel="6ugmz8rh7lql8koaycx81tnc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss5c7wigwso51jsgeukzmjnym_image-header_pEs_1738608378000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wallin - Weigh-In</title>
@@ -4260,5 +4252,23 @@
     <title lang="es">UFC  - Dricus Du Plessis - Sean Strickland</title>
     <desc lang="es">Cartelera principal</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250205190000 +0000" stop="20250206010000 +0000" channel="9levqrik8e9lduqutupg9hhzn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17pz1472uvv771eyolevaqbe94_image-header_pEs_1738744788000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Test de Sepang - Día 1</title>
+    <desc lang="es">Disfruta de los primeros test de pretemporada desde el asfalto de Sepang.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250206190000 +0000" stop="20250207010000 +0000" channel="3rn1guad8agrgd2ev95vb8isb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ds0ssi05cnb510lgj8a0qwxjw_image-header_pEs_1738744787000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Test de Sepang - Día 2</title>
+    <desc lang="es">Disfruta de los primeros test de pretemporada desde el asfalto de Sepang.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250207190000 +0000" stop="20250208010000 +0000" channel="1a7mr1uel5jkqqdtgnl55bv2r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dxeowi4ft0p1s7o198xydrsm_image-header_pEs_1738744788000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Test de Sepang - Día 3</title>
+    <desc lang="es">Disfruta de los primeros test de pretemporada desde el asfalto de Sepang.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
