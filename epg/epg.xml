@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Feb 05 12:34:51 2025">
+<tv date="Wed Feb 05 12:36:38 2025">
   <channel id="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <display-name>16788519-35f1-49f4-5fc2-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -1695,6 +1695,14 @@
   <channel id="2b7600a3-c6df-4ba4-3ac9-08dd3bb81e17">
     <display-name>2b7600a3-c6df-4ba4-3ac9-08dd3bb81e17</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/Campeonato-de-Espana-Sub23-Short-Track-Dia-2OKjpg-123504.jpg"/>
+  </channel>
+  <channel id="esp-e200575866c0ch20002">
+    <display-name>esp-e200575866c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
+  </channel>
+  <channel id="esp-e200519563c0ch20002">
+    <display-name>esp-e200519563c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
   </channel>
   <programme start="20250202145500 +0000" stop="20250202183000 +0000" channel="16788519-35f1-49f4-5fc2-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/BasketballBundesligaThumbnailBayernAlbaBerlinmatchpng-093920.png"/>
@@ -4240,5 +4248,17 @@
     <title lang="es">Campeonato de España Sub-23 Short Track | Día 2</title>
     <desc lang="es">El Campeonato de España Sub-23 Short Track se celebrará en la Pista Cubierta de Atletismo de Cataluña, en Sabadell, los días 8 y 9 de febrero.</desc>
     <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250209010000 +0000" stop="20250209030000 +0000" channel="esp-e200575866c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
+    <title lang="es">UFC  - </title>
+    <desc lang="es">Fase preliminar</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250209030000 +0000" stop="20250209070000 +0000" channel="esp-e200519563c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
+    <title lang="es">UFC  - Dricus Du Plessis - Sean Strickland</title>
+    <desc lang="es">Cartelera principal</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
