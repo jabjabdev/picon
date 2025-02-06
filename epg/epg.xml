@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 07 00:30:18 2025">
+<tv date="Fri Feb 07 00:36:40 2025">
   <channel id="7ef121f1-9e34-4212-1816-08dd3af437e6">
     <display-name>7ef121f1-9e34-4212-1816-08dd3af437e6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
@@ -1651,6 +1651,34 @@
   <channel id="8lkwmlb6r440qly8jdmnx82c">
     <display-name>8lkwmlb6r440qly8jdmnx82c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/597fm5dbyob1y7evaxmcxi7y9_image-header_pEs_1737129560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200584685c0ch20063">
+    <display-name>esp-e200584685c0ch20063</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+  </channel>
+  <channel id="esp-e200568958c0ch20071">
+    <display-name>esp-e200568958c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200569084c0ch20070">
+    <display-name>esp-e200569084c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200568961c0ch20071">
+    <display-name>esp-e200568961c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200568962c0ch20071">
+    <display-name>esp-e200568962c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200568967c0ch20071">
+    <display-name>esp-e200568967c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200568968c0ch20071">
+    <display-name>esp-e200568968c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250203182500 +0000" stop="20250203220000 +0000" channel="7ef121f1-9e34-4212-1816-08dd3af437e6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
@@ -4130,5 +4158,47 @@
     <title lang="es">Cuartos de final - Trapani Shark - Pallacanestro Trieste</title>
     <desc lang="es">Vive el encuentro de Coppa Italia entre Trapani Shark y Trieste.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250207160000 +0000" stop="20250207180000 +0000" channel="esp-e200584685c0ch20063">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
+    <title lang="es"> - Casey Ratzlaff - Daniel Caverzaschi - Stephane Houdet</title>
+    <desc lang="es">|  |  | Rotterdam</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250210100000 +0000" stop="20250210120000 +0000" channel="esp-e200568958c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250210100000 +0000" stop="20250210120000 +0000" channel="esp-e200569084c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250210130000 +0000" stop="20250210150000 +0000" channel="esp-e200568961c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250210150000 +0000" stop="20250210170000 +0000" channel="esp-e200568962c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250210190000 +0000" stop="20250210210000 +0000" channel="esp-e200568967c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250210210000 +0000" stop="20250210230000 +0000" channel="esp-e200568968c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
