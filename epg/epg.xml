@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 06 18:30:13 2025">
+<tv date="Thu Feb 06 18:35:00 2025">
   <channel id="5e3d288a-c3ee-43d9-8f35-08dd3c339e86">
     <display-name>5e3d288a-c3ee-43d9-8f35-08dd3c339e86</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/domingohexagoncupOKjpg-095621.jpg"/>
@@ -1643,6 +1643,34 @@
   <channel id="d89elldu8pn8bn9zbhqlwiny0">
     <display-name>d89elldu8pn8bn9zbhqlwiny0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n5hehc179ct51tk85cm0j9ujx_image-header_pEs_1736933425000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1fcb4e82-041e-4ac4-1e39-08dd3cbff2ba">
+    <display-name>1fcb4e82-041e-4ac4-1e39-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/LigaNacionalBasquetbolThumbnailPenaarolAtenasmatchpng-161256.png"/>
+  </channel>
+  <channel id="058c9c8a-d014-4f33-2b4e-08dd3bb2cab1">
+    <display-name>058c9c8a-d014-4f33-2b4e-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailChemnitzHeidelbergmatchpng-163144.png"/>
+  </channel>
+  <channel id="e07051bd-2b4a-4f8c-3add-08dd3bb81e17">
+    <display-name>e07051bd-2b4a-4f8c-3add-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailRostockAlbaBerlinmatchpng-164129.png"/>
+  </channel>
+  <channel id="e3d20423-4403-4490-79db-08dd3bbe4109">
+    <display-name>e3d20423-4403-4490-79db-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailIDKEuskotrenJoventutBadalonamatchpng-155732.png"/>
+  </channel>
+  <channel id="6b809946-1e05-4191-1e51-08dd3cbff2ba">
+    <display-name>6b809946-1e05-4191-1e51-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailGoettingenUlmmatchpng-165415.png"/>
+  </channel>
+  <channel id="3dedc350-52c3-44d5-f4d8-08dd3bbdec09">
+    <display-name>3dedc350-52c3-44d5-f4d8-08dd3bbdec09</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailHozonoGlobalJairisValenciaBasketmatchpng-160111.png"/>
+  </channel>
+  <channel id="89998d26-77a5-4359-1e54-08dd3cbff2ba">
+    <display-name>89998d26-77a5-4359-1e54-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/UnaviboraparacenarPrograma85jpg-155008.jpg"/>
   </channel>
   <programme start="20250202105500 +0000" stop="20250202220000 +0000" channel="5e3d288a-c3ee-43d9-8f35-08dd3c339e86">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/24/domingohexagoncupOKjpg-095621.jpg"/>
@@ -4110,5 +4138,47 @@
     <title lang="es">Catterall vs. Barboza Jr. - Live Face-Off</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250209225500 +0000" stop="20250210023000 +0000" channel="1fcb4e82-041e-4ac4-1e39-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/LigaNacionalBasquetbolThumbnailPenaarolAtenasmatchpng-161256.png"/>
+    <title lang="es">Peñarol - Atenas</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250211165500 +0000" stop="20250211203000 +0000" channel="058c9c8a-d014-4f33-2b4e-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailChemnitzHeidelbergmatchpng-163144.png"/>
+    <title lang="es">Chemnitz - Heidelberg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250212165500 +0000" stop="20250212203000 +0000" channel="e07051bd-2b4a-4f8c-3add-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailRostockAlbaBerlinmatchpng-164129.png"/>
+    <title lang="es">Rostock - Alba Berlin</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250213175500 +0000" stop="20250213213000 +0000" channel="e3d20423-4403-4490-79db-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailIDKEuskotrenJoventutBadalonamatchpng-155732.png"/>
+    <title lang="es">IDK Euskotren - Joventut Badalona</title>
+    <desc lang="es">El partido entre IDK Euskotren y Joventut Badalona correspondiente a la Jornada 20 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250213182500 +0000" stop="20250213220000 +0000" channel="6b809946-1e05-4191-1e51-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/BasketballBundesligaThumbnailGoettingenUlmmatchpng-165415.png"/>
+    <title lang="es">Göttingen - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250213185500 +0000" stop="20250213223000 +0000" channel="3dedc350-52c3-44d5-f4d8-08dd3bbdec09">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailHozonoGlobalJairisValenciaBasketmatchpng-160111.png"/>
+    <title lang="es">Hozono Global Jairis - Valencia Basket</title>
+    <desc lang="es">El partido entre Hozono Global Jairis y Valencia Basket correspondiente a la Jornada 20 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250212192500 +0000" stop="20250212213000 +0000" channel="89998d26-77a5-4359-1e54-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/UnaviboraparacenarPrograma85jpg-155008.jpg"/>
+    <title lang="es">Una víbora para cenar: Programa 85</title>
+    <desc lang="es">Programa quincenal que repasa la actualidad del mundo del pádel.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
