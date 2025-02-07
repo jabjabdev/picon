@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 07 12:34:54 2025">
+<tv date="Fri Feb 07 18:35:00 2025">
   <channel id="7ef121f1-9e34-4212-1816-08dd3af437e6">
     <display-name>7ef121f1-9e34-4212-1816-08dd3af437e6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
@@ -499,10 +499,6 @@
   <channel id="esp-e200488062c0ch20026">
     <display-name>esp-e200488062c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200488062_20250127-111952.jpeg"/>
-  </channel>
-  <channel id="esp-e200570958c0ch20063">
-    <display-name>esp-e200570958c0ch20063</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20063_3_200570958_20250125-112255.jpeg"/>
   </channel>
   <channel id="esp-e200533311c0ch20005">
     <display-name>esp-e200533311c0ch20005</display-name>
@@ -1188,10 +1184,6 @@
     <display-name>esp-e200580939c0ch20030</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_8_200580939_20250204-115952.jpeg"/>
   </channel>
-  <channel id="6ugmz8rh7lql8koaycx81tnc">
-    <display-name>6ugmz8rh7lql8koaycx81tnc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss5c7wigwso51jsgeukzmjnym_image-header_pEs_1738608378000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="bxagnwwfmrm56gy26mp4nphfv">
     <display-name>bxagnwwfmrm56gy26mp4nphfv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7phl5vvv9nhdhfpclou6u6k8d_image-header_pEs_1738668496000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1800,6 +1792,10 @@
     <display-name>5fd08980-7017-4864-f4d7-08dd3bbdec09</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALTorrelavegavisitorASOBALPuenteGenillocalpng-115948.png"/>
   </channel>
+  <channel id="05e8bea9-391a-430b-2b33-08dd3bb2cab1">
+    <display-name>05e8bea9-391a-430b-2b33-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/IsuzuUTEALeagueThumbnailsMelbourneVictoryWellingtonPhoenixmatchpng-142754.png"/>
+  </channel>
   <programme start="20250203182500 +0000" stop="20250203220000 +0000" channel="7ef121f1-9e34-4212-1816-08dd3af437e6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/BasketballBundesligaThumbnailLoewenBraunschweigVechtamatchpng-114115.png"/>
     <title lang="es">Löwen Braunschweig - Vechta</title>
@@ -2370,7 +2366,7 @@
     <desc lang="es">Vive el encuentro de Frauen Bundesliga entre 1.FC Köln - VfL Wolfsburg.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250207173000 +0000" stop="20250207233000 +0000" channel="7yqe5vu7bifiqp2d6e4aq6aad">
+  <programme start="20250207180000 +0000" stop="20250208000000 +0000" channel="7yqe5vu7bifiqp2d6e4aq6aad">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y13ieyrihkfp1ezihxf9a21p5_image-header_pEs_1734546911000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pitters vs. Dos Santos</title>
     <desc lang="es">Watch the biggest names and the best fights on DAZN, the global home of boxing.</desc>
@@ -2478,7 +2474,7 @@
     <desc lang="es">Día 3 | Partido 1 | Pista 1</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250207130100 +0000" stop="20250207150100 +0000" channel="esp-e200537481c0ch20007">
+  <programme start="20250207130600 +0000" stop="20250207150600 +0000" channel="esp-e200537481c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200537481_20250127-165937.jpeg"/>
     <title lang="es">Estrella de Bessèges - Etapa 3</title>
     <desc lang="es">Masculino | Bessèges &gt; Bessèges (164 km)</desc>
@@ -2496,7 +2492,7 @@
     <desc lang="es">Día 3 | Wheelchair Arena | Partido 3</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250207140000 +0000" stop="20250207155000 +0000" channel="esp-e200537547c0ch20008">
+  <programme start="20250207141000 +0000" stop="20250207155000 +0000" channel="esp-e200537547c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_0_200537547_20250127-092516.jpeg"/>
     <title lang="es">Copa del Mundo - Lake Placid</title>
     <desc lang="es">HS128 | Femenino</desc>
@@ -2538,7 +2534,7 @@
     <desc lang="es">Día 3 | Wheelchair Arena | Partido 4</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250207160500 +0000" stop="20250207165000 +0000" channel="esp-e200488061c0ch20026">
+  <programme start="20250207165632 +0000" stop="20250207175632 +0000" channel="esp-e200488061c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200488061_20250127-095129.jpeg"/>
     <title lang="es">Copa del Mundo - Otepaa</title>
     <desc lang="es">HS97 | Masculino</desc>
@@ -2549,12 +2545,6 @@
     <title lang="es">Copa del Mundo - Otepaa</title>
     <desc lang="es">HS 97 | Femenino</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250207170000 +0000" stop="20250207190000 +0000" channel="esp-e200570958c0ch20063">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20063_3_200570958_20250125-112255.jpeg"/>
-    <title lang="es">ABN AMRO Open (Silla de ruedas) - Rotterdam</title>
-    <desc lang="es">Día 3 | Pista 1 | Partido 3</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20250207173000 +0000" stop="20250207180000 +0000" channel="esp-e200533311c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200533311_20250128-163104.jpeg"/>
@@ -3583,12 +3573,6 @@
     <desc lang="es">Abierto de Gales | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250207130000 +0000" stop="20250207190000 +0000" channel="6ugmz8rh7lql8koaycx81tnc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ss5c7wigwso51jsgeukzmjnym_image-header_pEs_1738608378000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Chisora vs. Wallin - Weigh-In</title>
-    <desc lang="es">Watch the biggest names and the best fights on DAZN, the global home of boxing.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20250208113000 +0000" stop="20250208114500 +0000" channel="bxagnwwfmrm56gy26mp4nphfv">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7phl5vvv9nhdhfpclou6u6k8d_image-header_pEs_1738668496000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Weissenhaus - Día 2 - Pro stream</title>
@@ -4279,7 +4263,7 @@
     <desc lang="es">Vive el encuentro de Coppa Italia entre Trapani Shark y Trieste.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20250207160000 +0000" stop="20250207180000 +0000" channel="esp-e200584685c0ch20063">
+  <programme start="20250207161626 +0000" stop="20250207181626 +0000" channel="esp-e200584685c0ch20063">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
     <title lang="es"> - Casey Ratzlaff - Daniel Caverzaschi - Stephane Houdet</title>
     <desc lang="es">|  |  | Rotterdam</desc>
@@ -4500,5 +4484,11 @@
     <title lang="es">Ángel Ximénez Puente Genil - Bathco Torrelavega</title>
     <desc lang="es">El partido entre Ángel Ximénez Puente Genil y Bathco Torrelavega correspondiente a la Jornada 17 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250214080000 +0000" stop="20250214103500 +0000" channel="05e8bea9-391a-430b-2b33-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/IsuzuUTEALeagueThumbnailsMelbourneVictoryWellingtonPhoenixmatchpng-142754.png"/>
+    <title lang="es">Melbourne Victory - Wellington Phoenix</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
