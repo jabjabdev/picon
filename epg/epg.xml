@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 08 11:07:33 2025">
+<tv date="Sat Feb 08 18:30:13 2025">
   <channel id="esp-e200533314c0ch20005">
     <display-name>esp-e200533314c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200533314_20250125-080713.jpeg"/>
@@ -572,10 +572,6 @@
     <display-name>esp-e200570884c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570884_20250125-120147.jpeg"/>
   </channel>
-  <channel id="esp-e200537505c0ch20002">
-    <display-name>esp-e200537505c0ch20002</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200537505_20250127-211804.jpeg"/>
-  </channel>
   <channel id="esp-e200537545c0ch20008">
     <display-name>esp-e200537545c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200537545_20250128-145010.jpeg"/>
@@ -599,10 +595,6 @@
   <channel id="esp-e200523568c0ch20092">
     <display-name>esp-e200523568c0ch20092</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_2_200523568_20250128-120532.jpeg"/>
-  </channel>
-  <channel id="esp-e200570886c0ch20064">
-    <display-name>esp-e200570886c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570886_20250125-115804.jpeg"/>
   </channel>
   <channel id="esp-e200533316c0ch20005">
     <display-name>esp-e200533316c0ch20005</display-name>
@@ -1868,6 +1860,10 @@
     <display-name>1eby2vnw9caoopmhb275nroh2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="3pvec5cljqv1407245ve48672">
+    <display-name>3pvec5cljqv1407245ve48672</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1u4eo2vf8c3es1mzwfz9eon7cd_image-header_pEs_1739009977000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250205090000 +0000" stop="20250205103500 +0000" channel="esp-e200533314c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200533314_20250125-080713.jpeg"/>
     <title lang="es">Campeonato del Mundo - Saalbach Hinterglemm</title>
@@ -2678,7 +2674,7 @@
     <desc lang="es">Día 4 | Pista 1 | Partido 1</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250208113000 +0000" stop="20250208133000 +0000" channel="esp-e200570883c0ch20064">
+  <programme start="20250208141232 +0000" stop="20250208154232 +0000" channel="esp-e200570883c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570883_20250125-120357.jpeg"/>
     <title lang="es">ABN AMRO Open (Silla de ruedas) - Rotterdam</title>
     <desc lang="es">Día 4 | Wheelchair Arena | Partido 2</desc>
@@ -2714,23 +2710,17 @@
     <desc lang="es">Gundersen 10 km Masculino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250208130100 +0000" stop="20250208150100 +0000" channel="esp-e200537482c0ch20007">
+  <programme start="20250208132700 +0000" stop="20250208152700 +0000" channel="esp-e200537482c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_6_200537482_20250127-170220.jpeg"/>
     <title lang="es">Estrella de Bessèges - Etapa 4 </title>
     <desc lang="es">Masculino | Vauvert &gt; Mont Bouquet (155,7 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250208133000 +0000" stop="20250208153000 +0000" channel="esp-e200570884c0ch20064">
+  <programme start="20250208160824 +0000" stop="20250208180824 +0000" channel="esp-e200570884c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570884_20250125-120147.jpeg"/>
     <title lang="es">ABN AMRO Open (Silla de ruedas) - Rotterdam </title>
     <desc lang="es">Día 4 | Wheelchair Arena | Partido 3</desc>
     <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250208140000 +0000" stop="20250208153000 +0000" channel="esp-e200537505c0ch20002">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200537505_20250127-211804.jpeg"/>
-    <title lang="es">Superprestige - Middelkerke</title>
-    <desc lang="es">Masculino</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250208144500 +0000" stop="20250208164500 +0000" channel="esp-e200537545c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200537545_20250128-145010.jpeg"/>
@@ -2744,7 +2734,7 @@
     <desc lang="es">Masculino | Oropesa del Mar &gt; Portell de Morella (181,5 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250208153000 +0000" stop="20250208173000 +0000" channel="esp-e200570885c0ch20064">
+  <programme start="20250208173752 +0000" stop="20250208193752 +0000" channel="esp-e200570885c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570885_20250125-115917.jpeg"/>
     <title lang="es">ABN AMRO Open (Silla de ruedas) - Rotterdam</title>
     <desc lang="es">Día 4 | Wheelchair Arena | Partido 4</desc>
@@ -2762,17 +2752,11 @@
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250208170000 +0000" stop="20250208233000 +0000" channel="esp-e200523568c0ch20092">
+  <programme start="20250208171500 +0000" stop="20250208233000 +0000" channel="esp-e200523568c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_2_200523568_20250128-120532.jpeg"/>
     <title lang="es">Phoenix Open - Día 3</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250208173000 +0000" stop="20250208193000 +0000" channel="esp-e200570886c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_3_200570886_20250125-115804.jpeg"/>
-    <title lang="es">ABN AMRO Open (Silla de ruedas) - Rotterdam</title>
-    <desc lang="es">Día 5 | Wheelchair Arena | Partido 5</desc>
-    <category lang="es">Tenis</category>
   </programme>
   <programme start="20250208173000 +0000" stop="20250208180000 +0000" channel="esp-e200533316c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200533316_20250128-181041.jpeg"/>
@@ -4479,7 +4463,7 @@
     <desc lang="es">Copa del Mundo</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250208140000 +0000" stop="20250208153000 +0000" channel="esp-e200537505c0ch20004">
+  <programme start="20250208140700 +0000" stop="20250208153000 +0000" channel="esp-e200537505c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200537505_20250128-113636.jpeg"/>
     <title lang="es">Superprestige - Middelkerke</title>
     <desc lang="es">Masculino</desc>
@@ -4669,6 +4653,12 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Beterbiev vs. Bivol 2</title>
     <desc lang="es">Riad acogerá una revancha titánica del peso semipesado, en la que el campeón indiscutible Artur Beterbiev (21-0) se enfrentará a Dmitry Bivol (23-1).</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250210120000 +0000" stop="20250210180000 +0000" channel="3pvec5cljqv1407245ve48672">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1u4eo2vf8c3es1mzwfz9eon7cd_image-header_pEs_1739009977000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Queensberry 2025 Calendar Launch - Press Conference</title>
+    <desc lang="es">Frank Warren at the official Queensberry launch press conference, ahead of the promotions arrival to DAZN in April 2025.</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
