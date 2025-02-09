@@ -1,109 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Feb 09 06:36:51 2025">
-  <channel id="esp-e200533314c0ch20005">
-    <display-name>esp-e200533314c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200533314_20250125-080713.jpeg"/>
-  </channel>
-  <channel id="esp-e200568350c0ch20033">
-    <display-name>esp-e200568350c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568350_20250124-173856.jpeg"/>
-  </channel>
-  <channel id="esp-e200568349c0ch20032">
-    <display-name>esp-e200568349c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568349_20250124-173826.jpeg"/>
-  </channel>
-  <channel id="esp-e200568348c0ch20031">
-    <display-name>esp-e200568348c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568348_20250124-173742.jpeg"/>
-  </channel>
-  <channel id="esp-e200568351c0ch20034">
-    <display-name>esp-e200568351c0ch20034</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568351_20250124-173915.jpeg"/>
-  </channel>
-  <channel id="esp-e200533369c0ch20006">
-    <display-name>esp-e200533369c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200533369_20250125-081122.jpeg"/>
-  </channel>
-  <channel id="esp-e200570863c0ch20064">
-    <display-name>esp-e200570863c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200532438c0ch20001">
-    <display-name>esp-e200532438c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532438_20250124-155042.jpeg"/>
-  </channel>
-  <channel id="esp-e200568356c0ch20033">
-    <display-name>esp-e200568356c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568356_20250124-174011.jpeg"/>
-  </channel>
-  <channel id="esp-e200568354c0ch20032">
-    <display-name>esp-e200568354c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568354_20250124-173951.jpeg"/>
-  </channel>
-  <channel id="esp-e200568358c0ch20034">
-    <display-name>esp-e200568358c0ch20034</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568358_20250124-174028.jpeg"/>
-  </channel>
-  <channel id="esp-e200537479c0ch20007">
-    <display-name>esp-e200537479c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200537479_20250125-081902.jpeg"/>
-  </channel>
-  <channel id="esp-e200568352c0ch20031">
-    <display-name>esp-e200568352c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568352_20250124-173932.jpeg"/>
-  </channel>
-  <channel id="esp-e200532439c0ch20001">
-    <display-name>esp-e200532439c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532439_20250124-155205.jpeg"/>
-  </channel>
-  <channel id="esp-e200570873c0ch20064">
-    <display-name>esp-e200570873c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200532374c0ch20003">
-    <display-name>esp-e200532374c0ch20003</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200532374_20250121-154809.jpeg"/>
-  </channel>
-  <channel id="esp-e200568359c0ch20034">
-    <display-name>esp-e200568359c0ch20034</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568359_20250124-174146.jpeg"/>
-  </channel>
-  <channel id="esp-e200568355c0ch20032">
-    <display-name>esp-e200568355c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568355_20250124-174107.jpeg"/>
-  </channel>
-  <channel id="esp-e200570874c0ch20064">
-    <display-name>esp-e200570874c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200568357c0ch20033">
-    <display-name>esp-e200568357c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568357_20250124-174127.jpeg"/>
-  </channel>
-  <channel id="esp-e200568353c0ch20031">
-    <display-name>esp-e200568353c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568353_20250124-174047.jpeg"/>
-  </channel>
-  <channel id="esp-e200570875c0ch20064">
-    <display-name>esp-e200570875c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
-  <channel id="esp-e200568361c0ch20032">
-    <display-name>esp-e200568361c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568361_20250124-174326.jpeg"/>
-  </channel>
-  <channel id="esp-e200568360c0ch20031">
-    <display-name>esp-e200568360c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568360_20250124-174309.jpeg"/>
-  </channel>
-  <channel id="esp-e200568362c0ch20033">
-    <display-name>esp-e200568362c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568362_20250124-174341.jpeg"/>
-  </channel>
-  <channel id="esp-e200568363c0ch20034">
-    <display-name>esp-e200568363c0ch20034</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568363_20250124-174357.jpeg"/>
-  </channel>
+<tv date="Mon Feb 10 00:30:19 2025">
   <channel id="0fb0bfc2-7808-4d2f-5fde-08dd0e033b96">
     <display-name>0fb0bfc2-7808-4d2f-5fde-08dd0e033b96</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton1OKjpg-141002.jpg"/>
@@ -123,10 +19,6 @@
   <channel id="esp-e200537522c0ch20004">
     <display-name>esp-e200537522c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200537522_20250128-091001.jpeg"/>
-  </channel>
-  <channel id="esp-e200533374c0ch20006">
-    <display-name>esp-e200533374c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200533374_20250126-075203.jpeg"/>
   </channel>
   <channel id="esp-e200533264c0ch20005">
     <display-name>esp-e200533264c0ch20005</display-name>
@@ -272,34 +164,6 @@
     <display-name>c6f59954-ccff-4512-3f45-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/31/IsuzuUTEALeagueThumbnailsPerthGloryCentralCoastMarinersmatchpng-121008.png"/>
   </channel>
-  <channel id="7yqe5vu7bifiqp2d6e4aq6aad">
-    <display-name>7yqe5vu7bifiqp2d6e4aq6aad</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y13ieyrihkfp1ezihxf9a21p5_image-header_pEs_1734546911000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7x9w7h2xgruvxtfe85dzbbrbo">
-    <display-name>7x9w7h2xgruvxtfe85dzbbrbo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qbc7273gxueb4rza2oui2q2g_image-header_pEs_1737724112000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2dmgfz4tp7squo9bwabnyu5n8">
-    <display-name>2dmgfz4tp7squo9bwabnyu5n8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4w89i0qbkijk5y7v8v9j9r0ry_image-header_pEs_1735118184000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cqt0evp5qy2ngotww4sbuiexg">
-    <display-name>cqt0evp5qy2ngotww4sbuiexg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bguxzx7qy2fgtybl5lllr94f0_image-header_pEs_1733502240000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9w5mgyihbqmbq45g9sgzmn76c">
-    <display-name>9w5mgyihbqmbq45g9sgzmn76c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ic5pwa7bxbrdg46brw2dnux0_image-header_pEs_1738126163000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bz09p1o8wagig9jhpuldhkzkk">
-    <display-name>bz09p1o8wagig9jhpuldhkzkk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/527rx9lz55upd810ihqxai48k_image-header_pEs_1731239229000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="d5yj5w0lcuvhzs8rqm3g61hqs">
-    <display-name>d5yj5w0lcuvhzs8rqm3g61hqs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/co4esz4jkaymoiodm4s9240vi_image-header_pEs_1737648010000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200537520c0ch20004">
     <display-name>esp-e200537520c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200537520_20250125-093239.jpeg"/>
@@ -415,94 +279,6 @@
   <channel id="esp-e200537535c0ch20008">
     <display-name>esp-e200537535c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_0_200537535_20250127-115435.jpeg"/>
-  </channel>
-  <channel id="ar7vqxrnhoqx8kxy5obfa4uog">
-    <display-name>ar7vqxrnhoqx8kxy5obfa4uog</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b0h087py2nlz3t0ajibp5yuv_image-header_pEs_1736171312000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4f794hv89fyavblwp1jyztaum">
-    <display-name>4f794hv89fyavblwp1jyztaum</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/un83c5vm1uvm8h57yygwjxe9_image-header_pEs_1735832405000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8ovosco02c0ind8marbwlexhw">
-    <display-name>8ovosco02c0ind8marbwlexhw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q5f6rrzmxffbyaertcb173w4_image-header_pEs_1737646360000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8q82qk23khnhil5vssitw44yc">
-    <display-name>8q82qk23khnhil5vssitw44yc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1r2iv9uqkrscbtfky9at78i19_image-header_pEs_1737644730000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3skcqamb0fes3y7yeg1r2v4es">
-    <display-name>3skcqamb0fes3y7yeg1r2v4es</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9xqfxwjacpz8p83lxoa4enaxc_image-header_pEs_1737390679000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ckmh7gduqgzfc2t9d4u20h65z">
-    <display-name>ckmh7gduqgzfc2t9d4u20h65z</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ra05mdpsfz48zwyjgyunatvw_image-header_pEs_1738052484000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7zco85dfnnn9n96r4cit6zj84">
-    <display-name>7zco85dfnnn9n96r4cit6zj84</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xvgjjtr72jxci5zs9cwsgy6f_image-header_pEs_1737724113000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8og31aaxdau0fdma0vl8uj9qs">
-    <display-name>8og31aaxdau0fdma0vl8uj9qs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/37s5s9404a9czf42gixmz4iv5_image-header_pEs_1737644730000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2eecmw5ac0n0s23gngnovpxqs">
-    <display-name>2eecmw5ac0n0s23gngnovpxqs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2ssld27kixhsdm1u7r8ylgjc_image-header_pEs_1737557949000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2fi58bxqh3fdk0k6bx3meentg">
-    <display-name>2fi58bxqh3fdk0k6bx3meentg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahignbzltkd9thqmar15rybw4_image-header_pEs_1737557949000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2erpz10lbt8ciucjj76nd3uhg">
-    <display-name>2erpz10lbt8ciucjj76nd3uhg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9dtyinjeud165b50wth5405k1_image-header_pEs_1737557948000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2f51zaadn2luruh12oe9ppuz8">
-    <display-name>2f51zaadn2luruh12oe9ppuz8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/946b4zng1bh66ookph1cck3q2_image-header_pEs_1737557948000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2fv75nqyujb7tb3umg8uhslqs">
-    <display-name>2fv75nqyujb7tb3umg8uhslqs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pny816uq7lpd4dhpoveedyig_image-header_pEs_1737557948000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7qlvabyu2o8krpmx9l4lzu0ca">
-    <display-name>7qlvabyu2o8krpmx9l4lzu0ca</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5wj8wt94mur7obpb53h7hk3aw_image-header_pEs_1735301083000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="edl2te3on3oncs7tgljjagrp4">
-    <display-name>edl2te3on3oncs7tgljjagrp4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9opwolvu2epvq29bt2zks336c_image-header_pEs_1738147938000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8r2z7g4nydmhs9bsrzh6aruok">
-    <display-name>8r2z7g4nydmhs9bsrzh6aruok</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ycj21owekhb6m302ebj7p74_image-header_pEs_1737646999000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7xqll9aiarg9rolbt73i0y51w">
-    <display-name>7xqll9aiarg9rolbt73i0y51w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6pijnemuef6hmddvykvti5awg_image-header_pEs_1737724113000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="v7oio7cl2h97nnoijvojuok">
-    <display-name>v7oio7cl2h97nnoijvojuok</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67pc8f1jdrs9npzkpth8kweqo_image-header_pEs_1736352941000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3g09etp01grghrc7gocf6c61z">
-    <display-name>3g09etp01grghrc7gocf6c61z</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qbm8m4hk5pdo15swnwrpz74z7_image-header_pEs_1737975750000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2g8h2368k9m4jraif5gjkax3o">
-    <display-name>2g8h2368k9m4jraif5gjkax3o</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2aqxxawpp5jxvtuk9d27np2xu_image-header_pEs_1737557948000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3zwpt8i4jfr2ovwz5vv72qwy6">
-    <display-name>3zwpt8i4jfr2ovwz5vv72qwy6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j6lg7uryd79s1lvhe0ox4eork_image-header_pEs_1737977268000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ax2eob0jjlllatt4ejfirlvkk">
-    <display-name>ax2eob0jjlllatt4ejfirlvkk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xdvzkudgk9hmm8g66lpzb7d2_image-header_pEs_1736941318000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200537521c0ch20004">
     <display-name>esp-e200537521c0ch20004</display-name>
@@ -744,10 +520,6 @@
     <display-name>esp-e200537536c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_4_200537536_20250129-134118.jpeg"/>
   </channel>
-  <channel id="esp-e200537513c0ch20006">
-    <display-name>esp-e200537513c0ch20006</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200537513_20250127-212748.jpeg"/>
-  </channel>
   <channel id="esp-e200537546c0ch20008">
     <display-name>esp-e200537546c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_0_200537546_20250129-160940.jpeg"/>
@@ -828,22 +600,6 @@
     <display-name>d98fd048-4a52-4625-79d0-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALBenidormvisitorASOBALBMGuadalajaralocalpng-113558.png"/>
   </channel>
-  <channel id="bxcn44xmbmdy7qali53dy7wgk">
-    <display-name>bxcn44xmbmdy7qali53dy7wgk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhq1qjbydkcees5nag9qrh9n_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="by3udfsnub93nf42mws4pf310">
-    <display-name>by3udfsnub93nf42mws4pf310</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8eriksc13b7m37ep1gpfhac5g_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bxq7l50nyndo7udl2zywqe42c">
-    <display-name>bxq7l50nyndo7udl2zywqe42c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7un4l8c0ztvply9w7s8ge99yw_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="c01mxvqtpsdq8qsbpi62ahbf8">
-    <display-name>c01mxvqtpsdq8qsbpi62ahbf8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/apcijcrdsg0z4xagjb35m04kc_image-header_pEs_1738573157000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="c0f8krxa2jjd69cgx4of4bg2c">
     <display-name>c0f8krxa2jjd69cgx4of4bg2c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e37atzlnudc29dpjo1wuxtuo6_image-header_pEs_1738573158000/fill/none/top/none/85/300/180/webp/image"/>
@@ -911,10 +667,6 @@
   <channel id="fc5e482a-11bb-46fd-306e-08dd3af19e48">
     <display-name>fc5e482a-11bb-46fd-306e-08dd3af19e48</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Skeleton-mixed-teamOKjpg-141515.jpg"/>
-  </channel>
-  <channel id="f17p2vq2g8dhd051emd8ey7ml">
-    <display-name>f17p2vq2g8dhd051emd8ey7ml</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/frsabzf7ra2kmnaf4qkehpvl_image-header_pEs_1738585663000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3ijl3tmv0k9cm5hsn3m5dpnv8">
     <display-name>3ijl3tmv0k9cm5hsn3m5dpnv8</display-name>
@@ -1024,10 +776,6 @@
     <display-name>e575e93b-26dc-4d60-3f46-08dd0e0201c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/IsuzuUTEALeagueThumbnailsMacarthurFCWesternUnitedFCmatchpng-142426.png"/>
   </channel>
-  <channel id="8rm1x14thmt37g01sj9flrkdj">
-    <display-name>8rm1x14thmt37g01sj9flrkdj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7yju46i5d50ut02r6ug0nsuv6_image-header_pEs_1738668046000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="405xruv0rv605b5jjr4u7i9yx">
     <display-name>405xruv0rv605b5jjr4u7i9yx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k3i0vf96dh44dh0o319knb6s_image-header_pEs_1736763998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1039,10 +787,6 @@
   <channel id="f44af81c-45bc-4b33-79ee-08dd3bbe4109">
     <display-name>f44af81c-45bc-4b33-79ee-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/04/MINIATURA-LLpng-120007.png"/>
-  </channel>
-  <channel id="bxagnwwfmrm56gy26mp4nphfv">
-    <display-name>bxagnwwfmrm56gy26mp4nphfv</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7phl5vvv9nhdhfpclou6u6k8d_image-header_pEs_1738668496000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6kj6ojdsn9ty8lnbr2mospk6c">
     <display-name>6kj6ojdsn9ty8lnbr2mospk6c</display-name>
@@ -1176,10 +920,6 @@
     <display-name>esp-e200519563c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
   </channel>
-  <channel id="1a7mr1uel5jkqqdtgnl55bv2r">
-    <display-name>1a7mr1uel5jkqqdtgnl55bv2r</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dxeowi4ft0p1s7o198xydrsm_image-header_pEs_1738744788000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="a8d7b6a5-f974-4d7b-3aa2-08dd3bb81e17">
     <display-name>a8d7b6a5-f974-4d7b-3aa2-08dd3bb81e17</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/PrimeraFEBCantabriuavisitorPrimeraFEBBetislocalpng-102420.png"/>
@@ -1239,10 +979,6 @@
   <channel id="5327a2c5-5146-4258-79ce-08dd3bbe4109">
     <display-name>5327a2c5-5146-4258-79ce-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/AFCChampionsLeagueThumbnailBuriramUnitedUlsanHDFCmatchpng-150501.png"/>
-  </channel>
-  <channel id="9pjllo29hi04sarnfndm9srts">
-    <display-name>9pjllo29hi04sarnfndm9srts</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1l0w2wkcl5sp11m83x4ayukyvu_image-header_pEs_1738663151000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2dz98fyqqyypm27v78gvi6gb8">
     <display-name>2dz98fyqqyypm27v78gvi6gb8</display-name>
@@ -1427,14 +1163,6 @@
   <channel id="89998d26-77a5-4359-1e54-08dd3cbff2ba">
     <display-name>89998d26-77a5-4359-1e54-08dd3cbff2ba</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/06/UnaviboraparacenarPrograma85jpg-155008.jpg"/>
-  </channel>
-  <channel id="3hh1q1l4ecfmo9uu9ejq2r7py">
-    <display-name>3hh1q1l4ecfmo9uu9ejq2r7py</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6wl0c6td40ip7vb86zisn8kvb_image-header_pEs_1738676226000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7o6m9ye7b66xwktguw1po690x">
-    <display-name>7o6m9ye7b66xwktguw1po690x</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18sdt13bdlpir3bpz1ojftsv7_image-header_pEs_1737973286000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="29wvbbwhm9ioo0meychcvq0wk">
     <display-name>29wvbbwhm9ioo0meychcvq0wk</display-name>
@@ -1647,10 +1375,6 @@
   <channel id="05e8bea9-391a-430b-2b33-08dd3bb2cab1">
     <display-name>05e8bea9-391a-430b-2b33-08dd3bb2cab1</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/IsuzuUTEALeagueThumbnailsMelbourneVictoryWellingtonPhoenixmatchpng-142754.png"/>
-  </channel>
-  <channel id="8pjo4t12qm5jd84rx5xjg52zp">
-    <display-name>8pjo4t12qm5jd84rx5xjg52zp</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ey7cwg4zo3mxu47c59tm5bps_image-header_pEs_1738929669000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="28otgzun8jrifikfeykzp18gk">
     <display-name>28otgzun8jrifikfeykzp18gk</display-name>
@@ -2132,162 +1856,122 @@
     <display-name>esp-e200532032c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532032_20250205-191335.jpeg"/>
   </channel>
-  <programme start="20250205090000 +0000" stop="20250205103500 +0000" channel="esp-e200533314c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200533314_20250125-080713.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Saalbach Hinterglemm</title>
-    <desc lang="es">Descenso | Femenino | Entrenamiento 2</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250205100000 +0000" stop="20250205120000 +0000" channel="esp-e200568350c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568350_20250124-173856.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205100000 +0000" stop="20250205120000 +0000" channel="esp-e200568349c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568349_20250124-173826.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205100000 +0000" stop="20250205120000 +0000" channel="esp-e200568348c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568348_20250124-173742.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205100000 +0000" stop="20250205120000 +0000" channel="esp-e200568351c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568351_20250124-173915.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205110000 +0000" stop="20250205123500 +0000" channel="esp-e200533369c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200533369_20250125-081122.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Saalbach Hinterglemm</title>
-    <desc lang="es">Descenso | Masculino | Entrenamiento 1</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250205120000 +0000" stop="20250205140000 +0000" channel="esp-e200570863c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Rotterdam</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250205124200 +0000" stop="20250205135700 +0000" channel="esp-e200532438c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532438_20250124-155042.jpeg"/>
-    <title lang="es">Exact Cross - Maldegem</title>
-    <desc lang="es">Femenino</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="esp-e200568356c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568356_20250124-174011.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="esp-e200568354c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568354_20250124-173951.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="esp-e200568358c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568358_20250124-174028.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="esp-e200537479c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200537479_20250125-081902.jpeg"/>
-    <title lang="es">Estrella de Bessèges - Etapa 1</title>
-    <desc lang="es">Masculino | Bellegarde &gt; Bellegarde (159,1 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="esp-e200568352c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568352_20250124-173932.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205135700 +0000" stop="20250205152000 +0000" channel="esp-e200532439c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200532439_20250124-155205.jpeg"/>
-    <title lang="es">Exact Cross - Maldegem</title>
-    <desc lang="es">Masculino</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250205140000 +0000" stop="20250205160000 +0000" channel="esp-e200570873c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Rotterdam</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250205143000 +0000" stop="20250205160000 +0000" channel="esp-e200532374c0ch20003">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200532374_20250121-154809.jpeg"/>
-    <title lang="es">Vuelta a la Comunidad Valenciana - Etapa 1</title>
-    <desc lang="es">Masculino | Orihuela &gt; Orihuela (CRE, 34 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="esp-e200568359c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568359_20250124-174146.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="esp-e200568355c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568355_20250124-174107.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="esp-e200570874c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Rotterdam</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="esp-e200568357c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568357_20250124-174127.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="esp-e200568353c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568353_20250124-174047.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205180000 +0000" stop="20250205200000 +0000" channel="esp-e200570875c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Rotterdam</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250205191234 +0000" stop="20250205221234 +0000" channel="esp-e200568361c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200568361_20250124-174326.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205190000 +0000" stop="20250205210000 +0000" channel="esp-e200568360c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200568360_20250124-174309.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205190000 +0000" stop="20250205210000 +0000" channel="esp-e200568362c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200568362_20250124-174341.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250205190603 +0000" stop="20250205220603 +0000" channel="esp-e200568363c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200568363_20250124-174357.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
+  <channel id="35gan1po9qta1pdnxurechcr8">
+    <display-name>35gan1po9qta1pdnxurechcr8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kid3azstd9dq161raoxwmk42o_image-header_pEs_1738949166000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8p7eprfdogyn9zly3biockub4">
+    <display-name>8p7eprfdogyn9zly3biockub4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vfj09nyroapk1n4ol3s35xiyn_image-header_pEs_1737453834000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="34dh53fm3ugwlmx1akr8dc6nn">
+    <display-name>34dh53fm3ugwlmx1akr8dc6nn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kfss3cjytpo95l6b596rovbk_image-header_pEs_1736340846000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8rik2e8sgp0x9bcap8tgjys5w">
+    <display-name>8rik2e8sgp0x9bcap8tgjys5w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ckjeqepklxg7ngu3rwd6tykw_image-header_pEs_1738227540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8stcmrqqqb3x33n4pboy434lw">
+    <display-name>8stcmrqqqb3x33n4pboy434lw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2pechfkssgedaxt71cryhlr7_image-header_pEs_1738227541000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8ujyuohb6h1rw1byini4dzcb8">
+    <display-name>8ujyuohb6h1rw1byini4dzcb8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2n4s0f48epqg3425as7y6kywx_image-header_pEs_1738227540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c1jvl00v1t21iz9ydl4q1wahg">
+    <display-name>c1jvl00v1t21iz9ydl4q1wahg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/di6dbywkeu08kh2qog7yvbqe7_image-header_pEs_1738668067000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="629572zo6diu4rfr7i1bmxs9r">
+    <display-name>629572zo6diu4rfr7i1bmxs9r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gvqfe1n92ijf150jdx64jt05n_image-header_pEs_1738149787000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="82wyqxxgmi0au1sskzy88yr6c">
+    <display-name>82wyqxxgmi0au1sskzy88yr6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5wxxf49h8i3vhd0orgvnv8rw2_image-header_pEs_1737783015000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cp2astkwfj6ge4p5yd1qiok5w">
+    <display-name>cp2astkwfj6ge4p5yd1qiok5w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xbsfupgsr20d9eo05aon71hy_image-header_pEs_1737563244000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c3hip0p5kbes84knptcjkmiac">
+    <display-name>c3hip0p5kbes84knptcjkmiac</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80ownwti82t8slvu6qyg6k5fc_image-header_pEs_1738667153000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c4c39lmrzfy65dofgmvwu5kpg">
+    <display-name>c4c39lmrzfy65dofgmvwu5kpg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2xvdtfgi7bu1neknvayf8llq_image-header_pEs_1738669840000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ufrlusszbodbm3nci2cbon4k">
+    <display-name>3ufrlusszbodbm3nci2cbon4k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e7avappwt734cqortotdo1bx_image-header_pEs_1738635508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2ifisb2whs9e2i78h6pxn8kr8">
+    <display-name>2ifisb2whs9e2i78h6pxn8kr8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/599lqg8t2vyr09kw9wwnm9b1m_image-header_pEs_1738080833000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8ry2pmytwuz6uc3cvjmqvdc7o">
+    <display-name>8ry2pmytwuz6uc3cvjmqvdc7o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/h2yvoporzsdkhh72p8xd4p4c_image-header_pEs_1738227540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="28ednnm2tl7k85igmb3aymjh0">
+    <display-name>28ednnm2tl7k85igmb3aymjh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/379gkdl5ax7bmybw5pwfepf1n_image-header_pEs_1736353375000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5flyo0hfh6s51c03usy6lki6s">
+    <display-name>5flyo0hfh6s51c03usy6lki6s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ddy9dfv4mgx5km0ifxm3l28fz_image-header_pEs_1738700180000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3vysgkrufyp7toc4b48e50844">
+    <display-name>3vysgkrufyp7toc4b48e50844</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76bw521w49najcraybrow752m_image-header_pEs_1738635508000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cvrfm45dprjxnt2t6wsyn3wgk">
+    <display-name>cvrfm45dprjxnt2t6wsyn3wgk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6faxxt5buba7wq7nvwg9onpgw_image-header_pEs_1733987875000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cqbo1hthlgr1ri55r4wz6dgd0">
+    <display-name>cqbo1hthlgr1ri55r4wz6dgd0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jk140waenz8bobik51c43zes_image-header_pEs_1737563244000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2hp0o25b3i5xgaeudxajk78d0">
+    <display-name>2hp0o25b3i5xgaeudxajk78d0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b3eg5o5ebfmisjeqq4y28qi3w_image-header_pEs_1737917258000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8t8rvoy65bvmqaqtq0esddqtw">
+    <display-name>8t8rvoy65bvmqaqtq0esddqtw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78u26j2f6oqlv56wg8hmpcksa_image-header_pEs_1738227540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8tovjm42bcj2qjy18xijiyzh0">
+    <display-name>8tovjm42bcj2qjy18xijiyzh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6q1khebwr8ivej75cqv3r4ij0_image-header_pEs_1738227540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c3x6h3k4ob8779ikqs73xot1w">
+    <display-name>c3x6h3k4ob8779ikqs73xot1w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gtfj4t1zdg8924lw2mxq24di_image-header_pEs_1738668872000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cv1xzbkp803vacomxam682uc4">
+    <display-name>cv1xzbkp803vacomxam682uc4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9aqwnxbt3f1wkoynkb4mwtdna_image-header_pEs_1733990734000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2i2c06d65tffd43rqvmwckidw">
+    <display-name>2i2c06d65tffd43rqvmwckidw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3rg71cpu2i3jp0khjax8xujf8_image-header_pEs_1737919411000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="81csg2xrb8enr0r96y0cmm4gk">
+    <display-name>81csg2xrb8enr0r96y0cmm4gk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/24kfe9i9ib6r5d0ucjah6r8ye_image-header_pEs_1738830752000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1wpwnf2yf2c4dkg2w0c2tby1g">
+    <display-name>1wpwnf2yf2c4dkg2w0c2tby1g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qchm8s0nrib786jfpvf5smwg_image-header_pEs_1738768161000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c2b34a77j5eu91vggqbv4zevo">
+    <display-name>c2b34a77j5eu91vggqbv4zevo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78rphptt0q15r3gbuf0au73x1_image-header_pEs_1738661259000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250207075500 +0000" stop="20250207091500 +0000" channel="0fb0bfc2-7808-4d2f-5fde-08dd0e033b96">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton1OKjpg-141002.jpg"/>
     <title lang="es">Lillehammer 1 | Men's Skeleton Heat 1</title>
@@ -2316,12 +2000,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200537522_20250128-091001.jpeg"/>
     <title lang="es">Copa del Mundo - Deer Valley</title>
     <desc lang="es">Moguls | Masculino y Femenino</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250206083000 +0000" stop="20250206100500 +0000" channel="esp-e200533374c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200533374_20250126-075203.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Saalbach Hinterglemm</title>
-    <desc lang="es">Masculino Descenso</desc>
     <category lang="es">Esquí</category>
   </programme>
   <programme start="20250206100000 +0000" stop="20250206124500 +0000" channel="esp-e200533264c0ch20005">
@@ -2540,48 +2218,6 @@
     <desc lang="es">El partido correspondiente a la Jornada 18 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250207180000 +0000" stop="20250208000000 +0000" channel="7yqe5vu7bifiqp2d6e4aq6aad">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y13ieyrihkfp1ezihxf9a21p5_image-header_pEs_1734546911000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Pitters vs. Dos Santos</title>
-    <desc lang="es">Watch the biggest names and the best fights on DAZN, the global home of boxing.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207220000 +0000" channel="7x9w7h2xgruvxtfe85dzbbrbo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qbc7273gxueb4rza2oui2q2g_image-header_pEs_1737724112000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rayo Vallecano - Real Valladolid</title>
-    <desc lang="es">Una nueva jornada de LALIGA EA SPORTS echa a andar. ¡Disfruta del encuentro entre Rayo Vallecano y Real Valladolid en DAZN!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207220000 +0000" channel="2dmgfz4tp7squo9bwabnyu5n8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4w89i0qbkijk5y7v8v9j9r0ry_image-header_pEs_1735118184000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bayern München - Werder Bremen</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Bayern München - Werder Bremen.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207230000 +0000" channel="cqt0evp5qy2ngotww4sbuiexg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bguxzx7qy2fgtybl5lllr94f0_image-header_pEs_1733502240000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Manchester Basketball - London Lions</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y London Lions.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207230000 +0000" channel="9w5mgyihbqmbq45g9sgzmn76c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ic5pwa7bxbrdg46brw2dnux0_image-header_pEs_1738126163000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Surrey 89ers - Leicester Riders</title>
-    <desc lang="es">Vive el encuentro de SLB Cup entre Leicester Riders y Surrey 89ers.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207230000 +0000" channel="bz09p1o8wagig9jhpuldhkzkk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/527rx9lz55upd810ihqxai48k_image-header_pEs_1731239229000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Newcastle Eagles - Cheshire Phoenix</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Cheshire Phoenix y Newcastle Eagles.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250207193000 +0000" stop="20250207230000 +0000" channel="d5yj5w0lcuvhzs8rqm3g61hqs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/co4esz4jkaymoiodm4s9240vi_image-header_pEs_1737648010000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - Sheffield Sharks</title>
-    <desc lang="es">Vive el encuentro de SLB Cup entre Sheffield Sharks y Bristol Flyers.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20250208022000 +0000" stop="20250208040000 +0000" channel="esp-e200537520c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200537520_20250125-093239.jpeg"/>
     <title lang="es">Copa del Mundo - Deer Valley</title>
@@ -2755,138 +2391,6 @@
     <title lang="es">Copa del Mundo - Lake Placid</title>
     <desc lang="es">HS 128 | Masculino | Clasificación</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250208020000 +0000" stop="20250208080000 +0000" channel="ar7vqxrnhoqx8kxy5obfa4uog">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b0h087py2nlz3t0ajibp5yuv_image-header_pEs_1736171312000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Salt Lake - Atlanta</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20250208030000 +0000" stop="20250208090000 +0000" channel="4f794hv89fyavblwp1jyztaum">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/un83c5vm1uvm8h57yygwjxe9_image-header_pEs_1735832405000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Final</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Béisbol</category>
-  </programme>
-  <programme start="20250208110000 +0000" stop="20250208133000 +0000" channel="8ovosco02c0ind8marbwlexhw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q5f6rrzmxffbyaertcb173w4_image-header_pEs_1737646360000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">SD Eibar - Madrid CFF</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Madrid y Eibar.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208110000 +0000" stop="20250208133000 +0000" channel="8q82qk23khnhil5vssitw44yc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1r2iv9uqkrscbtfky9at78i19_image-header_pEs_1737644730000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">FC Levante Badalona - Granada CF</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre FC Levante Badalona - Granada CF.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208110000 +0000" stop="20250208133000 +0000" channel="3skcqamb0fes3y7yeg1r2v4es">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9xqfxwjacpz8p83lxoa4enaxc_image-header_pEs_1737390679000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bayer Leverkusen - SGS Essen</title>
-    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Bayer Leverkusen y SGS Essen.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208110000 +0000" stop="20250208150000 +0000" channel="ckmh7gduqgzfc2t9d4u20h65z">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ra05mdpsfz48zwyjgyunatvw_image-header_pEs_1738052484000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">UAE Tour femenino - Etapa 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250208123000 +0000" stop="20250208150000 +0000" channel="7zco85dfnnn9n96r4cit6zj84">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xvgjjtr72jxci5zs9cwsgy6f_image-header_pEs_1737724113000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">RC Celta - Real Betis</title>
-    <desc lang="es">Una nueva jornada de LALIGA EA SPORTS echa a andar. ¡Disfruta del encuentro entre RC Celta y Real Betis en DAZN!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208130000 +0000" stop="20250208153000 +0000" channel="8og31aaxdau0fdma0vl8uj9qs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/37s5s9404a9czf42gixmz4iv5_image-header_pEs_1737644730000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Levante UD - Real Madrid</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Levante y Real Madrid.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="2eecmw5ac0n0s23gngnovpxqs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2ssld27kixhsdm1u7r8ylgjc_image-header_pEs_1737557949000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Borussia Dortmund - Stuttgart</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Borussia Dortmund y Stuttgart.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="2fi58bxqh3fdk0k6bx3meentg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahignbzltkd9thqmar15rybw4_image-header_pEs_1737557949000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Wolfsburg v Bayer Leverkusen</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Bayer Leverkusen y Wolfsburg.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="2erpz10lbt8ciucjj76nd3uhg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9dtyinjeud165b50wth5405k1_image-header_pEs_1737557948000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hoffenheim - Union Berlin</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Union Berlin y Hoffenheim.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="2f51zaadn2luruh12oe9ppuz8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/946b4zng1bh66ookph1cck3q2_image-header_pEs_1737557948000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">SC Freiburg - Heidenheim</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Freiburg y Heidenheim.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="2fv75nqyujb7tb3umg8uhslqs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4pny816uq7lpd4dhpoveedyig_image-header_pEs_1737557948000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Mainz 05 - Augsburg</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Mainz 05 y Augsburg.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208143000 +0000" stop="20250208170000 +0000" channel="7qlvabyu2o8krpmx9l4lzu0ca">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5wj8wt94mur7obpb53h7hk3aw_image-header_pEs_1735301083000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Multigol - Jornada 21</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208151500 +0000" stop="20250208191500 +0000" channel="edl2te3on3oncs7tgljjagrp4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9opwolvu2epvq29bt2zks336c_image-header_pEs_1738147938000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Volta a la Comunitat Valenciana - Etapa 4 - Oropesa - Portell de Morella</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250208160000 +0000" stop="20250208183000 +0000" channel="8r2z7g4nydmhs9bsrzh6aruok">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ycj21owekhb6m302ebj7p74_image-header_pEs_1737646999000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Real Sociedad - Deportivo Abanca</title>
-    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Sociedad y Deportivo de La Coruña.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208170000 +0000" stop="20250208193000 +0000" channel="7xqll9aiarg9rolbt73i0y51w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6pijnemuef6hmddvykvti5awg_image-header_pEs_1737724113000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">UD Las Palmas - Villarreal CF</title>
-    <desc lang="es">Una nueva jornada de LALIGA EA SPORTS echa a andar. ¡Disfruta del encuentro entre UD Las Palmas y Villarreal CF en DAZN!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208170000 +0000" stop="20250208183000 +0000" channel="v7oio7cl2h97nnoijvojuok">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67pc8f1jdrs9npzkpth8kweqo_image-header_pEs_1736352941000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Larvik - ATTICGO Bm Elche</title>
-    <desc lang="es">Vive el encuentro de EHF Women's European League entre Larvik - ATTICGO Bm Elche.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20250208170000 +0000" stop="20250208230000 +0000" channel="3g09etp01grghrc7gocf6c61z">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qbm8m4hk5pdo15swnwrpz74z7_image-header_pEs_1737975750000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Makarenko - Kermas</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250208173000 +0000" stop="20250208200000 +0000" channel="2g8h2368k9m4jraif5gjkax3o">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2aqxxawpp5jxvtuk9d27np2xu_image-header_pEs_1737557948000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Borussia Mönchengladbach - Eintracht Frankfurt</title>
-    <desc lang="es">Vive el encuentro de Bundesliga entre Eintracht Frankfurt y Borussia M'gladbach.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208190000 +0000" stop="20250209010000 +0000" channel="3zwpt8i4jfr2ovwz5vv72qwy6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j6lg7uryd79s1lvhe0ox4eork_image-header_pEs_1737977268000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Chisora vs. Wallin</title>
-    <desc lang="es">Derek 'War' Chisora (35-13) regresa para enfrentarse a Otto Wallin (27-2) en el Co-op Live Arena de Manchester. Siendo esta la última pelea de Chisora en el Reino Unido, ¿podrá despedirse de sus seguidores locales con una victoria?</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250208190000 +0000" stop="20250208223000 +0000" channel="ax2eob0jjlllatt4ejfirlvkk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xdvzkudgk9hmm8g66lpzb7d2_image-header_pEs_1736941318000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Banco di Sardegna Sassari - EA7 Emporio Armani Milano</title>
-    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Olimpia Milano y Dinamo Sassari.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250209022000 +0000" stop="20250209040000 +0000" channel="esp-e200537521c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200537521_20250126-083108.jpeg"/>
@@ -3242,17 +2746,11 @@
     <desc lang="es">Masculino | Alès &gt; L'Ermitage (CRI, 10,6 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250209132000 +0000" stop="20250209144500 +0000" channel="esp-e200537536c0ch20008">
+  <programme start="20250209132500 +0000" stop="20250209144500 +0000" channel="esp-e200537536c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_4_200537536_20250129-134118.jpeg"/>
     <title lang="es">Copa del Mundo - Lake Placid</title>
     <desc lang="es">HS128 | Masculino</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250209135700 +0000" stop="20250209152000 +0000" channel="esp-e200537513c0ch20006">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200537513_20250127-212748.jpeg"/>
-    <title lang="es">X2O Trofee - Lille</title>
-    <desc lang="es">Masculino</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250209144500 +0000" stop="20250209164500 +0000" channel="esp-e200537546c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_0_200537546_20250129-160940.jpeg"/>
@@ -3284,7 +2782,7 @@
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250209163000 +0000" stop="20250209230000 +0000" channel="esp-e200523572c0ch20092">
+  <programme start="20250209164500 +0000" stop="20250209230000 +0000" channel="esp-e200523572c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_4_200523572_20250128-193739.jpeg"/>
     <title lang="es">Phoenix Open - Día 4</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
@@ -3373,30 +2871,6 @@
     <title lang="es">Impulse Guadalajara - Servigroup Hoteles Benidorm</title>
     <desc lang="es">El partido entre Impulse Guadalajara y Servigroup Hoteles Benidorm correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20250207194500 +0000" stop="20250207221500 +0000" channel="bxcn44xmbmdy7qali53dy7wgk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhq1qjbydkcees5nag9qrh9n_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Como - Juventus</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Juventus y Como.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208140000 +0000" stop="20250208163000 +0000" channel="by3udfsnub93nf42mws4pf310">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8eriksc13b7m37ep1gpfhac5g_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hellas Verona - Atalanta</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Atalanta y Hellas Verona.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208170000 +0000" stop="20250208193000 +0000" channel="bxq7l50nyndo7udl2zywqe42c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7un4l8c0ztvply9w7s8ge99yw_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Empoli - AC Milan</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Empoli y Milan.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208194500 +0000" stop="20250208221500 +0000" channel="c01mxvqtpsdq8qsbpi62ahbf8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/apcijcrdsg0z4xagjb35m04kc_image-header_pEs_1738573157000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Torino - Genoa</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Genoa y Torino.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250209113000 +0000" stop="20250209140000 +0000" channel="c0f8krxa2jjd69cgx4of4bg2c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e37atzlnudc29dpjo1wuxtuo6_image-header_pEs_1738573158000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3500,12 +2974,6 @@
     <title lang="es">Lillehammer 1 | Skeleton Mixed Team</title>
     <desc lang="es">Lillehammer (Noruega) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
     <category lang="es">Bobsleigh y Skeleton</category>
-  </programme>
-  <programme start="20250208123500 +0000" stop="20250208183500 +0000" channel="f17p2vq2g8dhd051emd8ey7ml">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/frsabzf7ra2kmnaf4qkehpvl_image-header_pEs_1738585663000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ciclocross - Middelkerke - Femenino y masculino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclocrós</category>
   </programme>
   <programme start="20250209230000 +0000" stop="20250210030000 +0000" channel="3ijl3tmv0k9cm5hsn3m5dpnv8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2xqoo11mfqvw125cny5qdwep9_image-header_pEs_1738604650000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3669,12 +3137,6 @@
     <desc lang="es">El partido correspondiente a la Jornada 18 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250208113000 +0000" stop="20250208114500 +0000" channel="8rm1x14thmt37g01sj9flrkdj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7yju46i5d50ut02r6ug0nsuv6_image-header_pEs_1738668046000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Weissenhaus - Día 2 - Consumer stream</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
-  </programme>
   <programme start="20250209093000 +0000" stop="20250209153000 +0000" channel="405xruv0rv605b5jjr4u7i9yx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k3i0vf96dh44dh0o319knb6s_image-header_pEs_1736763998000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">MotoGP - 2025 Season Launch Event</title>
@@ -3692,12 +3154,6 @@
     <title lang="es">UD Las Palmas - Villarreal CF</title>
     <desc lang="es">Los futbolistas entrenados por Diego Martínez afrontan un partido importante ante el Villarreal CF en el Estadio de Gran Canaria.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208113000 +0000" stop="20250208114500 +0000" channel="bxagnwwfmrm56gy26mp4nphfv">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7phl5vvv9nhdhfpclou6u6k8d_image-header_pEs_1738668496000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Weissenhaus - Día 2 - Pro stream</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20250209113000 +0000" stop="20250209114500 +0000" channel="6kj6ojdsn9ty8lnbr2mospk6c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5o9qovm1su9mmoazbx27s6in6_image-header_pEs_1738671567000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3897,12 +3353,6 @@
     <desc lang="es">Cartelera principal</desc>
     <category lang="es">MMA</category>
   </programme>
-  <programme start="20250207190000 +0000" stop="20250208010000 +0000" channel="1a7mr1uel5jkqqdtgnl55bv2r">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dxeowi4ft0p1s7o198xydrsm_image-header_pEs_1738744788000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Test de Sepang - Día 3</title>
-    <desc lang="es">Disfruta de los primeros test de pretemporada desde el asfalto de Sepang.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250211184000 +0000" stop="20250211221500 +0000" channel="a8d7b6a5-f974-4d7b-3aa2-08dd3bb81e17">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/PrimeraFEBCantabriuavisitorPrimeraFEBBetislocalpng-102420.png"/>
     <title lang="es">Real Betis Baloncesto - Grupo Alega Cantabria</title>
@@ -3992,12 +3442,6 @@
     <title lang="es">Buriram United - Ulsan HD FC</title>
     <desc lang="es">El partido correspondiente a la Jornada 7 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208190000 +0000" stop="20250209010000 +0000" channel="9pjllo29hi04sarnfndm9srts">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1l0w2wkcl5sp11m83x4ayukyvu_image-header_pEs_1738663151000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Thompson vs. Boardman</title>
-    <desc lang="es">BKFC arrives in Newcastle with an explosive card headlined by Karl Thompson vs. Rob Boardman.</desc>
-    <category lang="es">Bare Knuckle</category>
   </programme>
   <programme start="20250212101000 +0000" stop="20250212134000 +0000" channel="2dz98fyqqyypm27v78gvi6gb8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ab64ad6kgk2w6vx31t0wnuwsq_image-header_pEs_1733989733000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4274,18 +3718,6 @@
     <title lang="es">Una víbora para cenar: Programa 85</title>
     <desc lang="es">Programa quincenal que repasa la actualidad del mundo del pádel.</desc>
     <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20250208120000 +0000" stop="20250208180000 +0000" channel="3hh1q1l4ecfmo9uu9ejq2r7py">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6wl0c6td40ip7vb86zisn8kvb_image-header_pEs_1738676226000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ilia Bashota vs. Marley Zwanenberg</title>
-    <desc lang="es">Vive el encuentro de Rajadamnern World Series Muay Thai entre Marley Zwanenberg y Ilia Bashota.</desc>
-    <category lang="es">MMA</category>
-  </programme>
-  <programme start="20250208190000 +0000" stop="20250209010000 +0000" channel="7o6m9ye7b66xwktguw1po690x">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18sdt13bdlpir3bpz1ojftsv7_image-header_pEs_1737973286000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Kok World Series - Riga</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">MMA</category>
   </programme>
   <programme start="20250209113000 +0000" stop="20250209140000 +0000" channel="29wvbbwhm9ioo0meychcvq0wk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajs1rv1pusin5tqh5hk50a2se_image-header_pEs_1738683701000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4604,12 +4036,6 @@
     <title lang="es">Melbourne Victory - Wellington Phoenix</title>
     <desc lang="es">El partido correspondiente a la Jornada 19 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250208132000 +0000" stop="20250208192000 +0000" channel="8pjo4t12qm5jd84rx5xjg52zp">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ey7cwg4zo3mxu47c59tm5bps_image-header_pEs_1738929669000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Porsche Sprint Challenge SE 2025 - Estoril</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250209113000 +0000" stop="20250209140000 +0000" channel="28otgzun8jrifikfeykzp18gk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1w8wykvi7uqa911yq6pnxmf23h_image-header_pEs_1738955723000/fill/none/top/none/85/600/360/webp/image"/>
@@ -5330,5 +4756,179 @@
     <title lang="es">UFC Fight Night - Jared Cannonier - Gregory Rodrigues</title>
     <desc lang="es">Velada completa</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250216000000 +0000" stop="20250216060000 +0000" channel="35gan1po9qta1pdnxurechcr8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kid3azstd9dq161raoxwmk42o_image-header_pEs_1738949166000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Gonzalez vs. Espinoza</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250216010000 +0000" stop="20250216070000 +0000" channel="8p7eprfdogyn9zly3biockub4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vfj09nyroapk1n4ol3s35xiyn_image-header_pEs_1737453834000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Duarte vs. Prograis</title>
+    <desc lang="es">Golden Boy Promotions presents Oscar Duarte vs. Regis Prograis live from California.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250216010000 +0000" stop="20250216070000 +0000" channel="34dh53fm3ugwlmx1akr8dc6nn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kfss3cjytpo95l6b596rovbk_image-header_pEs_1736340846000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">The American Contender Regional - Final del centro</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250216110000 +0000" stop="20250216133000 +0000" channel="8rik2e8sgp0x9bcap8tgjys5w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ckjeqepklxg7ngu3rwd6tykw_image-header_pEs_1738227540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Athletic Club - Real Sociedad</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Sociedad y Athletic Club.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216110000 +0000" stop="20250216133000 +0000" channel="8stcmrqqqb3x33n4pboy434lw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2pechfkssgedaxt71cryhlr7_image-header_pEs_1738227541000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Deportivo Abanca - Atlético de Madrid</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Atlético Madrid y Deportivo de La Coruña.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216110000 +0000" stop="20250216133000 +0000" channel="8ujyuohb6h1rw1byini4dzcb8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2n4s0f48epqg3425as7y6kywx_image-header_pEs_1738227540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Granada CF - RCD Espanyol</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Granada y Espanyol.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216113000 +0000" stop="20250216140000 +0000" channel="c1jvl00v1t21iz9ydl4q1wahg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/di6dbywkeu08kh2qog7yvbqe7_image-header_pEs_1738668067000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fiorentina - Como</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Como y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216123000 +0000" stop="20250216183000 +0000" channel="629572zo6diu4rfr7i1bmxs9r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gvqfe1n92ijf150jdx64jt05n_image-header_pEs_1738149787000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Podiums &amp; Wrap Show from Red Barn Arena</title>
+    <desc lang="es">Watch the latest World Rally Championship action from Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250216140000 +0000" stop="20250216163000 +0000" channel="82wyqxxgmi0au1sskzy88yr6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5wxxf49h8i3vhd0orgvnv8rw2_image-header_pEs_1737783015000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Valladolid - Sevilla FC</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Real Valladolid y Sevilla.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216140000 +0000" stop="20250216163000 +0000" channel="cp2astkwfj6ge4p5yd1qiok5w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xbsfupgsr20d9eo05aon71hy_image-header_pEs_1737563244000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Liverpool - Wolverhampton</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Wolverhampton Wanderers y Liverpool.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216140000 +0000" stop="20250216163000 +0000" channel="c3hip0p5kbes84knptcjkmiac">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80ownwti82t8slvu6qyg6k5fc_image-header_pEs_1738667153000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Monza - Lecce</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Monza y Lecce.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216140000 +0000" stop="20250216163000 +0000" channel="c4c39lmrzfy65dofgmvwu5kpg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2xvdtfgi7bu1neknvayf8llq_image-header_pEs_1738669840000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Udinese - Empoli</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Udinese y Empoli.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216141500 +0000" stop="20250216164500 +0000" channel="3ufrlusszbodbm3nci2cbon4k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e7avappwt734cqortotdo1bx_image-header_pEs_1738635508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayern München - Werder Bremen</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Werder Bremen y Bayern München.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216143000 +0000" stop="20250216170000 +0000" channel="2ifisb2whs9e2i78h6pxn8kr8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/599lqg8t2vyr09kw9wwnm9b1m_image-header_pEs_1738080833000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Werder Bremen - Hoffenheim</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Hoffenheim y Werder Bremen.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216150000 +0000" stop="20250216173000 +0000" channel="8ry2pmytwuz6uc3cvjmqvdc7o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/h2yvoporzsdkhh72p8xd4p4c_image-header_pEs_1738227540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">FC Barcelona - Madrid CFF</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Madrid y Barcelona.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216150000 +0000" stop="20250216163000 +0000" channel="28ednnm2tl7k85igmb3aymjh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/379gkdl5ax7bmybw5pwfepf1n_image-header_pEs_1736353375000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Paris 92 - Super Amara Bera Bera</title>
+    <desc lang="es">Vive el encuentro de EHF Women's European League entre Paris 92 - Super Amara Bera Bera.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250216150000 +0000" stop="20250216183000 +0000" channel="5flyo0hfh6s51c03usy6lki6s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ddy9dfv4mgx5km0ifxm3l28fz_image-header_pEs_1738700180000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester Basketball - Leicester Riders</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Leicester Riders y Manchester Basketball.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250216154500 +0000" stop="20250216181500 +0000" channel="3vysgkrufyp7toc4b48e50844">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76bw521w49najcraybrow752m_image-header_pEs_1738635508000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vfl Wolfsburg - Eintracht Frankfurt</title>
+    <desc lang="es">Vive el encuentro de Frauen Bundesliga entre Wolfsburg y Eintracht Frankfurt.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216160000 +0000" stop="20250216193000 +0000" channel="cvrfm45dprjxnt2t6wsyn3wgk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6faxxt5buba7wq7nvwg9onpgw_image-header_pEs_1733987875000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">London Lions - Caledonia Gladiators</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre London Lions - Caledonia Gladiators.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250216163000 +0000" stop="20250216190000 +0000" channel="cqbo1hthlgr1ri55r4wz6dgd0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jk140waenz8bobik51c43zes_image-header_pEs_1737563244000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tottenham - Manchester United</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Manchester United y Tottenham Hotspur.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216163000 +0000" stop="20250216190000 +0000" channel="2hp0o25b3i5xgaeudxajk78d0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b3eg5o5ebfmisjeqq4y28qi3w_image-header_pEs_1737917258000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eintracht Frankfurt - Holstein Kiel</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Eintracht Frankfurt y Holstein Kiel.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216170000 +0000" stop="20250216193000 +0000" channel="8t8rvoy65bvmqaqtq0esddqtw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78u26j2f6oqlv56wg8hmpcksa_image-header_pEs_1738227540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Madrid - FC Levante Badalona</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Madrid y Levante Badalona.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216170000 +0000" stop="20250216193000 +0000" channel="8tovjm42bcj2qjy18xijiyzh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6q1khebwr8ivej75cqv3r4ij0_image-header_pEs_1738227540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Levante UD - Real Betis Féminas</title>
+    <desc lang="es">Vive el encuentro de Primera División Femenina entre Levante y Real Betis.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216170000 +0000" stop="20250216193000 +0000" channel="c3x6h3k4ob8779ikqs73xot1w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gtfj4t1zdg8924lw2mxq24di_image-header_pEs_1738668872000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Parma - AS Roma</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Roma y Parma.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216173000 +0000" stop="20250216210000 +0000" channel="cv1xzbkp803vacomxam682uc4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9aqwnxbt3f1wkoynkb4mwtdna_image-header_pEs_1733990734000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cheshire Phoenix - Sheffield Sharks</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Cheshire Phoenix - Sheffield Sharks.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250216183000 +0000" stop="20250216210000 +0000" channel="2i2c06d65tffd43rqvmwckidw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3rg71cpu2i3jp0khjax8xujf8_image-header_pEs_1737919411000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Heidenheim - Mainz 05</title>
+    <desc lang="es">Vive el encuentro de Bundesliga entre Heidenheim y Mainz 05.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216193000 +0000" stop="20250216220000 +0000" channel="81csg2xrb8enr0r96y0cmm4gk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/24kfe9i9ib6r5d0ucjah6r8ye_image-header_pEs_1738830752000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Betis - Real Sociedad (+ El Post)</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Real Betis y Real Sociedad.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216193000 +0000" stop="20250217013000 +0000" channel="1wpwnf2yf2c4dkg2w0c2tby1g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qchm8s0nrib786jfpvf5smwg_image-header_pEs_1738768161000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Daytona 500 - Carrera</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250216194500 +0000" stop="20250216221500 +0000" channel="c2b34a77j5eu91vggqbv4zevo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78rphptt0q15r3gbuf0au73x1_image-header_pEs_1738661259000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Juventus - Inter</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Juventus y Internazionale.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
