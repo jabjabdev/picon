@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 11 00:30:19 2025">
+<tv date="Tue Feb 11 06:36:41 2025">
   <channel id="96386f99-a658-4e37-a010-08dd0e03944b">
     <display-name>96386f99-a658-4e37-a010-08dd0e03944b</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton2OKjpg-141051.jpg"/>
@@ -1899,6 +1899,14 @@
   <channel id="c1xk0e3e4l2dcyafxuamkxogk">
     <display-name>c1xk0e3e4l2dcyafxuamkxogk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2yxo2nj73jc6washvivf181hu_image-header_pEs_1738679551000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200570673c0ch20012">
+    <display-name>esp-e200570673c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200570673_20250204-112813.jpeg"/>
+  </channel>
+  <channel id="esp-e200570615c0ch20001">
+    <display-name>esp-e200570615c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200570615_20250204-113052.jpeg"/>
   </channel>
   <programme start="20250207094000 +0000" stop="20250207105000 +0000" channel="96386f99-a658-4e37-a010-08dd0e03944b">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/30/Men-skeleton2OKjpg-141051.jpg"/>
@@ -4750,5 +4758,17 @@
     <title lang="es">Genoa - Venezia</title>
     <desc lang="es">Vive el encuentro de Serie A entre Genoa y Venezia.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250217105000 +0000" stop="20250217125000 +0000" channel="esp-e200570673c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200570673_20250204-112813.jpeg"/>
+    <title lang="es">UAE Tour - Etapa 1</title>
+    <desc lang="es">Masculino | Madinat Zayed Shams Solar Park &gt; Liwa Palace (138 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250217140000 +0000" stop="20250217163000 +0000" channel="esp-e200570615c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200570615_20250204-113052.jpeg"/>
+    <title lang="es">Clásica Jaén Paraíso Interior</title>
+    <desc lang="es">Masculino | Úbeda &gt; Úbeda (169 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
