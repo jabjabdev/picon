@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 11 18:34:54 2025">
+<tv date="Wed Feb 12 00:30:14 2025">
   <channel id="esp-e200537521c0ch20004">
     <display-name>esp-e200537521c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200537521_20250126-083108.jpeg"/>
@@ -1812,6 +1812,30 @@
     <display-name>ebe65a90-eb61-4e97-2b54-08dd3bb2cab1</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/3-divjpg-114805.jpg"/>
   </channel>
+  <channel id="7lmfq0rym5kf3ht9k4v11qwr1">
+    <display-name>7lmfq0rym5kf3ht9k4v11qwr1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3pk2g204x294n6bdwhh2d5pbk_image-header_pEs_1739274492000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cdz9s1o2cbfb84l38vjumyjbw">
+    <display-name>cdz9s1o2cbfb84l38vjumyjbw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12k5olk7aiaofbod71ei8u63e_image-header_pEs_1739207343000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="33hf0uiyegp7j2p9p8p6nlxuz">
+    <display-name>33hf0uiyegp7j2p9p8p6nlxuz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9b3zs16jo71li6x7ugute7ii3_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1oogj903ym6ynqrdaygwllv6c">
+    <display-name>1oogj903ym6ynqrdaygwllv6c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e5i0wc9rwtt0i05x93hoaiw9r_image-header_pEs_1736354938000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8x6bgomtrvdz9t1rz6u7o5rsz">
+    <display-name>8x6bgomtrvdz9t1rz6u7o5rsz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9tw2xrx25jvi84mvi7y70kh0n_image-header_pEs_1736346908000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7rva6g25effyfropcpzy3arro">
+    <display-name>7rva6g25effyfropcpzy3arro</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/etykdlcohfgthohfzog9zicow_image-header_pEs_1736355101000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250209022000 +0000" stop="20250209040000 +0000" channel="esp-e200537521c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200537521_20250126-083108.jpeg"/>
     <title lang="es">Copa del Mundo - Deer Valley </title>
@@ -2407,13 +2431,13 @@
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250211210000 +0000" stop="20250211230000 +0000" channel="esp-e200569101c0ch20069">
+  <programme start="20250211212433 +0000" stop="20250211232433 +0000" channel="esp-e200569101c0ch20069">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250211210000 +0000" stop="20250211230000 +0000" channel="esp-e200568983c0ch20036">
+  <programme start="20250211214233 +0000" stop="20250211234233 +0000" channel="esp-e200568983c0ch20036">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
@@ -4531,5 +4555,41 @@
     <title lang="es">Liga de Clubes Iberdrola | 1ª Fase  - 3ª División</title>
     <desc lang="es">El Pabellón Municipal de Son Moix en Palma de Mallorca (Baleares) acoge la 1ª Jornada de la Fase Regular de la Liga Iberdrola GAF 2025.</desc>
     <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20250215120000 +0000" stop="20250215180000 +0000" channel="7lmfq0rym5kf3ht9k4v11qwr1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3pk2g204x294n6bdwhh2d5pbk_image-header_pEs_1739274492000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jigsaw vs. Ryuya</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250218095000 +0000" stop="20250218135000 +0000" channel="cdz9s1o2cbfb84l38vjumyjbw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12k5olk7aiaofbod71ei8u63e_image-header_pEs_1739207343000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">UAE Tour - Etapa 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250218170000 +0000" stop="20250218193000 +0000" channel="33hf0uiyegp7j2p9p8p6nlxuz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9b3zs16jo71li6x7ugute7ii3_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">La Central</title>
+    <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218174500 +0000" stop="20250218191500 +0000" channel="1oogj903ym6ynqrdaygwllv6c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e5i0wc9rwtt0i05x93hoaiw9r_image-header_pEs_1736354938000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">HC Kriens-Luzern - Fraikin BM. Granollers</title>
+    <desc lang="es">Vive el encuentro de EHF European League entre HC Kriens-Luzern - Fraikin BM. Granollers.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250218194500 +0000" stop="20250219014500 +0000" channel="8x6bgomtrvdz9t1rz6u7o5rsz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9tw2xrx25jvi84mvi7y70kh0n_image-header_pEs_1736346908000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Presentación Mundial F1 2025</title>
+    <desc lang="es">Disfruta en DAZN de la presentación oficial de los monoplazas que participarán en el Mundial de F1 2025. ¡No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250218194500 +0000" stop="20250218211500 +0000" channel="7rva6g25effyfropcpzy3arro">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/etykdlcohfgthohfzog9zicow_image-header_pEs_1736355101000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Limoges Handball - Bidasoa Irun</title>
+    <desc lang="es">Vive el encuentro de EHF European League entre Limoges Handball - Bidasoa Irun.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
