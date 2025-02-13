@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 13 12:35:01 2025">
+<tv date="Thu Feb 13 12:36:37 2025">
   <channel id="esp-e200532423c0ch20004">
     <display-name>esp-e200532423c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -1671,6 +1671,46 @@
   <channel id="2f28cbb1-d015-409b-8f9b-08dd3c339e86">
     <display-name>2f28cbb1-d015-409b-8f9b-08dd3c339e86</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/13/AFCChampionsLeagueThumbnailShanghaiPortFCYokohamaFMarinosmatchpng-095647.png"/>
+  </channel>
+  <channel id="esp-e200569229c0ch20010">
+    <display-name>esp-e200569229c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569229_20250213-063313.jpeg"/>
+  </channel>
+  <channel id="esp-e200569230c0ch20010">
+    <display-name>esp-e200569230c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569230_20250213-063929.jpeg"/>
+  </channel>
+  <channel id="esp-e200569233c0ch20010">
+    <display-name>esp-e200569233c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569233_20250213-064534.jpeg"/>
+  </channel>
+  <channel id="esp-e200569234c0ch20010">
+    <display-name>esp-e200569234c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569234_20250213-065013.jpeg"/>
+  </channel>
+  <channel id="esp-e200570675c0ch20012">
+    <display-name>esp-e200570675c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200570675_20250204-113431.jpeg"/>
+  </channel>
+  <channel id="esp-e200570620c0ch20010">
+    <display-name>esp-e200570620c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200570620_20250127-180804.jpeg"/>
+  </channel>
+  <channel id="esp-e200533956c0ch20022">
+    <display-name>esp-e200533956c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200533956_20250204-143840.jpeg"/>
+  </channel>
+  <channel id="esp-e200518710c0ch20023">
+    <display-name>esp-e200518710c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200518710_20250204-144132.jpeg"/>
+  </channel>
+  <channel id="esp-e200518837c0ch20025">
+    <display-name>esp-e200518837c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_6_200518837_20250204-144514.jpeg"/>
+  </channel>
+  <channel id="esp-e200570645c0ch20011">
+    <display-name>esp-e200570645c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200570645_20250204-113842.jpeg"/>
   </channel>
   <programme start="20250209100000 +0000" stop="20250209110000 +0000" channel="esp-e200532423c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -4180,5 +4220,65 @@
     <title lang="es">Shanghai Port FC - Yokohama F. Marinos</title>
     <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250213130000 +0000" stop="20250213150000 +0000" channel="esp-e200569229c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569229_20250213-063313.jpeg"/>
+    <title lang="es">Jackson Page - Tom Ford</title>
+    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250213150000 +0000" stop="20250213170000 +0000" channel="esp-e200569230c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569230_20250213-063929.jpeg"/>
+    <title lang="es">Sanderson Lam - Stephen Maguire</title>
+    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250213190000 +0000" stop="20250213210000 +0000" channel="esp-e200569233c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569233_20250213-064534.jpeg"/>
+    <title lang="es">Ryan Day - Ali Carter</title>
+    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250213210000 +0000" stop="20250213230000 +0000" channel="esp-e200569234c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_2_200569234_20250213-065013.jpeg"/>
+    <title lang="es">Matthew Selt - Jack Lisowski</title>
+    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250219075000 +0000" stop="20250219125000 +0000" channel="esp-e200570675c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200570675_20250204-113431.jpeg"/>
+    <title lang="es">UAE Tour - Etapa 3</title>
+    <desc lang="es">Masculino | Ras Al Khaimah &gt; Jebel Jais (179 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250219130000 +0000" stop="20250219150000 +0000" channel="esp-e200570620c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200570620_20250127-180804.jpeg"/>
+    <title lang="es">Vuelta a Andalucía - Etapa 1</title>
+    <desc lang="es">Masculino | Torrox Costa &gt; Cueva de Nerja (160 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250219130500 +0000" stop="20250219135000 +0000" channel="esp-e200533956c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_6_200533956_20250204-143840.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Lenzerheide</title>
+    <desc lang="es">Individual Masculino | Entrenamiento</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250219135000 +0000" stop="20250219160000 +0000" channel="esp-e200518710c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200518710_20250204-144132.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Lenzerheide</title>
+    <desc lang="es">Individual Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250219140500 +0000" stop="20250219154500 +0000" channel="esp-e200518837c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_6_200518837_20250204-144514.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Lenzerheide</title>
+    <desc lang="es">Individual Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250219150000 +0000" stop="20250219170000 +0000" channel="esp-e200570645c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200570645_20250204-113842.jpeg"/>
+    <title lang="es">Vuelta al Algarve - Etapa 1</title>
+    <desc lang="es">Masculino | Portimao &gt; Lagos (190 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
