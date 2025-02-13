@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 13 18:34:57 2025">
+<tv date="Thu Feb 13 18:36:41 2025">
   <channel id="esp-e200532423c0ch20004">
     <display-name>esp-e200532423c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -1731,6 +1731,14 @@
   <channel id="7d743565-be06-4259-a1a4-08dd4a90df2f">
     <display-name>7d743565-be06-4259-a1a4-08dd4a90df2f</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/RecopaSudamericanaThumbnailRacingBotafogomatchpng-150711.png"/>
+  </channel>
+  <channel id="esp-e200597880c0ch20020">
+    <display-name>esp-e200597880c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240403-132838.jpeg"/>
+  </channel>
+  <channel id="esp-e200598038c0ch20009">
+    <display-name>esp-e200598038c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200598038_20250213-143918.png"/>
   </channel>
   <programme start="20250209100000 +0000" stop="20250209110000 +0000" channel="esp-e200532423c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -4330,5 +4338,17 @@
     <title lang="es">Racing - Botafogo</title>
     <desc lang="es">El partido entre Racing y Botafogo correspondiente a la ida de la CONMEBOL Recopa 2025.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250215123500 +0000" stop="20250215140000 +0000" channel="esp-e200597880c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240403-132838.jpeg"/>
+    <title lang="es">Falun - Masculino 10km C</title>
+    <desc lang="es">Copa del Mundo</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250215205500 +0000" stop="20250215220000 +0000" channel="esp-e200598038c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_6_200598038_20250213-143918.png"/>
+    <title lang="es">El Club</title>
+    <desc lang="es">MMA UFC</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
