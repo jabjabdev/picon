@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 13 12:30:15 2025">
+<tv date="Thu Feb 13 12:35:01 2025">
   <channel id="esp-e200532423c0ch20004">
     <display-name>esp-e200532423c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -1623,6 +1623,54 @@
   <channel id="e19q07lo1a9t869w897x3wero">
     <display-name>e19q07lo1a9t869w897x3wero</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1baq8v7izz3kx1ffua1jgzunee_image-header_pEs_1739371193000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a49ad565-6a7e-4e98-79fc-08dd3bbe4109">
+    <display-name>a49ad565-6a7e-4e98-79fc-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailPakhtakorAlSaddSCmatchpng-144204.png"/>
+  </channel>
+  <channel id="0e40caf3-6b1c-4aa9-8f9c-08dd3c339e86">
+    <display-name>0e40caf3-6b1c-4aa9-8f9c-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlShortaAlAinFCmatchpng-144908.png"/>
+  </channel>
+  <channel id="9e2607aa-acec-49c5-7a04-08dd3bbe4109">
+    <display-name>9e2607aa-acec-49c5-7a04-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailPersepolisFCAlNassrClubmatchpng-144932.png"/>
+  </channel>
+  <channel id="9cab97bc-7ad2-449e-7a05-08dd3bbe4109">
+    <display-name>9cab97bc-7ad2-449e-7a05-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlAhliSaudiFCAlGharafaSCmatchpng-144959.png"/>
+  </channel>
+  <channel id="7df81762-2ff1-4db9-7a02-08dd3bbe4109">
+    <display-name>7df81762-2ff1-4db9-7a02-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailGwangjuFCBuriramUnitedmatchpng-145129.png"/>
+  </channel>
+  <channel id="2c4aa7fd-92a8-404f-7a03-08dd3bbe4109">
+    <display-name>2c4aa7fd-92a8-404f-7a03-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailKawasakiFrontaleCentralCoastMarinersmatchpng-145152.png"/>
+  </channel>
+  <channel id="c63bec79-61ad-44ac-3ae7-08dd3bb81e17">
+    <display-name>c63bec79-61ad-44ac-3ae7-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailJohorDarulTazimFCFCPohangSteelersmatchpng-145228.png"/>
+  </channel>
+  <channel id="47441933-e456-4109-f4fb-08dd3bbdec09">
+    <display-name>47441933-e456-4109-f4fb-08dd3bbdec09</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailShanghaiShenhuaVisselKobematchpng-145252.png"/>
+  </channel>
+  <channel id="71763823-0aa9-4f43-7a06-08dd3bbe4109">
+    <display-name>71763823-0aa9-4f43-7a06-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlRayyanSCEsteghlalFCmatchpng-145027.png"/>
+  </channel>
+  <channel id="13a6a933-81ff-4cab-7a07-08dd3bbe4109">
+    <display-name>13a6a933-81ff-4cab-7a07-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlWaslFCAlHilalSFCmatchpng-145058.png"/>
+  </channel>
+  <channel id="1fcffb39-593c-4831-3ae8-08dd3bb81e17">
+    <display-name>1fcffb39-593c-4831-3ae8-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailUlsanHDFCShandongTaishanFCmatchpng-145322.png"/>
+  </channel>
+  <channel id="2f28cbb1-d015-409b-8f9b-08dd3c339e86">
+    <display-name>2f28cbb1-d015-409b-8f9b-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/13/AFCChampionsLeagueThumbnailShanghaiPortFCYokohamaFMarinosmatchpng-095647.png"/>
   </channel>
   <programme start="20250209100000 +0000" stop="20250209110000 +0000" channel="esp-e200532423c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -4060,5 +4108,77 @@
     <title lang="es">Cacace vs. Wood - Launch Press Conference</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250217132000 +0000" stop="20250217160000 +0000" channel="a49ad565-6a7e-4e98-79fc-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailPakhtakorAlSaddSCmatchpng-144204.png"/>
+    <title lang="es">Pakhtakor - Al Sadd SC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250217152000 +0000" stop="20250217180000 +0000" channel="0e40caf3-6b1c-4aa9-8f9c-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlShortaAlAinFCmatchpng-144908.png"/>
+    <title lang="es">Al Shorta - Al Ain FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250217152000 +0000" stop="20250217180000 +0000" channel="9e2607aa-acec-49c5-7a04-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailPersepolisFCAlNassrClubmatchpng-144932.png"/>
+    <title lang="es">Persepolis FC - Al Nassr Club</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250217172000 +0000" stop="20250217200000 +0000" channel="9cab97bc-7ad2-449e-7a05-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlAhliSaudiFCAlGharafaSCmatchpng-144959.png"/>
+    <title lang="es">Al Ahli Saudi FC - Al Gharafa SC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218092000 +0000" stop="20250218120000 +0000" channel="7df81762-2ff1-4db9-7a02-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailGwangjuFCBuriramUnitedmatchpng-145129.png"/>
+    <title lang="es">Gwangju FC - Buriram United</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218092000 +0000" stop="20250218120000 +0000" channel="2c4aa7fd-92a8-404f-7a03-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailKawasakiFrontaleCentralCoastMarinersmatchpng-145152.png"/>
+    <title lang="es">Kawasaki Frontale - Central Coast Mariners</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218112000 +0000" stop="20250218140000 +0000" channel="c63bec79-61ad-44ac-3ae7-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailJohorDarulTazimFCFCPohangSteelersmatchpng-145228.png"/>
+    <title lang="es">Johor Darul Ta'zim FC - FC Pohang Steelers</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218112000 +0000" stop="20250218140000 +0000" channel="47441933-e456-4109-f4fb-08dd3bbdec09">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailShanghaiShenhuaVisselKobematchpng-145252.png"/>
+    <title lang="es">Shanghai Shenhua - Vissel Kobe</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218152000 +0000" stop="20250218180000 +0000" channel="71763823-0aa9-4f43-7a06-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlRayyanSCEsteghlalFCmatchpng-145027.png"/>
+    <title lang="es">Al Rayyan SC - Esteghlal FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250218152000 +0000" stop="20250218180000 +0000" channel="13a6a933-81ff-4cab-7a07-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailAlWaslFCAlHilalSFCmatchpng-145058.png"/>
+    <title lang="es">Al Wasl FC - Al Hilal SFC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250219092000 +0000" stop="20250219120000 +0000" channel="1fcffb39-593c-4831-3ae8-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/11/AFCChampionsLeagueThumbnailUlsanHDFCShandongTaishanFCmatchpng-145322.png"/>
+    <title lang="es">Ulsan HD FC - Shandong Taishan FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250219112000 +0000" stop="20250219140000 +0000" channel="2f28cbb1-d015-409b-8f9b-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/13/AFCChampionsLeagueThumbnailShanghaiPortFCYokohamaFMarinosmatchpng-095647.png"/>
+    <title lang="es">Shanghai Port FC - Yokohama F. Marinos</title>
+    <desc lang="es">El partido correspondiente a la Jornada 8 de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
