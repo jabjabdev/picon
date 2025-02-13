@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 13 12:36:37 2025">
+<tv date="Thu Feb 13 18:30:15 2025">
   <channel id="esp-e200532423c0ch20004">
     <display-name>esp-e200532423c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
@@ -512,16 +512,8 @@
     <display-name>esp-e200569227c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="esp-e200569229c0ch20036">
-    <display-name>esp-e200569229c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
   <channel id="esp-e200569228c0ch20069">
     <display-name>esp-e200569228c0ch20069</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200569230c0ch20036">
-    <display-name>esp-e200569230c0ch20036</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200487225c0ch20027">
@@ -1712,6 +1704,18 @@
     <display-name>esp-e200570645c0ch20011</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200570645_20250204-113842.jpeg"/>
   </channel>
+  <channel id="2nj25x55i4bnp06947f0zqsk4">
+    <display-name>2nj25x55i4bnp06947f0zqsk4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c9yxzsnmnaf8kupicagvxdtyp_image-header_pEs_1739355255000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2mqffj2g40sshreufzlzgikus">
+    <display-name>2mqffj2g40sshreufzlzgikus</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2b2gzi52h1dpb760pw1sdt53b_image-header_pEs_1739355255000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7ggeovpwf4pbrblwev12caak3">
+    <display-name>7ggeovpwf4pbrblwev12caak3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu6jepa7imx4bgc2bjlyn9ngi_image-header_pEs_1739443553000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250209100000 +0000" stop="20250209110000 +0000" channel="esp-e200532423c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_6_200532423_20250121-162355.jpeg"/>
     <title lang="es">VCV Féminas</title>
@@ -2480,55 +2484,43 @@
     <desc lang="es">Abierto de Gales | 3ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250213130000 +0000" stop="20250213150000 +0000" channel="esp-e200569229c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20250213150000 +0000" stop="20250213170000 +0000" channel="esp-e200569228c0ch20069">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 3ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250213150000 +0000" stop="20250213170000 +0000" channel="esp-e200569230c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | 3ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250213152500 +0000" stop="20250213162000 +0000" channel="esp-e200487225c0ch20027">
+  <programme start="20250213175500 +0000" stop="20250213185000 +0000" channel="esp-e200487225c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200487225_20250103-115052.jpeg"/>
     <title lang="es">Campeonato del Mundo - Jeddah</title>
     <desc lang="es">Libres 1</desc>
     <category lang="es">Formula E</category>
   </programme>
-  <programme start="20250213153000 +0000" stop="20250213210000 +0000" channel="esp-e200523673c0ch20091">
+  <programme start="20250213173000 +0000" stop="20250214010000 +0000" channel="esp-e200523673c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523673_20250202-111105.jpeg"/>
     <title lang="es">Genesis Invitational - Día 1</title>
     <desc lang="es">PGA Tour | Señal Alternativa</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250213161500 +0000" stop="20250213210000 +0000" channel="esp-e200523676c0ch20094">
+  <programme start="20250213174500 +0000" stop="20250214010000 +0000" channel="esp-e200523676c0ch20094">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20094_0_200523676_20250202-104722.jpeg"/>
     <title lang="es">Genesis Invitational - Día 1</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250213161500 +0000" stop="20250213210000 +0000" channel="esp-e200523675c0ch20093">
+  <programme start="20250213180000 +0000" stop="20250214010000 +0000" channel="esp-e200523675c0ch20093">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_0_200523675_20250202-104943.jpeg"/>
     <title lang="es">Genesis Invitational - Día 1</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250213163000 +0000" stop="20250213210000 +0000" channel="esp-e200523674c0ch20092">
+  <programme start="20250213180000 +0000" stop="20250214010000 +0000" channel="esp-e200523674c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523674_20250202-110756.jpeg"/>
     <title lang="es">Genesis Invitational - Día 1</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250213171500 +0000" stop="20250213210500 +0000" channel="esp-e200549992c0ch20013">
+  <programme start="20250213172000 +0000" stop="20250213205500 +0000" channel="esp-e200549992c0ch20013">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200549992_20250124-184002.jpeg"/>
     <title lang="es">Campeonato de Europa - Heusden-Zolder</title>
     <desc lang="es">Día 2</desc>
@@ -4279,6 +4271,24 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_6_200570645_20250204-113842.jpeg"/>
     <title lang="es">Vuelta al Algarve - Etapa 1</title>
     <desc lang="es">Masculino | Portimao &gt; Lagos (190 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250215113000 +0000" stop="20250215140000 +0000" channel="2nj25x55i4bnp06947f0zqsk4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c9yxzsnmnaf8kupicagvxdtyp_image-header_pEs_1739355255000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinal - Sassuolo - AS Roma (ida)</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia Women entre Roma y Sassuolo.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250216140000 +0000" stop="20250216163000 +0000" channel="2mqffj2g40sshreufzlzgikus">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2b2gzi52h1dpb760pw1sdt53b_image-header_pEs_1739355255000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinal - Fiorentina - Juventus (ida)</title>
+    <desc lang="es">Vive el encuentro de Coppa Italia Women entre Juventus y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250219105000 +0000" stop="20250219145000 +0000" channel="7ggeovpwf4pbrblwev12caak3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu6jepa7imx4bgc2bjlyn9ngi_image-header_pEs_1739443553000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">UAE Tour - Etapa 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
 </tv>
