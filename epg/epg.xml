@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 14 18:35:01 2025">
+<tv date="Fri Feb 14 18:36:38 2025">
   <channel id="esp-e200533265c0ch20005">
     <display-name>esp-e200533265c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200533265_20250125-131148.jpeg"/>
@@ -1551,6 +1551,22 @@
   <channel id="8ba43955-633f-4ff7-2b58-08dd3bb2cab1">
     <display-name>8ba43955-633f-4ff7-2b58-08dd3bb2cab1</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueShakhtarlocalpng-105014.png"/>
+  </channel>
+  <channel id="esp-e200610431c0ch20036">
+    <display-name>esp-e200610431c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_2_200610431_20250214-161156.jpeg"/>
+  </channel>
+  <channel id="esp-e200487230c0ch20016">
+    <display-name>esp-e200487230c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20029_6_200487230_20250103-115312.jpeg"/>
+  </channel>
+  <channel id="esp-e200609530c0ch20016">
+    <display-name>esp-e200609530c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_8_200609530_20250214-133656.jpeg"/>
+  </channel>
+  <channel id="esp-e200603576c0ch20060">
+    <display-name>esp-e200603576c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20060_6_200603576_20250214-111525.jpeg"/>
   </channel>
   <programme start="20250211084500 +0000" stop="20250211104500 +0000" channel="esp-e200533265c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200533265_20250125-131148.jpeg"/>
@@ -3879,6 +3895,30 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueShakhtarlocalpng-105014.png"/>
     <title lang="es">Shakhtar - Livyi Bereh</title>
     <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250214161500 +0000" stop="20250214174002 +0000" channel="esp-e200610431c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_2_200610431_20250214-161156.jpeg"/>
+    <title lang="es">Jackson Page - Luca Brecel</title>
+    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250214162959 +0000" stop="20250214182959 +0000" channel="esp-e200487230c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20029_6_200487230_20250103-115312.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Jeddah</title>
+    <desc lang="es">1ª Carrera</desc>
+    <category lang="es">Formula E</category>
+  </programme>
+  <programme start="20250215163000 +0000" stop="20250215183000 +0000" channel="esp-e200609530c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_8_200609530_20250214-133656.jpeg"/>
+    <title lang="es">Jeddah - 2ª Carrera</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Formula E</category>
+  </programme>
+  <programme start="20250215170000 +0000" stop="20250215200000 +0000" channel="esp-e200603576c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20060_6_200603576_20250214-111525.jpeg"/>
+    <title lang="es">Atlético de Madrid - RC Celta</title>
+    <desc lang="es">LaLiga 2024/25 | Jornada 24</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
