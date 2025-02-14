@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 14 12:36:37 2025">
+<tv date="Fri Feb 14 18:35:01 2025">
   <channel id="esp-e200533265c0ch20005">
     <display-name>esp-e200533265c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200533265_20250125-131148.jpeg"/>
@@ -448,10 +448,6 @@
     <display-name>esp-e200518844c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_6_200518844_20250201-134115.jpeg"/>
   </channel>
-  <channel id="esp-e200569266c0ch20069">
-    <display-name>esp-e200569266c0ch20069</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
   <channel id="esp-e200523677c0ch20091">
     <display-name>esp-e200523677c0ch20091</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523677_20250203-125617.jpeg"/>
@@ -467,10 +463,6 @@
   <channel id="esp-e200523678c0ch20092">
     <display-name>esp-e200523678c0ch20092</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523678_20250203-142604.jpeg"/>
-  </channel>
-  <channel id="esp-e200487230c0ch20029">
-    <display-name>esp-e200487230c0ch20029</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20029_6_200487230_20250103-115312.jpeg"/>
   </channel>
   <channel id="esp-e200487957c0ch20095">
     <display-name>esp-e200487957c0ch20095</display-name>
@@ -1080,18 +1072,6 @@
     <display-name>esp-e200547096c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200547096_20250205-112041.jpeg"/>
   </channel>
-  <channel id="a9ay04wchs796x21s2fg2untg">
-    <display-name>a9ay04wchs796x21s2fg2untg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12j1x3as4vhxx1hqo87bsi1p6u_image-header_pEs_1738123062000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="adwxb5k4fh9yyq43hjc0fnnkk">
-    <display-name>adwxb5k4fh9yyq43hjc0fnnkk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11imsdgso70k01dqqykfg3ykdd_image-header_pEs_1738129007000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="amwsg1239yt618cs4q19ug9hw">
-    <display-name>amwsg1239yt618cs4q19ug9hw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yjofamzwyvls1axaeqqg2qrew_image-header_pEs_1738135301000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="ax1igmbron1fub5j0xnl2pt78">
     <display-name>ax1igmbron1fub5j0xnl2pt78</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wzbr9gpe8r6y13fout4beg53s_image-header_pEs_1738144476000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1539,6 +1519,38 @@
   <channel id="997bdc79-59a4-4f4c-08ab-08dd4c1823f3">
     <display-name>997bdc79-59a4-4f4c-08ab-08dd4c1823f3</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/14/LibertadoresThumbnailAlianzaLimaBocaJuniorsmatchpng-093541.png"/>
+  </channel>
+  <channel id="ec231239-bc2b-415f-1e58-08dd3cbff2ba">
+    <display-name>ec231239-bc2b-415f-1e58-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueKoloslocalpng-100734.png"/>
+  </channel>
+  <channel id="987214a4-9546-40e9-f4fc-08dd3bbdec09">
+    <display-name>987214a4-9546-40e9-f4fc-08dd3bbdec09</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
+  </channel>
+  <channel id="d9b3c0d1-2711-417a-3aea-08dd3bb81e17">
+    <display-name>d9b3c0d1-2711-417a-3aea-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueInhuletslocalpng-102126.png"/>
+  </channel>
+  <channel id="96659eab-f02c-4b8d-1e59-08dd3cbff2ba">
+    <display-name>96659eab-f02c-4b8d-1e59-08dd3cbff2ba</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueRukhlocalpng-102244.png"/>
+  </channel>
+  <channel id="77ac7092-0714-4453-8f9d-08dd3c339e86">
+    <display-name>77ac7092-0714-4453-8f9d-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVorsklavisitorUkrainianPremierLeagueObolonlocalpng-102409.png"/>
+  </channel>
+  <channel id="07419f2b-e932-4f41-3aeb-08dd3bb81e17">
+    <display-name>07419f2b-e932-4f41-3aeb-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueOlexandrialocalpng-104245.png"/>
+  </channel>
+  <channel id="e5266808-2c3a-4472-8f9f-08dd3c339e86">
+    <display-name>e5266808-2c3a-4472-8f9f-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueKarpatyvisitorUkrainianPremierLeagueDynamoKievlocalpng-104849.png"/>
+  </channel>
+  <channel id="8ba43955-633f-4ff7-2b58-08dd3bb2cab1">
+    <display-name>8ba43955-633f-4ff7-2b58-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueShakhtarlocalpng-105014.png"/>
   </channel>
   <programme start="20250211084500 +0000" stop="20250211104500 +0000" channel="esp-e200533265c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_3_200533265_20250125-131148.jpeg"/>
@@ -2188,7 +2200,7 @@
     <desc lang="es">Eslalon gigante | Masculino | 2ª manga</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250214130000 +0000" stop="20250214150000 +0000" channel="esp-e200547006c0ch20003">
+  <programme start="20250214133500 +0000" stop="20250214154000 +0000" channel="esp-e200547006c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200547006_20250203-094012.jpeg"/>
     <title lang="es">Tour La Provence - Etapa 1</title>
     <desc lang="es">Masculino | Marseille &gt; St-Victoret (175,1 km)</desc>
@@ -2212,41 +2224,29 @@
     <desc lang="es">Sprint Femenino</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20250214150000 +0000" stop="20250214180000 +0000" channel="esp-e200569266c0ch20069">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250214153000 +0000" stop="20250214210000 +0000" channel="esp-e200523677c0ch20091">
+  <programme start="20250214173000 +0000" stop="20250215010000 +0000" channel="esp-e200523677c0ch20091">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20091_0_200523677_20250203-125617.jpeg"/>
     <title lang="es">Genesis Invitational - Día 2</title>
     <desc lang="es">PGA Tour | Señal Alternativa</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250214161500 +0000" stop="20250214210000 +0000" channel="esp-e200523679c0ch20093">
+  <programme start="20250214180000 +0000" stop="20250215010000 +0000" channel="esp-e200523679c0ch20093">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_0_200523679_20250203-130722.jpeg"/>
     <title lang="es">Genesis Invitational - Día 2</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250214161500 +0000" stop="20250214210000 +0000" channel="esp-e200523680c0ch20094">
+  <programme start="20250214174500 +0000" stop="20250215010000 +0000" channel="esp-e200523680c0ch20094">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20094_0_200523680_20250203-130944.jpeg"/>
     <title lang="es">Genesis Invitational - Día 2</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250214163000 +0000" stop="20250214210000 +0000" channel="esp-e200523678c0ch20092">
+  <programme start="20250214180000 +0000" stop="20250215010000 +0000" channel="esp-e200523678c0ch20092">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20092_0_200523678_20250203-142604.jpeg"/>
     <title lang="es">Genesis Invitational - Día 2</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250214163000 +0000" stop="20250214183000 +0000" channel="esp-e200487230c0ch20029">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20029_6_200487230_20250103-115312.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Jeddah</title>
-    <desc lang="es">1ª Carrera</desc>
-    <category lang="es">Formula E</category>
   </programme>
   <programme start="20250214170000 +0000" stop="20250214200000 +0000" channel="esp-e200487957c0ch20095">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20095_0_200487957_20250203-132410.jpeg"/>
@@ -2254,7 +2254,7 @@
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250214171500 +0000" stop="20250214204000 +0000" channel="esp-e200549993c0ch20013">
+  <programme start="20250214172000 +0000" stop="20250214203000 +0000" channel="esp-e200549993c0ch20013">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20013_6_200549993_20250124-184108.jpeg"/>
     <title lang="es">Campeonato de Europa - Heusden-Zolder</title>
     <desc lang="es">Día 3</desc>
@@ -3160,24 +3160,6 @@
     <desc lang="es">Femenino</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250214134800 +0000" stop="20250214194800 +0000" channel="a9ay04wchs796x21s2fg2untg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12j1x3as4vhxx1hqo87bsi1p6u_image-header_pEs_1738123062000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Sweden - Stage 5</title>
-    <desc lang="es">Watch the latest World Rally Championship action from Sweden.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250214144900 +0000" stop="20250214204900 +0000" channel="adwxb5k4fh9yyq43hjc0fnnkk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11imsdgso70k01dqqykfg3ykdd_image-header_pEs_1738129007000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Sweden - Stage 6</title>
-    <desc lang="es">Watch the latest World Rally Championship action from Sweden.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250214155700 +0000" stop="20250214215700 +0000" channel="amwsg1239yt618cs4q19ug9hw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yjofamzwyvls1axaeqqg2qrew_image-header_pEs_1738135301000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Sweden - Stage 7</title>
-    <desc lang="es">Watch the latest World Rally Championship action from Sweden.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250214180500 +0000" stop="20250215000500 +0000" channel="ax1igmbron1fub5j0xnl2pt78">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wzbr9gpe8r6y13fout4beg53s_image-header_pEs_1738144476000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rally Sweden - Stage 8</title>
@@ -3849,6 +3831,54 @@
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/14/LibertadoresThumbnailAlianzaLimaBocaJuniorsmatchpng-093541.png"/>
     <title lang="es">Alianza Lima - Boca Juniors</title>
     <desc lang="es">El partido entre Alianza Lima y Boca Juniors correspondiente a la ida de la fase previa de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250221125500 +0000" stop="20250221153000 +0000" channel="ec231239-bc2b-415f-1e58-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueKoloslocalpng-100734.png"/>
+    <title lang="es">Kolos - Chornomorets</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250222102500 +0000" stop="20250222130000 +0000" channel="987214a4-9546-40e9-f4fc-08dd3bbdec09">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
+    <title lang="es">Kryvbas - Veres</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250222125500 +0000" stop="20250222153000 +0000" channel="d9b3c0d1-2711-417a-3aea-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueInhuletslocalpng-102126.png"/>
+    <title lang="es">Inhulets - Polissya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250222152500 +0000" stop="20250222180000 +0000" channel="96659eab-f02c-4b8d-1e59-08dd3cbff2ba">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueRukhlocalpng-102244.png"/>
+    <title lang="es">Rukh - LNZ</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250223102500 +0000" stop="20250223130000 +0000" channel="77ac7092-0714-4453-8f9d-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVorsklavisitorUkrainianPremierLeagueObolonlocalpng-102409.png"/>
+    <title lang="es">Obolon - Vorskla</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250223125500 +0000" stop="20250223153000 +0000" channel="07419f2b-e932-4f41-3aeb-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueOlexandrialocalpng-104245.png"/>
+    <title lang="es">Oleksandrya - Zorya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250223152500 +0000" stop="20250223180000 +0000" channel="e5266808-2c3a-4472-8f9f-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueKarpatyvisitorUkrainianPremierLeagueDynamoKievlocalpng-104849.png"/>
+    <title lang="es">Dynamo - Karpaty</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250224152500 +0000" stop="20250224180000 +0000" channel="8ba43955-633f-4ff7-2b58-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueShakhtarlocalpng-105014.png"/>
+    <title lang="es">Shakhtar - Livyi Bereh</title>
+    <desc lang="es">El partido correspondiente a la Jornada 18 de la Ukrainian Premier League 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
