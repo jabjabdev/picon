@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 17 06:36:54 2025">
+<tv date="Mon Feb 17 12:36:45 2025">
   <channel id="e3d20423-4403-4490-79db-08dd3bbe4109">
     <display-name>e3d20423-4403-4490-79db-08dd3bbe4109</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailIDKEuskotrenJoventutBadalonamatchpng-155732.png"/>
@@ -1703,6 +1703,14 @@
   <channel id="esp-e200524016c0ch20093">
     <display-name>esp-e200524016c0ch20093</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20093_2_200524016_20250212-203132.jpeg"/>
+  </channel>
+  <channel id="esp-e200610813c0ch20008">
+    <display-name>esp-e200610813c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+  </channel>
+  <channel id="esp-e200591461c0ch20009">
+    <display-name>esp-e200591461c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121334.jpeg"/>
   </channel>
   <programme start="20250213175500 +0000" stop="20250213213000 +0000" channel="e3d20423-4403-4490-79db-08dd3bbe4109">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/03/LigaFemeninaEndesaThumbnailIDKEuskotrenJoventutBadalonamatchpng-155732.png"/>
@@ -4260,5 +4268,17 @@
     <title lang="es">Open de México - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250222015000 +0000" stop="20250222040000 +0000" channel="esp-e200610813c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+    <title lang="es">Calgary - Halfpipe</title>
+    <desc lang="es">Copa del Mundo</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20250222132500 +0000" stop="20250222170000 +0000" channel="esp-e200591461c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121334.jpeg"/>
+    <title lang="es">Copa del Mundo - Tomaszów Mazowiecki</title>
+    <desc lang="es">Día 2</desc>
+    <category lang="es">Patinaje</category>
   </programme>
 </tv>
