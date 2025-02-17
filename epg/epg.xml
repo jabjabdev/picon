@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 18 00:30:25 2025">
+<tv date="Tue Feb 18 00:32:03 2025">
   <channel id="170cccae-1d19-4624-2b19-08dd3bb2cab1">
     <display-name>170cccae-1d19-4624-2b19-08dd3bb2cab1</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALGranollersvisitorASOBALBenidormlocalpng-112707.png"/>
@@ -1631,6 +1631,14 @@
   <channel id="irf80jv7xhv2x7dogp6fy04b">
     <display-name>irf80jv7xhv2x7dogp6fy04b</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o7outhnv7a4310mrwbxl6mgm2_image-header_pEs_1721669418000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a1i1z0ypqjtihugkjtkc08shw">
+    <display-name>a1i1z0ypqjtihugkjtkc08shw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9s8metdl6ujm1c46xeacxe9os_image-header_pEs_1739793405000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6qt1orcw42wcc4qcuer3f5xsp">
+    <display-name>6qt1orcw42wcc4qcuer3f5xsp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ppryxy67exsx1030ip6obu884_image-header_pEs_1739799141000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250214172500 +0000" stop="20250214200000 +0000" channel="170cccae-1d19-4624-2b19-08dd3bb2cab1">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALGranollersvisitorASOBALBenidormlocalpng-112707.png"/>
@@ -4080,5 +4088,17 @@
     <title lang="es">Código F1 - Las Vegas</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250222153000 +0000" stop="20250222213000 +0000" channel="a1i1z0ypqjtihugkjtkc08shw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9s8metdl6ujm1c46xeacxe9os_image-header_pEs_1739793405000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol 2 - True Geordie Watchalong</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250222163000 +0000" stop="20250222223000 +0000" channel="6qt1orcw42wcc4qcuer3f5xsp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ppryxy67exsx1030ip6obu884_image-header_pEs_1739799141000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Beterbiev vs. Bivol 2 - ShowBizz The Adult Watchalong</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
