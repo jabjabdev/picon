@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 18 06:32:01 2025">
+<tv date="Tue Feb 18 06:36:39 2025">
   <channel id="170cccae-1d19-4624-2b19-08dd3bb2cab1">
     <display-name>170cccae-1d19-4624-2b19-08dd3bb2cab1</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALGranollersvisitorASOBALBenidormlocalpng-112707.png"/>
@@ -1643,6 +1643,30 @@
   <channel id="561bwsq0qvauv4qgfsfyygjte">
     <display-name>561bwsq0qvauv4qgfsfyygjte</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ucvcb12j1rms116sm4a3qn9hw_image-header_pEs_1739813680000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200578266c0ch20037">
+    <display-name>esp-e200578266c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578265c0ch20035">
+    <display-name>esp-e200578265c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578269c0ch20036">
+    <display-name>esp-e200578269c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578270c0ch20037">
+    <display-name>esp-e200578270c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578273c0ch20036">
+    <display-name>esp-e200578273c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578274c0ch20037">
+    <display-name>esp-e200578274c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250214172500 +0000" stop="20250214200000 +0000" channel="170cccae-1d19-4624-2b19-08dd3bb2cab1">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALGranollersvisitorASOBALBenidormlocalpng-112707.png"/>
@@ -4110,5 +4134,41 @@
     <title lang="es">Beterbiev vs. Bivol 2 - Ring Magazine Watchalong</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250224013000 +0000" stop="20250224043000 +0000" channel="esp-e200578266c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224013000 +0000" stop="20250224043000 +0000" channel="esp-e200578265c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224060000 +0000" stop="20250224090000 +0000" channel="esp-e200578269c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224060000 +0000" stop="20250224090000 +0000" channel="esp-e200578270c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="esp-e200578273c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="esp-e200578274c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
