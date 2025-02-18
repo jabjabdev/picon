@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 18 18:30:24 2025">
+<tv date="Wed Feb 19 00:30:25 2025">
   <channel id="77812344-d3ad-43d5-8f69-08dd3c339e86">
     <display-name>77812344-d3ad-43d5-8f69-08dd3c339e86</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALAdemarvisitorASOBALVilladeArandalocalpng-113352.png"/>
@@ -1511,6 +1511,34 @@
   <channel id="cdz9s1o2cbfb84l38vjumyjbw">
     <display-name>cdz9s1o2cbfb84l38vjumyjbw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12k5olk7aiaofbod71ei8u63e_image-header_pEs_1739207343000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eu7cb73v29c1tfhzsuj5y4x04">
+    <display-name>eu7cb73v29c1tfhzsuj5y4x04</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/be36k25urk9bfzvb2gwl08se5_image-header_pEs_1739875394000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cvk0erynir4aj77er9ldbjm6s">
+    <display-name>cvk0erynir4aj77er9ldbjm6s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50ggfngv6skcmc3nfmj30hpvp_image-header_pEs_1737641512000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cvya3ffjz705z0y4df7n3s1lg">
+    <display-name>cvya3ffjz705z0y4df7n3s1lg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34q644rm5a2pinyuxxcudvlj5_image-header_pEs_1737641512000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cxk2lpo4c91wfp2oka60z5gk4">
+    <display-name>cxk2lpo4c91wfp2oka60z5gk4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/334d0s1kmb4lyd4e2x7mztlbw_image-header_pEs_1737641512000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9ywf3f5l0cs1o9bxmklh0dfys">
+    <display-name>9ywf3f5l0cs1o9bxmklh0dfys</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18r60oey5srlj2nim2mrll09w_image-header_pEs_1737048323000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="qvj88u8ioiwavagrhk8z1lhw">
+    <display-name>qvj88u8ioiwavagrhk8z1lhw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61ncc4az25wcis3iq7oe58res_image-header_pEs_1739892691000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cxyii49crq90gqa1amt6nbg9g">
+    <display-name>cxyii49crq90gqa1amt6nbg9g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dtiyv31uctsc2xyp6jagmazy_image-header_pEs_1737641512000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250215155500 +0000" stop="20250215183000 +0000" channel="77812344-d3ad-43d5-8f69-08dd3c339e86">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALAdemarvisitorASOBALVilladeArandalocalpng-113352.png"/>
@@ -3780,5 +3808,47 @@
     <title lang="es">UAE Tour - Etapa 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250222220000 +0000" stop="20250223040000 +0000" channel="eu7cb73v29c1tfhzsuj5y4x04">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/be36k25urk9bfzvb2gwl08se5_image-header_pEs_1739875394000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bennett Transportation &amp; Logistics 250 - Carrera</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250225193000 +0000" stop="20250225220000 +0000" channel="cvk0erynir4aj77er9ldbjm6s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50ggfngv6skcmc3nfmj30hpvp_image-header_pEs_1737641512000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Brighton &amp; Hove Albion - Bournemouth</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Brighton &amp; Hove Albion y AFC Bournemouth.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250225193000 +0000" stop="20250225220000 +0000" channel="cvya3ffjz705z0y4df7n3s1lg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34q644rm5a2pinyuxxcudvlj5_image-header_pEs_1737641512000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Crystal Palace - Aston Villa</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Crystal Palace y Aston Villa.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250225193000 +0000" stop="20250225220000 +0000" channel="cxk2lpo4c91wfp2oka60z5gk4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/334d0s1kmb4lyd4e2x7mztlbw_image-header_pEs_1737641512000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolverhampton - Fulham</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Wolverhampton Wanderers y Fulham.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250225194500 +0000" stop="20250225211500 +0000" channel="9ywf3f5l0cs1o9bxmklh0dfys">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18r60oey5srlj2nim2mrll09w_image-header_pEs_1737048323000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fraikin BM. Granollers - HC Kriens-Luzern</title>
+    <desc lang="es">Vive el encuentro de EHF European League entre Granollers y Kriens-Luzern.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250225194500 +0000" stop="20250225211500 +0000" channel="qvj88u8ioiwavagrhk8z1lhw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61ncc4az25wcis3iq7oe58res_image-header_pEs_1739892691000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bidasoa Irun - Limoges Handball</title>
+    <desc lang="es">Vive el encuentro de EHF European League entre Limoges y Bidasoa.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250225201500 +0000" stop="20250225224500 +0000" channel="cxyii49crq90gqa1amt6nbg9g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dtiyv31uctsc2xyp6jagmazy_image-header_pEs_1737641512000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelsea - Southampton</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Chelsea - Southampton.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
