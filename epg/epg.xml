@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Feb 19 18:30:23 2025">
+<tv date="Wed Feb 19 18:36:40 2025">
   <channel id="c3e22285-5155-4e24-f4d5-08dd3bbdec09">
     <display-name>c3e22285-5155-4e24-f4d5-08dd3bbdec09</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALCuencavisitorASOBALHuescalocalpng-115443.png"/>
@@ -1295,6 +1295,38 @@
   <channel id="9vucqrtkspcwkudnhnmork2s4">
     <display-name>9vucqrtkspcwkudnhnmork2s4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nk4mcrxne7qffu1ojmrn2902_image-header_pEs_1739358254000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200578253c0ch20036">
+    <display-name>esp-e200578253c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613347c0ch20038">
+    <display-name>esp-e200613347c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613348c0ch20038">
+    <display-name>esp-e200613348c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578265c0ch20036">
+    <display-name>esp-e200578265c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613350c0ch20038">
+    <display-name>esp-e200613350c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613351c0ch20038">
+    <display-name>esp-e200613351c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613352c0ch20038">
+    <display-name>esp-e200613352c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613353c0ch20038">
+    <display-name>esp-e200613353c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250216165500 +0000" stop="20250216193000 +0000" channel="c3e22285-5155-4e24-f4d5-08dd3bbdec09">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALCuencavisitorASOBALHuescalocalpng-115443.png"/>
@@ -3240,5 +3272,53 @@
     <title lang="es">Cuartos de final - Inter - Lazio</title>
     <desc lang="es">Vive el encuentro de Coppa Italia entre Lazio y Internazionale.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250223013000 +0000" stop="20250223043000 +0000" channel="esp-e200578253c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250223060000 +0000" stop="20250223090000 +0000" channel="esp-e200613347c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250223113000 +0000" stop="20250223143000 +0000" channel="esp-e200613348c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224013000 +0000" stop="20250224043000 +0000" channel="esp-e200578265c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224060000 +0000" stop="20250224090000 +0000" channel="esp-e200613350c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="esp-e200613351c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250225060000 +0000" stop="20250225090000 +0000" channel="esp-e200613352c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250225113000 +0000" stop="20250225143000 +0000" channel="esp-e200613353c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
