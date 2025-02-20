@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 20 00:30:25 2025">
+<tv date="Thu Feb 20 06:36:50 2025">
   <channel id="c3e22285-5155-4e24-f4d5-08dd3bbdec09">
     <display-name>c3e22285-5155-4e24-f4d5-08dd3bbdec09</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALCuencavisitorASOBALHuescalocalpng-115443.png"/>
@@ -1375,6 +1375,54 @@
   <channel id="cycxow0z81dhrswp0074dhp1w">
     <display-name>cycxow0z81dhrswp0074dhp1w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/52dn343bc4gcswexg49x34ph7_image-header_pEs_1737641513000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200578415c0ch20037">
+    <display-name>esp-e200578415c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613354c0ch20038">
+    <display-name>esp-e200613354c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578414c0ch20036">
+    <display-name>esp-e200578414c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200613355c0ch20038">
+    <display-name>esp-e200613355c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578419c0ch20037">
+    <display-name>esp-e200578419c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200578418c0ch20036">
+    <display-name>esp-e200578418c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200567902c0ch20023">
+    <display-name>esp-e200567902c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200567902_20250216-131239.jpeg"/>
+  </channel>
+  <channel id="esp-e200545870c0ch20026">
+    <display-name>esp-e200545870c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200545870_20250216-132639.jpeg"/>
+  </channel>
+  <channel id="esp-e200545869c0ch20027">
+    <display-name>esp-e200545869c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200545869_20250202-104053.jpeg"/>
+  </channel>
+  <channel id="esp-e200580064c0ch20006">
+    <display-name>esp-e200580064c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200580064_20250215-125656.jpeg"/>
+  </channel>
+  <channel id="esp-e200567903c0ch20023">
+    <display-name>esp-e200567903c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200567903_20250216-131605.jpeg"/>
+  </channel>
+  <channel id="esp-e200589153c0ch20021">
+    <display-name>esp-e200589153c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_4_200589153_20250218-102204.jpeg"/>
   </channel>
   <programme start="20250216165500 +0000" stop="20250216193000 +0000" channel="c3e22285-5155-4e24-f4d5-08dd3bbdec09">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/29/ASOBALCuencavisitorASOBALHuescalocalpng-115443.png"/>
@@ -3440,5 +3488,77 @@
     <title lang="es">Liverpool - Newcastle United</title>
     <desc lang="es">Vive el encuentro de Premier League entre Liverpool y Newcastle United.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250226060000 +0000" stop="20250226090000 +0000" channel="esp-e200578415c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226060000 +0000" stop="20250226090000 +0000" channel="esp-e200613354c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226060000 +0000" stop="20250226090000 +0000" channel="esp-e200578414c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226113000 +0000" stop="20250226143000 +0000" channel="esp-e200613355c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226113000 +0000" stop="20250226143000 +0000" channel="esp-e200578419c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226113000 +0000" stop="20250226143000 +0000" channel="esp-e200578418c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Open | 3ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250226115000 +0000" stop="20250226135500 +0000" channel="esp-e200567902c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200567902_20250216-131239.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Ostersund</title>
+    <desc lang="es">Individual | Femenino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250226122500 +0000" stop="20250226134000 +0000" channel="esp-e200545870c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200545870_20250216-132639.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Trondheim</title>
+    <desc lang="es">7,5km Estilo Clásico | Femenino</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250226142500 +0000" stop="20250226154000 +0000" channel="esp-e200545869c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200545869_20250202-104053.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Trondheim </title>
+    <desc lang="es">Masculino Clásico 7'5km</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250226143000 +0000" stop="20250226163000 +0000" channel="esp-e200580064c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200580064_20250215-125656.jpeg"/>
+    <title lang="es">O Gran Camiño - Etapa 1</title>
+    <desc lang="es">Masculino | Maia &gt; Matosinhos (190,6 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250226153500 +0000" stop="20250226174500 +0000" channel="esp-e200567903c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200567903_20250216-131605.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Ostersund</title>
+    <desc lang="es">Individual | Masculino</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250226185500 +0000" stop="20250226200500 +0000" channel="esp-e200589153c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_4_200589153_20250218-102204.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Trondheim</title>
+    <desc lang="es">Ceremonia de Apertura</desc>
+    <category lang="es">Esquí Nórdico</category>
   </programme>
 </tv>
