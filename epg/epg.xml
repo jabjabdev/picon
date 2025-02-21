@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 21 06:36:51 2025">
+<tv date="Fri Feb 21 12:34:50 2025">
   <channel id="1eby2vnw9caoopmhb275nroh2">
     <display-name>1eby2vnw9caoopmhb275nroh2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1443,6 +1443,26 @@
   <channel id="esp-e200588879c0ch20012">
     <display-name>esp-e200588879c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200588879_20250217-090601.jpeg"/>
+  </channel>
+  <channel id="06a24523-50b7-4ed6-b568-08dd4c1a9b7f">
+    <display-name>06a24523-50b7-4ed6-b568-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALNavavisitorASOBALPuenteGenillocalpng-115906.png"/>
+  </channel>
+  <channel id="20718418-daae-4113-08d0-08dd4c1823f3">
+    <display-name>20718418-daae-4113-08d0-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALGranollersvisitorASOBALAtleticoValladolidlocalpng-121756.png"/>
+  </channel>
+  <channel id="4b84f004-8dff-4e91-08d2-08dd4c1823f3">
+    <display-name>4b84f004-8dff-4e91-08d2-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBMGuadalajaravisitorASOBALLogronolocalpng-122229.png"/>
+  </channel>
+  <channel id="395d3504-867e-4ab9-b569-08dd4c1a9b7f">
+    <display-name>395d3504-867e-4ab9-b569-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBidasoavisitorASOBALCuencalocalpng-122415.png"/>
+  </channel>
+  <channel id="56190685-22c3-408d-ece6-08dd4c16fc06">
+    <display-name>56190685-22c3-408d-ece6-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALTorrelavegavisitorASOBALBarcelonalocalpng-122639.png"/>
   </channel>
   <programme start="20250222143000 +0000" stop="20250222203000 +0000" channel="1eby2vnw9caoopmhb275nroh2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3609,5 +3629,35 @@
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">HS 102 Femenino | Clasificación</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250228172500 +0000" stop="20250228200000 +0000" channel="06a24523-50b7-4ed6-b568-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALNavavisitorASOBALPuenteGenillocalpng-115906.png"/>
+    <title lang="es">Ángel Ximénez Puente Genil - Viveros Herol Nava</title>
+    <desc lang="es">El partido entre Ángel Ximénez Puente Genil y Viveros Herol Nava correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250228185500 +0000" stop="20250228213000 +0000" channel="20718418-daae-4113-08d0-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALGranollersvisitorASOBALAtleticoValladolidlocalpng-121756.png"/>
+    <title lang="es">Recoletas At. Valladolid - Fraikin Granollers</title>
+    <desc lang="es">El partido entre Recoletas At. Valladolid y Fraikin Granollers correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250301155500 +0000" stop="20250301183000 +0000" channel="4b84f004-8dff-4e91-08d2-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBMGuadalajaravisitorASOBALLogronolocalpng-122229.png"/>
+    <title lang="es">Logroño La Rioja - Impulse Guadalajara</title>
+    <desc lang="es">El partido entre Logroño La Rioja y Impulse Guadalajara correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250301172500 +0000" stop="20250301200000 +0000" channel="395d3504-867e-4ab9-b569-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBidasoavisitorASOBALCuencalocalpng-122415.png"/>
+    <title lang="es">REBI Cuenca - Bidasoa Irun</title>
+    <desc lang="es">El partido entre REBI Cuenca y Bidasoa Irun correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250301182500 +0000" stop="20250301210000 +0000" channel="56190685-22c3-408d-ece6-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALTorrelavegavisitorASOBALBarcelonalocalpng-122639.png"/>
+    <title lang="es">Barça - Bathco Torrelavega</title>
+    <desc lang="es">El partido entre Barça y Bathco Torrelavega correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
