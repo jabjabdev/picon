@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 21 12:36:38 2025">
+<tv date="Fri Feb 21 18:34:55 2025">
   <channel id="1eby2vnw9caoopmhb275nroh2">
     <display-name>1eby2vnw9caoopmhb275nroh2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1464,6 +1464,30 @@
     <display-name>56190685-22c3-408d-ece6-08dd4c16fc06</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALTorrelavegavisitorASOBALBarcelonalocalpng-122639.png"/>
   </channel>
+  <channel id="8e4636d3-7c28-4f34-ece7-08dd4c16fc06">
+    <display-name>8e4636d3-7c28-4f34-ece7-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBenidormvisitorASOBALAnaitasunalocalpng-122804.png"/>
+  </channel>
+  <channel id="4d81ee9b-c14d-4bbb-ece8-08dd4c16fc06">
+    <display-name>4d81ee9b-c14d-4bbb-ece8-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALAdemarvisitorASOBALHuescalocalpng-122928.png"/>
+  </channel>
+  <channel id="fb22851f-15c1-430f-5240-08dd4c125329">
+    <display-name>fb22851f-15c1-430f-5240-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALCangasvisitorASOBALVilladeArandalocalpng-123113.png"/>
+  </channel>
+  <channel id="94697339-e433-4965-5241-08dd4c125329">
+    <display-name>94697339-e433-4965-5241-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueObolonlocalpng-135311.png"/>
+  </channel>
+  <channel id="566ce2b2-65b6-4311-5243-08dd4c125329">
+    <display-name>566ce2b2-65b6-4311-5243-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueVorsklalocalpng-135453.png"/>
+  </channel>
+  <channel id="69f01c1b-620d-4721-08d8-08dd4c1823f3">
+    <display-name>69f01c1b-620d-4721-08d8-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueKarpatylocalpng-140450.png"/>
+  </channel>
   <programme start="20250222143000 +0000" stop="20250222203000 +0000" channel="1eby2vnw9caoopmhb275nroh2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k93fr754nl6z11vvb62178bgz_image-header_pEs_1734691145000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Beterbiev vs. Bivol 2</title>
@@ -1938,7 +1962,7 @@
     <desc lang="es">Masculino | Arjona &gt; Pozoblanco (162,1 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250221132000 +0000" stop="20250221154000 +0000" channel="esp-e200589143c0ch20015">
+  <programme start="20250221135500 +0000" stop="20250221162500 +0000" channel="esp-e200589143c0ch20015">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20015_6_200589143_20250212-073242.jpeg"/>
     <title lang="es">Classic Var  </title>
     <desc lang="es">Masculino | Le Luc &gt; Fayence (163,2 km)</desc>
@@ -3659,5 +3683,41 @@
     <title lang="es">Barça - Bathco Torrelavega</title>
     <desc lang="es">El partido entre Barça y Bathco Torrelavega correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250302105500 +0000" stop="20250302133000 +0000" channel="8e4636d3-7c28-4f34-ece7-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALBenidormvisitorASOBALAnaitasunalocalpng-122804.png"/>
+    <title lang="es">Helvetia Anaitasuna - Servigroup Hoteles Benidorm</title>
+    <desc lang="es">El partido entre Helvetia Anaitasuna y Servigroup Hoteles Benidorm correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250302162500 +0000" stop="20250302190000 +0000" channel="4d81ee9b-c14d-4bbb-ece8-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALAdemarvisitorASOBALHuescalocalpng-122928.png"/>
+    <title lang="es">Bada Huesca - ABANCA Ademar León</title>
+    <desc lang="es">El partido entre Bada Huesca y ABANCA Ademar León correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250302175500 +0000" stop="20250302203000 +0000" channel="fb22851f-15c1-430f-5240-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/ASOBALCangasvisitorASOBALVilladeArandalocalpng-123113.png"/>
+    <title lang="es">Balonmano Villa de Aranda - Cangas Frigoríficos</title>
+    <desc lang="es">El partido entre Balonmano Villa de Aranda y Cangas Frigoríficos correspondiente a la Jornada 19 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250228102500 +0000" stop="20250228130000 +0000" channel="94697339-e433-4965-5241-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueObolonlocalpng-135311.png"/>
+    <title lang="es">Obolon - Polissya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250228125500 +0000" stop="20250228153000 +0000" channel="566ce2b2-65b6-4311-5243-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueVorsklalocalpng-135453.png"/>
+    <title lang="es">Vorskla - Dynamo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250228152500 +0000" stop="20250228180000 +0000" channel="69f01c1b-620d-4721-08d8-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueKarpatylocalpng-140450.png"/>
+    <title lang="es">Karpaty - LNZ</title>
+    <desc lang="es">El partido correspondiente a la Jornada 19 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
