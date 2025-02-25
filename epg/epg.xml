@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 25 06:36:38 2025">
+<tv date="Tue Feb 25 12:34:50 2025">
   <channel id="987214a4-9546-40e9-f4fc-08dd3bbdec09">
     <display-name>987214a4-9546-40e9-f4fc-08dd3bbdec09</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
@@ -456,16 +456,8 @@
     <display-name>cxyii49crq90gqa1amt6nbg9g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dtiyv31uctsc2xyp6jagmazy_image-header_pEs_1737641512000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="esp-e200578406c0ch20036">
-    <display-name>esp-e200578406c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
   <channel id="esp-e200578407c0ch20037">
     <display-name>esp-e200578407c0ch20037</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200578411c0ch20037">
-    <display-name>esp-e200578411c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200578410c0ch20036">
@@ -1672,6 +1664,22 @@
     <display-name>esp-e200567827c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200567827_20250201-112339.jpeg"/>
   </channel>
+  <channel id="2e28a40d-dace-4312-6317-08dd4c1f9f4c">
+    <display-name>2e28a40d-dace-4312-6317-08dd4c1f9f4c</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-1jpg-163145.jpg"/>
+  </channel>
+  <channel id="86031731-9aad-47a2-6318-08dd4c1f9f4c">
+    <display-name>86031731-9aad-47a2-6318-08dd4c1f9f4c</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-2jpg-163417.jpg"/>
+  </channel>
+  <channel id="216294f6-889f-491d-090a-08dd4c1823f3">
+    <display-name>216294f6-889f-491d-090a-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-3jpg-163600.jpg"/>
+  </channel>
+  <channel id="53e7cb71-7820-4313-08d5-08dd4c1823f3">
+    <display-name>53e7cb71-7820-4313-08d5-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersPerthGlorymatchpng-072734.png"/>
+  </channel>
   <programme start="20250222102500 +0000" stop="20250222130000 +0000" channel="987214a4-9546-40e9-f4fc-08dd3bbdec09">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
     <title lang="es">Kryvbas - Veres</title>
@@ -2356,19 +2364,7 @@
     <desc lang="es">Vive el encuentro de Premier League entre Chelsea - Southampton.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250225060000 +0000" stop="20250225090000 +0000" channel="esp-e200578406c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Open | 2ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20250225060000 +0000" stop="20250225090000 +0000" channel="esp-e200578407c0ch20037">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Open | 2ª ronda</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250225113000 +0000" stop="20250225143000 +0000" channel="esp-e200578411c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Open | 2ª ronda</desc>
@@ -4179,5 +4175,29 @@
     <title lang="es">Campeonato del Mundo - Ostersund</title>
     <desc lang="es">Masculino Salida en masa Júnior</desc>
     <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20250301081000 +0000" stop="20250301130000 +0000" channel="2e28a40d-dace-4312-6317-08dd4c1f9f4c">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-1jpg-163145.jpg"/>
+    <title lang="es">Cto. de España Sub-18 Short Track | Día 1 - Jornada de mañana</title>
+    <desc lang="es">El Palau Velódromo Lluis Puig de Valencia acoge el XLVII Campeonato de España Sub-18 Short Track los días 1 y 2 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250301151000 +0000" stop="20250301203000 +0000" channel="86031731-9aad-47a2-6318-08dd4c1f9f4c">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-2jpg-163417.jpg"/>
+    <title lang="es">Cto. de España Sub-18 Short Track | Día 1 - Jornada de tarde</title>
+    <desc lang="es">El Palau Velódromo Lluis Puig de Valencia acoge el XLVII Campeonato de España Sub-18 Short Track los días 1 y 2 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250302081000 +0000" stop="20250302131000 +0000" channel="216294f6-889f-491d-090a-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/24/SUB-18-3jpg-163600.jpg"/>
+    <title lang="es">Cto. de España Sub-18 Short Track | Día 2</title>
+    <desc lang="es">El Palau Velódromo Lluis Puig de Valencia acoge el XLVII Campeonato de España Sub-18 Short Track los días 1 y 2 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250302052500 +0000" stop="20250302080000 +0000" channel="53e7cb71-7820-4313-08d5-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersPerthGlorymatchpng-072734.png"/>
+    <title lang="es">Western Sydney Wanderers - Perth Glory</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
