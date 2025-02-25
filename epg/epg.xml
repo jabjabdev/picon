@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 25 18:30:12 2025">
+<tv date="Tue Feb 25 18:34:53 2025">
   <channel id="987214a4-9546-40e9-f4fc-08dd3bbdec09">
     <display-name>987214a4-9546-40e9-f4fc-08dd3bbdec09</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
@@ -1683,6 +1683,34 @@
   <channel id="91ixztkv9f7v8fwd4bkaxa9x8">
     <display-name>91ixztkv9f7v8fwd4bkaxa9x8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2v0g89ow3r7w1q4njtqqad8af_image-header_pEs_1740476162000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="00520ab1-2b6e-4804-c598-08dd4c17c405">
+    <display-name>00520ab1-2b6e-4804-c598-08dd4c17c405</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Liga-Nacional-Karate-1-de-marzoOKjpg-134233.jpg"/>
+  </channel>
+  <channel id="f5dee4b6-0181-463f-b57d-08dd4c1a9b7f">
+    <display-name>f5dee4b6-0181-463f-b57d-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Liga-Iberdrola-Karate-2-de-marzoOKjpg-134526.jpg"/>
+  </channel>
+  <channel id="9faa74eb-d80b-4407-090d-08dd4c1823f3">
+    <display-name>9faa74eb-d80b-4407-090d-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-1OK-1jpg-152811.jpg"/>
+  </channel>
+  <channel id="d938608b-2f26-4cad-526f-08dd4c125329">
+    <display-name>d938608b-2f26-4cad-526f-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-2-Jornada-de-mananaOKjpg-152843.jpg"/>
+  </channel>
+  <channel id="450dadce-5190-443d-090e-08dd4c1823f3">
+    <display-name>450dadce-5190-443d-090e-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-2-Jornada-de-tardeOKjpg-152913.jpg"/>
+  </channel>
+  <channel id="a038a611-0111-4c13-5270-08dd4c125329">
+    <display-name>a038a611-0111-4c13-5270-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-3OKjpg-152938.jpg"/>
+  </channel>
+  <channel id="4de41168-8285-44e0-0913-08dd4c1823f3">
+    <display-name>4de41168-8285-44e0-0913-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/UnaviboraparacenarPrograma84jpg-165139.jpg"/>
   </channel>
   <programme start="20250222102500 +0000" stop="20250222130000 +0000" channel="987214a4-9546-40e9-f4fc-08dd3bbdec09">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/07/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueKryvbaslocalpng-101730.png"/>
@@ -4209,5 +4237,47 @@
     <title lang="es">Eubank Jr. vs. Benn - London Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250301192500 +0000" stop="20250301214000 +0000" channel="00520ab1-2b6e-4804-c598-08dd4c17c405">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Liga-Nacional-Karate-1-de-marzoOKjpg-134233.jpg"/>
+    <title lang="es">1ª Ronda Liga Nacional | Absoluta/Cadete/Para-Kárate</title>
+    <desc lang="es">La Ciutat Esportiva Camilo Cano de La Nucía (Alicante) acogerá la primera jornada de la Liga Nacional y Liga Iberdrola de Kárate.</desc>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20250302141000 +0000" stop="20250302162500 +0000" channel="f5dee4b6-0181-463f-b57d-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Liga-Iberdrola-Karate-2-de-marzoOKjpg-134526.jpg"/>
+    <title lang="es">1ª Ronda Liga Iberdrola | Absoluta/Cadete/Para-Kárate</title>
+    <desc lang="es">La Ciutat Esportiva Camilo Cano de La Nucía (Alicante) acogerá la primera jornada de la Liga Nacional y Liga Iberdrola de Kárate.</desc>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20250228144000 +0000" stop="20250228203000 +0000" channel="9faa74eb-d80b-4407-090d-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-1OK-1jpg-152811.jpg"/>
+    <title lang="es">Campeonato de España Master | Día 1</title>
+    <desc lang="es">Antequera (Málaga) acoge el XXXVI Campeonato de España Master Short Track del 28 de febrero al 2 de marzo de 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250301072000 +0000" stop="20250301131000 +0000" channel="d938608b-2f26-4cad-526f-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-2-Jornada-de-mananaOKjpg-152843.jpg"/>
+    <title lang="es">Campeonato de España Master | Día 2 - Jornada de mañana</title>
+    <desc lang="es">Antequera (Málaga) acoge el XXXVI Campeonato de España Master Short Track del 28 de febrero al 2 de marzo de 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250301144500 +0000" stop="20250301201500 +0000" channel="450dadce-5190-443d-090e-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-2-Jornada-de-tardeOKjpg-152913.jpg"/>
+    <title lang="es">Campeonato de España Master | Día 2 - Jornada de tarde</title>
+    <desc lang="es">Antequera (Málaga) acoge el XXXVI Campeonato de España Master Short Track del 28 de febrero al 2 de marzo de 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250302065000 +0000" stop="20250302133000 +0000" channel="a038a611-0111-4c13-5270-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/25/Atletismo-Campeonato-de-Espana-Master-Dia-3OKjpg-152938.jpg"/>
+    <title lang="es">Campeonato de España Master | Día 3</title>
+    <desc lang="es">Antequera (Málaga) acoge el XXXVI Campeonato de España Master Short Track del 28 de febrero al 2 de marzo de 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250226192500 +0000" stop="20250226213000 +0000" channel="4de41168-8285-44e0-0913-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2024/12/17/UnaviboraparacenarPrograma84jpg-165139.jpg"/>
+    <title lang="es">Una víbora para cenar: Programa 86</title>
+    <desc lang="es">Programa quincenal que repasa la actualidad del mundo del pádel.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
