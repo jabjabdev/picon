@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 28 06:36:53 2025">
+<tv date="Fri Feb 28 12:36:37 2025">
   <channel id="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <display-name>105d7c42-309b-45b3-b558-08dd4c1a9b7f</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
@@ -1564,6 +1564,10 @@
     <display-name>esp-e200588878c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_3_200588878_20250226-211200.png"/>
   </channel>
+  <channel id="esp-e200625737c0ch20022">
+    <display-name>esp-e200625737c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_8_200625737_20250228-103518.jpeg"/>
+  </channel>
   <programme start="20250225235000 +0000" stop="20250226023000 +0000" channel="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
     <title lang="es">Boca Juniors - Alianza Lima</title>
@@ -2038,7 +2042,7 @@
     <desc lang="es">Después de una larga espera, los monoplazas del Mundial de F1 2025 vuelven a arrancar sus motores para celebrar tres días de pretemporada en el circuito de Sakhir (Bahréin). Los 20 pilotos que conforman la parrilla del Gran Circo disponen de un total de 24 horas (8 horas por jornada) para pulir sus nuevos coches antes de poner rumbo a Australia para disputar la primera carrera de la temporada en Albert Park. ¡No te pierdas el test de Bahréin en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250228083000 +0000" stop="20250228143000 +0000" channel="3s8vxt40j1306qjqwby8lw8km">
+  <programme start="20250228103000 +0000" stop="20250228163000 +0000" channel="3s8vxt40j1306qjqwby8lw8km">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5m22qovzhe4npmq31zi7r04ut_image-header_pEs_1740165305000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">1812 kilómetros de Qatar - Primera parte</title>
     <desc lang="es">Los 1812 kilómetros de Qatar es la prueba inaugural de la nueva temporada del Mundial de Resistencia (FIA WEC). Este evento, que se celebra en el circuito internacional de Losail ofrece una desafiante combinación de largas rectas, curvas rápidas y temperaturas extremas. ¡Disfruta del Mundial de Resistencia en DAZN a través de los canales de Eurosport!</desc>
@@ -3909,5 +3913,11 @@
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">HS138 Femenino | Clasificación</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250301165200 +0000" stop="20250301193000 +0000" channel="esp-e200625737c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_8_200625737_20250228-103518.jpeg"/>
+    <title lang="es">Saltos - Doha</title>
+    <desc lang="es">Global Champions Tour</desc>
+    <category lang="es">Hípica</category>
   </programme>
 </tv>
