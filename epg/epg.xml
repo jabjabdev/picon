@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 28 12:36:37 2025">
+<tv date="Fri Feb 28 18:34:54 2025">
   <channel id="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <display-name>105d7c42-309b-45b3-b558-08dd4c1a9b7f</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
@@ -423,10 +423,6 @@
   <channel id="esp-e200546021c0ch20027">
     <display-name>esp-e200546021c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_2_200546021_20250218-214813.jpeg"/>
-  </channel>
-  <channel id="esp-e200570130c0ch20028">
-    <display-name>esp-e200570130c0ch20028</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_2_200570130_20250218-215700.jpeg"/>
   </channel>
   <channel id="esp-e200590988c0ch20016">
     <display-name>esp-e200590988c0ch20016</display-name>
@@ -1568,6 +1564,18 @@
     <display-name>esp-e200625737c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_8_200625737_20250228-103518.jpeg"/>
   </channel>
+  <channel id="471b82f7-0a49-45a0-5256-08dd4c125329">
+    <display-name>471b82f7-0a49-45a0-5256-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailUlmAlbaBerlinmatchpng-072945.png"/>
+  </channel>
+  <channel id="e2c87951-aacc-43a7-5257-08dd4c125329">
+    <display-name>e2c87951-aacc-43a7-5257-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBayernHeidelbergmatchpng-073102.png"/>
+  </channel>
+  <channel id="60f18c73-3d07-4a8f-ecf5-08dd4c16fc06">
+    <display-name>60f18c73-3d07-4a8f-ecf5-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/19/UkrainianPremierLeagueRukhvisitorUkrainianPremierLeagueInhuletslocalpng-164801.png"/>
+  </channel>
   <programme start="20250225235000 +0000" stop="20250226023000 +0000" channel="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
     <title lang="es">Boca Juniors - Alianza Lima</title>
@@ -2060,7 +2068,7 @@
     <desc lang="es">Después de una larga espera, los monoplazas del Mundial de F1 2025 vuelven a arrancar sus motores para celebrar tres días de pretemporada en el circuito de Sakhir (Bahréin). Los 20 pilotos que conforman la parrilla del Gran Circo disponen de un total de 24 horas (8 horas por jornada) para pulir sus nuevos coches antes de poner rumbo a Australia para disputar la primera carrera de la temporada en Albert Park. ¡No te pierdas el test de Bahréin en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250228130000 +0000" stop="20250228190000 +0000" channel="c26zh5n66fz3fm4qu2pvxr1r9">
+  <programme start="20250228180000 +0000" stop="20250301000000 +0000" channel="c26zh5n66fz3fm4qu2pvxr1r9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17so76466fzbg1hpvw07zchllr_image-header_pEs_1739987609000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Crocker vs. Donovan  -Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -2203,12 +2211,6 @@
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">Mixto Relevos</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250228150000 +0000" stop="20250228213000 +0000" channel="esp-e200570130c0ch20028">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_2_200570130_20250218-215700.jpeg"/>
-    <title lang="es">FIA WEC - Catar 1812 km</title>
-    <desc lang="es">Carrera | Parte 2</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250228180000 +0000" stop="20250228205700 +0000" channel="esp-e200590988c0ch20016">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20016_0_200590988_20250218-225352.jpeg"/>
@@ -3919,5 +3921,23 @@
     <title lang="es">Saltos - Doha</title>
     <desc lang="es">Global Champions Tour</desc>
     <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20250309145500 +0000" stop="20250309183000 +0000" channel="471b82f7-0a49-45a0-5256-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailUlmAlbaBerlinmatchpng-072945.png"/>
+    <title lang="es">Ulm - Alba Berlin</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250309162500 +0000" stop="20250309200000 +0000" channel="e2c87951-aacc-43a7-5257-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBayernHeidelbergmatchpng-073102.png"/>
+    <title lang="es">Bayern - Heidelberg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250308125500 +0000" stop="20250308153000 +0000" channel="60f18c73-3d07-4a8f-ecf5-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/19/UkrainianPremierLeagueRukhvisitorUkrainianPremierLeagueInhuletslocalpng-164801.png"/>
+    <title lang="es">Inhulets - Rukh</title>
+    <desc lang="es">El partido correspondiente a la Jornada 20 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
