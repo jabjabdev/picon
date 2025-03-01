@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Mar 01 06:36:39 2025">
+<tv date="Sat Mar 01 12:30:11 2025">
   <channel id="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <display-name>105d7c42-309b-45b3-b558-08dd4c1a9b7f</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
@@ -355,10 +355,6 @@
   <channel id="43148fwpbuox0h6nyxtzc2qgc">
     <display-name>43148fwpbuox0h6nyxtzc2qgc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4shxmwyvf2qjo0qb6dcq2qlb9_image-header_pEs_1739452034000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1r62whgfqa4c8b3sylbbttmr1">
-    <display-name>1r62whgfqa4c8b3sylbbttmr1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/47knjoc93wucw8izbqw74ybeo_image-header_pEs_1737049672000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="8vf3coa6xj9fihqlsai867dhw">
     <display-name>8vf3coa6xj9fihqlsai867dhw</display-name>
@@ -1608,6 +1604,10 @@
     <display-name>esp-e200488002c0ch20085</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20085_0_200488002_20250225-154445.jpeg"/>
   </channel>
+  <channel id="cjww3dkdjd2z3jo836yg17ehg">
+    <display-name>cjww3dkdjd2z3jo836yg17ehg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b44kbwy66czoxw14ffqyonk11_image-header_pEs_1740802810000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250225235000 +0000" stop="20250226023000 +0000" channel="105d7c42-309b-45b3-b558-08dd4c1a9b7f">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/17/LibertadoresThumbnailBocaJuniorsAlianzaLimamatchpng-110859.png"/>
     <title lang="es">Boca Juniors - Alianza Lima</title>
@@ -2141,12 +2141,6 @@
     <title lang="es">PT GP de Tailandia - Sábado al sprint</title>
     <desc lang="es">La espera ha terminado. ¡Arranca el Mundial de MotoGP 2025! El Circuito Internacional de Chang en Buriram alberga el PT GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. ¿Cómo será el estreno de Marc Márquez con Ducati junto al bicampeón Pecco Bagnaia? ¿Y el del flamante campeón, Jorge Martín, con Aprilia? ¿Logrará Pedro Acosta dar el salto a la gloria en KTM? ¡No te pierdas la primera carrera de la temporada en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250301060000 +0000" stop="20250301100000 +0000" channel="1r62whgfqa4c8b3sylbbttmr1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/47knjoc93wucw8izbqw74ybeo_image-header_pEs_1737049672000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">World Open - Final (Sesión 1)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20250301130000 +0000" stop="20250301153000 +0000" channel="8vf3coa6xj9fihqlsai867dhw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a35uqpwohxizoy6fpywx35tpp_image-header_pEs_1739811324000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3588,7 +3582,7 @@
     <desc lang="es">El partido correspondiente a la Jornada 20 de la Ukrainian Premier League 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250301075000 +0000" stop="20250301120000 +0000" channel="esp-e200625710c0ch20029">
+  <programme start="20250301080000 +0000" stop="20250301120145 +0000" channel="esp-e200625710c0ch20029">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Original/ESP.jpg"/>
     <title lang="es">Free ride</title>
     <desc lang="es"/>
@@ -4019,5 +4013,11 @@
     <title lang="es">Cologuard Classic - Día 1</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250305194500 +0000" stop="20250305211500 +0000" channel="cjww3dkdjd2z3jo836yg17ehg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b44kbwy66czoxw14ffqyonk11_image-header_pEs_1740802810000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">HBC Nantes - Aalborg Håndbold</title>
+    <desc lang="es">Vive el encuentro de EHF Champions League entre Nantes y Aalborg.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
