@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 04 18:30:14 2025">
+<tv date="Tue Mar 04 18:34:50 2025">
   <channel id="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <display-name>36bfb137-f397-4247-08d1-08dd4c1823f3</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -1495,6 +1495,34 @@
   <channel id="9k5qf2isncvniq1uddexz9zui">
     <display-name>9k5qf2isncvniq1uddexz9zui</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9pk5f6uswefvz1c0xqwvej2tk_image-header_pEs_1732003573000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ef647158-5f28-41ea-9089-08dd5b0eaa03">
+    <display-name>ef647158-5f28-41ea-9089-08dd5b0eaa03</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/ATLETISMO-bienjpg-162324.jpg"/>
+  </channel>
+  <channel id="30bf9e48-176b-4cbc-b574-08dd4c1a9b7f">
+    <display-name>30bf9e48-176b-4cbc-b574-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/Daikin-HandballBundesligaThumbnailTHWKielRheinNeckarLoewenmatchpng-073301.png"/>
+  </channel>
+  <channel id="f7ca3a67-5019-4ee8-ed0d-08dd4c16fc06">
+    <display-name>f7ca3a67-5019-4ee8-ed0d-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividual2man01png-165231.png"/>
+  </channel>
+  <channel id="ee0af5ea-88b6-453b-ed0e-08dd4c16fc06">
+    <display-name>ee0af5ea-88b6-453b-ed0e-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualMonobob01png-165246.png"/>
+  </channel>
+  <channel id="d30e7670-ec5d-4c3e-631c-08dd4c1f9f4c">
+    <display-name>d30e7670-ec5d-4c3e-631c-08dd4c1f9f4c</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualSkeleton-mixedpng-165301.png"/>
+  </channel>
+  <channel id="fa762552-5356-4861-ed0f-08dd4c16fc06">
+    <display-name>fa762552-5356-4861-ed0f-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividual2man02png-165319.png"/>
+  </channel>
+  <channel id="f3f4fd50-f3ad-420f-ed10-08dd4c16fc06">
+    <display-name>f3f4fd50-f3ad-420f-ed10-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualMonobob02png-165335.png"/>
   </channel>
   <programme start="20250301172500 +0000" stop="20250301210000 +0000" channel="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -3739,5 +3767,47 @@
     <title lang="es">Tucumán Open - Final</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250309064000 +0000" stop="20250309140000 +0000" channel="ef647158-5f28-41ea-9089-08dd5b0eaa03">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/ATLETISMO-bienjpg-162324.jpg"/>
+    <title lang="es">Campeonato de España Marcha 35km</title>
+    <desc lang="es">El municipio gallego Marín (Pontevedra) acoge el III Campeonato de España absoluto de 35km Marcha.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250309145500 +0000" stop="20250309173000 +0000" channel="30bf9e48-176b-4cbc-b574-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/Daikin-HandballBundesligaThumbnailTHWKielRheinNeckarLoewenmatchpng-073301.png"/>
+    <title lang="es">THW Kiel - Rhein-Neckar Löwen</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Daikin Handball-Bundesliga 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250308132500 +0000" stop="20250308175000 +0000" channel="f7ca3a67-5019-4ee8-ed0d-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividual2man01png-165231.png"/>
+    <title lang="es">Lake Placid 1 | 2-Man Bobsleigh Heat 1&amp;2</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250308182500 +0000" stop="20250308225000 +0000" channel="ee0af5ea-88b6-453b-ed0e-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualMonobob01png-165246.png"/>
+    <title lang="es">Lake Placid 1 | Women's Monobob Heat 1&amp;2</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250308232500 +0000" stop="20250309020000 +0000" channel="d30e7670-ec5d-4c3e-631c-08dd4c1f9f4c">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualSkeleton-mixedpng-165301.png"/>
+    <title lang="es">Lake Placid 1 | Skeleton Mixed Team</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250309135500 +0000" stop="20250309175000 +0000" channel="fa762552-5356-4861-ed0f-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividual2man02png-165319.png"/>
+    <title lang="es">Lake Placid 1 | 2-Man Bobsleigh Heat 3&amp;4</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250309185500 +0000" stop="20250309231000 +0000" channel="f3f4fd50-f3ad-420f-ed10-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualMonobob02png-165335.png"/>
+    <title lang="es">Lake Placid 1 | Women's Monobob Heat 3&amp;4</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
   </programme>
 </tv>
