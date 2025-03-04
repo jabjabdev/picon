@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 04 18:34:50 2025">
+<tv date="Wed Mar 05 00:30:13 2025">
   <channel id="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <display-name>36bfb137-f397-4247-08d1-08dd4c1823f3</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -1523,6 +1523,34 @@
   <channel id="f3f4fd50-f3ad-420f-ed10-08dd4c16fc06">
     <display-name>f3f4fd50-f3ad-420f-ed10-08dd4c16fc06</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/IBSFWorldChampionshipsThumbnailindividualMonobob02png-165335.png"/>
+  </channel>
+  <channel id="bk3jz2ohals031ac00jeoze91">
+    <display-name>bk3jz2ohals031ac00jeoze91</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rqeb10kl47n810k67fz94kb8t_image-header_pEs_1741089561000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9sat15esgunqj5scn4qi90tmf">
+    <display-name>9sat15esgunqj5scn4qi90tmf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1u6s7kf4uis8x1bbtp3plico5z_image-header_pEs_1741099669000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cmq8wlbuobi4hkjkx3vo50695">
+    <display-name>cmq8wlbuobi4hkjkx3vo50695</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jblrkrn6xt9s1kme2lxv8uo2v_image-header_pEs_1741097364000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5jbd7swgtx4xyfjis4qgto2cm">
+    <display-name>5jbd7swgtx4xyfjis4qgto2cm</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4tpn37ozlzjt9rj26mylpuu4_image-header_pEs_1740501618000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4jcp4s14fsof3k0x6i3zhy76c">
+    <display-name>4jcp4s14fsof3k0x6i3zhy76c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6x3lx0jlyu61a2ak0ad7qgap_image-header_pEs_1738098523000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bbkt7e1f90ldp816utwhwr5by">
+    <display-name>bbkt7e1f90ldp816utwhwr5by</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2zh5i8oc88sk55iymggsewh3g_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d4btkd06mm611ccqibyt0vcpg">
+    <display-name>d4btkd06mm611ccqibyt0vcpg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vcf4jbzulfaoaw6kr4ybk76o_image-header_pEs_1740916256000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250301172500 +0000" stop="20250301210000 +0000" channel="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -3809,5 +3837,47 @@
     <title lang="es">Lake Placid 1 | Women's Monobob Heat 3&amp;4</title>
     <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
     <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250305140000 +0000" stop="20250305200000 +0000" channel="bk3jz2ohals031ac00jeoze91">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rqeb10kl47n810k67fz94kb8t_image-header_pEs_1741089561000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Taylor vs. Essuman - Rueda de prensa</title>
+    <desc lang="es"/>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250306200000 +0000" stop="20250307020000 +0000" channel="9sat15esgunqj5scn4qi90tmf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1u6s7kf4uis8x1bbtp3plico5z_image-header_pEs_1741099669000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Scull - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250307223000 +0000" stop="20250308043000 +0000" channel="cmq8wlbuobi4hkjkx3vo50695">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jblrkrn6xt9s1kme2lxv8uo2v_image-header_pEs_1741097364000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bahdi vs. Racaza - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250311120500 +0000" stop="20250311160500 +0000" channel="5jbd7swgtx4xyfjis4qgto2cm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4tpn37ozlzjt9rj26mylpuu4_image-header_pEs_1740501618000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tirreno-Adriático &amp; París-Niza - Etapa 2 y Etapa 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250311140000 +0000" stop="20250311200000 +0000" channel="4jcp4s14fsof3k0x6i3zhy76c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6x3lx0jlyu61a2ak0ad7qgap_image-header_pEs_1738098523000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">LALIGA FC Pro - Día 3</title>
+    <desc lang="es">La octava edición de LaLiga FC PRO de videojuegos competitivos llega a DAZN. El actual campeón, Nicolas99FC tratará de defender su título ante grandes nombres del mundo del fútbol virtual como JRA o Andoniipm. 38 equipos de LaLiga EA Sports y de LaLiga Hypermotion tendrán sus representantes en un torneo con un premio de más de 350.000€.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250311170000 +0000" stop="20250311193000 +0000" channel="bbkt7e1f90ldp816utwhwr5by">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2zh5i8oc88sk55iymggsewh3g_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">La Central</title>
+    <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311193000 +0000" stop="20250311230000 +0000" channel="d4btkd06mm611ccqibyt0vcpg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vcf4jbzulfaoaw6kr4ybk76o_image-header_pEs_1740916256000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester Basketball - Leicester Riders</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y Leicester Riders.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
