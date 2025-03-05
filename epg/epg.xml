@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 05 00:30:13 2025">
+<tv date="Wed Mar 05 06:36:36 2025">
   <channel id="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <display-name>36bfb137-f397-4247-08d1-08dd4c1823f3</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -423,10 +423,6 @@
   <channel id="durwdm9d2gdm2blbkuwqlu2ok">
     <display-name>durwdm9d2gdm2blbkuwqlu2ok</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3qnqktelgdpkpckejfwk9oo0s_image-header_pEs_1733502241000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200578681c0ch20035">
-    <display-name>esp-e200578681c0ch20035</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200613729c0ch20037">
     <display-name>esp-e200613729c0ch20037</display-name>
@@ -1552,6 +1548,18 @@
     <display-name>d4btkd06mm611ccqibyt0vcpg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vcf4jbzulfaoaw6kr4ybk76o_image-header_pEs_1740916256000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200593627c0ch20001">
+    <display-name>esp-e200593627c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200593627_20250228-141038.jpeg"/>
+  </channel>
+  <channel id="esp-e200598540c0ch20007">
+    <display-name>esp-e200598540c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200598540_20250228-133918.jpeg"/>
+  </channel>
+  <channel id="esp-e200593496c0ch20004">
+    <display-name>esp-e200593496c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200593496_20250228-135608.jpeg"/>
+  </channel>
   <programme start="20250301172500 +0000" stop="20250301210000 +0000" channel="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
     <title lang="es">Súper Agropal Palencia - Alimerka Oviedo</title>
@@ -2187,12 +2195,6 @@
     <title lang="es">Caledonia Gladiators - Cheshire Phoenix</title>
     <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y Cheshire Phoenix.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250305050000 +0000" stop="20250305070000 +0000" channel="esp-e200578681c0ch20035">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 1ª ronda | Sesión 3</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20250305050000 +0000" stop="20250305070000 +0000" channel="esp-e200613729c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -3879,5 +3881,23 @@
     <title lang="es">Manchester Basketball - Leicester Riders</title>
     <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y Leicester Riders.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250311112000 +0000" stop="20250311130000 +0000" channel="esp-e200593627c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200593627_20250228-141038.jpeg"/>
+    <title lang="es">Copa del Mundo - Livigno</title>
+    <desc lang="es">Moguls</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250311120500 +0000" stop="20250311150500 +0000" channel="esp-e200598540c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200598540_20250228-133918.jpeg"/>
+    <title lang="es">Tirreno - Adriático - Etapa 2</title>
+    <desc lang="es">Masculino | Camaiore &gt; Follonica (189 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250311134500 +0000" stop="20250311154500 +0000" channel="esp-e200593496c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200593496_20250228-135608.jpeg"/>
+    <title lang="es">París-Niza - Etapa 3</title>
+    <desc lang="es">Masculino | Circuit Magny-Cours &gt; Nevers (CRE, 28,4 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
