@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 05 18:36:39 2025">
+<tv date="Thu Mar 06 00:30:12 2025">
   <channel id="d747ad65-ec44-4ab5-ece9-08dd4c16fc06">
     <display-name>d747ad65-ec44-4ab5-ece9-08dd4c16fc06</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBCantabriuavisitorPrimeraFEBMorounlocalpng-123015.png"/>
@@ -1351,6 +1351,30 @@
   <channel id="esp-e200634017c0ch20027">
     <display-name>esp-e200634017c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200634017_20250305-150200.png"/>
+  </channel>
+  <channel id="8u576r21nhc50fzm8dkl1v4y9">
+    <display-name>8u576r21nhc50fzm8dkl1v4y9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/326p58nj4r70vvrtpb3zophun_image-header_pEs_1730934949000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2i2wgr08q8wpdp5cmmld0uvl">
+    <display-name>2i2wgr08q8wpdp5cmmld0uvl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bc2939ohpnqbbgco3z4wgk8j1_image-header_pEs_1730934949000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="u9nd9wxlqk9imlokzvujn1u5">
+    <display-name>u9nd9wxlqk9imlokzvujn1u5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ic2i88rqgtjo52r7ahijo78l_image-header_pEs_1740557982000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9aidmdkvkzvh8gif0uy8a0mbp">
+    <display-name>9aidmdkvkzvh8gif0uy8a0mbp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4qkbas9yyrz6ze0lj62ym12r_image-header_pEs_1738098522000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3plyg1xlf59ozpjak0l552d9w">
+    <display-name>3plyg1xlf59ozpjak0l552d9w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ynggcw32767fq1lx35l3pduc_image-header_pEs_1733601954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d51f0legrj3u7ukjf055z7das">
+    <display-name>d51f0legrj3u7ukjf055z7das</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2foq9qgzm9d4ccye1qak56y7k_image-header_pEs_1740916850000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250302112500 +0000" stop="20250302150000 +0000" channel="d747ad65-ec44-4ab5-ece9-08dd4c16fc06">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBCantabriuavisitorPrimeraFEBMorounlocalpng-123015.png"/>
@@ -3379,5 +3403,41 @@
     <title lang="es">Campeonato del Mundo - Trondheim </title>
     <desc lang="es">Relevos 4×5km | Masculino | Día 2</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250310120000 +0000" stop="20250310140000 +0000" channel="8u576r21nhc50fzm8dkl1v4y9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/326p58nj4r70vvrtpb3zophun_image-header_pEs_1730934949000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Córdoba Open - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250311120000 +0000" stop="20250311140000 +0000" channel="2i2wgr08q8wpdp5cmmld0uvl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bc2939ohpnqbbgco3z4wgk8j1_image-header_pEs_1730934949000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Córdoba Open - Día 2</title>
+    <desc lang="es">Disfruta del mejor pádel en un nuevo torneo de A1 Padel desde la ciudad argentina de Córdoba.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250312120500 +0000" stop="20250312160500 +0000" channel="u9nd9wxlqk9imlokzvujn1u5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ic2i88rqgtjo52r7ahijo78l_image-header_pEs_1740557982000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tirreno-Adriático &amp; París-Niza - Etapa 3 y Etapa 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250312140000 +0000" stop="20250312200000 +0000" channel="9aidmdkvkzvh8gif0uy8a0mbp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4qkbas9yyrz6ze0lj62ym12r_image-header_pEs_1738098522000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">LALIGA FC Pro - Día 4</title>
+    <desc lang="es">La octava edición de LaLiga FC PRO de videojuegos competitivos llega a DAZN. El actual campeón, Nicolas99FC tratará de defender su título ante grandes nombres del mundo del fútbol virtual como JRA o Andoniipm. 38 equipos de LaLiga EA Sports y de LaLiga Hypermotion tendrán sus representantes en un torneo con un premio de más de 350.000€.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250312190000 +0000" stop="20250312210000 +0000" channel="3plyg1xlf59ozpjak0l552d9w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ynggcw32767fq1lx35l3pduc_image-header_pEs_1733601954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Córdoba Open - Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250312193000 +0000" stop="20250312230000 +0000" channel="d51f0legrj3u7ukjf055z7das">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2foq9qgzm9d4ccye1qak56y7k_image-header_pEs_1740916850000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">B. Braun Sheffield Sharks - Cheshire Phoenix</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Cheshire Phoenix y Sheffield Sharks.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
