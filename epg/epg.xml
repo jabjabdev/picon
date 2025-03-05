@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 05 06:36:36 2025">
+<tv date="Wed Mar 05 12:34:56 2025">
   <channel id="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <display-name>36bfb137-f397-4247-08d1-08dd4c1823f3</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
@@ -440,14 +440,6 @@
     <display-name>esp-e200578684c0ch20036</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="esp-e200578682c0ch20035">
-    <display-name>esp-e200578682c0ch20035</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200569638c0ch20027">
-    <display-name>esp-e200569638c0ch20027</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200569638_20250225-100158.jpeg"/>
-  </channel>
   <channel id="esp-e200567821c0ch20023">
     <display-name>esp-e200567821c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200567821_20250225-100510.jpeg"/>
@@ -456,20 +448,12 @@
     <display-name>esp-e200545911c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_6_200545911_20250225-100710.jpeg"/>
   </channel>
-  <channel id="esp-e200569639c0ch20027">
-    <display-name>esp-e200569639c0ch20027</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200569639_20250225-101057.jpeg"/>
-  </channel>
   <channel id="esp-e200613731c0ch20037">
     <display-name>esp-e200613731c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200578687c0ch20036">
     <display-name>esp-e200578687c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200578685c0ch20035">
-    <display-name>esp-e200578685c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200567822c0ch20023">
@@ -1560,6 +1544,38 @@
     <display-name>esp-e200593496c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200593496_20250228-135608.jpeg"/>
   </channel>
+  <channel id="bde9579c-0e75-4e45-0c8b-08dd5b184695">
+    <display-name>bde9579c-0e75-4e45-0c8b-08dd5b184695</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-1-Jornada-de-mananaOKjpg-104101.jpg"/>
+  </channel>
+  <channel id="3a735405-aa63-495c-721f-08dd5b18a07b">
+    <display-name>3a735405-aa63-495c-721f-08dd5b18a07b</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-1-Jornada-de-tardeOKjpg-104201.jpg"/>
+  </channel>
+  <channel id="10af684e-9199-4039-cf54-08dd5b1830fb">
+    <display-name>10af684e-9199-4039-cf54-08dd5b1830fb</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-2OKjpg-104316.jpg"/>
+  </channel>
+  <channel id="b4d8c915-54b4-49fd-b57f-08dd4c1a9b7f">
+    <display-name>b4d8c915-54b4-49fd-b57f-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LigaFemeninaEndesaThumbnailCeltaFemxaForkaDuraunMEnsinomatchpng-142704.png"/>
+  </channel>
+  <channel id="60c0a977-d9b7-455c-c59c-08dd4c17c405">
+    <display-name>60c0a977-d9b7-455c-c59c-08dd4c17c405</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LigaFemeninaEndesaThumbnailSPARGironaCaiuLaSeumatchpng-143006.png"/>
+  </channel>
+  <channel id="e4a48765-79fe-4ef0-5273-08dd4c125329">
+    <display-name>e4a48765-79fe-4ef0-5273-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlSaddSCAlWaslFCmatchpng-111254.png"/>
+  </channel>
+  <channel id="50b48588-8de2-4889-ed0a-08dd4c16fc06">
+    <display-name>50b48588-8de2-4889-ed0a-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlNassrClubEsteghalFCmatchpng-111028.png"/>
+  </channel>
+  <channel id="3f9d5ab9-8735-4119-b59c-08dd4c1a9b7f">
+    <display-name>3f9d5ab9-8735-4119-b59c-08dd4c1a9b7f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlHilalSFCPakhtakormatchpng-112506.png"/>
+  </channel>
   <programme start="20250301172500 +0000" stop="20250301210000 +0000" channel="36bfb137-f397-4247-08d1-08dd4c1823f3">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBOviedovisitorPrimeraFEBPalencialocalpng-121951.png"/>
     <title lang="es">Súper Agropal Palencia - Alimerka Oviedo</title>
@@ -2208,29 +2224,17 @@
     <desc lang="es">World Grand Prix | 1ª ronda | Sesión 3</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250305070000 +0000" stop="20250305090000 +0000" channel="esp-e200613730c0ch20037">
+  <programme start="20250305080132 +0000" stop="20250305100132 +0000" channel="esp-e200613730c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | 1ª ronda | Sesión 3</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250305070000 +0000" stop="20250305090000 +0000" channel="esp-e200578684c0ch20036">
+  <programme start="20250305081903 +0000" stop="20250305101903 +0000" channel="esp-e200578684c0ch20036">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | 1ª ronda | Sesión 3</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250305070000 +0000" stop="20250305090000 +0000" channel="esp-e200578682c0ch20035">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 1ª ronda | Sesión 3</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250305073500 +0000" stop="20250305084500 +0000" channel="esp-e200569638c0ch20027">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200569638_20250225-100158.jpeg"/>
-    <title lang="es">Campeonato Mundial Paralímpico - Trondheim</title>
-    <desc lang="es">Sprint Classic | Masculino y Femenino | Semifinales</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20250305082000 +0000" stop="20250305103000 +0000" channel="esp-e200567821c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200567821_20250225-100510.jpeg"/>
@@ -2244,12 +2248,6 @@
     <desc lang="es">Sprint Classic por Equipso | Masculino y Femenino | Clasificación</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250305111000 +0000" stop="20250305120000 +0000" channel="esp-e200569639c0ch20027">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200569639_20250225-101057.jpeg"/>
-    <title lang="es">Campeonato Mundial Paralímpico - Trondheim</title>
-    <desc lang="es">Sprint Classic | Masculino y Femenino | Final</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20250305113000 +0000" stop="20250305133000 +0000" channel="esp-e200613731c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2257,12 +2255,6 @@
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250305113000 +0000" stop="20250305133000 +0000" channel="esp-e200578687c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 1ª ronda | Sesión 4</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250305113000 +0000" stop="20250305133000 +0000" channel="esp-e200578685c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | 1ª ronda | Sesión 4</desc>
@@ -3899,5 +3891,53 @@
     <title lang="es">París-Niza - Etapa 3</title>
     <desc lang="es">Masculino | Circuit Magny-Cours &gt; Nevers (CRE, 28,4 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250308081000 +0000" stop="20250309130000 +0000" channel="bde9579c-0e75-4e45-0c8b-08dd5b184695">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-1-Jornada-de-mananaOKjpg-104101.jpg"/>
+    <title lang="es">Campeonato de España Sub-20 | Día 1 - Jornada de mañana</title>
+    <desc lang="es">La Ciudad Deportiva de Aldehuela en Salamanca acogerá el Campeonato de España Sub-20 Short Track los días 8 y 9 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250308151000 +0000" stop="20250308203500 +0000" channel="3a735405-aa63-495c-721f-08dd5b18a07b">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-1-Jornada-de-tardeOKjpg-104201.jpg"/>
+    <title lang="es">Campeonato de España Sub-20 | Día 1 - Jornada de tarde</title>
+    <desc lang="es">La Ciudad Deportiva de Aldehuela en Salamanca acogerá el Campeonato de España Sub-20 Short Track los días 8 y 9 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250309081000 +0000" stop="20250309130000 +0000" channel="10af684e-9199-4039-cf54-08dd5b1830fb">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/Atletismo-Campeonato-de-Espana-Sub20-Dia-2OKjpg-104316.jpg"/>
+    <title lang="es">Campeonato de España Sub-20 | Día 2</title>
+    <desc lang="es">La Ciudad Deportiva de Aldehuela en Salamanca acogerá el Campeonato de España Sub-20 Short Track los días 8 y 9 de marzo.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250309105500 +0000" stop="20250309143000 +0000" channel="b4d8c915-54b4-49fd-b57f-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LigaFemeninaEndesaThumbnailCeltaFemxaForkaDuraunMEnsinomatchpng-142704.png"/>
+    <title lang="es">Celta Femxa Forka - Durán M. Ensino</title>
+    <desc lang="es">El partido entre Celta Femxa Forka y Durán M. Ensino correspondiente a la Jornada 25 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250309162500 +0000" stop="20250309200000 +0000" channel="60c0a977-d9b7-455c-c59c-08dd4c17c405">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LigaFemeninaEndesaThumbnailSPARGironaCaiuLaSeumatchpng-143006.png"/>
+    <title lang="es">SPAR Girona - Caí La Seu</title>
+    <desc lang="es">El partido entre SPAR Girona y Caí La Seu correspondiente a la Jornada 25 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250310172000 +0000" stop="20250310200000 +0000" channel="e4a48765-79fe-4ef0-5273-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlSaddSCAlWaslFCmatchpng-111254.png"/>
+    <title lang="es">Al Sadd SC - Al Wasl FC</title>
+    <desc lang="es">Partido correspondiente a la vuelta de los octavos de final de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250310172000 +0000" stop="20250310200000 +0000" channel="50b48588-8de2-4889-ed0a-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlNassrClubEsteghalFCmatchpng-111028.png"/>
+    <title lang="es">Al Nassr Club - Esteghal FC</title>
+    <desc lang="es">Partido correspondiente a la vuelta de los octavos de final de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311192000 +0000" stop="20250311220000 +0000" channel="3f9d5ab9-8735-4119-b59c-08dd4c1a9b7f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/05/AFCChampionsLeagueThumbnailAlHilalSFCPakhtakormatchpng-112506.png"/>
+    <title lang="es">Al Hilal SFC - Pakhtakor</title>
+    <desc lang="es">Partido correspondiente a la vuelta de los octavos de final de la fase de Liga WEST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
