@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 06 06:36:32 2025">
+<tv date="Thu Mar 06 12:34:56 2025">
   <channel id="d747ad65-ec44-4ab5-ece9-08dd4c16fc06">
     <display-name>d747ad65-ec44-4ab5-ece9-08dd4c16fc06</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBCantabriuavisitorPrimeraFEBMorounlocalpng-123015.png"/>
@@ -388,14 +388,6 @@
     <display-name>esp-e200613734c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
-  <channel id="esp-e200578692c0ch20036">
-    <display-name>esp-e200578692c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200578690c0ch20035">
-    <display-name>esp-e200578690c0ch20035</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
   <channel id="esp-e200546050c0ch20027">
     <display-name>esp-e200546050c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200546050_20250226-203017.png"/>
@@ -410,10 +402,6 @@
   </channel>
   <channel id="esp-e200613735c0ch20037">
     <display-name>esp-e200613735c0ch20037</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200578693c0ch20035">
-    <display-name>esp-e200578693c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200590739c0ch20002">
@@ -1384,6 +1372,14 @@
     <display-name>esp-e200593497c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200593497_20250228-190859.jpeg"/>
   </channel>
+  <channel id="cea8aee4-9d04-412d-0914-08dd4c1823f3">
+    <display-name>cea8aee4-9d04-412d-0914-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/AFCChampionsLeagueThumbnailGwangjuFCVisselKobematchpng-152218.png"/>
+  </channel>
+  <channel id="51c82ab7-f49c-46e9-5276-08dd4c125329">
+    <display-name>51c82ab7-f49c-46e9-5276-08dd4c125329</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/AFCChampionsLeagueThumbnailKawasakiFrontaleShanghaiShenhuaFCmatchpng-152124.png"/>
+  </channel>
   <programme start="20250302112500 +0000" stop="20250302150000 +0000" channel="d747ad65-ec44-4ab5-ece9-08dd4c16fc06">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/18/PrimeraFEBCantabriuavisitorPrimeraFEBMorounlocalpng-123015.png"/>
     <title lang="es">Naturavia Morón - Grupo Alega Cantabria</title>
@@ -1960,31 +1956,19 @@
     <desc lang="es">World Grand Prix | 2ª ronda | Sesión 1</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250306070000 +0000" stop="20250306090000 +0000" channel="esp-e200613734c0ch20037">
+  <programme start="20250306071201 +0000" stop="20250306091201 +0000" channel="esp-e200613734c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | 2ª ronda | Sesión 1</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250306070000 +0000" stop="20250306090000 +0000" channel="esp-e200578692c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 2ª ronda | Sesión 1</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250306070000 +0000" stop="20250306090000 +0000" channel="esp-e200578690c0ch20035">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 2ª ronda | Sesión 1</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250306094500 +0000" stop="20250306111500 +0000" channel="esp-e200546050c0ch20027">
+  <programme start="20250306111500 +0000" stop="20250306123000 +0000" channel="esp-e200546050c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200546050_20250226-203017.png"/>
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">HS138 Masculino | Día 2</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250306111500 +0000" stop="20250306131500 +0000" channel="esp-e200545921c0ch20026">
+  <programme start="20250306124500 +0000" stop="20250306144500 +0000" channel="esp-e200545921c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200545921_20250226-225854.png"/>
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">Relevos 4x7,5km | Masculino</desc>
@@ -1997,12 +1981,6 @@
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250306113000 +0000" stop="20250306133000 +0000" channel="esp-e200613735c0ch20037">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | 2ª ronda | Sesión 2</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250306113000 +0000" stop="20250306133000 +0000" channel="esp-e200578693c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | 2ª ronda | Sesión 2</desc>
@@ -3459,5 +3437,17 @@
     <title lang="es">París-Niza - Etapa 4</title>
     <desc lang="es">Masculino | Vichy &gt; La Loge des Gardes (163,4 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250312092000 +0000" stop="20250312120000 +0000" channel="cea8aee4-9d04-412d-0914-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/AFCChampionsLeagueThumbnailGwangjuFCVisselKobematchpng-152218.png"/>
+    <title lang="es">Gwangju FC - Vissel Kobe</title>
+    <desc lang="es">Partido correspondiente a la vuelta de los octavos de final de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250312092000 +0000" stop="20250312120000 +0000" channel="51c82ab7-f49c-46e9-5276-08dd4c125329">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/04/AFCChampionsLeagueThumbnailKawasakiFrontaleShanghaiShenhuaFCmatchpng-152124.png"/>
+    <title lang="es">Kawasaki Frontale - Shanghai Shenhua FC</title>
+    <desc lang="es">Partido correspondiente a la vuelta de los octavos de final de la fase de Liga EAST de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
