@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 06 18:30:12 2025">
+<tv date="Thu Mar 06 18:34:59 2025">
   <channel id="esp-e200567827c0ch20023">
     <display-name>esp-e200567827c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200567827_20250201-112339.jpeg"/>
@@ -1203,6 +1203,42 @@
   <channel id="49t3934ko401igpdibw7er1za">
     <display-name>49t3934ko401igpdibw7er1za</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8x4ywjp8u57o1ef7715kuwnks_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1330ea7f-be97-449b-c5c7-08dd4c17c405">
+    <display-name>1330ea7f-be97-449b-c5c7-08dd4c17c405</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBZamoravisitorPrimeraFEBBetislocalpng-163316.png"/>
+  </channel>
+  <channel id="c7eb168f-a40e-4595-092c-08dd4c1823f3">
+    <display-name>c7eb168f-a40e-4595-092c-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBOurensevisitorPrimeraFEBMorounlocalpng-163637.png"/>
+  </channel>
+  <channel id="7d4d1685-2211-42c1-092d-08dd4c1823f3">
+    <display-name>7d4d1685-2211-42c1-092d-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBEstudiantesvisitorPrimeraFEBCastelloulocalpng-163747.png"/>
+  </channel>
+  <channel id="ca0898b3-0f95-4ccc-093a-08dd4c1823f3">
+    <display-name>ca0898b3-0f95-4ccc-093a-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBCantabriuavisitorPrimeraFEBFuenlabradalocalpng-110252.png"/>
+  </channel>
+  <channel id="66bf4323-5886-4c9f-ed27-08dd4c16fc06">
+    <display-name>66bf4323-5886-4c9f-ed27-08dd4c16fc06</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBOviedovisitorPrimeraFEBAlicantelocalpng-110654.png"/>
+  </channel>
+  <channel id="4e8d3f4f-3daa-4c33-0938-08dd4c1823f3">
+    <display-name>4e8d3f4f-3daa-4c33-0938-08dd4c1823f3</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBMenorcavisitorPrimeraFEBMonbusObradoirolocalpng-105845.png"/>
+  </channel>
+  <channel id="d6b33e82-43e5-4075-c5cc-08dd4c17c405">
+    <display-name>d6b33e82-43e5-4075-c5cc-08dd4c17c405</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBRealValladolidvisitorPrimeraFEBGipuzkoalocalpng-110055.png"/>
+  </channel>
+  <channel id="569a7226-5bfd-4a65-c5cd-08dd4c17c405">
+    <display-name>569a7226-5bfd-4a65-c5cd-08dd4c17c405</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBCartagenavisitorPrimeraFEBPalencialocalpng-110539.png"/>
+  </channel>
+  <channel id="2fe28496-c016-408f-6348-08dd4c1f9f4c">
+    <display-name>2fe28496-c016-408f-6348-08dd4c1f9f4c</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBTizonaBurgosvisitorPrimeraFEBSanPabloBurgoslocalpng-110926.png"/>
   </channel>
   <programme start="20250303143000 +0000" stop="20250303160000 +0000" channel="esp-e200567827c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200567827_20250201-112339.jpeg"/>
@@ -3009,5 +3045,59 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 16 (Canelo Special)</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250311184000 +0000" stop="20250311221500 +0000" channel="1330ea7f-be97-449b-c5c7-08dd4c17c405">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBZamoravisitorPrimeraFEBBetislocalpng-163316.png"/>
+    <title lang="es">Real Betis Baloncesto - Caja Rural Zamora</title>
+    <desc lang="es">El partido entre Real Betis Baloncesto y Caja Rural Zamora correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250311185500 +0000" stop="20250311223000 +0000" channel="c7eb168f-a40e-4595-092c-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBOurensevisitorPrimeraFEBMorounlocalpng-163637.png"/>
+    <title lang="es">Naturavia Morón - AirCargoBooking Ourense</title>
+    <desc lang="es">El partido entre Naturavia Morón y AirCargoBooking Ourense correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250311191000 +0000" stop="20250311224500 +0000" channel="7d4d1685-2211-42c1-092d-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/27/PrimeraFEBEstudiantesvisitorPrimeraFEBCastelloulocalpng-163747.png"/>
+    <title lang="es">Amics Castelló - Movistar Estudiantes</title>
+    <desc lang="es">El partido entre Amics Castelló y Movistar Estudiantes correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312172500 +0000" stop="20250312210000 +0000" channel="ca0898b3-0f95-4ccc-093a-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBCantabriuavisitorPrimeraFEBFuenlabradalocalpng-110252.png"/>
+    <title lang="es">Flexicar Fuenlabrada - Grupo Alega Cantabria</title>
+    <desc lang="es">El partido entre Flexicar Fuenlabrada y Grupo Alega Cantabria correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312175500 +0000" stop="20250312213000 +0000" channel="66bf4323-5886-4c9f-ed27-08dd4c16fc06">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBOviedovisitorPrimeraFEBAlicantelocalpng-110654.png"/>
+    <title lang="es">HLA Alicante - Alimerka Oviedo</title>
+    <desc lang="es">El partido entre HLA Alicante y Alimerka Oviedo correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312185500 +0000" stop="20250312223000 +0000" channel="4e8d3f4f-3daa-4c33-0938-08dd4c1823f3">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBMenorcavisitorPrimeraFEBMonbusObradoirolocalpng-105845.png"/>
+    <title lang="es">Monbus Obradoiro - Hestia Menorca</title>
+    <desc lang="es">El partido entre Monbus Obradoiro y Hestia Menorca correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312185500 +0000" stop="20250312223000 +0000" channel="d6b33e82-43e5-4075-c5cc-08dd4c17c405">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBRealValladolidvisitorPrimeraFEBGipuzkoalocalpng-110055.png"/>
+    <title lang="es">Inveready Gipuzkoa - UEMC Real Valladolid</title>
+    <desc lang="es">El partido entre Inveready Gipuzkoa y UEMC Real Valladolid correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312185500 +0000" stop="20250312223000 +0000" channel="569a7226-5bfd-4a65-c5cd-08dd4c17c405">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBCartagenavisitorPrimeraFEBPalencialocalpng-110539.png"/>
+    <title lang="es">Súper Agropal Palencia - Odilo Cartagena</title>
+    <desc lang="es">El partido entre Súper Agropal Palencia y Odilo Cartagena correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312191000 +0000" stop="20250312224500 +0000" channel="2fe28496-c016-408f-6348-08dd4c1f9f4c">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/28/PrimeraFEBTizonaBurgosvisitorPrimeraFEBSanPabloBurgoslocalpng-110926.png"/>
+    <title lang="es">Silbö San Pablo Burgos - Grupo Ureta Tizona Burgos</title>
+    <desc lang="es">El partido entre Silbö San Pablo Burgos y Grupo Ureta Tizona Burgos correspondiente a la Jornada 24 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
