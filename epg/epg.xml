@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 07 06:36:49 2025">
+<tv date="Fri Mar 07 12:34:53 2025">
   <channel id="esp-e200567827c0ch20023">
     <display-name>esp-e200567827c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200567827_20250201-112339.jpeg"/>
@@ -388,20 +388,12 @@
     <display-name>esp-e200580034c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200580034_20250225-121514.jpeg"/>
   </channel>
-  <channel id="esp-e200588873c0ch20012">
-    <display-name>esp-e200588873c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200588873_20250225-121900.jpeg"/>
-  </channel>
   <channel id="esp-e200613738c0ch20037">
     <display-name>esp-e200613738c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200578792c0ch20036">
     <display-name>esp-e200578792c0ch20036</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200578791c0ch20035">
-    <display-name>esp-e200578791c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200524483c0ch20081">
@@ -1348,6 +1340,74 @@
     <display-name>esp-e200598913c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200598913_20250301-220058.jpeg"/>
   </channel>
+  <channel id="30d93313-ada1-4ed4-f6e9-08dd5bd4a3b5">
+    <display-name>30d93313-ada1-4ed4-f6e9-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailOliumpicoUniounmatchpng-085351.png"/>
+  </channel>
+  <channel id="009d132b-f8d3-4329-f6ea-08dd5bd4a3b5">
+    <display-name>009d132b-f8d3-4329-f6ea-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailRiachueloUniounmatchpng-091021.png"/>
+  </channel>
+  <channel id="28d8df32-9208-489f-8e13-08dd5bd39383">
+    <display-name>28d8df32-9208-489f-8e13-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailLaUniounFSAPenaarolmatchpng-091359.png"/>
+  </channel>
+  <channel id="f6258294-8166-4066-8e14-08dd5bd39383">
+    <display-name>f6258294-8166-4066-8e14-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailPenaarolOliumpicomatchpng-094236.png"/>
+  </channel>
+  <channel id="3f3a443f-2f5a-432a-f6ec-08dd5bd4a3b5">
+    <display-name>3f3a443f-2f5a-432a-f6ec-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailFerroZaurateBasketmatchpng-094354.png"/>
+  </channel>
+  <channel id="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
+    <display-name>f09480ef-8203-4715-f6ed-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
+  </channel>
+  <channel id="950a6dfb-bc30-4cc2-8e1e-08dd5bd39383">
+    <display-name>950a6dfb-bc30-4cc2-8e1e-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LALIGARegThumbnail16x9png-114658.png"/>
+  </channel>
+  <channel id="e14c18dc-b59e-4005-f6f8-08dd5bd4a3b5">
+    <display-name>e14c18dc-b59e-4005-f6f8-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LALIGARegThumbnail16x9png-114658.png"/>
+  </channel>
+  <channel id="9c4f2dfc-c4b9-4f9f-e4c9-08dd59abf9e9">
+    <display-name>9c4f2dfc-c4b9-4f9f-e4c9-08dd59abf9e9</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140115.png"/>
+  </channel>
+  <channel id="c7b40f59-f7b9-4caf-403a-08dd5a5bb0e0">
+    <display-name>c7b40f59-f7b9-4caf-403a-08dd5a5bb0e0</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140400.png"/>
+  </channel>
+  <channel id="806676b1-583f-4ed4-e4ca-08dd59abf9e9">
+    <display-name>806676b1-583f-4ed4-e4ca-08dd59abf9e9</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140624.png"/>
+  </channel>
+  <channel id="303314a8-3196-447a-8e17-08dd5bd39383">
+    <display-name>303314a8-3196-447a-8e17-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueObolonvisitorUkrainianPremierLeagueOlexandrialocalpng-142711.png"/>
+  </channel>
+  <channel id="d3b88677-5e84-4362-8e18-08dd5bd39383">
+    <display-name>d3b88677-5e84-4362-8e18-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueVereslocalpng-143142.png"/>
+  </channel>
+  <channel id="9e7391b5-f999-41ca-6825-08dd5bd7d259">
+    <display-name>9e7391b5-f999-41ca-6825-08dd5bd7d259</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueDynamoKievlocalpng-143438.png"/>
+  </channel>
+  <channel id="b0586741-b2df-4132-b0cd-08dd5bf5b2a4">
+    <display-name>b0586741-b2df-4132-b0cd-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueKarpatylocalpng-143622.png"/>
+  </channel>
+  <channel id="e293601b-3a6a-42fc-f6fb-08dd5bd4a3b5">
+    <display-name>e293601b-3a6a-42fc-f6fb-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/GR-MANjpg-100057.jpg"/>
+  </channel>
+  <channel id="b631803e-ad5a-4b6b-d3e8-08dd5bd2f812">
+    <display-name>b631803e-ad5a-4b6b-d3e8-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/GR-TARjpg-100505.jpg"/>
+  </channel>
   <programme start="20250303143000 +0000" stop="20250303160000 +0000" channel="esp-e200567827c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_3_200567827_20250201-112339.jpeg"/>
     <title lang="es">Campeonato del Mundo - Ostersund</title>
@@ -1858,7 +1918,7 @@
     <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250307113000 +0000" stop="20250307173000 +0000" channel="5bqmbmf51gzply8xxhu5x2pf4">
+  <programme start="20250307133000 +0000" stop="20250307193000 +0000" channel="5bqmbmf51gzply8xxhu5x2pf4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17g57406r6wbr1n5nbiddvbkrl_image-header_pEs_1740762558000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pettis vs. Jaishankar</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1930,12 +1990,6 @@
     <desc lang="es">Descenso Masculino | Día 1</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250307110000 +0000" stop="20250307123000 +0000" channel="esp-e200588873c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_6_200588873_20250225-121900.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Trondheim</title>
-    <desc lang="es">HS138 Masculino | Clasificación</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20250307113000 +0000" stop="20250307143000 +0000" channel="esp-e200613738c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -1943,12 +1997,6 @@
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250307113000 +0000" stop="20250307143000 +0000" channel="esp-e200578792c0ch20036">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Grand Prix | Cuartos de final | Sesión 2</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250307113000 +0000" stop="20250307143000 +0000" channel="esp-e200578791c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">World Grand Prix | Cuartos de final | Sesión 2</desc>
@@ -3369,5 +3417,107 @@
     <title lang="es">Copa del Mundo - Tignes</title>
     <desc lang="es">Big Air | Masculino y Femenino</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250308002500 +0000" stop="20250308040000 +0000" channel="30d93313-ada1-4ed4-f6e9-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailOliumpicoUniounmatchpng-085351.png"/>
+    <title lang="es">Olímpico - Unión</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250309232500 +0000" stop="20250310030000 +0000" channel="009d132b-f8d3-4329-f6ea-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailRiachueloUniounmatchpng-091021.png"/>
+    <title lang="es">Riachuelo - Unión</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250309235500 +0000" stop="20250310033000 +0000" channel="28d8df32-9208-489f-8e13-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailLaUniounFSAPenaarolmatchpng-091359.png"/>
+    <title lang="es">La Unión FSA - Peñarol</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312232500 +0000" stop="20250313030000 +0000" channel="f6258294-8166-4066-8e14-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailPenaarolOliumpicomatchpng-094236.png"/>
+    <title lang="es">Peñarol - Olímpico</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250312232500 +0000" stop="20250313030000 +0000" channel="3f3a443f-2f5a-432a-f6ec-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailFerroZaurateBasketmatchpng-094354.png"/>
+    <title lang="es">Ferro - Zárate Basket</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250314232500 +0000" stop="20250315030000 +0000" channel="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
+    <title lang="es">Argentino - Zárate Basket</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250311132500 +0000" stop="20250311213000 +0000" channel="950a6dfb-bc30-4cc2-8e1e-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LALIGARegThumbnail16x9png-114658.png"/>
+    <title lang="es">Jornada 2 | Grupos A, D, E y H</title>
+    <desc lang="es">Partidos de la Jornada 2 de LALIGA FC Pro 2024/25.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250312132500 +0000" stop="20250312213000 +0000" channel="e14c18dc-b59e-4005-f6f8-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/LALIGARegThumbnail16x9png-114658.png"/>
+    <title lang="es">Jornada 2 | Grupos B, C, F y G</title>
+    <desc lang="es">Partidos de la Jornada 2 de LALIGA FC Pro 2024/25.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250307160000 +0000" stop="20250307190000 +0000" channel="9c4f2dfc-c4b9-4f9f-e4c9-08dd59abf9e9">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140115.png"/>
+    <title lang="es">Juvenil A - Juventud Laguna</title>
+    <desc lang="es">Los de Héctor Nuez quiere ganar su último partido antes de disputar la Final Four de la Copa del Rey</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250308180000 +0000" stop="20250308210000 +0000" channel="c7b40f59-f7b9-4caf-403a-08dd5a5bb0e0">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140400.png"/>
+    <title lang="es">Las Palmas C - UD Balos</title>
+    <desc lang="es">Nuevo partido del equipo de José Robaina para seguir creciendo</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250309153000 +0000" stop="20250309193000 +0000" channel="806676b1-583f-4ed4-e4ca-08dd59abf9e9">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/03/MINIATURA-LLpng-140624.png"/>
+    <title lang="es">Real Betis - UD Las Palmas</title>
+    <desc lang="es">Los de Diego Martínez tienen la posibilidad de romperla mala dinámica en el Benito Villamarín</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311102500 +0000" stop="20250311130000 +0000" channel="303314a8-3196-447a-8e17-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueObolonvisitorUkrainianPremierLeagueOlexandrialocalpng-142711.png"/>
+    <title lang="es">Oleksandrya - Obolon</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311125500 +0000" stop="20250311153000 +0000" channel="d3b88677-5e84-4362-8e18-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueVereslocalpng-143142.png"/>
+    <title lang="es">Veres - Polissya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311125500 +0000" stop="20250311150000 +0000" channel="9e7391b5-f999-41ca-6825-08dd5bd7d259">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueDynamoKievlocalpng-143438.png"/>
+    <title lang="es">Dynamo - Zorya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311152500 +0000" stop="20250311180000 +0000" channel="b0586741-b2df-4132-b0cd-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueKarpatylocalpng-143622.png"/>
+    <title lang="es">Karpaty - Shakhtar</title>
+    <desc lang="es">El partido correspondiente a la Jornada 21 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250314064500 +0000" stop="20250314131500 +0000" channel="e293601b-3a6a-42fc-f6fb-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/GR-MANjpg-100057.jpg"/>
+    <title lang="es">Liga de Clubes Iberdrola | Control de acceso - Jornada de mañana</title>
+    <desc lang="es">La Ciudad Deportiva Príncipe Felipe de Arganda del Rey (Madrid) acoge la fase de Control de Acceso a la Liga Iberdrola de Gimnasia Rítmica.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20250314134000 +0000" stop="20250314204500 +0000" channel="b631803e-ad5a-4b6b-d3e8-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/GR-TARjpg-100505.jpg"/>
+    <title lang="es">Liga de Clubes Iberdrola | Control de acceso - Jornada de tarde</title>
+    <desc lang="es">La Ciudad Deportiva Príncipe Felipe de Arganda del Rey (Madrid) acoge la fase de Control de Acceso a la Liga Iberdrola de Gimnasia Rítmica.</desc>
+    <category lang="es">Gimnasia  </category>
   </programme>
 </tv>
