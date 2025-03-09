@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Mar 09 06:36:50 2025">
+<tv date="Sun Mar 09 18:30:14 2025">
   <channel id="esp-e200593400c0ch20002">
     <display-name>esp-e200593400c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200593400_20250219-114132.jpeg"/>
@@ -619,10 +619,6 @@
   <channel id="esp-e200524493c0ch20083">
     <display-name>esp-e200524493c0ch20083</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_0_200524493_20250227-124342.jpeg"/>
-  </channel>
-  <channel id="esp-e200625429c0ch20070">
-    <display-name>esp-e200625429c0ch20070</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20070_6_200625429_20250301-093039.jpeg"/>
   </channel>
   <channel id="esp-e200524492c0ch20082">
     <display-name>esp-e200524492c0ch20082</display-name>
@@ -1612,6 +1608,10 @@
     <display-name>esp-e200580173c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
   </channel>
+  <channel id="4hpsvgaf1vv122naixpqq3sn4">
+    <display-name>4hpsvgaf1vv122naixpqq3sn4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g0v8vhhttzqc1tpf9lvish1zk_image-header_pEs_1738056030000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250305133000 +0000" stop="20250305151500 +0000" channel="esp-e200593400c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200593400_20250219-114132.jpeg"/>
     <title lang="es">Trofeo Laigueglia  </title>
@@ -2506,7 +2506,7 @@
     <desc lang="es">World Grand Prix | Final | Sesión 2</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250309120000 +0000" stop="20250309220000 +0000" channel="esp-e200524491c0ch20081">
+  <programme start="20250309131500 +0000" stop="20250309220000 +0000" channel="esp-e200524491c0ch20081">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_0_200524491_20250227-114416.jpeg"/>
     <title lang="es">Arnold Palmer Invitational - Día 4</title>
     <desc lang="es">PGA Tour | Señal Alternativa</desc>
@@ -2518,7 +2518,7 @@
     <desc lang="es">Relevos | Masculino | Entrenamiento</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20250309121500 +0000" stop="20250309220000 +0000" channel="esp-e200524494c0ch20084">
+  <programme start="20250309133000 +0000" stop="20250309220000 +0000" channel="esp-e200524494c0ch20084">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200524494_20250227-115843.jpeg"/>
     <title lang="es">Arnold Palmer Invitational - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
@@ -2536,19 +2536,13 @@
     <desc lang="es">Relevos | Masculino</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20250309124500 +0000" stop="20250309220000 +0000" channel="esp-e200524493c0ch20083">
+  <programme start="20250309134500 +0000" stop="20250309220000 +0000" channel="esp-e200524493c0ch20083">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_0_200524493_20250227-124342.jpeg"/>
     <title lang="es">Arnold Palmer Invitational - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250309125500 +0000" stop="20250309150000 +0000" channel="esp-e200625429c0ch20070">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20070_6_200625429_20250301-093039.jpeg"/>
-    <title lang="es">Getafe CF - Atlético de Madrid</title>
-    <desc lang="es">LaLiga 2024/2025 | Jornada 27</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250309130000 +0000" stop="20250309220000 +0000" channel="esp-e200524492c0ch20082">
+  <programme start="20250309134500 +0000" stop="20250309220000 +0000" channel="esp-e200524492c0ch20082">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200524492_20250227-130413.jpeg"/>
     <title lang="es">Arnold Palmer Invitational - Día 4</title>
     <desc lang="es">PGA Tour | Grupo Destacado</desc>
@@ -4029,5 +4023,11 @@
     <title lang="es">UFC  - </title>
     <desc lang="es">Cartelera principal</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250311210000 +0000" stop="20250312030000 +0000" channel="4hpsvgaf1vv122naixpqq3sn4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g0v8vhhttzqc1tpf9lvish1zk_image-header_pEs_1738056030000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 17</title>
+    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
