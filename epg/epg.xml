@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 10 06:36:47 2025">
+<tv date="Mon Mar 10 12:36:38 2025">
   <channel id="esp-e200593400c0ch20002">
     <display-name>esp-e200593400c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200593400_20250219-114132.jpeg"/>
@@ -1875,6 +1875,10 @@
   <channel id="esp-e200487745c0ch20080">
     <display-name>esp-e200487745c0ch20080</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_2_200487745_20250304-203222.jpeg"/>
+  </channel>
+  <channel id="esp-e200640058c0ch20021">
+    <display-name>esp-e200640058c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606207_20240723-152543.jpeg"/>
   </channel>
   <programme start="20250305133000 +0000" stop="20250305151500 +0000" channel="esp-e200593400c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200593400_20250219-114132.jpeg"/>
@@ -4689,5 +4693,11 @@
     <title lang="es">The Players Championship - Día 4 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250316141500 +0000" stop="20250316160000 +0000" channel="esp-e200640058c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606207_20240723-152543.jpeg"/>
+    <title lang="es">Grand Slam - 's-Hertogenbosch</title>
+    <desc lang="es">Saltos</desc>
+    <category lang="es">Hípica</category>
   </programme>
 </tv>
