@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 10 18:30:14 2025">
+<tv date="Mon Mar 10 18:34:52 2025">
   <channel id="9af7c237-e279-482a-5255-08dd4c125329">
     <display-name>9af7c237-e279-482a-5255-08dd4c125329</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
@@ -1447,6 +1447,26 @@
   <channel id="2rs4yt6thy5wzt9hkazib9w9u">
     <display-name>2rs4yt6thy5wzt9hkazib9w9u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6qbizz3w3mp3qg3sj0zynq6xr_image-header_pEs_1740072372000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e704adcc-dddc-4747-b0d1-08dd5bf5b2a4">
+    <display-name>e704adcc-dddc-4747-b0d1-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsAdelaideUnitedMacarthurFCmatchpng-142820.png"/>
+  </channel>
+  <channel id="f000602d-ab19-49b5-d3e4-08dd5bd2f812">
+    <display-name>f000602d-ab19-49b5-d3e4-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersMelbourneVictorymatchpng-143051.png"/>
+  </channel>
+  <channel id="e311c2b9-d738-4f39-8e1c-08dd5bd39383">
+    <display-name>e311c2b9-d738-4f39-8e1c-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsNewcastleJetsWesternUnitedmatchpng-143207.png"/>
+  </channel>
+  <channel id="72842d5e-2e15-4059-f706-08dd5bd4a3b5">
+    <display-name>72842d5e-2e15-4059-f706-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/CEVBeachVolleyRomaVolleyRealeMutuaFeneraChieri76matchpng-154345.png"/>
+  </channel>
+  <channel id="8faf6d3f-4e30-45da-d3f2-08dd5bd2f812">
+    <display-name>8faf6d3f-4e30-45da-d3f2-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/CEVBeachVolleyBodankaLublinCucineLubeCivitanovamatchpng-154208.png"/>
   </channel>
   <programme start="20250307182500 +0000" stop="20250307220000 +0000" channel="9af7c237-e279-482a-5255-08dd4c125329">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
@@ -3618,6 +3638,36 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6qbizz3w3mp3qg3sj0zynq6xr_image-header_pEs_1740072372000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Madison - Omaha</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250314080000 +0000" stop="20250314103500 +0000" channel="e704adcc-dddc-4747-b0d1-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsAdelaideUnitedMacarthurFCmatchpng-142820.png"/>
+    <title lang="es">Adelaide United - Macarthur FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250315075500 +0000" stop="20250315103000 +0000" channel="f000602d-ab19-49b5-d3e4-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersMelbourneVictorymatchpng-143051.png"/>
+    <title lang="es">Western Sydney Wanderers - Melbourne Victory</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250316052500 +0000" stop="20250316080000 +0000" channel="e311c2b9-d738-4f39-8e1c-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/IsuzuUTEALeagueThumbnailsNewcastleJetsWesternUnitedmatchpng-143207.png"/>
+    <title lang="es">Newcastle Jets - Western United</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250311182500 +0000" stop="20250311220000 +0000" channel="72842d5e-2e15-4059-f706-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/CEVBeachVolleyRomaVolleyRealeMutuaFeneraChieri76matchpng-154345.png"/>
+    <title lang="es">Roma Volley - Reale Mutua Fenera Chieri'76</title>
+    <desc lang="es">El partido entre Roma Volley y Reale Mutua Fenera Chieri'76 correspondiente a la vuelta de la final del CEV Challenge Cup Volley Women 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250312185500 +0000" stop="20250312223000 +0000" channel="8faf6d3f-4e30-45da-d3f2-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/CEVBeachVolleyBodankaLublinCucineLubeCivitanovamatchpng-154208.png"/>
+    <title lang="es">Bodanka Lublin - Cucine Lube Civitanova</title>
+    <desc lang="es">El partido entre Bodanka Lublin y Cucine Lube Civitanova correspondiente a la ida de la final del CEV Challenge Cup Volley Men 2025. </desc>
     <category lang="es">Voleibol</category>
   </programme>
 </tv>
