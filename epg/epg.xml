@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 11 06:36:42 2025">
+<tv date="Tue Mar 11 12:34:51 2025">
   <channel id="9af7c237-e279-482a-5255-08dd4c125329">
     <display-name>9af7c237-e279-482a-5255-08dd4c125329</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
@@ -547,10 +547,6 @@
   <channel id="esp-e200636724c0ch20027">
     <display-name>esp-e200636724c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_6_200636724_20250306-163722.png"/>
-  </channel>
-  <channel id="40j1fdx45706jjdkiqybcmqc4">
-    <display-name>40j1fdx45706jjdkiqybcmqc4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qxijei8fxtz016wjps91vcu1n_image-header_pEs_1741272460000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6wu59n675vdx4fhmhjrnn3jp6">
     <display-name>6wu59n675vdx4fhmhjrnn3jp6</display-name>
@@ -1548,6 +1544,22 @@
     <display-name>esp-e200621278c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
+  <channel id="d50dd4a9-d3f1-4d9f-f6fe-08dd5bd4a3b5">
+    <display-name>d50dd4a9-d3f1-4d9f-f6fe-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/BasketballBundesligaThumbnailVechtaUlmmatchpng-155013.png"/>
+  </channel>
+  <channel id="327c06e0-7228-42d6-9584-08dd5b2e1f54">
+    <display-name>327c06e0-7228-42d6-9584-08dd5b2e1f54</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/LigaFemeninaEndesaThumbnailKutxabankAraskiCeltaFemxaZorkamatchpng-160332.png"/>
+  </channel>
+  <channel id="984592f7-7242-4865-9585-08dd5b2e1f54">
+    <display-name>984592f7-7242-4865-9585-08dd5b2e1f54</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/LigaFemeninaEndesaThumbnailSPARGranCanariaSPARGironamatchpng-100754.png"/>
+  </channel>
+  <channel id="b6520306-1ca3-4d86-6172-08dd5bd2f28d">
+    <display-name>b6520306-1ca3-4d86-6172-08dd5bd2f28d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/BasketballBundesligaThumbnailWuerzburgChemnitzmatchpng-155118.png"/>
+  </channel>
   <programme start="20250307182500 +0000" stop="20250307220000 +0000" channel="9af7c237-e279-482a-5255-08dd4c125329">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
     <title lang="es">Bonn - Vechta</title>
@@ -2369,12 +2381,6 @@
     <title lang="es">Campeonato del Mundo - Trondheim</title>
     <desc lang="es">Relevos 4x5km | Masculino | Día 2</desc>
     <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20250311090000 +0000" stop="20250311113000 +0000" channel="40j1fdx45706jjdkiqybcmqc4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qxijei8fxtz016wjps91vcu1n_image-header_pEs_1741272460000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Entrevista con Juan Carlos Unzué</title>
-    <desc lang="es">No te pierdas la entrevista exclusiva con Juan Carlos Unzué en DAZN.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250313020000 +0000" stop="20250313080000 +0000" channel="6wu59n675vdx4fhmhjrnn3jp6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/99fuhvp9vy76duz3b31vtoekb_image-header_pEs_1739211241000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3869,5 +3875,29 @@
     <title lang="es">Snooker</title>
     <desc lang="es">The Players Championship | 1ª ronda</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250314182500 +0000" stop="20250314220000 +0000" channel="d50dd4a9-d3f1-4d9f-f6fe-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/BasketballBundesligaThumbnailVechtaUlmmatchpng-155013.png"/>
+    <title lang="es">Vechta - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250315172500 +0000" stop="20250315210000 +0000" channel="327c06e0-7228-42d6-9584-08dd5b2e1f54">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/LigaFemeninaEndesaThumbnailKutxabankAraskiCeltaFemxaZorkamatchpng-160332.png"/>
+    <title lang="es">Kutxabank Araski - Celta Femxa Zorka</title>
+    <desc lang="es">El partido entre CKutxabank Araski y Celta Femxa Zorka correspondiente a la Jornada 26 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250315182500 +0000" stop="20250315220000 +0000" channel="984592f7-7242-4865-9585-08dd5b2e1f54">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/06/LigaFemeninaEndesaThumbnailSPARGranCanariaSPARGironamatchpng-100754.png"/>
+    <title lang="es">SPAR Gran Canaria - SPAR Girona</title>
+    <desc lang="es">El partido entre SPAR Gran Canaria y SPAR Girona correspondiente a la Jornada 26 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250316132500 +0000" stop="20250316170000 +0000" channel="b6520306-1ca3-4d86-6172-08dd5bd2f28d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/10/BasketballBundesligaThumbnailWuerzburgChemnitzmatchpng-155118.png"/>
+    <title lang="es">Würzburg - Chemnitz</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
