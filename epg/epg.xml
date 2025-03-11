@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 11 18:36:42 2025">
+<tv date="Wed Mar 12 00:30:15 2025">
   <channel id="9af7c237-e279-482a-5255-08dd4c125329">
     <display-name>9af7c237-e279-482a-5255-08dd4c125329</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
@@ -1663,6 +1663,26 @@
   <channel id="esp-e200644798c0ch20026">
     <display-name>esp-e200644798c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240403-132838.jpeg"/>
+  </channel>
+  <channel id="9eyropgp3rr3xt6ck00o6hned">
+    <display-name>9eyropgp3rr3xt6ck00o6hned</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36lvu6vdnijznvmjmi9fmxz0k_image-header_pEs_1741655492000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7xqeznkyb7y3ti0u9vxz0j8rf">
+    <display-name>7xqeznkyb7y3ti0u9vxz0j8rf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhwi7nzudei1xahwjx5ny4te_image-header_pEs_1741715405000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3dfnbedyxnasvl7xopqmqu4us">
+    <display-name>3dfnbedyxnasvl7xopqmqu4us</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dxv5xazxoz58xz59edqpcndq_image-header_pEs_1741014631000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d1aidwy3sjch3vehcxk2gkyz8">
+    <display-name>d1aidwy3sjch3vehcxk2gkyz8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13ufkb43v0vbjd1crvvosbr6h_image-header_pEs_1741266075000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3eps266xu6ew4lpybezjnn3tg">
+    <display-name>3eps266xu6ew4lpybezjnn3tg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8krg8d5mk86qclks897sfts7q_image-header_pEs_1741015122000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250307182500 +0000" stop="20250307220000 +0000" channel="9af7c237-e279-482a-5255-08dd4c125329">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailBonnVechtamatchpng-072822.png"/>
@@ -4159,5 +4179,35 @@
     <title lang="es">Oslo - Masculino Classic 20 KM</title>
     <desc lang="es">Copa del Mundo</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250312000000 +0000" stop="20250312060000 +0000" channel="9eyropgp3rr3xt6ck00o6hned">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36lvu6vdnijznvmjmi9fmxz0k_image-header_pEs_1741655492000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bracket Reveal Show</title>
+    <desc lang="es">¡Conoce los enfrentamientos del cuadro! 64 de los mejores luchadores de todo el mundo competirán para ganar la prueba más dura de las MMA: ganar tres veces seguidas en cinco meses para convertirse en Campeón del Torneo de la PFL. ¡Disfrútalo en DAZN!</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250315163000 +0000" stop="20250315223000 +0000" channel="7xqeznkyb7y3ti0u9vxz0j8rf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebhwi7nzudei1xahwjx5ny4te_image-header_pEs_1741715405000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ball vs. Doheny - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250318174500 +0000" stop="20250318201500 +0000" channel="3dfnbedyxnasvl7xopqmqu4us">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dxv5xazxoz58xz59edqpcndq_image-header_pEs_1741014631000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - Real Madrid - Arsenal (ida)</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Real Madrid y Arsenal.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250318190000 +0000" stop="20250318213000 +0000" channel="d1aidwy3sjch3vehcxk2gkyz8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13ufkb43v0vbjd1crvvosbr6h_image-header_pEs_1741266075000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Nassr - Al Shabab</title>
+    <desc lang="es">Vive el encuentro de SAFF Women's Cup entre Al Nassr y Al Shabab.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250318200000 +0000" stop="20250318223000 +0000" channel="3eps266xu6ew4lpybezjnn3tg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8krg8d5mk86qclks897sfts7q_image-header_pEs_1741015122000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - Bayern München - Olympique Lyonnais (ida)</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Olympique Lyonnais y Bayern München.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
