@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 12 18:36:59 2025">
+<tv date="Thu Mar 13 00:30:17 2025">
   <channel id="471b82f7-0a49-45a0-5256-08dd4c125329">
     <display-name>471b82f7-0a49-45a0-5256-08dd4c125329</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailUlmAlbaBerlinmatchpng-072945.png"/>
@@ -1483,6 +1483,38 @@
   <channel id="esp-e200651031c0ch20005">
     <display-name>esp-e200651031c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200651031_20250312-114410.jpeg"/>
+  </channel>
+  <channel id="cvpogl97beerjr03pdbfc10vr">
+    <display-name>cvpogl97beerjr03pdbfc10vr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z9sxwx1fq2nh1h272mguvdme6_image-header_pEs_1741024225000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b1hbzjo392wa8cyr1xkrhfs2g">
+    <display-name>b1hbzjo392wa8cyr1xkrhfs2g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dr3stder9e0k14qnlzm03c6j2_image-header_pEs_1741612540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eqzyt6t980wwugf8a1kptx1da">
+    <display-name>eqzyt6t980wwugf8a1kptx1da</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esx7fsy84bl20avwjtgiqsock_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9l65hi7zuopbyowlxj6t1uzm9">
+    <display-name>9l65hi7zuopbyowlxj6t1uzm9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/93qdebpgjczwctvwf6zh5b9fw_image-header_pEs_1741020712000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="93kdbk06rdkotojhlvbwwjwu3">
+    <display-name>93kdbk06rdkotojhlvbwwjwu3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8fhyl9go0g6w5g9wz1gf2v2vo_image-header_pEs_1741015540000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="snebjxef02od8ekd4kbypez8">
+    <display-name>snebjxef02od8ekd4kbypez8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/822uiz5hwyutzzbccahrev3r1_image-header_pEs_1741596308000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cjnt8lotcdn6qxxud6mbe02dw">
+    <display-name>cjnt8lotcdn6qxxud6mbe02dw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1733502241000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3dxi00frp15vpf4ogwyd0liqc">
+    <display-name>3dxi00frp15vpf4ogwyd0liqc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ndqhh02xhm4lzzafbod3er8g_image-header_pEs_1741015748000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250309145500 +0000" stop="20250309183000 +0000" channel="471b82f7-0a49-45a0-5256-08dd4c125329">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/02/20/BasketballBundesligaThumbnailUlmAlbaBerlinmatchpng-072945.png"/>
@@ -3709,5 +3741,53 @@
     <title lang="es">Esquí Alpino</title>
     <desc lang="es"/>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250319070000 +0000" stop="20250319130000 +0000" channel="cvpogl97beerjr03pdbfc10vr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z9sxwx1fq2nh1h272mguvdme6_image-header_pEs_1741024225000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Safari Rally Kenya - Shakedown</title>
+    <desc lang="es">Watch the latest World Rally Championship action from Safari Rally Kenya.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250319090000 +0000" stop="20250319150000 +0000" channel="b1hbzjo392wa8cyr1xkrhfs2g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dr3stder9e0k14qnlzm03c6j2_image-header_pEs_1741612540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Entrevista con Marc Márquez</title>
+    <desc lang="es">En una entrevista exclusiva con DAZN, Marc Márquez comparte sus pensamientos sobre su presente en Ducati y sus expectativas para el futuro en el Mundial de MotoGP. El octocampeón nos habla sobre los retos de su nueva etapa en la escudería de Borgo Panigale, su adaptación como compañero de Pecco Bagnaia o cuáles son sus ambiciones para recuperar su mejor nivel y luchar por ganar más carreras. ¡No te lo pierdas!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250319111500 +0000" stop="20250319151500 +0000" channel="eqzyt6t980wwugf8a1kptx1da">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esx7fsy84bl20avwjtgiqsock_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nokere Koerse Femenina</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250319132000 +0000" stop="20250319172000 +0000" channel="9l65hi7zuopbyowlxj6t1uzm9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/93qdebpgjczwctvwf6zh5b9fw_image-header_pEs_1741020712000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Milano-Torino &amp; Nokere Koerse</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250319174500 +0000" stop="20250319201500 +0000" channel="93kdbk06rdkotojhlvbwwjwu3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8fhyl9go0g6w5g9wz1gf2v2vo_image-header_pEs_1741015540000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - Wolfsburg - FC Barcelona (+ La Central) (ida)</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Barcelona y Wolfsburg.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250319190000 +0000" stop="20250319213000 +0000" channel="snebjxef02od8ekd4kbypez8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/822uiz5hwyutzzbccahrev3r1_image-header_pEs_1741596308000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Al Qadsiah - Al Ahli</title>
+    <desc lang="es">Vive el encuentro de SAFF Women's Cup entre Al Ahli y Al Qadsiah.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250319193000 +0000" stop="20250319230000 +0000" channel="cjnt8lotcdn6qxxud6mbe02dw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1733502241000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y Bristol Flyers.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250319200000 +0000" stop="20250319223000 +0000" channel="3dxi00frp15vpf4ogwyd0liqc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ndqhh02xhm4lzzafbod3er8g_image-header_pEs_1741015748000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cuartos de final - Manchester City - Chelsea (ida)</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Manchester City y Chelsea.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
