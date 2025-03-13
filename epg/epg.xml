@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 13 18:37:10 2025">
+<tv date="Fri Mar 14 00:30:13 2025">
   <channel id="esp-e200598539c0ch20007">
     <display-name>esp-e200598539c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
@@ -107,10 +107,6 @@
   <channel id="cnwtxy400njtpb5xefiycv1ns">
     <display-name>cnwtxy400njtpb5xefiycv1ns</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/arb1stsv3ztshyrze5ydnm1cx_image-header_pEs_1740558376000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1e02l4bmvy4knp4ck1d55hzur">
-    <display-name>1e02l4bmvy4knp4ck1d55hzur</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dsfob7nu59guimjpl0rj5if3a_image-header_pEs_1741080213000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cpnvtnpyeqt5v3wjiha5ejcrz">
     <display-name>cpnvtnpyeqt5v3wjiha5ejcrz</display-name>
@@ -1744,6 +1740,22 @@
     <display-name>esp-e200655529c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200655529_20250313-142907.jpeg"/>
   </channel>
+  <channel id="cfitqkxfkbkztb661gbdh3142">
+    <display-name>cfitqkxfkbkztb661gbdh3142</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m2htysh85465ctzont05upp5_image-header_pEs_1741259904000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f3tdtfoi14bmvb0w3ahgl7tzg">
+    <display-name>f3tdtfoi14bmvb0w3ahgl7tzg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29rdr66p1gei1czd48nx6y67n_image-header_pEs_1741022538000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3i5diyv3x86h5fr3g38ilcc9g">
+    <display-name>3i5diyv3x86h5fr3g38ilcc9g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f5pi98yqn0611t5qqz7qnaaoo_image-header_pEs_1741025830000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3paernojn7hblrpgu3wm5hyj8">
+    <display-name>3paernojn7hblrpgu3wm5hyj8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k4aorcf6v6b11yo5hsgb22bz_image-header_pEs_1741029236000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250310120500 +0000" stop="20250310150500 +0000" channel="esp-e200598539c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
     <title lang="es">Tirreno - Adriático - Etapa 1</title>
@@ -1905,12 +1917,6 @@
     <title lang="es">Tirreno-Adriático &amp; París-Niza - Etapa 4 y Etapa 5</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250313181500 +0000" stop="20250314001500 +0000" channel="1e02l4bmvy4knp4ck1d55hzur">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dsfob7nu59guimjpl0rj5if3a_image-header_pEs_1741080213000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Gran Premio de la República Argentina - Paddock Abierto</title>
-    <desc lang="es">El Mundial de MotoGP vuelve a tierras argentinas con la moral de los hermanos Márquez por las nubes. El circuito de las Termas de Río Hondo siempre es una pista complicada y cruzar la línea de meta en primer lugar no será nada fácil.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250313190000 +0000" stop="20250313210000 +0000" channel="cpnvtnpyeqt5v3wjiha5ejcrz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f9rqw7mam3mayws2ag4tqzql_image-header_pEs_1732472426000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4359,5 +4365,29 @@
     <title lang="es">UFC Fight Night - Preliminares previas</title>
     <desc lang="es">Preliminares</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250320040000 +0000" stop="20250320100000 +0000" channel="cfitqkxfkbkztb661gbdh3142">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m2htysh85465ctzont05upp5_image-header_pEs_1741259904000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Heineken GP de China - Box, Box</title>
+    <desc lang="es">Disfruta de la segunda carrera del Mundial de Fórmula 1 desde el circuito de Shanghái. El trazado chino promete emociones fuertes en la lucha de los pilotos por tomar la delantera en este inicio de temporada.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250320074500 +0000" stop="20250320134500 +0000" channel="f3tdtfoi14bmvb0w3ahgl7tzg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29rdr66p1gei1czd48nx6y67n_image-header_pEs_1741022538000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Safari Rally Kenya - Pre Show &amp; Ceremonial Start</title>
+    <desc lang="es">Watch the latest World Rally Championship action from Safari Rally Kenya.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250320100000 +0000" stop="20250320160000 +0000" channel="3i5diyv3x86h5fr3g38ilcc9g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f5pi98yqn0611t5qqz7qnaaoo_image-header_pEs_1741025830000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Safari Rally Kenya - Stage 1</title>
+    <desc lang="es">Watch the latest World Rally Championship action from Safari Rally Kenya.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250320133800 +0000" stop="20250320193800 +0000" channel="3paernojn7hblrpgu3wm5hyj8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k4aorcf6v6b11yo5hsgb22bz_image-header_pEs_1741029236000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Safari Rally Kenya - Stage 2</title>
+    <desc lang="es">Watch the latest World Rally Championship action from Safari Rally Kenya.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
