@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 13 12:30:13 2025">
+<tv date="Thu Mar 13 12:34:52 2025">
   <channel id="esp-e200598539c0ch20007">
     <display-name>esp-e200598539c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
@@ -1515,6 +1515,22 @@
   <channel id="avigkbu55rha14rd1iuc4pk44">
     <display-name>avigkbu55rha14rd1iuc4pk44</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dgbzh5xczznf1yh8lg8bvfm2q_image-header_pEs_1739870598000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b2594da6-b245-4861-2b05-08dd3bb2cab1">
+    <display-name>b2594da6-b245-4861-2b05-08dd3bb2cab1</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALCuencavisitorASOBALGranollerslocalpng-113753.png"/>
+  </channel>
+  <channel id="dc613c59-c99d-427f-8f52-08dd3c339e86">
+    <display-name>dc613c59-c99d-427f-8f52-08dd3c339e86</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALVilladeArandavisitorASOBALBidasoalocalpng-110602.png"/>
+  </channel>
+  <channel id="4f1efd42-726a-41c6-3a9a-08dd3bb81e17">
+    <display-name>4f1efd42-726a-41c6-3a9a-08dd3bb81e17</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALBarcelonavisitorASOBALHuescalocalpng-110339.png"/>
+  </channel>
+  <channel id="d1681fa9-f347-4441-79cd-08dd3bbe4109">
+    <display-name>d1681fa9-f347-4441-79cd-08dd3bbe4109</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALLogronovisitorASOBALTorrelavegalocalpng-111100.png"/>
   </channel>
   <programme start="20250310120500 +0000" stop="20250310150500 +0000" channel="esp-e200598539c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
@@ -3789,5 +3805,29 @@
     <title lang="es">Melbourne Supersprint - Carrera 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250319172500 +0000" stop="20250319200000 +0000" channel="b2594da6-b245-4861-2b05-08dd3bb2cab1">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALCuencavisitorASOBALGranollerslocalpng-113753.png"/>
+    <title lang="es">Fraikin Granollers - REBI Cuenca</title>
+    <desc lang="es">El partido entre Fraikin Granollers y REBI Cuenca correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250319175500 +0000" stop="20250319203000 +0000" channel="dc613c59-c99d-427f-8f52-08dd3c339e86">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALVilladeArandavisitorASOBALBidasoalocalpng-110602.png"/>
+    <title lang="es">Bidasoa Irun - Tubos Villa de Aranda</title>
+    <desc lang="es">El partido entre Bidasoa Irun y Tubos Villa de Aranda correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250319182500 +0000" stop="20250319210000 +0000" channel="4f1efd42-726a-41c6-3a9a-08dd3bb81e17">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALBarcelonavisitorASOBALHuescalocalpng-110339.png"/>
+    <title lang="es">Bada Huesca - Barça</title>
+    <desc lang="es">El partido entre Bada Huesca y Barça correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250319185500 +0000" stop="20250319213000 +0000" channel="d1681fa9-f347-4441-79cd-08dd3bbe4109">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/28/ASOBALLogronovisitorASOBALTorrelavegalocalpng-111100.png"/>
+    <title lang="es">Bathco Torrelavega - Logroño La Rioja</title>
+    <desc lang="es">El partido entre Bathco Torrelavega y Logroño La Rioja correspondiente a la Jornada 16 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
