@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 13 18:30:13 2025">
+<tv date="Thu Mar 13 18:35:16 2025">
   <channel id="esp-e200598539c0ch20007">
     <display-name>esp-e200598539c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
@@ -1535,6 +1535,26 @@
   <channel id="tj911azznbwn6nvwril3vt6i">
     <display-name>tj911azznbwn6nvwril3vt6i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d5meeslisghn13rupgw0dq5xv_image-header_pEs_1741264235000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="08963f91-58a8-4d03-8e3f-08dd5bd39383">
+    <display-name>08963f91-58a8-4d03-8e3f-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/4man01OKjpg-153604.jpg"/>
+  </channel>
+  <channel id="0cf96593-2993-415d-6852-08dd5bd7d259">
+    <display-name>0cf96593-2993-415d-6852-08dd5bd7d259</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/2woman01OKjpg-153856.jpg"/>
+  </channel>
+  <channel id="9535fb31-a993-426f-8e40-08dd5bd39383">
+    <display-name>9535fb31-a993-426f-8e40-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/4man02OKjpg-154056.jpg"/>
+  </channel>
+  <channel id="80f5ca0f-cbf6-4b40-684e-08dd5bd7d259">
+    <display-name>80f5ca0f-cbf6-4b40-684e-08dd5bd7d259</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/13/MINLALIGAPLUSjpg-134258.jpg"/>
+  </channel>
+  <channel id="5ae30d22-f1d8-406c-d405-08dd5bd2f812">
+    <display-name>5ae30d22-f1d8-406c-d405-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/13/MINLALIGAPLUSjpg-134057.jpg"/>
   </channel>
   <programme start="20250310120500 +0000" stop="20250310150500 +0000" channel="esp-e200598539c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_4_200598539_20250225-133838.jpeg"/>
@@ -3838,6 +3858,36 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d5meeslisghn13rupgw0dq5xv_image-header_pEs_1741264235000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Decoded - Lamine Yamal</title>
     <desc lang="es">Disfruta de una nueva entrega de Decoded en la que analizamos a Lamine Yamal, el joven futbolista del FC Barcelona que está llamado a marcar una época en el fútbol mundial.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250314134000 +0000" stop="20250314144500 +0000" channel="08963f91-58a8-4d03-8e3f-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/4man01OKjpg-153604.jpg"/>
+    <title lang="es">Lake Placid 2 | 4-Man Bobsleigh Heat 2</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250314182500 +0000" stop="20250314193000 +0000" channel="0cf96593-2993-415d-6852-08dd5bd7d259">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/2woman01OKjpg-153856.jpg"/>
+    <title lang="es">Lake Placid 2 | Women's Monobob Heat 2</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250315134000 +0000" stop="20250315144500 +0000" channel="9535fb31-a993-426f-8e40-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/11/4man02OKjpg-154056.jpg"/>
+    <title lang="es">Lake Placid 2 | 4-Man Bobsleigh Heat 4</title>
+    <desc lang="es">Nueva York (EEUU) acoge las competiciones de Bobsleigh y Skeleton de la IBSF World Championships 2024/25.</desc>
+    <category lang="es">Bobsleigh y Skeleton</category>
+  </programme>
+  <programme start="20250314180000 +0000" stop="20250314233000 +0000" channel="80f5ca0f-cbf6-4b40-684e-08dd5bd7d259">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/13/MINLALIGAPLUSjpg-134258.jpg"/>
+    <title lang="es">UD Las Palmas - Deportivo Alavés</title>
+    <desc lang="es">Nueva jornada para la UD Las Palmas de Diego Martínez que afronta un partido importantísimo ante el Deportivo Alavés.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250316110000 +0000" stop="20250316140000 +0000" channel="5ae30d22-f1d8-406c-d405-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/13/MINLALIGAPLUSjpg-134057.jpg"/>
+    <title lang="es">Las Palmas Atlético - CD Santa Úrsula</title>
+    <desc lang="es">El equipo que entrena Raúl Martín afronta una nueva jornada en el Anexo ante un rival peligroso como es el CD Santa Úrsula.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
