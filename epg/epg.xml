@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 18 06:36:42 2025">
+<tv date="Tue Mar 18 12:36:43 2025">
   <channel id="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
     <display-name>f09480ef-8203-4715-f6ed-08dd5bd4a3b5</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
@@ -1959,6 +1959,18 @@
   <channel id="esp-e200620744c0ch20008">
     <display-name>esp-e200620744c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200615319c0ch20007">
+    <display-name>esp-e200615319c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200615319_20250318-103308.jpeg"/>
+  </channel>
+  <channel id="esp-e200653657c0ch20032">
+    <display-name>esp-e200653657c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200653657_20250318-110909.jpeg"/>
+  </channel>
+  <channel id="esp-e200653658c0ch20032">
+    <display-name>esp-e200653658c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200653658_20250318-110938.jpeg"/>
   </channel>
   <programme start="20250314232500 +0000" stop="20250315030000 +0000" channel="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
@@ -4899,5 +4911,23 @@
     <title lang="es">Volta a Catalunya - Etapa 1</title>
     <desc lang="es">Masculino | Sant Feliu de Guíxols (178,6 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250319075500 +0000" stop="20250319100000 +0000" channel="esp-e200615319c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_3_200615319_20250318-103308.jpeg"/>
+    <title lang="es">Engadin - Slopestyle</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250322100000 +0000" stop="20250322120000 +0000" channel="esp-e200653657c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200653657_20250318-110909.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Individuales | Semifinales | Murcia</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250322120000 +0000" stop="20250322140000 +0000" channel="esp-e200653658c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200653658_20250318-110938.jpeg"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Individuales | Semifinales | Murcia</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
