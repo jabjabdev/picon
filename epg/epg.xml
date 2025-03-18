@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 19 00:30:14 2025">
+<tv date="Wed Mar 19 00:36:40 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1683,6 +1683,14 @@
   <channel id="dzf0krdrq4zyurgcck6cg9ssj">
     <display-name>dzf0krdrq4zyurgcck6cg9ssj</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ur9hlv6wuerkkpsygu7j7619_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200626995c0ch20017">
+    <display-name>esp-e200626995c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200626995_20250310-170345.jpeg"/>
+  </channel>
+  <channel id="esp-e200626994c0ch20017">
+    <display-name>esp-e200626994c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200626994_20250311-114140.jpeg"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4209,5 +4217,17 @@
     <title lang="es">La Central</title>
     <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250322181500 +0000" stop="20250322193000 +0000" channel="esp-e200626995c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200626995_20250310-170345.jpeg"/>
+    <title lang="es">Copa del Mundo - Sun Valley</title>
+    <desc lang="es">Femenino Descenso</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250323181500 +0000" stop="20250323193000 +0000" channel="esp-e200626994c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200626994_20250311-114140.jpeg"/>
+    <title lang="es">Copa del Mundo - Sun Valley</title>
+    <desc lang="es">Masculino Super-G</desc>
+    <category lang="es">Esquí</category>
   </programme>
 </tv>
