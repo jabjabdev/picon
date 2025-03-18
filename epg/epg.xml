@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 18 00:36:41 2025">
+<tv date="Tue Mar 18 06:36:42 2025">
   <channel id="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
     <display-name>f09480ef-8203-4715-f6ed-08dd5bd4a3b5</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
@@ -1955,6 +1955,10 @@
   <channel id="32t5804x04c18y5g0pjq4t71x">
     <display-name>32t5804x04c18y5g0pjq4t71x</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7k4kiiz8c45013ofvtwdka3eh_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200620744c0ch20008">
+    <display-name>esp-e200620744c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
   <programme start="20250314232500 +0000" stop="20250315030000 +0000" channel="f09480ef-8203-4715-f6ed-08dd5bd4a3b5">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/07/LigaNacionalBasquetbolThumbnailArgentinoZaurateBasketmatchpng-094704.png"/>
@@ -4889,5 +4893,11 @@
     <title lang="es">Código F1 - China</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250324141500 +0000" stop="20250324161500 +0000" channel="esp-e200620744c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Volta a Catalunya - Etapa 1</title>
+    <desc lang="es">Masculino | Sant Feliu de Guíxols (178,6 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
