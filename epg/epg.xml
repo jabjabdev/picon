@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 19 06:36:41 2025">
+<tv date="Wed Mar 19 12:36:39 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -375,10 +375,6 @@
   <channel id="cvpogl97beerjr03pdbfc10vr">
     <display-name>cvpogl97beerjr03pdbfc10vr</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z9sxwx1fq2nh1h272mguvdme6_image-header_pEs_1741024225000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b1hbzjo392wa8cyr1xkrhfs2g">
-    <display-name>b1hbzjo392wa8cyr1xkrhfs2g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dr3stder9e0k14qnlzm03c6j2_image-header_pEs_1741612540000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="eqzyt6t980wwugf8a1kptx1da">
     <display-name>eqzyt6t980wwugf8a1kptx1da</display-name>
@@ -1712,6 +1708,10 @@
     <display-name>esp-e200617916c0ch20009</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_4_200617916_20250311-140214.jpeg"/>
   </channel>
+  <channel id="esp-e200676581c0ch20022">
+    <display-name>esp-e200676581c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_5_200676581_20250319-093107.jpeg"/>
+  </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 21 - KSI vs. Dillon Danis</title>
@@ -2276,12 +2276,6 @@
     <desc lang="es">Watch the latest World Rally Championship action from Safari Rally Kenya.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250319090000 +0000" stop="20250319150000 +0000" channel="b1hbzjo392wa8cyr1xkrhfs2g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dr3stder9e0k14qnlzm03c6j2_image-header_pEs_1741612540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Entrevista con Marc Márquez</title>
-    <desc lang="es">En una entrevista exclusiva con DAZN, Marc Márquez comparte sus pensamientos sobre su presente en Ducati y sus expectativas para el futuro en el Mundial de MotoGP. El octocampeón nos habla sobre los retos de su nueva etapa en la escudería de Borgo Panigale, su adaptación como compañero de Pecco Bagnaia o cuáles son sus ambiciones para recuperar su mejor nivel y luchar por ganar más carreras. ¡No te lo pierdas!</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250319111500 +0000" stop="20250319151500 +0000" channel="eqzyt6t980wwugf8a1kptx1da">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esx7fsy84bl20avwjtgiqsock_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Nokere Koerse Femenina</title>
@@ -2318,7 +2312,7 @@
     <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Manchester City y Chelsea.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250319085500 +0000" stop="20250319110000 +0000" channel="esp-e200615284c0ch20006">
+  <programme start="20250319102500 +0000" stop="20250319120000 +0000" channel="esp-e200615284c0ch20006">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_6_200615284_20250306-165956.jpeg"/>
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Slopestyle | Masculino | Clasificación</desc>
@@ -4279,5 +4273,11 @@
     <title lang="es">Copa del Mundo - Sun Valley</title>
     <desc lang="es">Femenino Eslalon gigante | 2ª manga</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250320084500 +0000" stop="20250320111500 +0000" channel="esp-e200676581c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_5_200676581_20250319-093107.jpeg"/>
+    <title lang="es">Circuito Mundial - Verbier</title>
+    <desc lang="es">FIS Freeride World Tour</desc>
+    <category lang="es">Free Ride</category>
   </programme>
 </tv>
