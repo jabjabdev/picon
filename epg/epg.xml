@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 19 18:36:37 2025">
+<tv date="Thu Mar 20 00:30:12 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -391,10 +391,6 @@
   <channel id="snebjxef02od8ekd4kbypez8">
     <display-name>snebjxef02od8ekd4kbypez8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/822uiz5hwyutzzbccahrev3r1_image-header_pEs_1741596308000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cjnt8lotcdn6qxxud6mbe02dw">
-    <display-name>cjnt8lotcdn6qxxud6mbe02dw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1733502241000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3dxi00frp15vpf4ogwyd0liqc">
     <display-name>3dxi00frp15vpf4ogwyd0liqc</display-name>
@@ -1764,6 +1760,18 @@
     <display-name>esp-e200682324c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_5_200682324_20250319-152717.jpeg"/>
   </channel>
+  <channel id="16jctmwiovggdkkl5qomsa8te">
+    <display-name>16jctmwiovggdkkl5qomsa8te</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/102og7qo8t8pzs5yqcd41o6mm_image-header_pEs_1731069411000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aoxyzeryf7q9yypcwtjam5cm8">
+    <display-name>aoxyzeryf7q9yypcwtjam5cm8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5oyykee53v21d94tii1wtpvs3_image-header_pEs_1741619240000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="94yzwyo2vrgo7zr1yubt588ic">
+    <display-name>94yzwyo2vrgo7zr1yubt588ic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dqgsjb10lc7gjm4mjcccb67q1_image-header_pEs_1741714298000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 21 - KSI vs. Dillon Danis</title>
@@ -2351,12 +2359,6 @@
     <title lang="es">Al Qadsiah - Al Ahli</title>
     <desc lang="es">Vive el encuentro de SAFF Women's Cup entre Al Ahli y Al Qadsiah.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250319193000 +0000" stop="20250319230000 +0000" channel="cjnt8lotcdn6qxxud6mbe02dw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1733502241000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y Bristol Flyers.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250319200000 +0000" stop="20250319223000 +0000" channel="3dxi00frp15vpf4ogwyd0liqc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ndqhh02xhm4lzzafbod3er8g_image-header_pEs_1741015748000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4409,5 +4411,23 @@
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Esquícross | Masculino y Femenino | Clasificación</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250326100000 +0000" stop="20250326120000 +0000" channel="16jctmwiovggdkkl5qomsa8te">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/102og7qo8t8pzs5yqcd41o6mm_image-header_pEs_1731069411000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">France Grand Masters - Día 6</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250326141500 +0000" stop="20250326181500 +0000" channel="aoxyzeryf7q9yypcwtjam5cm8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5oyykee53v21d94tii1wtpvs3_image-header_pEs_1741619240000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Volta Ciclista a Catalunya - Etapa 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250326194500 +0000" stop="20250326211500 +0000" channel="94yzwyo2vrgo7zr1yubt588ic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dqgsjb10lc7gjm4mjcccb67q1_image-header_pEs_1741714298000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Industria Kielce - Füchse Berlin</title>
+    <desc lang="es">Vive el encuentro de EHF Champions League entre Kielce y Füchse Berlin.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
