@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 20 18:34:58 2025">
+<tv date="Thu Mar 20 18:36:45 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1259,6 +1259,18 @@
   <channel id="d7610716-8e2e-4af7-8e52-08dd5bd39383">
     <display-name>d7610716-8e2e-4af7-8e52-08dd5bd39383</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/20/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Masculina-Pista-2png-170125.png"/>
+  </channel>
+  <channel id="esp-e200686490c0ch20019">
+    <display-name>esp-e200686490c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+  </channel>
+  <channel id="esp-e200615461c0ch20008">
+    <display-name>esp-e200615461c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_1_200615461_20250319-112805.jpeg"/>
+  </channel>
+  <channel id="esp-e200685190c0ch20008">
+    <display-name>esp-e200685190c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200685190_20250320-105213.jpeg"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3149,5 +3161,23 @@
     <title lang="es">Elite 16 | México: Playoffs 2ª Ronda Masculina - Pista 2</title>
     <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
     <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250321075000 +0000" stop="20250321101000 +0000" channel="esp-e200686490c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121156.jpeg"/>
+    <title lang="es">Engadin - Slopestyle</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20250321095000 +0000" stop="20250321113000 +0000" channel="esp-e200615461c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_1_200615461_20250319-112805.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Engadin</title>
+    <desc lang="es">Esquícross</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250322135500 +0000" stop="20250322145000 +0000" channel="esp-e200685190c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200685190_20250320-105213.jpeg"/>
+    <title lang="es">Lahti - Masculino HS 130</title>
+    <desc lang="es">Copa del Mundo | Clasificación</desc>
+    <category lang="es">Esquí</category>
   </programme>
 </tv>
