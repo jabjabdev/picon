@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 20 18:36:45 2025">
+<tv date="Fri Mar 21 00:30:13 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1271,6 +1271,26 @@
   <channel id="esp-e200685190c0ch20008">
     <display-name>esp-e200685190c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200685190_20250320-105213.jpeg"/>
+  </channel>
+  <channel id="89gkayqkndq3wljz5c064pvyz">
+    <display-name>89gkayqkndq3wljz5c064pvyz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11pn8jtkezj202x2tovi03c9o_image-header_pEs_1732003574000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="15sn14nh00ks89axku4oo5saq">
+    <display-name>15sn14nh00ks89axku4oo5saq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/selki4hxd8w17dqtb9jw8twe_image-header_pEs_1741619376000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="drxxf1ugov3ir3e4umf2jhpaa">
+    <display-name>drxxf1ugov3ir3e4umf2jhpaa</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bv6ghg58ewg24z6cg0oi5yo0f_image-header_pEs_1742466567000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3gq94gvzxj8plkk0j7py5ko48">
+    <display-name>3gq94gvzxj8plkk0j7py5ko48</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k04wqbaet5wuyvri89ypdun5_image-header_pEs_1742409874000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ficurudc7cg1b20ev28ida1g">
+    <display-name>3ficurudc7cg1b20ev28ida1g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94sy4pqcqp97j4dqbyfjlt5el_image-header_pEs_1742409873000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3179,5 +3199,35 @@
     <title lang="es">Lahti - Masculino HS 130</title>
     <desc lang="es">Copa del Mundo | Clasificación</desc>
     <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20250327100000 +0000" stop="20250327120000 +0000" channel="89gkayqkndq3wljz5c064pvyz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11pn8jtkezj202x2tovi03c9o_image-header_pEs_1732003574000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">France Grand Masters - Octavos de final</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250327141500 +0000" stop="20250327181500 +0000" channel="15sn14nh00ks89axku4oo5saq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/selki4hxd8w17dqtb9jw8twe_image-header_pEs_1741619376000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Volta Ciclista a Catalunya - Etapa 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250327165500 +0000" stop="20250327225500 +0000" channel="drxxf1ugov3ir3e4umf2jhpaa">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bv6ghg58ewg24z6cg0oi5yo0f_image-header_pEs_1742466567000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">GP Red Bull de las Américas - Paddock Abierto</title>
+    <desc lang="es">¡El Mundial de MotoGP llega a Estados Unidos! El mítico Circuito de las Américas de Austin alberga la tercera carrera de la temporada 2025. ¡Disfruta del mejor motociclismo en DAZN!</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250327174500 +0000" stop="20250327201500 +0000" channel="3gq94gvzxj8plkk0j7py5ko48">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k04wqbaet5wuyvri89ypdun5_image-header_pEs_1742409874000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">FC Barcelona - Wolfsburg</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre FC Barcelona - Wolfsburg.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250327200000 +0000" stop="20250327223000 +0000" channel="3ficurudc7cg1b20ev28ida1g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94sy4pqcqp97j4dqbyfjlt5el_image-header_pEs_1742409873000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelsea - Manchester City</title>
+    <desc lang="es">Vive el encuentro de UEFA Women's Champions League entre Chelsea y Manchester City.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
