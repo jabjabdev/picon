@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 21 12:35:01 2025">
+<tv date="Fri Mar 21 18:30:11 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -291,10 +291,6 @@
   <channel id="esp-e200547050c0ch20023">
     <display-name>esp-e200547050c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200547050_20250310-145608.jpeg"/>
-  </channel>
-  <channel id="esp-e200615419c0ch20020">
-    <display-name>esp-e200615419c0ch20020</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200615419_20250310-121920.jpeg"/>
   </channel>
   <channel id="esp-e200524791c0ch20082">
     <display-name>esp-e200524791c0ch20082</display-name>
@@ -1356,6 +1352,14 @@
     <display-name>4a2544e3-676e-4ae4-8e55-08dd5bd39383</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Semifinal-Masculina-y-Finalespng-170251.png"/>
   </channel>
+  <channel id="2e1e75vg20o4fwj2xhkill0at">
+    <display-name>2e1e75vg20o4fwj2xhkill0at</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bgvcacczjx0jqens90rvj3w2u_image-header_pEs_1742494550000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="37fi6u8r8e59g7qj3fis1dqa0">
+    <display-name>37fi6u8r8e59g7qj3fis1dqa0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89ysxavg3qqnhu3ch1fwwztvc_image-header_pEs_1742494550000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 21 - KSI vs. Dillon Danis</title>
@@ -1794,12 +1798,6 @@
     <desc lang="es">Sprint | Masculino</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20250321122500 +0000" stop="20250321143000 +0000" channel="esp-e200615419c0ch20020">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200615419_20250310-121920.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Engadin</title>
-    <desc lang="es">Slopestyle | Masculino | Clasificatorio</desc>
-    <category lang="es">Snowboard</category>
-  </programme>
   <programme start="20250321123000 +0000" stop="20250321220000 +0000" channel="esp-e200524791c0ch20082">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200524791_20250310-150014.jpeg"/>
     <title lang="es">Valspar Championship - Día 2</title>
@@ -1836,13 +1834,13 @@
     <desc lang="es">Sprint Estilo Libre | Masculino y Femenino | Clasificación</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250321141500 +0000" stop="20250321150500 +0000" channel="esp-e200547267c0ch20022">
+  <programme start="20250321142500 +0000" stop="20250321150500 +0000" channel="esp-e200547267c0ch20022">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_0_200547267_20250310-151049.jpeg"/>
     <title lang="es">Copa del Mundo - Oslo</title>
     <desc lang="es">Sprint | Femenino | Entrenamiento</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20250321150000 +0000" stop="20250321163500 +0000" channel="esp-e200547051c0ch20023">
+  <programme start="20250321150500 +0000" stop="20250321163500 +0000" channel="esp-e200547051c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200547051_20250310-151610.jpeg"/>
     <title lang="es">Copa del Mundo - Oslo</title>
     <desc lang="es">Sprint | Femenino</desc>
@@ -3389,5 +3387,17 @@
     <title lang="es">Elite 16 | México: Semifinal Masculina y Finales</title>
     <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
     <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250322190000 +0000" stop="20250323010000 +0000" channel="2e1e75vg20o4fwj2xhkill0at">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bgvcacczjx0jqens90rvj3w2u_image-header_pEs_1742494550000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">New York Exiles - Boston Banshees</title>
+    <desc lang="es">Vive el encuentro de Women's Elite Rugby entre New York Exiles y Boston Banshees.</desc>
+    <category lang="es">Rugby</category>
+  </programme>
+  <programme start="20250323180000 +0000" stop="20250324000000 +0000" channel="37fi6u8r8e59g7qj3fis1dqa0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89ysxavg3qqnhu3ch1fwwztvc_image-header_pEs_1742494550000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chicago Tempest - TC Gemini</title>
+    <desc lang="es">Vive el encuentro de Women's Elite Rugby entre Chicago Tempest y TC Gemini.</desc>
+    <category lang="es">Rugby</category>
   </programme>
 </tv>
