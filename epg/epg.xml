@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 21 18:30:11 2025">
+<tv date="Fri Mar 21 18:34:59 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1359,6 +1359,38 @@
   <channel id="37fi6u8r8e59g7qj3fis1dqa0">
     <display-name>37fi6u8r8e59g7qj3fis1dqa0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89ysxavg3qqnhu3ch1fwwztvc_image-header_pEs_1742494550000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b3c3c15b-16bd-4240-61a0-08dd5bd2f28d">
+    <display-name>b3c3c15b-16bd-4240-61a0-08dd5bd2f28d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueLNZlocalpng-143440.png"/>
+  </channel>
+  <channel id="1c5bbd9d-c31b-4f83-b0f9-08dd5bf5b2a4">
+    <display-name>1c5bbd9d-c31b-4f83-b0f9-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueInhuletslocalpng-143600.png"/>
+  </channel>
+  <channel id="173d229b-330d-4307-b0fa-08dd5bf5b2a4">
+    <display-name>173d229b-330d-4307-b0fa-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueLivyiBerehlocalpng-143820.png"/>
+  </channel>
+  <channel id="d3ab5aa8-9e85-4f50-8e5c-08dd5bd39383">
+    <display-name>d3ab5aa8-9e85-4f50-8e5c-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueObolonlocalpng-143946.png"/>
+  </channel>
+  <channel id="3d1992c5-01e7-40a7-8e5d-08dd5bd39383">
+    <display-name>3d1992c5-01e7-40a7-8e5d-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueRukhlocalpng-144104.png"/>
+  </channel>
+  <channel id="fe55f991-5ab8-4697-8e5e-08dd5bd39383">
+    <display-name>fe55f991-5ab8-4697-8e5e-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueKryvbasvisitorUkrainianPremierLeagueVorsklalocalpng-144216.png"/>
+  </channel>
+  <channel id="2220ddd6-6c9f-4213-8e5f-08dd5bd39383">
+    <display-name>2220ddd6-6c9f-4213-8e5f-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueKarpatylocalpng-144351.png"/>
+  </channel>
+  <channel id="57234ad1-88a4-4d41-61a1-08dd5bd2f28d">
+    <display-name>57234ad1-88a4-4d41-61a1-08dd5bd2f28d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueKolosvisitorUkrainianPremierLeagueZoryalocalpng-144518.png"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3399,5 +3431,53 @@
     <title lang="es">Chicago Tempest - TC Gemini</title>
     <desc lang="es">Vive el encuentro de Women's Elite Rugby entre Chicago Tempest y TC Gemini.</desc>
     <category lang="es">Rugby</category>
+  </programme>
+  <programme start="20250328125500 +0000" stop="20250328153000 +0000" channel="b3c3c15b-16bd-4240-61a0-08dd5bd2f28d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueLNZlocalpng-143440.png"/>
+    <title lang="es">LNZ - Polissya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250328152500 +0000" stop="20250328180000 +0000" channel="1c5bbd9d-c31b-4f83-b0f9-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueInhuletslocalpng-143600.png"/>
+    <title lang="es">Inhulets - Veres</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250329102500 +0000" stop="20250329130000 +0000" channel="173d229b-330d-4307-b0fa-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueLivyiBerehlocalpng-143820.png"/>
+    <title lang="es">Livyi Bereh - Oleksandrya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250329125500 +0000" stop="20250329153000 +0000" channel="d3ab5aa8-9e85-4f50-8e5c-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueObolonlocalpng-143946.png"/>
+    <title lang="es">Obolon - Shakhtar</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250329152500 +0000" stop="20250329180000 +0000" channel="3d1992c5-01e7-40a7-8e5d-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueRukhlocalpng-144104.png"/>
+    <title lang="es">Rukh - Dynamo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250330092500 +0000" stop="20250330120000 +0000" channel="fe55f991-5ab8-4697-8e5e-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueKryvbasvisitorUkrainianPremierLeagueVorsklalocalpng-144216.png"/>
+    <title lang="es">Vorskla - Kryvbas</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250330115500 +0000" stop="20250330143000 +0000" channel="2220ddd6-6c9f-4213-8e5f-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueKarpatylocalpng-144351.png"/>
+    <title lang="es">Karpaty - Chornomorets</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250330142500 +0000" stop="20250330170000 +0000" channel="57234ad1-88a4-4d41-61a1-08dd5bd2f28d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/UkrainianPremierLeagueKolosvisitorUkrainianPremierLeagueZoryalocalpng-144518.png"/>
+    <title lang="es">Zorya - Kolos</title>
+    <desc lang="es">El partido correspondiente a la Jornada 22 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
