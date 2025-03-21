@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 21 12:30:11 2025">
+<tv date="Fri Mar 21 12:35:01 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1327,6 +1327,34 @@
   <channel id="27qbpwvvgpce1562a6l1n3h26">
     <display-name>27qbpwvvgpce1562a6l1n3h26</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wu51a0swuhfr1wzcfi8lto3j0_image-header_pEs_1742519652000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="94bd96d1-244f-4237-689a-08dd5bd7d259">
+    <display-name>94bd96d1-244f-4237-689a-08dd5bd7d259</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-1jpg-103455.jpg"/>
+  </channel>
+  <channel id="010ecc30-03f8-4fb5-f74f-08dd5bd4a3b5">
+    <display-name>010ecc30-03f8-4fb5-f74f-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-2jpg-103843.jpg"/>
+  </channel>
+  <channel id="9e5aa739-ec89-480a-f750-08dd5bd4a3b5">
+    <display-name>9e5aa739-ec89-480a-f750-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-3jpg-104021.jpg"/>
+  </channel>
+  <channel id="59866d99-9e81-4eff-f72e-08dd5bd4a3b5">
+    <display-name>59866d99-9e81-4eff-f72e-08dd5bd4a3b5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Cuartos-de-final-Pista-2png-170225.png"/>
+  </channel>
+  <channel id="c1fc6a63-0471-458c-8e57-08dd5bd39383">
+    <display-name>c1fc6a63-0471-458c-8e57-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Cuartos-de-final-Pista-1png-081729.png"/>
+  </channel>
+  <channel id="4adf4314-4a94-465c-d421-08dd5bd2f812">
+    <display-name>4adf4314-4a94-465c-d421-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Semifinal-Femeninapng-170244.png"/>
+  </channel>
+  <channel id="4a2544e3-676e-4ae4-8e55-08dd5bd39383">
+    <display-name>4a2544e3-676e-4ae4-8e55-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Semifinal-Masculina-y-Finalespng-170251.png"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3319,5 +3347,47 @@
     <title lang="es">Brown vs. Reznicek - Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250328141500 +0000" stop="20250328203000 +0000" channel="94bd96d1-244f-4237-689a-08dd5bd7d259">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-1jpg-103455.jpg"/>
+    <title lang="es">Liga de Clubes Iberdrola - 1ª Fase | Día 1</title>
+    <desc lang="es">La Ciudad Deportiva Príncipe Felipe en Arganda del Rey (Madrid) acoge la 1ª Fase de la Liga Iberdrola de Gimnasia Rítmica 2025.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20250329074500 +0000" stop="20250329140000 +0000" channel="010ecc30-03f8-4fb5-f74f-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-2jpg-103843.jpg"/>
+    <title lang="es">Liga de Clubes Iberdrola - 1ª Fase | Día 2 - Jornada de mañana</title>
+    <desc lang="es">La Ciudad Deportiva Príncipe Felipe en Arganda del Rey (Madrid) acoge la 1ª Fase de la Liga Iberdrola de Gimnasia Rítmica 2025.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20250329141500 +0000" stop="20250329203000 +0000" channel="9e5aa739-ec89-480a-f750-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/RFEG-3jpg-104021.jpg"/>
+    <title lang="es">Liga de Clubes Iberdrola - 1ª Fase | Día 2 - Jornada de tarde</title>
+    <desc lang="es">La Ciudad Deportiva Príncipe Felipe en Arganda del Rey (Madrid) acoge la 1ª Fase de la Liga Iberdrola de Gimnasia Rítmica 2025.</desc>
+    <category lang="es">Gimnasia  </category>
+  </programme>
+  <programme start="20250329182500 +0000" stop="20250329230000 +0000" channel="59866d99-9e81-4eff-f72e-08dd5bd4a3b5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Cuartos-de-final-Pista-2png-170225.png"/>
+    <title lang="es">Elite 16 | México: Cuartos de final - Pista 2</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250329182500 +0000" stop="20250329230000 +0000" channel="c1fc6a63-0471-458c-8e57-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/21/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Cuartos-de-final-Pista-1png-081729.png"/>
+    <title lang="es">Elite 16 | México: Cuartos de final - Pista 1</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250329232500 +0000" stop="20250330010000 +0000" channel="4adf4314-4a94-465c-d421-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Semifinal-Femeninapng-170244.png"/>
+    <title lang="es">Elite 16 | México: Semifinal Femenina</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250330142500 +0000" stop="20250330220000 +0000" channel="4a2544e3-676e-4ae4-8e55-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Semifinal-Masculina-y-Finalespng-170251.png"/>
+    <title lang="es">Elite 16 | México: Semifinal Masculina y Finales</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
   </programme>
 </tv>
