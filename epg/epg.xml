@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 24 18:35:01 2025">
+<tv date="Mon Mar 24 18:36:44 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1527,6 +1527,10 @@
   <channel id="47e4a136-65f8-4557-b0fd-08dd5bf5b2a4">
     <display-name>47e4a136-65f8-4557-b0fd-08dd5bf5b2a4</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/IsuzuUTEALeagueThumbnailsBrisbaneRoarAucklandFCmatchpng-164133.png"/>
+  </channel>
+  <channel id="esp-e200615512c0ch20060">
+    <display-name>esp-e200615512c0ch20060</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200615512_20250310-150714.jpeg"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3819,5 +3823,11 @@
     <title lang="es">Brisbane Roar - Auckland FC</title>
     <desc lang="es">El partido correspondiente a la Jornada 24 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250326102500 +0000" stop="20250326123000 +0000" channel="esp-e200615512c0ch20060">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_4_200615512_20250310-150714.jpeg"/>
+    <title lang="es">Campeonato del Mundo - Engadin</title>
+    <desc lang="es">Big Air | Femenino Clasificación</desc>
+    <category lang="es">Esquí</category>
   </programme>
 </tv>
