@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 25 18:30:31 2025">
+<tv date="Tue Mar 25 18:35:03 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1467,6 +1467,38 @@
   <channel id="5lvj5c9zc83icblbpvfntkrjz">
     <display-name>5lvj5c9zc83icblbpvfntkrjz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eyujvg18ucb80pg2kx3nv2aw9_image-header_pEs_1742895772000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f72b8ff0-5f79-4c2f-b0f6-08dd5bf5b2a4">
+    <display-name>f72b8ff0-5f79-4c2f-b0f6-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/BasketballBundesligaThumbnailRostockUlmmatchpng-112845.png"/>
+  </channel>
+  <channel id="59aef668-0351-4b55-b0f7-08dd5bf5b2a4">
+    <display-name>59aef668-0351-4b55-b0f7-08dd5bf5b2a4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/BasketballBundesligaThumbnailWuerzburgBayernmatchpng-113040.png"/>
+  </channel>
+  <channel id="7f66aa14-f2b4-468b-61a2-08dd5bd2f28d">
+    <display-name>7f66aa14-f2b4-468b-61a2-08dd5bd2f28d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/LigaNacionalBasquetbolThumbnailOberaZaurateBasketmatchpng-144710.png"/>
+  </channel>
+  <channel id="7a67ebfb-c7a8-4752-61a3-08dd5bd2f28d">
+    <display-name>7a67ebfb-c7a8-4752-61a3-08dd5bd2f28d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/LigaNacionalBasquetbolThumbnailLaUniounFSAFerromatchpng-144901.png"/>
+  </channel>
+  <channel id="92a3f5a8-1994-47b0-6876-08dd5bd7d259">
+    <display-name>92a3f5a8-1994-47b0-6876-08dd5bd7d259</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/Daikin-HandballBundesligaThumbnailMTMelsungenTHWKielmatchpng-143238.png"/>
+  </channel>
+  <channel id="72b13f49-8f95-43df-7d26-08dd6b992d0a">
+    <display-name>72b13f49-8f95-43df-7d26-08dd6b992d0a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURARecuperadopng-123211.png"/>
+  </channel>
+  <channel id="2006f84a-7ca3-47d6-c6ca-08dd6b9092ab">
+    <display-name>2006f84a-7ca3-47d6-c6ca-08dd6b9092ab</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURARecuperadopng-122858.png"/>
+  </channel>
+  <channel id="f89c9e4a-36a4-4ffe-3dba-08dd6b968e82">
+    <display-name>f89c9e4a-36a4-4ffe-3dba-08dd6b968e82</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURA-LLpng-123514.png"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3669,5 +3701,53 @@
     <title lang="es">France Grand Masters - Día 5</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250329165500 +0000" stop="20250329203000 +0000" channel="f72b8ff0-5f79-4c2f-b0f6-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/BasketballBundesligaThumbnailRostockUlmmatchpng-112845.png"/>
+    <title lang="es">Rostock - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 26 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250329182500 +0000" stop="20250329220000 +0000" channel="59aef668-0351-4b55-b0f7-08dd5bf5b2a4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/BasketballBundesligaThumbnailWuerzburgBayernmatchpng-113040.png"/>
+    <title lang="es">Würzburg - Bayern</title>
+    <desc lang="es">El partido correspondiente a la Jornada 26 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250329232500 +0000" stop="20250330030000 +0000" channel="7f66aa14-f2b4-468b-61a2-08dd5bd2f28d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/LigaNacionalBasquetbolThumbnailOberaZaurateBasketmatchpng-144710.png"/>
+    <title lang="es">Obera - Zárate Basket</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250329235500 +0000" stop="20250330033000 +0000" channel="7a67ebfb-c7a8-4752-61a3-08dd5bd2f28d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/LigaNacionalBasquetbolThumbnailLaUniounFSAFerromatchpng-144901.png"/>
+    <title lang="es">La Unión FSA - Ferro</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250329143000 +0000" stop="20250329170500 +0000" channel="92a3f5a8-1994-47b0-6876-08dd5bd7d259">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/Daikin-HandballBundesligaThumbnailMTMelsungenTHWKielmatchpng-143238.png"/>
+    <title lang="es">MT Melsungen - THW Kiel</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Daikin Handball-Bundesliga 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250330090000 +0000" stop="20250330120000 +0000" channel="72b13f49-8f95-43df-7d26-08dd6b992d0a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURARecuperadopng-123211.png"/>
+    <title lang="es">Las Palmas Atlético - CD Herbania</title>
+    <desc lang="es">El equipo de Raúl Martín quiere mantener la buena dinámica de esta temporada en el Anexo, donde se mantiene invicto</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250330113000 +0000" stop="20250330143000 +0000" channel="2006f84a-7ca3-47d6-c6ca-08dd6b9092ab">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURARecuperadopng-122858.png"/>
+    <title lang="es">Juvenil A - CD Tenerife</title>
+    <desc lang="es">El primer juvenil de la UD Las Palmas recibe al máximo rival a seis jornadas del final con el campeonato en juego</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250331170000 +0000" stop="20250331213000 +0000" channel="f89c9e4a-36a4-4ffe-3dba-08dd6b968e82">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/MINIATURA-LLpng-123514.png"/>
+    <title lang="es">Real Club Celta - UD Las Palmas</title>
+    <desc lang="es">Los de Diego Martínez quieren sacar un buen resultado de un campo difícil como es el ABANCA Balaídos</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
