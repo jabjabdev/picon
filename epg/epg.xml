@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 26 18:30:33 2025">
+<tv date="Wed Mar 26 18:35:01 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1367,6 +1367,10 @@
   <channel id="3rhe9rzks5q1kpav1pc5a5gny">
     <display-name>3rhe9rzks5q1kpav1pc5a5gny</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cpph8lti7piq16c9hme0ybsgp_image-header_pEs_1742832562000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="62dd1320-7f5a-4db8-b3d2-08dd6b904e29">
+    <display-name>62dd1320-7f5a-4db8-b3d2-08dd6b904e29</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/atletismojpg-123747.jpg"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3419,5 +3423,11 @@
     <title lang="es">Brown vs. Grandone - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250330071000 +0000" stop="20250330103000 +0000" channel="62dd1320-7f5a-4db8-b3d2-08dd6b904e29">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/atletismojpg-123747.jpg"/>
+    <title lang="es">Campeonato de España de Marcha 20km</title>
+    <desc lang="es">San Pedro del Pinatar (Murcia) acoge el LXVII Campeonato de España de 20km Marcha 2025.</desc>
+    <category lang="es">Atletismo   </category>
   </programme>
 </tv>
