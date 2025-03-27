@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 27 18:30:32 2025">
+<tv date="Thu Mar 27 18:35:00 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1327,6 +1327,10 @@
   <channel id="3fqz7t0a6pom00700n9mx7hox">
     <display-name>3fqz7t0a6pom00700n9mx7hox</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ckzdu3y8vuef90apywd9k70mo_image-header_pEs_1743013436000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="91e34b18-651c-47b6-4f5d-08dd6bb6b1d6">
+    <display-name>91e34b18-651c-47b6-4f5d-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LigaNacionalBasquetbolThumbnailPlatenseQuimsamatchpng-125321.png"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3319,5 +3323,11 @@
     <title lang="es">Paterson U - Trenton BIC</title>
     <desc lang="es">Vive el encuentro de A7FL entre Trenton BIC y Paterson U.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250330225500 +0000" stop="20250331023000 +0000" channel="91e34b18-651c-47b6-4f5d-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LigaNacionalBasquetbolThumbnailPlatenseQuimsamatchpng-125321.png"/>
+    <title lang="es">Platense - Quimsa</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
