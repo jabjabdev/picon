@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 28 06:36:42 2025">
+<tv date="Fri Mar 28 12:34:58 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1412,6 +1412,46 @@
     <display-name>esp-e200658184c0ch20080</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_4_200658184_20250321-152203.jpeg"/>
   </channel>
+  <channel id="82b447d0-f3f8-46cd-4f64-08dd6bb6b1d6">
+    <display-name>82b447d0-f3f8-46cd-4f64-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LibertadoresThumbnailCaraboboEstudiantesdeLaPlatamatchpng-151118.png"/>
+  </channel>
+  <channel id="34dbcc1c-4af7-4197-4f68-08dd6bb6b1d6">
+    <display-name>34dbcc1c-4af7-4197-4f68-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailFortalezaRacingmatchpng-104818.png"/>
+  </channel>
+  <channel id="a7d0cd6d-7a1f-4e3a-6292-08dd6bb65883">
+    <display-name>a7d0cd6d-7a1f-4e3a-6292-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailBucaramangaColoColomatchpng-114017.png"/>
+  </channel>
+  <channel id="4bab369a-3524-4217-93d9-08dd6bb46429">
+    <display-name>4bab369a-3524-4217-93d9-08dd6bb46429</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailVeulezPenaarolmatchpng-114143.png"/>
+  </channel>
+  <channel id="857ab8c3-3d65-49f4-4f69-08dd6bb6b1d6">
+    <display-name>857ab8c3-3d65-49f4-4f69-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailUniversitarioRiverPlatematchpng-115023.png"/>
+  </channel>
+  <channel id="95c260bd-1ca6-452d-6293-08dd6bb65883">
+    <display-name>95c260bd-1ca6-452d-6293-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailTalleresSaaoPaulomatchpng-114916.png"/>
+  </channel>
+  <channel id="d2ced883-937e-4865-ec55-08dd6bb7aa5e">
+    <display-name>d2ced883-937e-4865-ec55-08dd6bb7aa5e</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailAtleuticoNacionalNacionalmatchpng-115607.png"/>
+  </channel>
+  <channel id="b090e346-169f-4d98-ec56-08dd6bb7aa5e">
+    <display-name>b090e346-169f-4d98-ec56-08dd6bb7aa5e</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailSportingCristalPalmeirasmatchpng-115809.png"/>
+  </channel>
+  <channel id="13d64ca6-ebd4-4ab8-93db-08dd6bb46429">
+    <display-name>13d64ca6-ebd4-4ab8-93db-08dd6bb46429</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailCentralCourdobaLDUQuitomatchpng-115705.png"/>
+  </channel>
+  <channel id="d2c4e291-2de9-441d-6294-08dd6bb65883">
+    <display-name>d2c4e291-2de9-441d-6294-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailDeportivoTauchiraFlamengomatchpng-120243.png"/>
+  </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 21 - KSI vs. Dillon Danis</title>
@@ -1952,7 +1992,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
   </programme>
-  <programme start="20250328075500 +0000" stop="20250328094000 +0000" channel="esp-e200615537c0ch20005">
+  <programme start="20250328085500 +0000" stop="20250328101500 +0000" channel="esp-e200615537c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200615537_20250319-101001.jpeg"/>
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Halfpipe Femenino | Clasificación</desc>
@@ -1970,7 +2010,7 @@
     <desc lang="es">Superbikes | Día 1 | Libres 1</desc>
     <category lang="es">Superbike</category>
   </programme>
-  <programme start="20250328103500 +0000" stop="20250328120000 +0000" channel="esp-e200615552c0ch20006">
+  <programme start="20250328111000 +0000" stop="20250328130000 +0000" channel="esp-e200615552c0ch20006">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_2_200615552_20250318-093831.jpeg"/>
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Halfpipe Masculino | Clasificación</desc>
@@ -3529,5 +3569,65 @@
     <title lang="es">Texas Open - Día 1 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250401212000 +0000" stop="20250402000000 +0000" channel="82b447d0-f3f8-46cd-4f64-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LibertadoresThumbnailCaraboboEstudiantesdeLaPlatamatchpng-151118.png"/>
+    <title lang="es">Carabobo - Estudiantes de La Plata</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250401235000 +0000" stop="20250402023000 +0000" channel="34dbcc1c-4af7-4197-4f68-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailFortalezaRacingmatchpng-104818.png"/>
+    <title lang="es">Fortaleza - Racing</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250402001000 +0000" stop="20250402023000 +0000" channel="a7d0cd6d-7a1f-4e3a-6292-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailBucaramangaColoColomatchpng-114017.png"/>
+    <title lang="es">Bucaramanga - Colo-Colo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250402212000 +0000" stop="20250403000000 +0000" channel="4bab369a-3524-4217-93d9-08dd6bb46429">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailVeulezPenaarolmatchpng-114143.png"/>
+    <title lang="es">Vélez - Peñarol</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250402235000 +0000" stop="20250403023000 +0000" channel="857ab8c3-3d65-49f4-4f69-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailUniversitarioRiverPlatematchpng-115023.png"/>
+    <title lang="es">Universitario - River Plate</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250402235000 +0000" stop="20250403023000 +0000" channel="95c260bd-1ca6-452d-6293-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailTalleresSaaoPaulomatchpng-114916.png"/>
+    <title lang="es">Talleres - São Paulo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250403012000 +0000" stop="20250403040000 +0000" channel="d2ced883-937e-4865-ec55-08dd6bb7aa5e">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailAtleuticoNacionalNacionalmatchpng-115607.png"/>
+    <title lang="es">Atlético Nacional - Nacional</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250403212000 +0000" stop="20250404000000 +0000" channel="b090e346-169f-4d98-ec56-08dd6bb7aa5e">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailSportingCristalPalmeirasmatchpng-115809.png"/>
+    <title lang="es">Sporting Cristal - Palmeiras</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250403212000 +0000" stop="20250404000000 +0000" channel="13d64ca6-ebd4-4ab8-93db-08dd6bb46429">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailCentralCourdobaLDUQuitomatchpng-115705.png"/>
+    <title lang="es">Central Córdoba - LDU Quito</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250403235000 +0000" stop="20250404023000 +0000" channel="d2c4e291-2de9-441d-6294-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/LibertadoresThumbnailDeportivoTauchiraFlamengomatchpng-120243.png"/>
+    <title lang="es">Deportivo Táchira - Flamengo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa CONMEBOL Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
