@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 28 18:30:53 2025">
+<tv date="Fri Mar 28 18:34:55 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1391,6 +1391,26 @@
   <channel id="5g4rheopvejrr3kah1pgfl604">
     <display-name>5g4rheopvejrr3kah1pgfl604</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vw1me85ckml951drmmlk1otz_image-header_pEs_1743153380000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="26853b4a-f6ff-411f-93c6-08dd6bb46429">
+    <display-name>26853b4a-f6ff-411f-93c6-08dd6bb46429</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/23/PrimeraFEBMonbusObradoirovisitorPrimeraFEBCantabriualocalpng-101225.png"/>
+  </channel>
+  <channel id="6b1d8d7f-62c5-4138-4f6a-08dd6bb6b1d6">
+    <display-name>6b1d8d7f-62c5-4138-4f6a-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaNacionalPotosiuIndependientematchpng-121134.png"/>
+  </channel>
+  <channel id="0cf6d00f-316f-401a-11fb-08dd6bcbf7b4">
+    <display-name>0cf6d00f-316f-401a-11fb-08dd6bcbf7b4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaUniounCruzeiromatchpng-121352.png"/>
+  </channel>
+  <channel id="0b8529fb-068d-43de-11fc-08dd6bcbf7b4">
+    <display-name>0b8529fb-068d-43de-11fc-08dd6bcbf7b4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaCorinthiansHuracaunmatchpng-121535.png"/>
+  </channel>
+  <channel id="0bf291ae-90d5-43bc-4f6b-08dd6bb6b1d6">
+    <display-name>0bf291ae-90d5-43bc-4f6b-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaPuertoCabelloLanuusmatchpng-121722.png"/>
   </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3479,5 +3499,35 @@
     <title lang="es">France Grand Masters - Cuartos de final</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250402181000 +0000" stop="20250402210000 +0000" channel="26853b4a-f6ff-411f-93c6-08dd6bb46429">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/01/23/PrimeraFEBMonbusObradoirovisitorPrimeraFEBCantabriualocalpng-101225.png"/>
+    <title lang="es">Grupo Alega Cantabria - Monbus Obradoiro (2)</title>
+    <desc lang="es">El partido entre Grupo Alega Cantabria y Monbus Obradoiro correspondiente a la Jornada 19 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250401212000 +0000" stop="20250402000000 +0000" channel="6b1d8d7f-62c5-4138-4f6a-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaNacionalPotosiuIndependientematchpng-121134.png"/>
+    <title lang="es">Nacional Potosí - Independiente</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa Sudamericana Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250401212000 +0000" stop="20250402000000 +0000" channel="0cf6d00f-316f-401a-11fb-08dd6bcbf7b4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaUniounCruzeiromatchpng-121352.png"/>
+    <title lang="es">Unión - Cruzeiro</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa Sudamericana Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250402212000 +0000" stop="20250403000000 +0000" channel="0b8529fb-068d-43de-11fc-08dd6bcbf7b4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaCorinthiansHuracaunmatchpng-121535.png"/>
+    <title lang="es">Corinthians - Huracán</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa Sudamericana Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250403212000 +0000" stop="20250404000000 +0000" channel="0bf291ae-90d5-43bc-4f6b-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/27/CONMEBOLSudamericanaPuertoCabelloLanuusmatchpng-121722.png"/>
+    <title lang="es">Puerto Cabello - Lanús</title>
+    <desc lang="es">El partido correspondiente a la Jornada 1 de la fase de grupos de la Copa Sudamericana Libertadores 2025.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
