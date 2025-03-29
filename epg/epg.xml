@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Mar 29 06:36:41 2025">
+<tv date="Sat Mar 29 12:36:36 2025">
   <channel id="crc8sce3jx6tcc6gvciweyh5">
     <display-name>crc8sce3jx6tcc6gvciweyh5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/300/180/webp/image"/>
@@ -575,10 +575,6 @@
   <channel id="esp-e200619236c0ch20019">
     <display-name>esp-e200619236c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_4_200619236_20250314-135931.jpeg"/>
-  </channel>
-  <channel id="esp-e200627085c0ch20025">
-    <display-name>esp-e200627085c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200627085_20250306-095638.jpeg"/>
   </channel>
   <channel id="esp-e200653684c0ch20032">
     <display-name>esp-e200653684c0ch20032</display-name>
@@ -1532,6 +1528,22 @@
     <display-name>esp-e200648457c0ch20010</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_3_200648457_20250316-120131.jpeg"/>
   </channel>
+  <channel id="esp-e200700686c0ch20080">
+    <display-name>esp-e200700686c0ch20080</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_11_200700686_20250329-091735.jpeg"/>
+  </channel>
+  <channel id="esp-e200700696c0ch20082">
+    <display-name>esp-e200700696c0ch20082</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_11_200700696_20250329-093347.png"/>
+  </channel>
+  <channel id="esp-e200700706c0ch20084">
+    <display-name>esp-e200700706c0ch20084</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_11_200700706_20250329-093948.jpeg"/>
+  </channel>
+  <channel id="esp-e200700691c0ch20081">
+    <display-name>esp-e200700691c0ch20081</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_11_200700691_20250329-093042.jpeg"/>
+  </channel>
   <programme start="20250329190000 +0000" stop="20250330010000 +0000" channel="crc8sce3jx6tcc6gvciweyh5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qlr0idsyx8291sy78da94n03x_image-header_pEs_1741191790000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 21 - KSI vs. Dillon Danis</title>
@@ -2132,7 +2144,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250329084500 +0000" stop="20250329144500 +0000" channel="3rkooto5hqbtb8r5wxpwyfn48">
+  <programme start="20250329204500 +0000" stop="20250330024500 +0000" channel="3rkooto5hqbtb8r5wxpwyfn48">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9kuro8srk8ot614qnzl7at7y4_image-header_pEs_1742371464000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Red Bull Cerro Abajo - Guanajuato 2025</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -2354,7 +2366,7 @@
     <desc lang="es">Masculino | Equipo De Vuelo De Esquí HS240</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20250329085000 +0000" stop="20250329095500 +0000" channel="esp-e200619237c0ch20017">
+  <programme start="20250329105000 +0000" stop="20250329120000 +0000" channel="esp-e200619237c0ch20017">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_4_200619237_20250314-134943.jpeg"/>
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Halfpipe Femenino</desc>
@@ -2384,23 +2396,17 @@
     <desc lang="es">Individuales | Semifinales | Girona</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250329100500 +0000" stop="20250329105000 +0000" channel="esp-e200628618c0ch20025">
+  <programme start="20250329101000 +0000" stop="20250329105000 +0000" channel="esp-e200628618c0ch20025">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_12_200628618_20250319-131146.jpeg"/>
     <title lang="es">Copa del Mundo - Portugal</title>
     <desc lang="es">R3 | 1ª Carrera</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250329105000 +0000" stop="20250329121000 +0000" channel="esp-e200619236c0ch20019">
+  <programme start="20250329125000 +0000" stop="20250329141000 +0000" channel="esp-e200619236c0ch20019">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_4_200619236_20250314-135931.jpeg"/>
     <title lang="es">Campeonato del Mundo - Engadin</title>
     <desc lang="es">Halfpipe | Masculino</desc>
     <category lang="es">Snowboard</category>
-  </programme>
-  <programme start="20250329105000 +0000" stop="20250329112500 +0000" channel="esp-e200627085c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_3_200627085_20250306-095638.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Portugal</title>
-    <desc lang="es">Superbikes | Día 2 | Superpole</desc>
-    <category lang="es">Superbike</category>
   </programme>
   <programme start="20250329120000 +0000" stop="20250329140000 +0000" channel="esp-e200653684c0ch20032">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200653684_20250318-131154.jpeg"/>
@@ -3829,5 +3835,29 @@
     <title lang="es">Grand Slam Track - Kingstone</title>
     <desc lang="es">Día 1</desc>
     <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20250329123000 +0000" stop="20250329150000 +0000" channel="esp-e200700686c0ch20080">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_11_200700686_20250329-091735.jpeg"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | Señal alternativa | Parte 2</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250329123000 +0000" stop="20250329150000 +0000" channel="esp-e200700696c0ch20082">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_11_200700696_20250329-093347.png"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | Grupo destacado | Parte 2</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250329123000 +0000" stop="20250329150000 +0000" channel="esp-e200700706c0ch20084">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_11_200700706_20250329-093948.jpeg"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Holes' | Parte 2</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250329123000 +0000" stop="20250329150000 +0000" channel="esp-e200700691c0ch20081">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_11_200700691_20250329-093042.jpeg"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | Señal alternativa | Parte 2</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
