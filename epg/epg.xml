@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 31 18:34:58 2025">
+<tv date="Tue Apr 01 00:30:13 2025">
   <channel id="606ad848-b85e-439e-6886-08dd5bd7d259">
     <display-name>606ad848-b85e-439e-6886-08dd5bd7d259</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -16,14 +16,6 @@
     <display-name>f16a9ca5-e7d8-447d-d41f-08dd5bd2f812</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-1-Ronda-Pista-2png-170523.png"/>
   </channel>
-  <channel id="bb34c0a3-0a56-471b-d423-08dd5bd2f812">
-    <display-name>bb34c0a3-0a56-471b-d423-08dd5bd2f812</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-1-Ronda-Pista-1png-170512.png"/>
-  </channel>
-  <channel id="32332b64-5127-49cb-8e58-08dd5bd39383">
-    <display-name>32332b64-5127-49cb-8e58-08dd5bd39383</display-name>
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-1png-170539.png"/>
-  </channel>
   <channel id="e2f8a45f-20d8-4731-6872-08dd5bd7d259">
     <display-name>e2f8a45f-20d8-4731-6872-08dd5bd7d259</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-2png-170549.png"/>
@@ -35,6 +27,14 @@
   <channel id="d7610716-8e2e-4af7-8e52-08dd5bd39383">
     <display-name>d7610716-8e2e-4af7-8e52-08dd5bd39383</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/20/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Masculina-Pista-2png-170125.png"/>
+  </channel>
+  <channel id="32332b64-5127-49cb-8e58-08dd5bd39383">
+    <display-name>32332b64-5127-49cb-8e58-08dd5bd39383</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-1png-170539.png"/>
+  </channel>
+  <channel id="bb34c0a3-0a56-471b-d423-08dd5bd2f812">
+    <display-name>bb34c0a3-0a56-471b-d423-08dd5bd2f812</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-1-Ronda-Pista-1png-170512.png"/>
   </channel>
   <channel id="94bd96d1-244f-4237-689a-08dd5bd7d259">
     <display-name>94bd96d1-244f-4237-689a-08dd5bd7d259</display-name>
@@ -432,10 +432,6 @@
     <display-name>bqlz5iy5t007qwbxmw305pwk4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8at2dwmfkrplilo8zsfusp9fv_image-header_pEs_1742499287000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="6p62m9clwqbnd5ye2pjd38k7c">
-    <display-name>6p62m9clwqbnd5ye2pjd38k7c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16qkzyqq8ix5710fzwgn7wegmv_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cmjv3d2lp261ckycg6osfy9zo">
     <display-name>cmjv3d2lp261ckycg6osfy9zo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c858qdoslkacqgsa6aum8t206_image-header_pEs_1741263219000/fill/none/top/none/85/300/180/webp/image"/>
@@ -454,10 +450,6 @@
   </channel>
   <channel id="esp-e200621532c0ch20035">
     <display-name>esp-e200621532c0ch20035</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200621531c0ch20034">
-    <display-name>esp-e200621531c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="f72b8ff0-5f79-4c2f-b0f6-08dd5bf5b2a4">
@@ -1492,6 +1484,30 @@
     <display-name>dc5b0a57-00ea-4469-62a2-08dd6bb65883</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/31/CEVBeachVolleyCSVoleiAlbaBlajIgorGorgonzolaNovaramatchpng-142224.png"/>
   </channel>
+  <channel id="6azcbn25zk0qgsqzgyhztl5je">
+    <display-name>6azcbn25zk0qgsqzgyhztl5je</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dwadq7pg4nypufg6y7niwj2b_image-header_pEs_1743423750000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="apefbi9kdnfs5ua208v7lqdb">
+    <display-name>apefbi9kdnfs5ua208v7lqdb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nht8kx7x4odew9hfbcr01try_image-header_pEs_1735894740000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bwwyqp3u6s3rt750pzuk2e5n8">
+    <display-name>bwwyqp3u6s3rt750pzuk2e5n8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6yj1ndrwi6jci8q0zaju8r27o_image-header_pEs_1742484910000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cohveu8k2n018wzkfbmyvvf9w">
+    <display-name>cohveu8k2n018wzkfbmyvvf9w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50hzzqlv05ngptnllmgiy13gd_image-header_pEs_1742906471000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ddvwkrjrlpekrmce3wffevhuc">
+    <display-name>ddvwkrjrlpekrmce3wffevhuc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1agbdwa48qd84o2cg4iae5and_image-header_pEs_1742232085000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="492q8e0be3wtvkry3gj216h3t">
+    <display-name>492q8e0be3wtvkry3gj216h3t</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uwl5p7y835pq1m409u15kxyx3_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250328092500 +0000" stop="20250328160000 +0000" channel="606ad848-b85e-439e-6886-08dd5bd7d259">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
     <title lang="es">Francia Grand Master 2025: Cuartos de final</title>
@@ -1516,18 +1532,6 @@
     <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
     <category lang="es">Voleibol</category>
   </programme>
-  <programme start="20250328132500 +0000" stop="20250328200000 +0000" channel="bb34c0a3-0a56-471b-d423-08dd5bd2f812">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-1-Ronda-Pista-1png-170512.png"/>
-    <title lang="es">Elite 16 | México: Playoffs 1ª Ronda - Pista 1</title>
-    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20250328202500 +0000" stop="20250329030000 +0000" channel="32332b64-5127-49cb-8e58-08dd5bd39383">
-    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-1png-170539.png"/>
-    <title lang="es">Elite 16 | México: Playoffs 2ª Ronda - Pista 1</title>
-    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
-    <category lang="es">Voleibol</category>
-  </programme>
   <programme start="20250328202500 +0000" stop="20250329030000 +0000" channel="e2f8a45f-20d8-4731-6872-08dd5bd7d259">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-2png-170549.png"/>
     <title lang="es">Elite 16 | México: Playoffs 2ª Ronda - Pista 2</title>
@@ -1543,6 +1547,18 @@
   <programme start="20250329142500 +0000" stop="20250329180000 +0000" channel="d7610716-8e2e-4af7-8e52-08dd5bd39383">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/20/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Masculina-Pista-2png-170125.png"/>
     <title lang="es">Elite 16 | México: Playoffs 2ª Ronda Masculina - Pista 2</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250328202500 +0000" stop="20250329030000 +0000" channel="32332b64-5127-49cb-8e58-08dd5bd39383">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-2-Ronda-Pista-1png-170539.png"/>
+    <title lang="es">Elite 16 | México: Playoffs 2ª Ronda - Pista 1</title>
+    <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250328132500 +0000" stop="20250328200000 +0000" channel="bb34c0a3-0a56-471b-d423-08dd5bd2f812">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/18/BeachProTourThumbnailindividualBeach-Pro-Tour-Elite-16-Playa-del-Carmen-Mexico-Playoffs-1-Ronda-Pista-1png-170512.png"/>
+    <title lang="es">Elite 16 | México: Playoffs 1ª Ronda - Pista 1</title>
     <desc lang="es">Quintana Roo (México) acoge el torneo de voleibol playa Elite16 - Quintana Roo incluido en el Volleyball World Beach Pro Tour Elite16 2025. </desc>
     <category lang="es">Voleibol</category>
   </programme>
@@ -2140,12 +2156,6 @@
     <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Olimpia Milano y Napoli.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20250331183000 +0000" stop="20250401003000 +0000" channel="6p62m9clwqbnd5ye2pjd38k7c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16qkzyqq8ix5710fzwgn7wegmv_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - Estados Unidos</title>
-    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250331184500 +0000" stop="20250331211500 +0000" channel="cmjv3d2lp261ckycg6osfy9zo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c858qdoslkacqgsa6aum8t206_image-header_pEs_1741263219000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Lazio - Torino</title>
@@ -2171,12 +2181,6 @@
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250331180000 +0000" stop="20250331210000 +0000" channel="esp-e200621532c0ch20035">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Campeones del Tour | 1ª ronda | Sesión 2</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250331180000 +0000" stop="20250331210000 +0000" channel="esp-e200621531c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Campeones del Tour | 1ª ronda | Sesión 2</desc>
@@ -3729,5 +3733,41 @@
     <title lang="es">CS Volei Alba Blaj - Igor Gorgonzola Novara</title>
     <desc lang="es">El partido entre CS Volei Alba Blaj y Igor Gorgonzola Novara correspondiente a la vuelta de la final del CEV Volleyball Cup Women 2025.</desc>
     <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250407133000 +0000" stop="20250407173000 +0000" channel="6azcbn25zk0qgsqzgyhztl5je">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dwadq7pg4nypufg6y7niwj2b_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itzulia Basque Country - Etapa 1 - Vitoria-Gasteiz - Baskonia-Alavés</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250407180000 +0000" stop="20250407203000 +0000" channel="apefbi9kdnfs5ua208v7lqdb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nht8kx7x4odew9hfbcr01try_image-header_pEs_1735894740000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 - Jornada 30</title>
+    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250407180000 +0000" stop="20250407213000 +0000" channel="bwwyqp3u6s3rt750pzuk2e5n8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6yj1ndrwi6jci8q0zaju8r27o_image-header_pEs_1742484910000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">NutriBullet Treviso Basket - Virtus Segafredo Bologna</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Universo Treviso y Virtus Bologna.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250407184500 +0000" stop="20250407211500 +0000" channel="cohveu8k2n018wzkfbmyvvf9w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50hzzqlv05ngptnllmgiy13gd_image-header_pEs_1742906471000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bologna - Napoli</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Bologna y Napoli.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250407190000 +0000" stop="20250407213000 +0000" channel="ddvwkrjrlpekrmce3wffevhuc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1agbdwa48qd84o2cg4iae5and_image-header_pEs_1742232085000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Leicester City - Newcastle United</title>
+    <desc lang="es">Vive el encuentro de Premier League entre Newcastle United y Leicester City.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250407190000 +0000" stop="20250408010000 +0000" channel="492q8e0be3wtvkry3gj216h3t">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uwl5p7y835pq1m409u15kxyx3_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código F1 - Japón</title>
+    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
