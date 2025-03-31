@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 31 18:30:17 2025">
+<tv date="Mon Mar 31 18:34:58 2025">
   <channel id="606ad848-b85e-439e-6886-08dd5bd7d259">
     <display-name>606ad848-b85e-439e-6886-08dd5bd7d259</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -1455,6 +1455,42 @@
   <channel id="b9f8pza061vcoz6wb3u0q39fc">
     <display-name>b9f8pza061vcoz6wb3u0q39fc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3zx2v59fgn30jd06p7lwqzoig_image-header_pEs_1742206881000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="747e22da-f7cb-4db1-d5e4-08dd705ccebd">
+    <display-name>747e22da-f7cb-4db1-d5e4-08dd705ccebd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/31/LigaNacionalBasquetbolThumbnailZaurateBasquetSanMartiunmatchpng-140359.png"/>
+  </channel>
+  <channel id="3b7a3527-c84d-41ad-4f65-08dd6bb6b1d6">
+    <display-name>3b7a3527-c84d-41ad-4f65-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+  </channel>
+  <channel id="015121b1-9d45-4887-4f71-08dd6bb6b1d6">
+    <display-name>015121b1-9d45-4887-4f71-08dd6bb6b1d6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+  </channel>
+  <channel id="3454dcf4-1689-4a07-11ff-08dd6bcbf7b4">
+    <display-name>3454dcf4-1689-4a07-11ff-08dd6bcbf7b4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+  </channel>
+  <channel id="1060274c-a831-4d29-1b66-08dd6c25ffd8">
+    <display-name>1060274c-a831-4d29-1b66-08dd6c25ffd8</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsBrisbaneRoarMacarthurFCmatchpng-150330.png"/>
+  </channel>
+  <channel id="5deffccb-3665-4440-3dbb-08dd6b968e82">
+    <display-name>5deffccb-3665-4440-3dbb-08dd6b968e82</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueObolonvisitorUkrainianPremierLeagueInhuletslocalpng-145902.png"/>
+  </channel>
+  <channel id="752d3cf2-1d68-47f5-6290-08dd6bb65883">
+    <display-name>752d3cf2-1d68-47f5-6290-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsAucklandFCWesternSydneyWanderersmatchpng-150525.png"/>
+  </channel>
+  <channel id="ff56528e-2890-43e4-ec53-08dd6bb7aa5e">
+    <display-name>ff56528e-2890-43e4-ec53-08dd6bb7aa5e</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsAdelaideUnitedSydneyFCmatchpng-150655.png"/>
+  </channel>
+  <channel id="dc5b0a57-00ea-4469-62a2-08dd6bb65883">
+    <display-name>dc5b0a57-00ea-4469-62a2-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/31/CEVBeachVolleyCSVoleiAlbaBlajIgorGorgonzolaNovaramatchpng-142224.png"/>
   </channel>
   <programme start="20250328092500 +0000" stop="20250328160000 +0000" channel="606ad848-b85e-439e-6886-08dd5bd7d259">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -3639,5 +3675,59 @@
     <title lang="es">Tour Championship - Final - Sesión 2</title>
     <desc lang="es">Disfruta a través de los canales de Eurosport del Tour Championship 2025, el tercer y último evento de snooker de la Players Series del WST que reúne a los 12 mejores jugadores de la temporada. ¡No te lo pierdas!</desc>
     <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20250403232500 +0000" stop="20250404030000 +0000" channel="747e22da-f7cb-4db1-d5e4-08dd705ccebd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/31/LigaNacionalBasquetbolThumbnailZaurateBasquetSanMartiunmatchpng-140359.png"/>
+    <title lang="es">Zárate Basquet - San Martín</title>
+    <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250405122500 +0000" stop="20250405194500 +0000" channel="3b7a3527-c84d-41ad-4f65-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+    <title lang="es">LALIGA FC Pro Cup | Jornada 1</title>
+    <desc lang="es">Sigue todos los partidos de LALIGA FC Pro Cup en su edición de 2025.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250406122500 +0000" stop="20250406180000 +0000" channel="015121b1-9d45-4887-4f71-08dd6bb6b1d6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+    <title lang="es">LALIGA FC Pro Cup | Jornada 2</title>
+    <desc lang="es">Sigue todos los partidos de LALIGA FC Pro Cup en su edición de 2025.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250406175500 +0000" stop="20250406191500 +0000" channel="3454dcf4-1689-4a07-11ff-08dd6bcbf7b4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LALIGACupThumbnail16x9ESPjpg-165910.jpg"/>
+    <title lang="es">LALIGA FC Pro Cup | Final</title>
+    <desc lang="es">Sigue todos los partidos de LALIGA FC Pro Cup en su edición de 2025.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250404080000 +0000" stop="20250404103500 +0000" channel="1060274c-a831-4d29-1b66-08dd6c25ffd8">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsBrisbaneRoarMacarthurFCmatchpng-150330.png"/>
+    <title lang="es">Brisbane Roar - Macarthur FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 25 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250404115500 +0000" stop="20250404143000 +0000" channel="5deffccb-3665-4440-3dbb-08dd6b968e82">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueObolonvisitorUkrainianPremierLeagueInhuletslocalpng-145902.png"/>
+    <title lang="es">Inhulets - Obolon</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250405032500 +0000" stop="20250405060000 +0000" channel="752d3cf2-1d68-47f5-6290-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsAucklandFCWesternSydneyWanderersmatchpng-150525.png"/>
+    <title lang="es">Auckland FC - Western Sydney Wanderers</title>
+    <desc lang="es">El partido correspondiente a la Jornada 25 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250405080000 +0000" stop="20250405103500 +0000" channel="ff56528e-2890-43e4-ec53-08dd6bb7aa5e">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/IsuzuUTEALeagueThumbnailsAdelaideUnitedSydneyFCmatchpng-150655.png"/>
+    <title lang="es">Adelaide United - Sydney FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 25 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250401142500 +0000" stop="20250401180000 +0000" channel="dc5b0a57-00ea-4469-62a2-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/31/CEVBeachVolleyCSVoleiAlbaBlajIgorGorgonzolaNovaramatchpng-142224.png"/>
+    <title lang="es">CS Volei Alba Blaj - Igor Gorgonzola Novara</title>
+    <desc lang="es">El partido entre CS Volei Alba Blaj y Igor Gorgonzola Novara correspondiente a la vuelta de la final del CEV Volleyball Cup Women 2025.</desc>
+    <category lang="es">Voleibol</category>
   </programme>
 </tv>
