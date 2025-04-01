@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 01 12:30:13 2025">
+<tv date="Tue Apr 01 12:34:53 2025">
   <channel id="606ad848-b85e-439e-6886-08dd5bd7d259">
     <display-name>606ad848-b85e-439e-6886-08dd5bd7d259</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -1567,6 +1567,34 @@
   <channel id="2as0hlgcryewvmpodxvidgdqh">
     <display-name>2as0hlgcryewvmpodxvidgdqh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xaqt9shxj558zydkzxl6j4d2_image-header_pEs_1743467568000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="809b7f4d-d15d-4041-ec51-08dd6bb7aa5e">
+    <display-name>809b7f4d-d15d-4041-ec51-08dd6bb7aa5e</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/PrimeraFEBEstudiantesvisitorPrimeraFEBBetislocalpng-103830.png"/>
+  </channel>
+  <channel id="a6f13378-a0e3-4611-6289-08dd6bb65883">
+    <display-name>a6f13378-a0e3-4611-6289-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/PrimeraFEBRealValladolidvisitorPrimeraFEBCastelloulocalpng-104214.png"/>
+  </channel>
+  <channel id="904f6380-776c-4616-c6cb-08dd6b9092ab">
+    <display-name>904f6380-776c-4616-c6cb-08dd6b9092ab</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueVorsklalocalpng-150346.png"/>
+  </channel>
+  <channel id="c81797d2-a182-49f1-7d27-08dd6b992d0a">
+    <display-name>c81797d2-a182-49f1-7d27-08dd6b992d0a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueChornomoretslocalpng-150913.png"/>
+  </channel>
+  <channel id="30c1fe6f-f132-4e66-c6cc-08dd6b9092ab">
+    <display-name>30c1fe6f-f132-4e66-c6cc-08dd6b9092ab</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueKryvbasvisitorUkrainianPremierLeagueOlexandrialocalpng-151529.png"/>
+  </channel>
+  <channel id="d4fc0d3f-d216-4ba0-c6cd-08dd6b9092ab">
+    <display-name>d4fc0d3f-d216-4ba0-c6cd-08dd6b9092ab</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueDynamoKievlocalpng-151708.png"/>
+  </channel>
+  <channel id="7d9e4f7f-ad87-4edf-9bb0-08dd6b972bc0">
+    <display-name>7d9e4f7f-ad87-4edf-9bb0-08dd6b972bc0</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueShakhtarlocalpng-151859.png"/>
   </channel>
   <programme start="20250328092500 +0000" stop="20250328160000 +0000" channel="606ad848-b85e-439e-6886-08dd5bd7d259">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -3919,5 +3947,47 @@
     <title lang="es">Joyce vs. Hrgovic -Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250404175500 +0000" stop="20250404213000 +0000" channel="809b7f4d-d15d-4041-ec51-08dd6bb7aa5e">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/PrimeraFEBEstudiantesvisitorPrimeraFEBBetislocalpng-103830.png"/>
+    <title lang="es">Real Betis Baloncesto - Movistar Estudiantes</title>
+    <desc lang="es">El partido entre Real Betis Baloncesto y Movistar Estudiantes correspondiente a la Jornada 28 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250404181000 +0000" stop="20250404214500 +0000" channel="a6f13378-a0e3-4611-6289-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/PrimeraFEBRealValladolidvisitorPrimeraFEBCastelloulocalpng-104214.png"/>
+    <title lang="es">Amics Castelló - UEMC Real Valladolid</title>
+    <desc lang="es">El partido entre Amics Castelló y UEMC Real Valladolid correspondiente a la Jornada 28 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250405092500 +0000" stop="20250405120000 +0000" channel="904f6380-776c-4616-c6cb-08dd6b9092ab">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueZoryavisitorUkrainianPremierLeagueVorsklalocalpng-150346.png"/>
+    <title lang="es">Vorskla - Zorya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250405115500 +0000" stop="20250405143000 +0000" channel="c81797d2-a182-49f1-7d27-08dd6b992d0a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueLNZvisitorUkrainianPremierLeagueChornomoretslocalpng-150913.png"/>
+    <title lang="es">Chornomorets - LNZ</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250406092500 +0000" stop="20250406120000 +0000" channel="30c1fe6f-f132-4e66-c6cc-08dd6b9092ab">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueKryvbasvisitorUkrainianPremierLeagueOlexandrialocalpng-151529.png"/>
+    <title lang="es">Oleksandrya - Kryvbas</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250406115500 +0000" stop="20250406143000 +0000" channel="d4fc0d3f-d216-4ba0-c6cd-08dd6b9092ab">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueLivyiBerehvisitorUkrainianPremierLeagueDynamoKievlocalpng-151708.png"/>
+    <title lang="es">Dynamo - Livyi Bereh</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250406142500 +0000" stop="20250406170000 +0000" channel="7d9e4f7f-ad87-4edf-9bb0-08dd6b972bc0">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/25/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueShakhtarlocalpng-151859.png"/>
+    <title lang="es">Shakhtar - Veres</title>
+    <desc lang="es">El partido correspondiente a la Jornada 23 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
