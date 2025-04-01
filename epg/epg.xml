@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 01 18:36:39 2025">
+<tv date="Wed Apr 02 00:30:14 2025">
   <channel id="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <display-name>609cbf40-21ed-4e85-61a8-08dd5bd2f28d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -334,10 +334,6 @@
   </channel>
   <channel id="esp-e200621387c0ch20033">
     <display-name>esp-e200621387c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200621535c0ch20034">
-    <display-name>esp-e200621535c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="47c1abbb-9e47-442f-8e60-08dd5bd39383">
@@ -1472,6 +1468,22 @@
     <display-name>esp-e200702410c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200702410_20250401-112514.png"/>
   </channel>
+  <channel id="94mcid7p8ahp61p330an2duhs">
+    <display-name>94mcid7p8ahp61p330an2duhs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dy6eak5aqco1m72n9i3a5f7d_image-header_pEs_1743514196000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="15w1d69wabxjfpsqrrkjfyvye">
+    <display-name>15w1d69wabxjfpsqrrkjfyvye</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5gs117qrdy441hwqxlm5fjy4j_image-header_pEs_1743423750000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="du2eb66dk6ck9aeh8mz4kp7h0">
+    <display-name>du2eb66dk6ck9aeh8mz4kp7h0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4n0o3d6kexyy3j5ifw5durvbm_image-header_pEs_1741961679000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="t4fou6ngztkpvucyvizuoqhg">
+    <display-name>t4fou6ngztkpvucyvizuoqhg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/crpfqzfls8nkhv08pjum9w996_image-header_pEs_1743101399000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250330082500 +0000" stop="20250330113000 +0000" channel="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
     <title lang="es">Francia Grand Master 2025: Final</title>
@@ -1974,12 +1986,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Tour Championship | 1ª ronda | Sesión 4</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250401180000 +0000" stop="20250401210000 +0000" channel="esp-e200621535c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Campeones del Tour | 1ª ronda | Sesión 4</desc>
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250329162500 +0000" stop="20250329200000 +0000" channel="47c1abbb-9e47-442f-8e60-08dd5bd39383">
@@ -3679,5 +3685,29 @@
     <title lang="es">La Montonera - Tour de Flandes </title>
     <desc lang="es">Especial prueba Masculina</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250405151000 +0000" stop="20250405211000 +0000" channel="94mcid7p8ahp61p330an2duhs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6dy6eak5aqco1m72n9i3a5f7d_image-header_pEs_1743514196000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Joyce vs. Hrgovic - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250408133000 +0000" stop="20250408173000 +0000" channel="15w1d69wabxjfpsqrrkjfyvye">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5gs117qrdy441hwqxlm5fjy4j_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itzulia Basque Country - Etapa 2 - Pamplona-Iruña - Lodosa</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250408183000 +0000" stop="20250408220000 +0000" channel="du2eb66dk6ck9aeh8mz4kp7h0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4n0o3d6kexyy3j5ifw5durvbm_image-header_pEs_1741961679000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bristol Flyers - B. Braun Sheffield Sharks</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Sheffield Sharks y Bristol Flyers.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250408183000 +0000" stop="20250408220000 +0000" channel="t4fou6ngztkpvucyvizuoqhg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/crpfqzfls8nkhv08pjum9w996_image-header_pEs_1743101399000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">London Lions - Manchester Basketball</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y London Lions.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
