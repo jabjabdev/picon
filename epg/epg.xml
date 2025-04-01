@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 01 06:36:49 2025">
+<tv date="Tue Apr 01 12:30:13 2025">
   <channel id="606ad848-b85e-439e-6886-08dd5bd7d259">
     <display-name>606ad848-b85e-439e-6886-08dd5bd7d259</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -1559,6 +1559,14 @@
   <channel id="esp-e200664492c0ch20077">
     <display-name>esp-e200664492c0ch20077</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="8804bt66lyzd8mov5xhrl1sar">
+    <display-name>8804bt66lyzd8mov5xhrl1sar</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6gmvi8tvgbek1wnwmw622jx47_image-header_pEs_1743461177000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2as0hlgcryewvmpodxvidgdqh">
+    <display-name>2as0hlgcryewvmpodxvidgdqh</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xaqt9shxj558zydkzxl6j4d2_image-header_pEs_1743467568000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250328092500 +0000" stop="20250328160000 +0000" channel="606ad848-b85e-439e-6886-08dd5bd7d259">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -3899,5 +3907,17 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250403120000 +0000" stop="20250403180000 +0000" channel="8804bt66lyzd8mov5xhrl1sar">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6gmvi8tvgbek1wnwmw622jx47_image-header_pEs_1743461177000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Joyce vs. Hrgovic - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250404120000 +0000" stop="20250404180000 +0000" channel="2as0hlgcryewvmpodxvidgdqh">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xaqt9shxj558zydkzxl6j4d2_image-header_pEs_1743467568000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Joyce vs. Hrgovic -Pesaje</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
