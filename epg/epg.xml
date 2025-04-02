@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 02 06:36:48 2025">
+<tv date="Wed Apr 02 12:30:11 2025">
   <channel id="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <display-name>609cbf40-21ed-4e85-61a8-08dd5bd2f28d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -423,10 +423,6 @@
   <channel id="91e34b18-651c-47b6-4f5d-08dd6bb6b1d6">
     <display-name>91e34b18-651c-47b6-4f5d-08dd6bb6b1d6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/26/LigaNacionalBasquetbolThumbnailPlatenseQuimsamatchpng-125321.png"/>
-  </channel>
-  <channel id="93ggjxspohyvis8o8hcphrof0">
-    <display-name>93ggjxspohyvis8o8hcphrof0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqi4lorhrequ1lzbhhrw2ccxu_image-header_pEs_1743088870000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="doxeywsa1qvfc6eth4tseqz07">
     <display-name>doxeywsa1qvfc6eth4tseqz07</display-name>
@@ -1536,6 +1532,10 @@
     <display-name>esp-e200664550c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
+  <channel id="93ggjxspohyvis8o8hcphrof0">
+    <display-name>93ggjxspohyvis8o8hcphrof0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqi4lorhrequ1lzbhhrw2ccxu_image-header_pEs_1743088870000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250330082500 +0000" stop="20250330113000 +0000" channel="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
     <title lang="es">Francia Grand Master 2025: Final</title>
@@ -2171,12 +2171,6 @@
     <title lang="es">Platense - Quimsa</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250402080000 +0000" stop="20250402140000 +0000" channel="93ggjxspohyvis8o8hcphrof0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqi4lorhrequ1lzbhhrw2ccxu_image-header_pEs_1743088870000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Pole Position - Austin</title>
-    <desc lang="es">Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250402220000 +0000" stop="20250403040000 +0000" channel="doxeywsa1qvfc6eth4tseqz07">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dhk0e1xd2yzcfu34gee1g0y14_image-header_pEs_1728558294000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3839,5 +3833,11 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250402080000 +0000" stop="20250402140000 +0000" channel="93ggjxspohyvis8o8hcphrof0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqi4lorhrequ1lzbhhrw2ccxu_image-header_pEs_1743088870000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
