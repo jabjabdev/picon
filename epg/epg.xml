@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 02 12:30:11 2025">
+<tv date="Wed Apr 02 12:34:52 2025">
   <channel id="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <display-name>609cbf40-21ed-4e85-61a8-08dd5bd2f28d</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -1535,6 +1535,14 @@
   <channel id="93ggjxspohyvis8o8hcphrof0">
     <display-name>93ggjxspohyvis8o8hcphrof0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqi4lorhrequ1lzbhhrw2ccxu_image-header_pEs_1743088870000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cc863ab3-e160-4724-1219-08dd6bcbf7b4">
+    <display-name>cc863ab3-e160-4724-1219-08dd6bcbf7b4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/MINIATURARecuperadopng-102036.png"/>
+  </channel>
+  <channel id="fe168041-b246-4072-1b8a-08dd6c25ffd8">
+    <display-name>fe168041-b246-4072-1b8a-08dd6c25ffd8</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/MINIATURARecuperadopng-101427.png"/>
   </channel>
   <programme start="20250330082500 +0000" stop="20250330113000 +0000" channel="609cbf40-21ed-4e85-61a8-08dd5bd2f28d">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/03/19/Thumbnail-Master-Franciajpg-121311.jpg"/>
@@ -3839,5 +3847,17 @@
     <title lang="es">Pol Position - Carlos Ezpeleta</title>
     <desc lang="es">Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250405153000 +0000" stop="20250405183000 +0000" channel="cc863ab3-e160-4724-1219-08dd6bcbf7b4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/MINIATURARecuperadopng-102036.png"/>
+    <title lang="es">Las Palmas C - Arucas CF B</title>
+    <desc lang="es">Después de haber conseguido el ascenso matemático, el segundo filial tiene la oportunidad de ser campeón de la Regional Preferente</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250406100000 +0000" stop="20250406150000 +0000" channel="fe168041-b246-4072-1b8a-08dd6c25ffd8">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/MINIATURARecuperadopng-101427.png"/>
+    <title lang="es">UD Las Palmas - Real Sociedad</title>
+    <desc lang="es">Los de Diego Martínez llegan al partido después de haberse quedado con el sabor a poco con el empate en Vigo</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
