@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 03 18:32:02 2025">
+<tv date="Thu Apr 03 18:34:58 2025">
   <channel id="esp-e200621384c0ch20033">
     <display-name>esp-e200621384c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -1295,6 +1295,34 @@
   <channel id="67bf77jcqhgul3ivpsjg9xoe3">
     <display-name>67bf77jcqhgul3ivpsjg9xoe3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ff1w2r7j2nnrmqstbi061etq_image-header_pEs_1743525529000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dd3ffca9-d68e-43a7-62b5-08dd6bb65883">
+    <display-name>dd3ffca9-d68e-43a7-62b5-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+  </channel>
+  <channel id="1879ded0-9a35-4aab-62b6-08dd6bb65883">
+    <display-name>1879ded0-9a35-4aab-62b6-08dd6bb65883</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+  </channel>
+  <channel id="86596b37-231e-4289-d601-08dd705ccebd">
+    <display-name>86596b37-231e-4289-d601-08dd705ccebd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+  </channel>
+  <channel id="9e5028b2-220e-461f-121a-08dd6bcbf7b4">
+    <display-name>9e5028b2-220e-461f-121a-08dd6bcbf7b4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+  </channel>
+  <channel id="62c7a9f7-ffa2-41e2-6d2e-08dd72848114">
+    <display-name>62c7a9f7-ffa2-41e2-6d2e-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
+  </channel>
+  <channel id="1e8665cf-9ae2-4b0f-6e21-08dd728afbc4">
+    <display-name>1e8665cf-9ae2-4b0f-6e21-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
+  </channel>
+  <channel id="b61e5cf9-46af-48a4-fe25-08dd72951f9a">
+    <display-name>b61e5cf9-46af-48a4-fe25-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
   </channel>
   <programme start="20250331120000 +0000" stop="20250331150000 +0000" channel="esp-e200621384c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -3239,5 +3267,47 @@
     <title lang="es">GLORY 99 - El último peso pesado en pie</title>
     <desc lang="es">El torneo 'El último peso pesado en pie' empieza en GLORY 99</desc>
     <category lang="es">Kickboxing</category>
+  </programme>
+  <programme start="20250405074000 +0000" stop="20250405113500 +0000" channel="dd3ffca9-d68e-43a7-62b5-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+    <title lang="es">FIA Karting European Championship - Qualifying Heats 1</title>
+    <desc lang="es">Disfruta de la primera carrera del Campeonato de Europa de Karting 2025, disputada en Campillos (Málaga).</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20250405120000 +0000" stop="20250405160000 +0000" channel="1879ded0-9a35-4aab-62b6-08dd6bb65883">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+    <title lang="es">FIA Karting European Championship - Qualifying Heats 2</title>
+    <desc lang="es">Disfruta de la primera carrera del Campeonato de Europa de Karting 2025, disputada en Campillos (Málaga).</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20250406073000 +0000" stop="20250406094500 +0000" channel="86596b37-231e-4289-d601-08dd705ccebd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+    <title lang="es">FIA Karting European Championship - Super Heats</title>
+    <desc lang="es">Disfruta de la primera carrera del Campeonato de Europa de Karting 2025, disputada en Campillos (Málaga).</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20250406102000 +0000" stop="20250406133000 +0000" channel="9e5028b2-220e-461f-121a-08dd6bcbf7b4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/FIAKarting2025SliderCampillospng-112606.png"/>
+    <title lang="es">FIA Karting European Championship - Finales</title>
+    <desc lang="es">Disfruta de la primera carrera del Campeonato de Europa de Karting 2025, disputada en Campillos (Málaga).</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20250405142500 +0000" stop="20250405192500 +0000" channel="62c7a9f7-ffa2-41e2-6d2e-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
+    <title lang="es">Campeonato de España Universitario | Día 1</title>
+    <desc lang="es">El Campeonato de España Universitario de Natación organizado por la Universidad Camilo José Cela se celebrará los días 5 y 6 de abril en el Sports Club de UCJC.</desc>
+    <category lang="es">Más deportes</category>
+  </programme>
+  <programme start="20250406072500 +0000" stop="20250406114500 +0000" channel="1e8665cf-9ae2-4b0f-6e21-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
+    <title lang="es">Campeonato de España Universitario | Día 2 - Mañana</title>
+    <desc lang="es">El Campeonato de España Universitario de Natación organizado por la Universidad Camilo José Cela se celebrará los días 5 y 6 de abril en el Sports Club de UCJC.</desc>
+    <category lang="es">Más deportes</category>
+  </programme>
+  <programme start="20250406125500 +0000" stop="20250406171500 +0000" channel="b61e5cf9-46af-48a4-fe25-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/Campeonato-Universitario-NatacionOKjpg-132120.jpg"/>
+    <title lang="es">Campeonato de España Universitario | Día 2 - Tarde</title>
+    <desc lang="es">El Campeonato de España Universitario de Natación organizado por la Universidad Camilo José Cela se celebrará los días 5 y 6 de abril en el Sports Club de UCJC.</desc>
+    <category lang="es">Más deportes</category>
   </programme>
 </tv>
