@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 04 12:30:13 2025">
+<tv date="Fri Apr 04 12:34:58 2025">
   <channel id="esp-e200621384c0ch20033">
     <display-name>esp-e200621384c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -1407,6 +1407,14 @@
   <channel id="3i4rruex1da0ktuivwali65mv">
     <display-name>3i4rruex1da0ktuivwali65mv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7lii0bp9yf8hg4iifolaesfn5_image-header_pEs_1718799566000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a84c5034-a5ff-4d9a-f94a-08dd7286245a">
+    <display-name>a84c5034-a5ff-4d9a-f94a-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/MostafaAsalAlyAbouEleinen095211536x1024OKjpg-092258.jpg"/>
+  </channel>
+  <channel id="459588fb-3731-4841-7924-08dd7286dd49">
+    <display-name>459588fb-3731-4841-7924-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/SquashJasmineHutton1536x1024OKjpg-091624.jpg"/>
   </channel>
   <programme start="20250331120000 +0000" stop="20250331150000 +0000" channel="esp-e200621384c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -3519,5 +3527,17 @@
     <title lang="es">Muay Thai GP - Londres</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Kickboxing</category>
+  </programme>
+  <programme start="20250405142500 +0000" stop="20250405193000 +0000" channel="a84c5034-a5ff-4d9a-f94a-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/MostafaAsalAlyAbouEleinen095211536x1024OKjpg-092258.jpg"/>
+    <title lang="es">Manchester Open - Semifinales</title>
+    <desc lang="es">Las semifinales del Manchester Open PSA Squash Tour 2025.</desc>
+    <category lang="es">Squash</category>
+  </programme>
+  <programme start="20250406132500 +0000" stop="20250406163000 +0000" channel="459588fb-3731-4841-7924-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/SquashJasmineHutton1536x1024OKjpg-091624.jpg"/>
+    <title lang="es">Manchester Open - Finales</title>
+    <desc lang="es">Las finales del Manchester Open PSA Squash Tour 2025.</desc>
+    <category lang="es">Squash</category>
   </programme>
 </tv>
