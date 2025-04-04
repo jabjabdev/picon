@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 04 06:30:13 2025">
+<tv date="Fri Apr 04 06:36:42 2025">
   <channel id="esp-e200621384c0ch20033">
     <display-name>esp-e200621384c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -1351,6 +1351,58 @@
   <channel id="2nfnqzfr869rebbg6r2g6jw9m">
     <display-name>2nfnqzfr869rebbg6r2g6jw9m</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3gaap1avspismhv3qp7a24guz_image-header_pEs_1743676376000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200664662c0ch20035">
+    <display-name>esp-e200664662c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664661c0ch20034">
+    <display-name>esp-e200664661c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664663c0ch20036">
+    <display-name>esp-e200664663c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664664c0ch20037">
+    <display-name>esp-e200664664c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200633290c0ch20003">
+    <display-name>esp-e200633290c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200633290_20250324-151636.jpeg"/>
+  </channel>
+  <channel id="esp-e200664665c0ch20034">
+    <display-name>esp-e200664665c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664667c0ch20036">
+    <display-name>esp-e200664667c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664668c0ch20037">
+    <display-name>esp-e200664668c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664666c0ch20035">
+    <display-name>esp-e200664666c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664671c0ch20036">
+    <display-name>esp-e200664671c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664670c0ch20035">
+    <display-name>esp-e200664670c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664672c0ch20037">
+    <display-name>esp-e200664672c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200664669c0ch20034">
+    <display-name>esp-e200664669c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250331120000 +0000" stop="20250331150000 +0000" channel="esp-e200621384c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200621384_20250308-142036.jpeg"/>
@@ -3379,5 +3431,83 @@
     <title lang="es">Kane County Cougars - Leñadores de Las Tunas</title>
     <desc lang="es">Vive el encuentro de Baseball Champions League entre Las Tunas y Kane County Cougars.</desc>
     <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20250410090000 +0000" stop="20250410120000 +0000" channel="esp-e200664662c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410090000 +0000" stop="20250410120000 +0000" channel="esp-e200664661c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410090000 +0000" stop="20250410120000 +0000" channel="esp-e200664663c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410090000 +0000" stop="20250410120000 +0000" channel="esp-e200664664c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410130000 +0000" stop="20250410160000 +0000" channel="esp-e200633290c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200633290_20250324-151636.jpeg"/>
+    <title lang="es">Itzulia - Etapa 4</title>
+    <desc lang="es">Masculino | Beasain &gt; Markina-Xemein (169,6 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250410133000 +0000" stop="20250410163000 +0000" channel="esp-e200664665c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410133000 +0000" stop="20250410163000 +0000" channel="esp-e200664667c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410133000 +0000" stop="20250410163000 +0000" channel="esp-e200664668c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410133000 +0000" stop="20250410163000 +0000" channel="esp-e200664666c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410180000 +0000" stop="20250410210000 +0000" channel="esp-e200664671c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410180000 +0000" stop="20250410210000 +0000" channel="esp-e200664670c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410180000 +0000" stop="20250410210000 +0000" channel="esp-e200664672c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250410180000 +0000" stop="20250410210000 +0000" channel="esp-e200664669c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
