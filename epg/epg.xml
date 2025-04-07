@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 07 18:30:48 2025">
+<tv date="Mon Apr 07 18:34:57 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1715,6 +1715,114 @@
   <channel id="6azcbn25zk0qgsqzgyhztl5je">
     <display-name>6azcbn25zk0qgsqzgyhztl5je</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dwadq7pg4nypufg6y7niwj2b_image-header_pEs_1743423750000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="55ff7f18-f1f5-4511-1b9a-08dd704ca5b6">
+    <display-name>55ff7f18-f1f5-4511-1b9a-08dd704ca5b6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/PrimeraFEBCantabriuavisitorPrimeraFEBRealValladolidlocalpng-100709.png"/>
+  </channel>
+  <channel id="a82b12a3-3052-4c27-2809-08dd7050e189">
+    <display-name>a82b12a3-3052-4c27-2809-08dd7050e189</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/PrimeraFEBAlicantevisitorPrimeraFEBTizonaBurgoslocalpng-095636.png"/>
+  </channel>
+  <channel id="18616d9c-190e-4b58-fe20-08dd72951f9a">
+    <display-name>18616d9c-190e-4b58-fe20-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBFuenlabradavisitorPrimeraFEBZamoralocalpng-105734.png"/>
+  </channel>
+  <channel id="61a94745-620a-43db-f945-08dd7286245a">
+    <display-name>61a94745-620a-43db-f945-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/LigaFemeninaEndesaThumbnailPerfumeriuasAvenidaKutxabankAraskimatchpng-140125.png"/>
+  </channel>
+  <channel id="2e968d48-d932-4638-cf86-08dd729e9bb4">
+    <display-name>2e968d48-d932-4638-cf86-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBPalenciavisitorPrimeraFEBMonbusObradoirolocalpng-110024.png"/>
+  </channel>
+  <channel id="47d40517-d719-46be-cf87-08dd729e9bb4">
+    <display-name>47d40517-d719-46be-cf87-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBCastellouvisitorPrimeraFEBOurenselocalpng-110303.png"/>
+  </channel>
+  <channel id="828d51c4-1f6b-4186-791d-08dd7286dd49">
+    <display-name>828d51c4-1f6b-4186-791d-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBGipuzkoavisitorPrimeraFEBMenorcalocalpng-110448.png"/>
+  </channel>
+  <channel id="bac8f058-bd4b-427c-49ad-08dd729f7a47">
+    <display-name>bac8f058-bd4b-427c-49ad-08dd729f7a47</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBBetisvisitorPrimeraFEBCartagenalocalpng-110636.png"/>
+  </channel>
+  <channel id="821cd592-2f05-4ef1-791e-08dd7286dd49">
+    <display-name>821cd592-2f05-4ef1-791e-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBOviedolocalpng-110829.png"/>
+  </channel>
+  <channel id="299fa1fd-87e9-44c9-fe21-08dd72951f9a">
+    <display-name>299fa1fd-87e9-44c9-fe21-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBMorounvisitorPrimeraFEBEstudianteslocalpng-111003.png"/>
+  </channel>
+  <channel id="d73d0fe6-f23e-4a78-6d31-08dd72848114">
+    <display-name>d73d0fe6-f23e-4a78-6d31-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/LigaFemeninaEndesaThumbnailSparGironaDuraunMEnsinomatchpng-140347.png"/>
+  </channel>
+  <channel id="55d3bccd-81f5-42ae-6e26-08dd728afbc4">
+    <display-name>55d3bccd-81f5-42ae-6e26-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALCuencavisitorASOBALLogronolocalpng-094216.png"/>
+  </channel>
+  <channel id="72e6d3e0-195b-4a89-fe2d-08dd72951f9a">
+    <display-name>72e6d3e0-195b-4a89-fe2d-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALVilladeArandavisitorASOBALAnaitasunalocalpng-094419.png"/>
+  </channel>
+  <channel id="fe0a42e9-fd6d-475e-6e28-08dd728afbc4">
+    <display-name>fe0a42e9-fd6d-475e-6e28-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALTorrelavegavisitorASOBALCangaslocalpng-094722.png"/>
+  </channel>
+  <channel id="015175a7-58c4-43b1-6e29-08dd728afbc4">
+    <display-name>015175a7-58c4-43b1-6e29-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALBarcelonavisitorASOBALBenidormlocalpng-094920.png"/>
+  </channel>
+  <channel id="b8e75b9c-e7a3-4d76-792a-08dd7286dd49">
+    <display-name>b8e75b9c-e7a3-4d76-792a-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALBidasoavisitorASOBALBMGuadalajaralocalpng-095447.png"/>
+  </channel>
+  <channel id="2b60eaf7-39be-4d7b-6e2b-08dd728afbc4">
+    <display-name>2b60eaf7-39be-4d7b-6e2b-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALAdemarvisitorASOBALNavalocalpng-100021.png"/>
+  </channel>
+  <channel id="c5c4f79c-a347-4a5c-6e2c-08dd728afbc4">
+    <display-name>c5c4f79c-a347-4a5c-6e2c-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALHuescavisitorASOBALGranollerslocalpng-100227.png"/>
+  </channel>
+  <channel id="6e34d2a6-4539-40a3-792b-08dd7286dd49">
+    <display-name>6e34d2a6-4539-40a3-792b-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALPuenteGenilvisitorASOBALAtleticoValladolidlocalpng-100443.png"/>
+  </channel>
+  <channel id="a39227d5-8a71-440f-fe22-08dd72951f9a">
+    <display-name>a39227d5-8a71-440f-fe22-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueLNZlocalpng-112859.png"/>
+  </channel>
+  <channel id="576c1377-33a1-4b10-7921-08dd7286dd49">
+    <display-name>576c1377-33a1-4b10-7921-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueKryvbaslocalpng-113037.png"/>
+  </channel>
+  <channel id="c957fde1-98e7-4ce3-fe23-08dd72951f9a">
+    <display-name>c957fde1-98e7-4ce3-fe23-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueRukhlocalpng-113159.png"/>
+  </channel>
+  <channel id="cf454968-67a5-4a5a-7922-08dd7286dd49">
+    <display-name>cf454968-67a5-4a5a-7922-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueObolonlocalpng-113327.png"/>
+  </channel>
+  <channel id="200c5111-2b39-4a29-f93e-08dd7286245a">
+    <display-name>200c5111-2b39-4a29-f93e-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueVorsklalocalpng-072800.png"/>
+  </channel>
+  <channel id="c560d47e-70ac-4378-f93f-08dd7286245a">
+    <display-name>c560d47e-70ac-4378-f93f-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueKolosvisitorUkrainianPremierLeagueLivyiBerehlocalpng-073001.png"/>
+  </channel>
+  <channel id="4d7a297b-9da4-4695-fe2a-08dd72951f9a">
+    <display-name>4d7a297b-9da4-4695-fe2a-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueZoryalocalpng-073248.png"/>
+  </channel>
+  <channel id="d2816046-7043-40cd-6d2f-08dd72848114">
+    <display-name>d2816046-7043-40cd-6d2f-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueKarpatyvisitorUkrainianPremierLeagueInhuletslocalpng-073533.png"/>
   </channel>
   <programme start="20250404120000 +0000" stop="20250404150000 +0000" channel="esp-e200621424c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -4289,5 +4397,167 @@
     <title lang="es">Itzulia Basque Country - Etapa 1 - Vitoria-Gasteiz - Baskonia-Alavés</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250411181000 +0000" stop="20250411214500 +0000" channel="55ff7f18-f1f5-4511-1b9a-08dd704ca5b6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/PrimeraFEBCantabriuavisitorPrimeraFEBRealValladolidlocalpng-100709.png"/>
+    <title lang="es">UEMC Real Valladolid - Grupo Alega Cantabria</title>
+    <desc lang="es">El partido entre UEMC Real Valladolid y Grupo Alega Cantabria correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250411181000 +0000" stop="20250411214500 +0000" channel="a82b12a3-3052-4c27-2809-08dd7050e189">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/02/PrimeraFEBAlicantevisitorPrimeraFEBTizonaBurgoslocalpng-095636.png"/>
+    <title lang="es">Grupo Ureta Tizona Burgos - HLA Alicante</title>
+    <desc lang="es">El partido entre Grupo Ureta Tizona Burgos y HLA Alicante correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412145500 +0000" stop="20250412183000 +0000" channel="18616d9c-190e-4b58-fe20-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBFuenlabradavisitorPrimeraFEBZamoralocalpng-105734.png"/>
+    <title lang="es">Caja Rural Zamora - Flexicar Fuenlabrada</title>
+    <desc lang="es">El partido entre Caja Rural Zamora y Flexicar Fuenlabrada correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412152500 +0000" stop="20250412190000 +0000" channel="61a94745-620a-43db-f945-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/LigaFemeninaEndesaThumbnailPerfumeriuasAvenidaKutxabankAraskimatchpng-140125.png"/>
+    <title lang="es">Perfumerías Avenida - Kutxabank Araski</title>
+    <desc lang="es">El partido entre Perfumerías Avenida y Kutxabank Araski correspondiente a la Jornada 29 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412162500 +0000" stop="20250412200000 +0000" channel="2e968d48-d932-4638-cf86-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBPalenciavisitorPrimeraFEBMonbusObradoirolocalpng-110024.png"/>
+    <title lang="es">Monbus Obradoiro - Súper Agropal Palencia</title>
+    <desc lang="es">El partido entre Monbus Obradoiro y Súper Agropal Palencia correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412162500 +0000" stop="20250412200000 +0000" channel="47d40517-d719-46be-cf87-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBCastellouvisitorPrimeraFEBOurenselocalpng-110303.png"/>
+    <title lang="es">AirCargoBooking Ourense - Amics Castelló</title>
+    <desc lang="es">El partido entre AirCargoBooking Ourense y Amics Castelló correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412165500 +0000" stop="20250412203000 +0000" channel="828d51c4-1f6b-4186-791d-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBGipuzkoavisitorPrimeraFEBMenorcalocalpng-110448.png"/>
+    <title lang="es">Hestia Menorca - Inveready Gipuzkoa</title>
+    <desc lang="es">El partido entre Hestia Menorca y Inveready Gipuzkoa correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250413092500 +0000" stop="20250413130000 +0000" channel="bac8f058-bd4b-427c-49ad-08dd729f7a47">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBBetisvisitorPrimeraFEBCartagenalocalpng-110636.png"/>
+    <title lang="es">Odilo Cartagena - Real Betis Baloncesto</title>
+    <desc lang="es">El partido entre Odilo Cartagena y Real Betis Baloncesto correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250413095500 +0000" stop="20250413133000 +0000" channel="821cd592-2f05-4ef1-791e-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBOviedolocalpng-110829.png"/>
+    <title lang="es">Alimerka Oviedo - Silbö San Pablo Burgos</title>
+    <desc lang="es">El partido entre Alimerka Oviedo y Silbö San Pablo Burgos correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250413152500 +0000" stop="20250413190000 +0000" channel="299fa1fd-87e9-44c9-fe21-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/PrimeraFEBMorounvisitorPrimeraFEBEstudianteslocalpng-111003.png"/>
+    <title lang="es">Movistar Estudiantes - Naturavia Morón</title>
+    <desc lang="es">El partido entre Movistar Estudiantes y Naturavia Morón correspondiente a la Jornada 29 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250413162500 +0000" stop="20250413200000 +0000" channel="d73d0fe6-f23e-4a78-6d31-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/LigaFemeninaEndesaThumbnailSparGironaDuraunMEnsinomatchpng-140347.png"/>
+    <title lang="es">Spar Girona - Durán M. Ensino</title>
+    <desc lang="es">El partido entre Spar Girona y Durán M. Ensino correspondiente a la Jornada 29 de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250411162500 +0000" stop="20250411190000 +0000" channel="55d3bccd-81f5-42ae-6e26-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALCuencavisitorASOBALLogronolocalpng-094216.png"/>
+    <title lang="es">Logroño La Rioja - REBI Cuenca</title>
+    <desc lang="es">El partido entre Logroño La Rioja y REBI Cuenca correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250411175500 +0000" stop="20250411203000 +0000" channel="72e6d3e0-195b-4a89-fe2d-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALVilladeArandavisitorASOBALAnaitasunalocalpng-094419.png"/>
+    <title lang="es">Helvetia Anaitasuna - Tubos Villa de Aranda</title>
+    <desc lang="es">El partido entre Helvetia Anaitasuna y Tubos Villa de Aranda correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250412145500 +0000" stop="20250412173000 +0000" channel="fe0a42e9-fd6d-475e-6e28-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALTorrelavegavisitorASOBALCangaslocalpng-094722.png"/>
+    <title lang="es">Cangas Frigoríficos - Bathco Torrelavega</title>
+    <desc lang="es">El partido entre Cangas Frigoríficos y Bathco Torrelavega correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250412162500 +0000" stop="20250412190000 +0000" channel="015175a7-58c4-43b1-6e29-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALBarcelonavisitorASOBALBenidormlocalpng-094920.png"/>
+    <title lang="es">Servigroup Hoteles Benidorm - Barça</title>
+    <desc lang="es">El partido entre Servigroup Hoteles Benidorm y Barça correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250412175500 +0000" stop="20250412203000 +0000" channel="b8e75b9c-e7a3-4d76-792a-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALBidasoavisitorASOBALBMGuadalajaralocalpng-095447.png"/>
+    <title lang="es">Impulse Guadalajara - Bidasoa Irun</title>
+    <desc lang="es">El partido entre Impulse Guadalajara y Bidasoa Irun correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250413095500 +0000" stop="20250413123000 +0000" channel="2b60eaf7-39be-4d7b-6e2b-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALAdemarvisitorASOBALNavalocalpng-100021.png"/>
+    <title lang="es">Viveros Herol Nava - ABANCA Ademar León</title>
+    <desc lang="es">El partido entre Viveros Herol Nava y ABANCA Ademar León correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250413145500 +0000" stop="20250413173000 +0000" channel="c5c4f79c-a347-4a5c-6e2c-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALHuescavisitorASOBALGranollerslocalpng-100227.png"/>
+    <title lang="es">Fraikin Granollers - Bada Huesca</title>
+    <desc lang="es">El partido entre Fraikin Granollers y Bada Huesca correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250413162500 +0000" stop="20250413200000 +0000" channel="6e34d2a6-4539-40a3-792b-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/ASOBALPuenteGenilvisitorASOBALAtleticoValladolidlocalpng-100443.png"/>
+    <title lang="es">Recoletas At. Valladolid - Ángel Ximénez Puente Genil</title>
+    <desc lang="es">El partido entre Recoletas At. Valladolid y Ángel Ximénez Puente Genil correspondiente a la Jornada 24 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250411115500 +0000" stop="20250411143000 +0000" channel="a39227d5-8a71-440f-fe22-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueLNZlocalpng-112859.png"/>
+    <title lang="es">LNZ - Shakhtar</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250412092500 +0000" stop="20250412120000 +0000" channel="576c1377-33a1-4b10-7921-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueDynamoKievvisitorUkrainianPremierLeagueKryvbaslocalpng-113037.png"/>
+    <title lang="es">Kryvbas - Dynamo</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250412115500 +0000" stop="20250412143000 +0000" channel="c957fde1-98e7-4ce3-fe23-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueRukhlocalpng-113159.png"/>
+    <title lang="es">Rukh - Oleksandrya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250412142500 +0000" stop="20250412170000 +0000" channel="cf454968-67a5-4a5a-7922-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/03/UkrainianPremierLeagueChornomoretsvisitorUkrainianPremierLeagueObolonlocalpng-113327.png"/>
+    <title lang="es">Obolon - Chornomorets</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250413092500 +0000" stop="20250413120000 +0000" channel="200c5111-2b39-4a29-f93e-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeaguePolissyavisitorUkrainianPremierLeagueVorsklalocalpng-072800.png"/>
+    <title lang="es">Vorskla - Polissya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250413115500 +0000" stop="20250413143000 +0000" channel="c560d47e-70ac-4378-f93f-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueKolosvisitorUkrainianPremierLeagueLivyiBerehlocalpng-073001.png"/>
+    <title lang="es">Livyi Bereh - Kolos</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250413142500 +0000" stop="20250413170000 +0000" channel="4d7a297b-9da4-4695-fe2a-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueVeresvisitorUkrainianPremierLeagueZoryalocalpng-073248.png"/>
+    <title lang="es">Zorya - Veres</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250414092500 +0000" stop="20250414120000 +0000" channel="d2816046-7043-40cd-6d2f-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueKarpatyvisitorUkrainianPremierLeagueInhuletslocalpng-073533.png"/>
+    <title lang="es">Inhulets - Karpaty</title>
+    <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
