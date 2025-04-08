@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 08 18:31:08 2025">
+<tv date="Tue Apr 08 18:34:54 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -2039,6 +2039,26 @@
   <channel id="f5657261-2f75-4bf0-fe4d-08dd72951f9a">
     <display-name>f5657261-2f75-4bf0-fe4d-08dd72951f9a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-3jpg-100850.jpg"/>
+  </channel>
+  <channel id="fe9e3dec-e34a-4320-7962-08dd7286dd49">
+    <display-name>fe9e3dec-e34a-4320-7962-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/BasketballBundesligaThumbnailWuerzburgUlmmatchpng-153835.png"/>
+  </channel>
+  <channel id="48479470-689d-48f1-fe59-08dd72951f9a">
+    <display-name>48479470-689d-48f1-fe59-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/BasketballBundesligaThumbnailHamburgBayernmatchpng-154439.png"/>
+  </channel>
+  <channel id="727c64a7-bd47-4171-7945-08dd7286dd49">
+    <display-name>727c64a7-bd47-4171-7945-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/IsuzuUTEALeagueThumbnailsSydneyFCAucklandFCmatchpng-145859.png"/>
+  </channel>
+  <channel id="31f8d548-feb5-4844-fe48-08dd72951f9a">
+    <display-name>31f8d548-feb5-4844-fe48-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsNewcastleJetsCentralCoastMarinersmatchpng-155408.png"/>
+  </channel>
+  <channel id="12e012fa-7ade-49d7-fe49-08dd72951f9a">
+    <display-name>12e012fa-7ade-49d7-fe49-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersWesternUnitedmatchpng-155546.png"/>
   </channel>
   <programme start="20250404120000 +0000" stop="20250404150000 +0000" channel="esp-e200621424c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -5099,5 +5119,35 @@
     <title lang="es">Campeonato de España Individual | Día 2</title>
     <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
     <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250414172500 +0000" stop="20250414210000 +0000" channel="fe9e3dec-e34a-4320-7962-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/BasketballBundesligaThumbnailWuerzburgUlmmatchpng-153835.png"/>
+    <title lang="es">Würzburg - Ulm</title>
+    <desc lang="es">El partido correspondiente a la Jornada 28 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250420122500 +0000" stop="20250420160000 +0000" channel="48479470-689d-48f1-fe59-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/BasketballBundesligaThumbnailHamburgBayernmatchpng-154439.png"/>
+    <title lang="es">Hamburg - Bayern</title>
+    <desc lang="es">El partido correspondiente a la Jornada 29 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250412062500 +0000" stop="20250412090000 +0000" channel="727c64a7-bd47-4171-7945-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/IsuzuUTEALeagueThumbnailsSydneyFCAucklandFCmatchpng-145859.png"/>
+    <title lang="es">Sydney FC - Auckland FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 26 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250412090000 +0000" stop="20250412113500 +0000" channel="31f8d548-feb5-4844-fe48-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsNewcastleJetsCentralCoastMarinersmatchpng-155408.png"/>
+    <title lang="es">Newcastle Jets - Central Coast Mariners</title>
+    <desc lang="es">El partido correspondiente a la Jornada 26 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250413062500 +0000" stop="20250413090000 +0000" channel="12e012fa-7ade-49d7-fe49-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersWesternUnitedmatchpng-155546.png"/>
+    <title lang="es">Western Sydney Wanderers - Western United</title>
+    <desc lang="es">El partido correspondiente a la Jornada 26 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
