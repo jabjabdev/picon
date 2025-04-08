@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 08 18:34:54 2025">
+<tv date="Wed Apr 09 00:30:16 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -468,14 +468,6 @@
     <display-name>esp-e200702410c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_6_200702410_20250401-112514.png"/>
   </channel>
-  <channel id="du2eb66dk6ck9aeh8mz4kp7h0">
-    <display-name>du2eb66dk6ck9aeh8mz4kp7h0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4n0o3d6kexyy3j5ifw5durvbm_image-header_pEs_1741961679000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="t4fou6ngztkpvucyvizuoqhg">
-    <display-name>t4fou6ngztkpvucyvizuoqhg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/crpfqzfls8nkhv08pjum9w996_image-header_pEs_1743101399000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200664542c0ch20035">
     <display-name>esp-e200664542c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -643,10 +635,6 @@
   <channel id="esp-e200664610c0ch20035">
     <display-name>esp-e200664610c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="9y10qm1tx0bogdufnh2km1def">
-    <display-name>9y10qm1tx0bogdufnh2km1def</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4p25lmwuvh0uxaht2opsjggx_image-header_pEs_1743673850000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="36aza3e9luy3u7cw13gohovgr">
     <display-name>36aza3e9luy3u7cw13gohovgr</display-name>
@@ -2060,6 +2048,18 @@
     <display-name>12e012fa-7ade-49d7-fe49-08dd72951f9a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersWesternUnitedmatchpng-155546.png"/>
   </channel>
+  <channel id="6rhhicpjeyypqmztu1bohq2b6">
+    <display-name>6rhhicpjeyypqmztu1bohq2b6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7y4wdql7f42qxvin76oixjtmf">
+    <display-name>7y4wdql7f42qxvin76oixjtmf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5llmo8vg1t0t1g35p71dey4z2_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7tq5l1ws1kxhv655utfmfete6">
+    <display-name>7tq5l1ws1kxhv655utfmfete6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzvtr2ty3gcg1qwj50dn9s28d_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250404120000 +0000" stop="20250404150000 +0000" channel="esp-e200621424c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2762,18 +2762,6 @@
     <desc lang="es">Especial prueba Masculina</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250408183000 +0000" stop="20250408220000 +0000" channel="du2eb66dk6ck9aeh8mz4kp7h0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4n0o3d6kexyy3j5ifw5durvbm_image-header_pEs_1741961679000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - B. Braun Sheffield Sharks</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Sheffield Sharks y Bristol Flyers.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250408183000 +0000" stop="20250408220000 +0000" channel="t4fou6ngztkpvucyvizuoqhg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/crpfqzfls8nkhv08pjum9w996_image-header_pEs_1743101399000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">London Lions - Manchester Basketball</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Manchester Basketball y London Lions.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20250408090000 +0000" stop="20250408120000 +0000" channel="esp-e200664542c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2882,7 +2870,7 @@
     <desc lang="es">Ultimate Tennis Showdown | Individuales | Semifinales</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250409130000 +0000" stop="20250409170000 +0000" channel="4417mkj86zs4sm7i6nvxa1g29">
+  <programme start="20250409133000 +0000" stop="20250409173000 +0000" channel="4417mkj86zs4sm7i6nvxa1g29">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/22sn0w4f0206uqe7z9oorztwe_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Itzulia Basque Country - Etapa 3 - Zarautz - Beasain</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -3026,12 +3014,6 @@
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250408200000 +0000" stop="20250409020000 +0000" channel="9y10qm1tx0bogdufnh2km1def">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4p25lmwuvh0uxaht2opsjggx_image-header_pEs_1743673850000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Santa Maria Pirates - Kane County Cougars</title>
-    <desc lang="es">Vive el encuentro de Baseball Champions League entre Santa Maria Pirates y Kane County Cougars.</desc>
-    <category lang="es">Béisbol</category>
-  </programme>
   <programme start="20250409013000 +0000" stop="20250409073000 +0000" channel="36aza3e9luy3u7cw13gohovgr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55ni22hmamg91i7dmumwz75ab_image-header_pEs_1743674811000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Diablos Rojos del México - Titanes de Florida</title>
@@ -3092,7 +3074,7 @@
     <desc lang="es">¡El Mundial de F1 llega a Baréin! El Circuito Internacional de Sakhir alberga la cuarta carrera de la temporada 2025. ¡Disfruta de todas las carreras del 'Gran Circo' en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250410130000 +0000" stop="20250410170000 +0000" channel="cn0sw439wm5pskmr9p2r34cji">
+  <programme start="20250410133000 +0000" stop="20250410173000 +0000" channel="cn0sw439wm5pskmr9p2r34cji">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4rwbymfd8pkqinsqjfch6kft4_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Itzulia Basque Country - Etapa 4 - Beasain - Markina-Xemein</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -3476,7 +3458,7 @@
     <desc lang="es">¡El Mundial de F3 llega a Baréin! El Circuito Internacional de Sakhir alberga una nueva prueba de la temporada 2025. ¡Disfruta de todas las carreras en DAZN!</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250411130000 +0000" stop="20250411170000 +0000" channel="aywxl3fo0t6d893bjupkjsvdg">
+  <programme start="20250411133000 +0000" stop="20250411173000 +0000" channel="aywxl3fo0t6d893bjupkjsvdg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7n2gmuvt032taq7ewmr67t5r1_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Itzulia Basque Country - Etapa 5 - Urduña - Gernika-Lumo</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -3782,7 +3764,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250412130000 +0000" stop="20250412170000 +0000" channel="7muo0vf3lov9fucpbef40zv2h">
+  <programme start="20250412133000 +0000" stop="20250412173000 +0000" channel="7muo0vf3lov9fucpbef40zv2h">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cvjw3dks27v3g9da349cobpd2_image-header_pEs_1743423750000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Itzulia Basque Country - Etapa 6 - Eibar - Eibar</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -5149,5 +5131,23 @@
     <title lang="es">Western Sydney Wanderers - Western United</title>
     <desc lang="es">El partido correspondiente a la Jornada 26 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250415115000 +0000" stop="20250415155000 +0000" channel="6rhhicpjeyypqmztu1bohq2b6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250415160000 +0000" stop="20250415183000 +0000" channel="7y4wdql7f42qxvin76oixjtmf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5llmo8vg1t0t1g35p71dey4z2_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">La Central</title>
+    <desc lang="es">Andrea Segura y Sandra Riquelme presentan La Central, el espacio donde analizamos los mejores momentos de la jornada de Liga F y el resto de las mejores ligas; hablamos con las protagonistas y descubrimos historias del fútbol femenino como nunca antes te las habían contado.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250415210000 +0000" stop="20250416030000 +0000" channel="7tq5l1ws1kxhv655utfmfete6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzvtr2ty3gcg1qwj50dn9s28d_image-header_pEs_1732211560000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 22</title>
+    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
