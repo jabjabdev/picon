@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 08 15:01:10 2025">
+<tv date="Tue Apr 08 15:04:55 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -2032,6 +2032,14 @@
     <display-name>6950cb4a-adfd-49f0-6e49-08dd728afbc4</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
   </channel>
+  <channel id="2da1320a-b5de-4fdf-6d58-08dd72848114">
+    <display-name>2da1320a-b5de-4fdf-6d58-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/MINIATURARecuperadopng-121956.png"/>
+  </channel>
+  <channel id="f5657261-2f75-4bf0-fe4d-08dd72951f9a">
+    <display-name>f5657261-2f75-4bf0-fe4d-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-3jpg-100850.jpg"/>
+  </channel>
   <programme start="20250404120000 +0000" stop="20250404150000 +0000" channel="esp-e200621424c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2770,7 +2778,7 @@
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250408130000 +0000" stop="20250408160000 +0000" channel="esp-e200633288c0ch20003">
+  <programme start="20250408133000 +0000" stop="20250408160000 +0000" channel="esp-e200633288c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_4_200633288_20250324-150646.jpeg"/>
     <title lang="es">Itzulia Basque Country - Etapa 2</title>
     <desc lang="es">Masculino | Pamplona &gt; Lodosa (199,8 km)</desc>
@@ -5077,6 +5085,18 @@
   <programme start="20250412132500 +0000" stop="20250412180000 +0000" channel="6950cb4a-adfd-49f0-6e49-08dd728afbc4">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
     <title lang="es">Campeonato de España Individual | Día 1 - Jornada de tarde</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250412121500 +0000" stop="20250412164500 +0000" channel="2da1320a-b5de-4fdf-6d58-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/MINIATURARecuperadopng-121956.png"/>
+    <title lang="es">Getafe CF - UD Las Palmas</title>
+    <desc lang="es">Los de Diego Martínez buscarán revertir la mala dinámica en el Coliseum</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250413062500 +0000" stop="20250413120000 +0000" channel="f5657261-2f75-4bf0-fe4d-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-3jpg-100850.jpg"/>
+    <title lang="es">Campeonato de España Individual | Día 2</title>
     <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
     <category lang="es">Petanca</category>
   </programme>
