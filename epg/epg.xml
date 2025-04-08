@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 08 12:40:54 2025">
+<tv date="Tue Apr 08 12:44:52 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -2027,6 +2027,14 @@
   <channel id="2u67a61n8gvguorxoywm8mkxf">
     <display-name>2u67a61n8gvguorxoywm8mkxf</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bm9vzyau0k2co4sks8v0hors7_image-header_pEs_1738654069000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="45cb5145-3575-4789-6d4c-08dd72848114">
+    <display-name>45cb5145-3575-4789-6d4c-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-1jpg-103217.jpg"/>
+  </channel>
+  <channel id="6950cb4a-adfd-49f0-6e49-08dd728afbc4">
+    <display-name>6950cb4a-adfd-49f0-6e49-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
   </channel>
   <programme start="20250404120000 +0000" stop="20250404150000 +0000" channel="esp-e200621424c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -5069,5 +5077,17 @@
     <title lang="es">París - Día 8 (Pro Stream)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250412062500 +0000" stop="20250412113000 +0000" channel="45cb5145-3575-4789-6d4c-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-1jpg-103217.jpg"/>
+    <title lang="es">Campeonato de España Individual | Día 1 - Jornada de mañana</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250412132500 +0000" stop="20250412180000 +0000" channel="6950cb4a-adfd-49f0-6e49-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
+    <title lang="es">Campeonato de España Individual | Día 1 - Jornada de tarde</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
   </programme>
 </tv>
