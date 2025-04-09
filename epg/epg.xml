@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 09 00:30:16 2025">
+<tv date="Wed Apr 09 06:30:34 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -635,10 +635,6 @@
   <channel id="esp-e200664610c0ch20035">
     <display-name>esp-e200664610c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="36aza3e9luy3u7cw13gohovgr">
-    <display-name>36aza3e9luy3u7cw13gohovgr</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55ni22hmamg91i7dmumwz75ab_image-header_pEs_1743674811000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="20jwtc7qrx9imu8wy8oe8cjse">
     <display-name>20jwtc7qrx9imu8wy8oe8cjse</display-name>
@@ -3013,12 +3009,6 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250409013000 +0000" stop="20250409073000 +0000" channel="36aza3e9luy3u7cw13gohovgr">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55ni22hmamg91i7dmumwz75ab_image-header_pEs_1743674811000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Diablos Rojos del México - Titanes de Florida</title>
-    <desc lang="es">Vive el encuentro de Baseball Champions League entre Titanes de Florida y Diablos Rojos.</desc>
-    <category lang="es">Béisbol</category>
   </programme>
   <programme start="20250409200000 +0000" stop="20250410020000 +0000" channel="20jwtc7qrx9imu8wy8oe8cjse">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43trawvsvbw22oyxd2iv23ozx_image-header_pEs_1743674605000/fill/none/top/none/85/600/360/webp/image"/>
