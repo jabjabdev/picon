@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 09 06:36:50 2025">
+<tv date="Wed Apr 09 12:30:35 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1550,7 +1550,7 @@
   </channel>
   <channel id="bw7c4pjomxzlplwrvht8nifis">
     <display-name>bw7c4pjomxzlplwrvht8nifis</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cufguqsmvzpv6sgbu9ik6xn1x_image-header_pEs_1731239229000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cufguqsmvzpv6sgbu9ik6xn1x_image-header_pEs_1744021026000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cubgw4dfu5k5iy3vo3fvsdic4">
     <display-name>cubgw4dfu5k5iy3vo3fvsdic4</display-name>
@@ -1787,14 +1787,6 @@
   <channel id="d2816046-7043-40cd-6d2f-08dd72848114">
     <display-name>d2816046-7043-40cd-6d2f-08dd72848114</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/04/UkrainianPremierLeagueKarpatyvisitorUkrainianPremierLeagueInhuletslocalpng-073533.png"/>
-  </channel>
-  <channel id="atkahpfbjvla5r8h9ehg437o6">
-    <display-name>atkahpfbjvla5r8h9ehg437o6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/880lx1hjofcuz7miliwpvwx6h_image-header_pEs_1738654069000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dxxytf0sijpclxas3djvfhz6b">
-    <display-name>dxxytf0sijpclxas3djvfhz6b</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahufgjo3xf7epb36iunjuk4og_image-header_pEs_1738654069000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9zl1hb72oat5ixlnxkc45bbm0">
     <display-name>9zl1hb72oat5ixlnxkc45bbm0</display-name>
@@ -4418,8 +4410,8 @@
     <desc lang="es">Una nueva jornada de LALIGA EA SPORTS echa a andar. ¡Disfruta del encuentro entre Athletic Club y Rayo Vallecano en DAZN!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250413183000 +0000" stop="20250413220000 +0000" channel="bw7c4pjomxzlplwrvht8nifis">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cufguqsmvzpv6sgbu9ik6xn1x_image-header_pEs_1731239229000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250413150000 +0000" stop="20250413183000 +0000" channel="bw7c4pjomxzlplwrvht8nifis">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cufguqsmvzpv6sgbu9ik6xn1x_image-header_pEs_1744021026000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sheffield Sharks - Newcastle Eagles</title>
     <desc lang="es">Vive el encuentro de Super League Basketball entre Sheffield Sharks y Newcastle Eagles.</desc>
     <category lang="es">Baloncesto</category>
@@ -4777,18 +4769,6 @@
     <title lang="es">Inhulets - Karpaty</title>
     <desc lang="es">El partido correspondiente a la Jornada 24 de la Ukrainian Premier League 2024/25.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250409101500 +0000" stop="20250409103000 +0000" channel="atkahpfbjvla5r8h9ehg437o6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/880lx1hjofcuz7miliwpvwx6h_image-header_pEs_1738654069000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">París - Día 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
-  </programme>
-  <programme start="20250409103000 +0000" stop="20250409104500 +0000" channel="dxxytf0sijpclxas3djvfhz6b">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ahufgjo3xf7epb36iunjuk4og_image-header_pEs_1738654069000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">París - Día 3 (Pro Stream)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20250410101500 +0000" stop="20250410103000 +0000" channel="9zl1hb72oat5ixlnxkc45bbm0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7abfq7dw9mdm37g6us7yxwebt_image-header_pEs_1738654069000/fill/none/top/none/85/600/360/webp/image"/>
