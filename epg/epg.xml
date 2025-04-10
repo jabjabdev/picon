@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 10 00:30:19 2025">
+<tv date="Thu Apr 10 06:30:36 2025">
   <channel id="esp-e200621424c0ch20033">
     <display-name>esp-e200621424c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -667,10 +667,6 @@
   <channel id="2x934nkfncrqexvcph3an5pli">
     <display-name>2x934nkfncrqexvcph3an5pli</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uqhmu3mzzrct1whmyrfphdko6_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8g4og5dhld82bttzipdnarsis">
-    <display-name>8g4og5dhld82bttzipdnarsis</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e0js33esu5hhqvk0p42wigly5_image-header_pEs_1743676179000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="8n8ytm8piy3agby6k7qnuk51">
     <display-name>8n8ytm8piy3agby6k7qnuk51</display-name>
@@ -3161,12 +3157,6 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 21</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250410013000 +0000" stop="20250410073000 +0000" channel="8g4og5dhld82bttzipdnarsis">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e0js33esu5hhqvk0p42wigly5_image-header_pEs_1743676179000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Titanes de Florida - Tigres de Chinandega</title>
-    <desc lang="es">Vive el encuentro de Baseball Champions League entre Tigres de Chinandega y Titanes de Florida.</desc>
-    <category lang="es">Béisbol</category>
   </programme>
   <programme start="20250410180000 +0000" stop="20250411000000 +0000" channel="8n8ytm8piy3agby6k7qnuk51">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gyzy2dbfkyc61909srftkme1j_image-header_pEs_1743708694000/fill/none/top/none/85/600/360/webp/image"/>
