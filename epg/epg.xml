@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 10 18:30:52 2025">
+<tv date="Thu Apr 10 18:34:52 2025">
   <channel id="esp-e200664482c0ch20075">
     <display-name>esp-e200664482c0ch20075</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1691,6 +1691,30 @@
   <channel id="cn0sw439wm5pskmr9p2r34cji">
     <display-name>cn0sw439wm5pskmr9p2r34cji</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4rwbymfd8pkqinsqjfch6kft4_image-header_pEs_1743423750000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ab560ecf-19a8-428b-6d5f-08dd72848114">
+    <display-name>ab560ecf-19a8-428b-6d5f-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/ASOBALBidasoavisitorASOBALBenidormlocalpng-153207.png"/>
+  </channel>
+  <channel id="a660cc94-8303-4704-6d60-08dd72848114">
+    <display-name>a660cc94-8303-4704-6d60-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/ASOBALBarcelonavisitorASOBALAtleticoValladolidlocalpng-153552.png"/>
+  </channel>
+  <channel id="b40aa4bd-64ac-4539-f963-08dd7286245a">
+    <display-name>b40aa4bd-64ac-4539-f963-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135811.jpg"/>
+  </channel>
+  <channel id="505c3dcb-48b4-426a-f964-08dd7286245a">
+    <display-name>505c3dcb-48b4-426a-f964-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135804.jpg"/>
+  </channel>
+  <channel id="0f1ca572-1cdc-4794-f965-08dd7286245a">
+    <display-name>0f1ca572-1cdc-4794-f965-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135756.jpg"/>
+  </channel>
+  <channel id="48bef50b-fa4a-4fd0-f966-08dd7286245a">
+    <display-name>48bef50b-fa4a-4fd0-f966-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135735.jpg"/>
   </channel>
   <programme start="20250407090000 +0000" stop="20250407120000 +0000" channel="esp-e200664482c0ch20075">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -4229,5 +4253,41 @@
     <title lang="es">Itzulia Basque Country - Etapa 4 - Beasain - Markina-Xemein</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250415165500 +0000" stop="20250415193000 +0000" channel="ab560ecf-19a8-428b-6d5f-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/ASOBALBidasoavisitorASOBALBenidormlocalpng-153207.png"/>
+    <title lang="es">Servigroup Hoteles Benidorm - Bidasoa Irun</title>
+    <desc lang="es">El partido entre Servigroup Hoteles Benidorm y Bidasoa Irun correspondiente a la Jornada 26 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250416175500 +0000" stop="20250416203000 +0000" channel="a660cc94-8303-4704-6d60-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/ASOBALBarcelonavisitorASOBALAtleticoValladolidlocalpng-153552.png"/>
+    <title lang="es">Recoletas At. Valladolid - Barça</title>
+    <desc lang="es">El partido entre Recoletas At. Valladolid y Barça correspondiente a la Jornada 26 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250414062500 +0000" stop="20250414123000 +0000" channel="b40aa4bd-64ac-4539-f963-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135811.jpg"/>
+    <title lang="es">Día 1 Mañana - Campo 1</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250414062500 +0000" stop="20250414123000 +0000" channel="505c3dcb-48b4-426a-f964-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135804.jpg"/>
+    <title lang="es">Día 1 Mañana - Campo 2</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250414062500 +0000" stop="20250414123000 +0000" channel="0f1ca572-1cdc-4794-f965-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135756.jpg"/>
+    <title lang="es">Día 1 Mañana - Campo 3</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250414062500 +0000" stop="20250414123000 +0000" channel="48bef50b-fa4a-4fd0-f966-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-135735.jpg"/>
+    <title lang="es">Día 1 Mañana - Campo 4</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
