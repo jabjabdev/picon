@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 11 06:30:15 2025">
+<tv date="Fri Apr 11 06:36:45 2025">
   <channel id="esp-e200664482c0ch20075">
     <display-name>esp-e200664482c0ch20075</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1727,6 +1727,34 @@
   <channel id="4wvi5r3sq4g49b6b0wcmqqb75">
     <display-name>4wvi5r3sq4g49b6b0wcmqqb75</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4xq8mxhurx0p977h12qjjcfsu_image-header_pEs_1744201002000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200665071c0ch20072">
+    <display-name>esp-e200665071c0ch20072</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_2_200665071_20250405-095127.jpeg"/>
+  </channel>
+  <channel id="esp-e200665072c0ch20073">
+    <display-name>esp-e200665072c0ch20073</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200665072_20250405-095610.jpeg"/>
+  </channel>
+  <channel id="esp-e200646929c0ch20002">
+    <display-name>esp-e200646929c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200646929_20250405-092738.jpeg"/>
+  </channel>
+  <channel id="esp-e200665073c0ch20074">
+    <display-name>esp-e200665073c0ch20074</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_2_200665073_20250405-095817.jpeg"/>
+  </channel>
+  <channel id="esp-e200665074c0ch20075">
+    <display-name>esp-e200665074c0ch20075</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200665074_20250405-100417.jpeg"/>
+  </channel>
+  <channel id="esp-e200665151c0ch20068">
+    <display-name>esp-e200665151c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20085_0_200665151_20250405-101523.jpeg"/>
+  </channel>
+  <channel id="esp-e200665051c0ch20066">
+    <display-name>esp-e200665051c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_4_200665051_20250401-105109.jpeg"/>
   </channel>
   <programme start="20250407090000 +0000" stop="20250407120000 +0000" channel="esp-e200664482c0ch20075">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -4319,5 +4347,47 @@
     <title lang="es">Tigres de Chinandega - Diablos Rojos del México</title>
     <desc lang="es">Vive el encuentro de Baseball Champions League entre Tigres de Chinandega y Diablos Rojos.</desc>
     <category lang="es">Béisbol</category>
+  </programme>
+  <programme start="20250417111500 +0000" stop="20250417220000 +0000" channel="esp-e200665071c0ch20072">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_2_200665071_20250405-095127.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour | Señal Alternativa</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417111500 +0000" stop="20250417220000 +0000" channel="esp-e200665072c0ch20073">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200665072_20250405-095610.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417114000 +0000" stop="20250417135000 +0000" channel="esp-e200646929c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200646929_20250405-092738.jpeg"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 3</title>
+    <desc lang="es">Masculino | San Demetrio ne' Vestini &gt; Roccaraso (160 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250417120000 +0000" stop="20250417220000 +0000" channel="esp-e200665073c0ch20074">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_2_200665073_20250405-095817.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417120000 +0000" stop="20250417220000 +0000" channel="esp-e200665074c0ch20075">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200665074_20250405-100417.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417140000 +0000" stop="20250417170000 +0000" channel="esp-e200665151c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20085_0_200665151_20250405-101523.jpeg"/>
+    <title lang="es">Corales Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417180000 +0000" stop="20250417220000 +0000" channel="esp-e200665051c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_4_200665051_20250401-105109.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1 - Comentarios en Español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
