@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 12 00:30:24 2025">
+<tv date="Sat Apr 12 00:34:59 2025">
   <channel id="esp-e200664542c0ch20035">
     <display-name>esp-e200664542c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1759,6 +1759,158 @@
   <channel id="8au4xs3zjdmzuraazsmsly2hg">
     <display-name>8au4xs3zjdmzuraazsmsly2hg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4up1q68jbtvczsz1ym40zqxft_image-header_pEs_1717940740000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ad92c3e7-9a92-452d-796b-08dd7286dd49">
+    <display-name>ad92c3e7-9a92-452d-796b-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBMorounvisitorPrimeraFEBCastelloulocalpng-091457.png"/>
+  </channel>
+  <channel id="25fb3376-c6b4-4913-6d68-08dd72848114">
+    <display-name>25fb3376-c6b4-4913-6d68-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBOviedovisitorPrimeraFEBGipuzkoalocalpng-091739.png"/>
+  </channel>
+  <channel id="7ecce79b-2c92-4fdd-796c-08dd7286dd49">
+    <display-name>7ecce79b-2c92-4fdd-796c-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBMonbusObradoirovisitorPrimeraFEBBetislocalpng-092032.png"/>
+  </channel>
+  <channel id="63ede16f-e72b-42eb-fe5e-08dd72951f9a">
+    <display-name>63ede16f-e72b-42eb-fe5e-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBOurensevisitorPrimeraFEBAlicantelocalpng-092822.png"/>
+  </channel>
+  <channel id="a9398fd5-26bb-4a9b-796d-08dd7286dd49">
+    <display-name>a9398fd5-26bb-4a9b-796d-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBCantabriualocalpng-093350.png"/>
+  </channel>
+  <channel id="3d72da10-2701-47c0-f97b-08dd7286245a">
+    <display-name>3d72da10-2701-47c0-f97b-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBEstudiantesvisitorPrimeraFEBFuenlabradalocalpng-093545.png"/>
+  </channel>
+  <channel id="5abe2ea8-16f7-4174-f97c-08dd7286245a">
+    <display-name>5abe2ea8-16f7-4174-f97c-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBZamoravisitorPrimeraFEBRealValladolidlocalpng-093721.png"/>
+  </channel>
+  <channel id="c91d9ac3-da47-4bbb-fe5f-08dd72951f9a">
+    <display-name>c91d9ac3-da47-4bbb-fe5f-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBCartagenavisitorPrimeraFEBMenorcalocalpng-093940.png"/>
+  </channel>
+  <channel id="ff15d175-368a-4ddc-6e5c-08dd728afbc4">
+    <display-name>ff15d175-368a-4ddc-6e5c-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBTizonaBurgosvisitorPrimeraFEBPalencialocalpng-094628.png"/>
+  </channel>
+  <channel id="73931648-f18a-4760-cfbe-08dd729e9bb4">
+    <display-name>73931648-f18a-4760-cfbe-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALGranollersvisitorASOBALBidasoalocalpng-101123.png"/>
+  </channel>
+  <channel id="9ac7637d-9e81-4dd3-cfbf-08dd729e9bb4">
+    <display-name>9ac7637d-9e81-4dd3-cfbf-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALCangasvisitorASOBALCuencalocalpng-101325.png"/>
+  </channel>
+  <channel id="8f30adab-6c1e-4f77-cfb0-08dd729e9bb4">
+    <display-name>8f30adab-6c1e-4f77-cfb0-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140403.jpg"/>
+  </channel>
+  <channel id="b5dd3b0c-5f8b-4dc0-fe53-08dd72951f9a">
+    <display-name>b5dd3b0c-5f8b-4dc0-fe53-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140457.jpg"/>
+  </channel>
+  <channel id="2672b583-3c4b-4e28-6d59-08dd72848114">
+    <display-name>2672b583-3c4b-4e28-6d59-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140420.jpg"/>
+  </channel>
+  <channel id="f50ba1fa-38b4-4d60-6d5a-08dd72848114">
+    <display-name>f50ba1fa-38b4-4d60-6d5a-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140439.jpg"/>
+  </channel>
+  <channel id="23eb354e-0e36-4341-6e4d-08dd728afbc4">
+    <display-name>23eb354e-0e36-4341-6e4d-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140517.jpg"/>
+  </channel>
+  <channel id="62e8bbe7-1aca-43b5-6e4e-08dd728afbc4">
+    <display-name>62e8bbe7-1aca-43b5-6e4e-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140617.jpg"/>
+  </channel>
+  <channel id="1e867ada-2769-4fb7-795b-08dd7286dd49">
+    <display-name>1e867ada-2769-4fb7-795b-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140536.jpg"/>
+  </channel>
+  <channel id="68476533-9ffe-4071-795c-08dd7286dd49">
+    <display-name>68476533-9ffe-4071-795c-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140552.jpg"/>
+  </channel>
+  <channel id="93f79d17-83ea-4dae-795e-08dd7286dd49">
+    <display-name>93f79d17-83ea-4dae-795e-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140653.jpg"/>
+  </channel>
+  <channel id="ec239b13-d8b3-432b-6e4f-08dd728afbc4">
+    <display-name>ec239b13-d8b3-432b-6e4f-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140710.jpg"/>
+  </channel>
+  <channel id="a612c0fc-3307-41db-6e51-08dd728afbc4">
+    <display-name>a612c0fc-3307-41db-6e51-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/Nou-Estadi-Costa-DauradaOKjpg-135855.jpg"/>
+  </channel>
+  <channel id="9a19d4c3-914e-4516-cfb1-08dd729e9bb4">
+    <display-name>9a19d4c3-914e-4516-cfb1-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140639.jpg"/>
+  </channel>
+  <channel id="43c6f112-523c-41c8-6d5d-08dd72848114">
+    <display-name>43c6f112-523c-41c8-6d5d-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140710.jpg"/>
+  </channel>
+  <channel id="c1be7ec7-ff92-4db9-fe67-08dd72951f9a">
+    <display-name>c1be7ec7-ff92-4db9-fe67-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-1jpg-103217.jpg"/>
+  </channel>
+  <channel id="945893a9-192e-4448-f98e-08dd7286245a">
+    <display-name>945893a9-192e-4448-f98e-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
+  </channel>
+  <channel id="93643f3e-e3ee-4b25-cfd3-08dd729e9bb4">
+    <display-name>93643f3e-e3ee-4b25-cfd3-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-3jpg-100850.jpg"/>
+  </channel>
+  <channel id="cb47f9b8-c1bc-4280-fe68-08dd72951f9a">
+    <display-name>cb47f9b8-c1bc-4280-fe68-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/SQUASH-1jpg-115114.jpg"/>
+  </channel>
+  <channel id="ac78d4d4-8751-4ec3-fe54-08dd72951f9a">
+    <display-name>ac78d4d4-8751-4ec3-fe54-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-2OKjpg-103459.jpg"/>
+  </channel>
+  <channel id="9cf1a6eb-a359-48e4-cfb5-08dd729e9bb4">
+    <display-name>9cf1a6eb-a359-48e4-cfb5-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-1OKjpg-103205.jpg"/>
+  </channel>
+  <channel id="55dfafde-87c8-408c-cfb7-08dd729e9bb4">
+    <display-name>55dfafde-87c8-408c-cfb7-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-2OKjpg-104035.jpg"/>
+  </channel>
+  <channel id="dc5e45c4-37bb-4711-f96e-08dd7286245a">
+    <display-name>dc5e45c4-37bb-4711-f96e-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-1OKjpg-103908.jpg"/>
+  </channel>
+  <channel id="9b930a9f-5045-4e93-6e56-08dd728afbc4">
+    <display-name>9b930a9f-5045-4e93-6e56-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-2OKjpg-104418.jpg"/>
+  </channel>
+  <channel id="d51aa0bb-cce7-407c-cfba-08dd729e9bb4">
+    <display-name>d51aa0bb-cce7-407c-cfba-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-1OKjpg-104200.jpg"/>
+  </channel>
+  <channel id="cd41f0a1-1b42-499b-cfbb-08dd729e9bb4">
+    <display-name>cd41f0a1-1b42-499b-cfbb-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-2OKjpg-104731.jpg"/>
+  </channel>
+  <channel id="ba4b9686-39ac-44f7-6d5e-08dd72848114">
+    <display-name>ba4b9686-39ac-44f7-6d5e-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-1OKjpg-104558.jpg"/>
+  </channel>
+  <channel id="f4baf176-e52a-4015-f971-08dd7286245a">
+    <display-name>f4baf176-e52a-4015-f971-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-semi-femenina-y-semis-y-finalOKjpg-104858.jpg"/>
+  </channel>
+  <channel id="05ef4353-dd70-4065-f972-08dd7286245a">
+    <display-name>05ef4353-dd70-4065-f972-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-semi-femenina-y-semis-y-finalOKjpg-105156.jpg"/>
   </channel>
   <programme start="20250408090000 +0000" stop="20250408120000 +0000" channel="esp-e200664542c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -4399,5 +4551,233 @@
     <title lang="es">NCTS Race at Rockingham - Carrera</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250417181000 +0000" stop="20250417214500 +0000" channel="ad92c3e7-9a92-452d-796b-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBMorounvisitorPrimeraFEBCastelloulocalpng-091457.png"/>
+    <title lang="es">Amics Castelló - Naturavia Morón</title>
+    <desc lang="es">El partido entre Amics Castelló y Naturavia Morón correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250418152500 +0000" stop="20250418190000 +0000" channel="25fb3376-c6b4-4913-6d68-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBOviedovisitorPrimeraFEBGipuzkoalocalpng-091739.png"/>
+    <title lang="es">Inveready Gipuzkoa - Alimerka Oviedo</title>
+    <desc lang="es">El partido entre Inveready Gipuzkoa y Alimerka Oviedo correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250418172500 +0000" stop="20250418210000 +0000" channel="7ecce79b-2c92-4fdd-796c-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBMonbusObradoirovisitorPrimeraFEBBetislocalpng-092032.png"/>
+    <title lang="es">Real Betis Baloncesto - Monbus Obradoiro</title>
+    <desc lang="es">El partido entre Real Betis Baloncesto y Monbus Obradoiro correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250418175500 +0000" stop="20250418213000 +0000" channel="63ede16f-e72b-42eb-fe5e-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBOurensevisitorPrimeraFEBAlicantelocalpng-092822.png"/>
+    <title lang="es">HLA Alicante - AirCargoBooking Ourense</title>
+    <desc lang="es">El partido entre HLA Alicante y AirCargoBooking Ourense correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419152500 +0000" stop="20250419190000 +0000" channel="a9398fd5-26bb-4a9b-796d-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBSanPabloBurgosvisitorPrimeraFEBCantabriualocalpng-093350.png"/>
+    <title lang="es">Grupo Alega Cantabria - Silbö San Pablo Burgos</title>
+    <desc lang="es">El partido entre Grupo Alega Cantabria y Silbö San Pablo Burgos correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419155500 +0000" stop="20250419193000 +0000" channel="3d72da10-2701-47c0-f97b-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBEstudiantesvisitorPrimeraFEBFuenlabradalocalpng-093545.png"/>
+    <title lang="es">Flexicar Fuenlabrada - Movistar Estudiantes</title>
+    <desc lang="es">El partido entre Flexicar Fuenlabrada y Movistar Estudiantes correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419162500 +0000" stop="20250419200000 +0000" channel="5abe2ea8-16f7-4174-f97c-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBZamoravisitorPrimeraFEBRealValladolidlocalpng-093721.png"/>
+    <title lang="es">UEMC Real Valladolid - Caja Rural Zamora</title>
+    <desc lang="es">El partido entre UEMC Real Valladolid y Caja Rural Zamora correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419165500 +0000" stop="20250419203000 +0000" channel="c91d9ac3-da47-4bbb-fe5f-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBCartagenavisitorPrimeraFEBMenorcalocalpng-093940.png"/>
+    <title lang="es">Hestia Menorca - Odilo Cartagena</title>
+    <desc lang="es">El partido entre Hestia Menorca y Odilo Cartagena correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419172500 +0000" stop="20250419210000 +0000" channel="ff15d175-368a-4ddc-6e5c-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/PrimeraFEBTizonaBurgosvisitorPrimeraFEBPalencialocalpng-094628.png"/>
+    <title lang="es">Súper Agropal Palencia - Grupo Ureta Tizona Burgos</title>
+    <desc lang="es">El partido entre Súper Agropal Palencia y Grupo Ureta Tizona Burgos correspondiente a la Jornada 30 de Primera FEB 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250419182500 +0000" stop="20250419210000 +0000" channel="73931648-f18a-4760-cfbe-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALGranollersvisitorASOBALBidasoalocalpng-101123.png"/>
+    <title lang="es">Bidasoa Irun - Fraikin Granollers</title>
+    <desc lang="es">El partido entre Bidasoa Irun y Fraikin Granollers correspondiente a la Jornada 25 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250420095500 +0000" stop="20250420123000 +0000" channel="9ac7637d-9e81-4dd3-cfbf-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALCangasvisitorASOBALCuencalocalpng-101325.png"/>
+    <title lang="es">REBI Cuenca - Cangas Frigoríficos</title>
+    <desc lang="es">El partido entre REBI Cuenca y Cangas Frigoríficos correspondiente a la Jornada 25 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250416062500 +0000" stop="20250416123000 +0000" channel="8f30adab-6c1e-4f77-cfb0-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140403.jpg"/>
+    <title lang="es">Día 3 Mañana - Campo 1</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416062500 +0000" stop="20250416123000 +0000" channel="b5dd3b0c-5f8b-4dc0-fe53-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140457.jpg"/>
+    <title lang="es">Día 3 Mañana - Campo 4</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416062500 +0000" stop="20250416123000 +0000" channel="2672b583-3c4b-4e28-6d59-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140420.jpg"/>
+    <title lang="es">Día 3 Mañana - Campo 2</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416062500 +0000" stop="20250416123000 +0000" channel="f50ba1fa-38b4-4d60-6d5a-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140439.jpg"/>
+    <title lang="es">Día 3 Mañana - Campo 3</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416125500 +0000" stop="20250416190000 +0000" channel="23eb354e-0e36-4341-6e4d-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140517.jpg"/>
+    <title lang="es">Día 3 Tarde - Campo 1</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416125500 +0000" stop="20250416190000 +0000" channel="62e8bbe7-1aca-43b5-6e4e-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140617.jpg"/>
+    <title lang="es">Día 3 Tarde - Campo 4</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416125500 +0000" stop="20250416190000 +0000" channel="1e867ada-2769-4fb7-795b-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140536.jpg"/>
+    <title lang="es">Día 3 Tarde - Campo 2</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250416125500 +0000" stop="20250416190000 +0000" channel="68476533-9ffe-4071-795c-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140552.jpg"/>
+    <title lang="es">Día 3 Tarde - Campo 3</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250417062500 +0000" stop="20250417123000 +0000" channel="93f79d17-83ea-4dae-795e-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140653.jpg"/>
+    <title lang="es">Día 4 Mañana - Campo 2</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250417062500 +0000" stop="20250417123000 +0000" channel="ec239b13-d8b3-432b-6e4f-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140710.jpg"/>
+    <title lang="es">Día 4 Mañana - Campo 3</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250417062500 +0000" stop="20250417120000 +0000" channel="a612c0fc-3307-41db-6e51-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/Nou-Estadi-Costa-DauradaOKjpg-135855.jpg"/>
+    <title lang="es">Nou Estadi Costa Daurada - Finales</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250417062500 +0000" stop="20250417123000 +0000" channel="9a19d4c3-914e-4516-cfb1-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140639.jpg"/>
+    <title lang="es">Día 4 Mañana - Campo 1</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250417062500 +0000" stop="20250417123000 +0000" channel="43c6f112-523c-41c8-6d5d-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/COSTA-DAURADAjpg-140710.jpg"/>
+    <title lang="es">Día 4 Mañana - Campo 4</title>
+    <desc lang="es">Torneo internacional de fútbol juvenil celebrado en Salou.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250412062500 +0000" stop="20250412113000 +0000" channel="c1be7ec7-ff92-4db9-fe67-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-1jpg-103217.jpg"/>
+    <title lang="es">Cto. de España Individual | Día 1  - Jornada de mañana (Pista 2)</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250412132500 +0000" stop="20250412180000 +0000" channel="945893a9-192e-4448-f98e-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-2jpg-100708.jpg"/>
+    <title lang="es">Cto. de España Individual | Día 1  - Jornada de tarde (Pista 2)</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250413062500 +0000" stop="20250413120000 +0000" channel="93643f3e-e3ee-4b25-cfd3-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-3jpg-100850.jpg"/>
+    <title lang="es">Cto. de España Individual | Día 2 (Pista 2)</title>
+    <desc lang="es">Valverdón (Salamanca) acoge el Campeonato de España Individual de Petanca los días 12 y 13 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250417155500 +0000" stop="20250417210000 +0000" channel="cb47f9b8-c1bc-4280-fe68-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/SQUASH-1jpg-115114.jpg"/>
+    <title lang="es">El Gouna International - Semifinales</title>
+    <desc lang="es">Las semifinales del El Gouna International Open PSA Squash Tour 2025.</desc>
+    <category lang="es">Squash</category>
+  </programme>
+  <programme start="20250416102500 +0000" stop="20250417000000 +0000" channel="ac78d4d4-8751-4ec3-fe54-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-2OKjpg-103459.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Clasificación - Pista 2</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250416102500 +0000" stop="20250417000000 +0000" channel="9cf1a6eb-a359-48e4-cfb5-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-1OKjpg-103205.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Clasificación - Pista 1</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250417112500 +0000" stop="20250418020000 +0000" channel="55dfafde-87c8-408c-cfb7-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-2OKjpg-104035.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Fase de grupos - Pista 2</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250417112500 +0000" stop="20250418020000 +0000" channel="dc5e45c4-37bb-4711-f96e-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-Clasi-y-fase-de-grupos-pista-1OKjpg-103908.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Fase de grupos - Pista 1</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250418112500 +0000" stop="20250419000000 +0000" channel="9b930a9f-5045-4e93-6e56-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-2OKjpg-104418.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Playoffs - Pista 2</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250418112500 +0000" stop="20250419000000 +0000" channel="d51aa0bb-cce7-407c-cfba-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-1OKjpg-104200.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Playoffs - Pista 1</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250419112500 +0000" stop="20250419200000 +0000" channel="cd41f0a1-1b42-499b-cfbb-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-2OKjpg-104731.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Cuartos de final - Pista 2</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250419112500 +0000" stop="20250419200000 +0000" channel="ba4b9686-39ac-44f7-6d5e-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-playoffs-y-cuartos-de-final-pista-1OKjpg-104558.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Cuartos de final - Pista 1</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250419202500 +0000" stop="20250419230000 +0000" channel="f4baf176-e52a-4015-f971-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-semi-femenina-y-semis-y-finalOKjpg-104858.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Semifinal femenina</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250420122500 +0000" stop="20250420200000 +0000" channel="05ef4353-dd70-4065-f972-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/Beach-Pro-Tour-Brasilia-semi-femenina-y-semis-y-finalOKjpg-105156.jpg"/>
+    <title lang="es">Elite 16 | Brasilia: Semifinales y Final</title>
+    <desc lang="es">Brasilia (Brasil) acoge el torneo de voleibol playa Elite16 - Brasilia incluido en el Volleyball World Beach Pro Tour Elite16 2025.</desc>
+    <category lang="es">Voleibol</category>
   </programme>
 </tv>
