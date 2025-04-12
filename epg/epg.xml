@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 12 06:30:18 2025">
+<tv date="Sat Apr 12 06:36:53 2025">
   <channel id="esp-e200664542c0ch20035">
     <display-name>esp-e200664542c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1908,9 +1908,41 @@
     <display-name>67bebmv35xr3am3810gx9si47</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j2bnrgwxu80a2rtswy0nxrrk_image-header_pEs_1744360468000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="6ramasi2zp6cbuol0bkkjxq8k">
-    <display-name>6ramasi2zp6cbuol0bkkjxq8k</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72c8x4n1ozzf1ftg6in9jituq_image-header_pEs_1717944595000/fill/none/top/none/85/300/180/webp/image"/>
+  <channel id="esp-e200734793c0ch20003">
+    <display-name>esp-e200734793c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200665076c0ch20073">
+    <display-name>esp-e200665076c0ch20073</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200665076_20250406-105048.jpeg"/>
+  </channel>
+  <channel id="esp-e200665075c0ch20072">
+    <display-name>esp-e200665075c0ch20072</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_0_200665075_20250406-104215.jpeg"/>
+  </channel>
+  <channel id="esp-e200646930c0ch20002">
+    <display-name>esp-e200646930c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200646930_20250406-101549.jpeg"/>
+  </channel>
+  <channel id="esp-e200665077c0ch20074">
+    <display-name>esp-e200665077c0ch20074</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_0_200665077_20250406-105310.jpeg"/>
+  </channel>
+  <channel id="esp-e200665078c0ch20075">
+    <display-name>esp-e200665078c0ch20075</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200665078_20250406-105537.jpeg"/>
+  </channel>
+  <channel id="esp-e200662340c0ch20004">
+    <display-name>esp-e200662340c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200662340_20250331-121914.jpeg"/>
+  </channel>
+  <channel id="esp-e200647218c0ch20001">
+    <display-name>esp-e200647218c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_2_200647218_20250406-103141.jpeg"/>
+  </channel>
+  <channel id="esp-e200665052c0ch20066">
+    <display-name>esp-e200665052c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_4_200665052_20250401-105328.jpeg"/>
   </channel>
   <programme start="20250408090000 +0000" stop="20250408120000 +0000" channel="esp-e200664542c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -4774,10 +4806,58 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Béisbol</category>
   </programme>
-  <programme start="20250412040500 +0000" stop="20250412100500 +0000" channel="6ramasi2zp6cbuol0bkkjxq8k">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72c8x4n1ozzf1ftg6in9jituq_image-header_pEs_1717944595000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - ITM Taupō Super 440</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
+  <programme start="20250418103000 +0000" stop="20250418130000 +0000" channel="esp-e200734793c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Flecha de Brabante  </title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418111500 +0000" stop="20250418220000 +0000" channel="esp-e200665076c0ch20073">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200665076_20250406-105048.jpeg"/>
+    <title lang="es">RBC Heritage - Día 2</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250418111500 +0000" stop="20250418220000 +0000" channel="esp-e200665075c0ch20072">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_0_200665075_20250406-104215.jpeg"/>
+    <title lang="es">RBC Heritage - Día 2</title>
+    <desc lang="es">PGA Tour | Señal alternativa</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250418114000 +0000" stop="20250418135000 +0000" channel="esp-e200646930c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200646930_20250406-101549.jpeg"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 4</title>
+    <desc lang="es">Masculino | Corropoli &gt; Isola del Gran Sasso (164 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418120000 +0000" stop="20250418220000 +0000" channel="esp-e200665077c0ch20074">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_0_200665077_20250406-105310.jpeg"/>
+    <title lang="es">RBC Heritage - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured groups' / 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250418120000 +0000" stop="20250418220000 +0000" channel="esp-e200665078c0ch20075">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200665078_20250406-105537.jpeg"/>
+    <title lang="es">RBC Heritage - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250418123000 +0000" stop="20250418143000 +0000" channel="esp-e200662340c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200662340_20250331-121914.jpeg"/>
+    <title lang="es">Classic Grand Besançon Doubs</title>
+    <desc lang="es">Masculino | Besançon &gt; Montfauçon (166,1 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418131500 +0000" stop="20250418155000 +0000" channel="esp-e200647218c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_2_200647218_20250406-103141.jpeg"/>
+    <title lang="es">Flecha de Brabante  </title>
+    <desc lang="es">Masculino | Beersel &gt; Overijse (162,5 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418180000 +0000" stop="20250418220000 +0000" channel="esp-e200665052c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20080_4_200665052_20250401-105328.jpeg"/>
+    <title lang="es">RBC Heritage - Día 2 - Comentarios en Español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
