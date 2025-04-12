@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 12 12:31:10 2025">
+<tv date="Sat Apr 12 12:34:56 2025">
   <channel id="esp-e200664542c0ch20035">
     <display-name>esp-e200664542c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1936,6 +1936,10 @@
     <display-name>ww737uah07n7powj4q1jix0w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4koac3reltnh1nhcmdvwwgti_image-header_pEs_1744448051000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="6843101c-d623-40a6-f973-08dd7286245a">
+    <display-name>6843101c-d623-40a6-f973-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueVorsklalocalpng-153950.png"/>
+  </channel>
   <programme start="20250408090000 +0000" stop="20250408120000 +0000" channel="esp-e200664542c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2974,7 +2978,7 @@
     <desc lang="es">Femenino | 1ª Carrera</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250412103000 +0000" stop="20250412113000 +0000" channel="esp-e200630727c0ch20025">
+  <programme start="20250412103500 +0000" stop="20250412113500 +0000" channel="esp-e200630727c0ch20025">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
     <title lang="es">Supersport 300 - Holanda</title>
     <desc lang="es">1ª Carrera</desc>
@@ -4839,5 +4843,11 @@
     <title lang="es">Red Bull Cliff Diving World Series - Filipinas - El Nido</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250418092500 +0000" stop="20250418120000 +0000" channel="6843101c-d623-40a6-f973-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeagueVorsklalocalpng-153950.png"/>
+    <title lang="es">Vorskla - Oleksandrya</title>
+    <desc lang="es">El partido correspondiente a la Jornada 25 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
