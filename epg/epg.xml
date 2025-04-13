@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Apr 13 00:30:23 2025">
+<tv date="Sun Apr 13 06:30:49 2025">
   <channel id="esp-e200664609c0ch20034">
     <display-name>esp-e200664609c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -472,10 +472,6 @@
     <display-name>3miywq7kah5db4959cjctsxtb</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jqf3q72vg7dazm2xe5bk9b3o_image-header_pEs_1738341524000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="a0ks4na6u31n27ijk48rl9ic4">
-    <display-name>a0ks4na6u31n27ijk48rl9ic4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3myddk6mdv69e1sm4x2ks4uh8_image-header_pEs_1717944595000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="c5qm6fj2tu118bfuhce6oiwb4">
     <display-name>c5qm6fj2tu118bfuhce6oiwb4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dwoat5bgfhmia46bhb3xcny2r_image-header_pEs_1743532727000/fill/none/top/none/85/300/180/webp/image"/>
@@ -843,10 +839,6 @@
   <channel id="9d4b6td502s0jutjgv9fkez3t">
     <display-name>9d4b6td502s0jutjgv9fkez3t</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bfu8kuyqftp71bg86vgv7zky5_image-header_pEs_1743707187000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="t3i8rw4nxqkq162o3q3i3x98">
-    <display-name>t3i8rw4nxqkq162o3q3i3x98</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emypdz2vlnynszmyykhkv3wf8_image-header_pEs_1743525042000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6su3usp2t3hna76afg7goqb9w">
     <display-name>6su3usp2t3hna76afg7goqb9w</display-name>
@@ -2444,12 +2436,6 @@
     <desc lang="es">Disfruta de un combate de unificación entre dos welters invictos, Jaron Ennis (33-0) se enfrenta a Eimantas Stanionis (15-0). Con récords perfectos y los títulos IBF y WBA en juego, ¿quién tomará el control de la división de 140 libras en Atlantic City?</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250413030500 +0000" stop="20250413090500 +0000" channel="a0ks4na6u31n27ijk48rl9ic4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3myddk6mdv69e1sm4x2ks4uh8_image-header_pEs_1717944595000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">ITM Taupō Super 440 - Carrera 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250413083000 +0000" stop="20250413123000 +0000" channel="c5qm6fj2tu118bfuhce6oiwb4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dwoat5bgfhmia46bhb3xcny2r_image-header_pEs_1743532727000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris-Roubaix Masculina + La Montonera</title>
@@ -3001,12 +2987,6 @@
     <title lang="es">Ennis vs. Stanionis - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250413013000 +0000" stop="20250413073000 +0000" channel="t3i8rw4nxqkq162o3q3i3x98">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emypdz2vlnynszmyykhkv3wf8_image-header_pEs_1743525042000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">TBC - TBC</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Béisbol</category>
   </programme>
   <programme start="20250413075000 +0000" stop="20250413135000 +0000" channel="6su3usp2t3hna76afg7goqb9w">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wwecs1otembru49pf8w5z83n_image-header_pEs_1744045747000/fill/none/top/none/85/600/360/webp/image"/>
