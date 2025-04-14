@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 14 12:30:12 2025">
+<tv date="Mon Apr 14 12:34:54 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -583,10 +583,6 @@
   <channel id="c8485a6a-e718-4ea9-6d41-08dd72848114">
     <display-name>c8485a6a-e718-4ea9-6d41-08dd72848114</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/LigaNacionalBasquetbolThumbnailOliumpicoIndependientematchpng-141138.png"/>
-  </channel>
-  <channel id="2u67a61n8gvguorxoywm8mkxf">
-    <display-name>2u67a61n8gvguorxoywm8mkxf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bm9vzyau0k2co4sks8v0hors7_image-header_pEs_1738654069000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="45cb5145-3575-4789-6d4c-08dd72848114">
     <display-name>45cb5145-3575-4789-6d4c-08dd72848114</display-name>
@@ -1584,9 +1580,9 @@
     <display-name>esp-e200665154c0ch20068</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20085_4_200665154_20250331-124504.jpeg"/>
   </channel>
-  <channel id="5cwnlxu7khedwm0dh2kc6ds9f">
-    <display-name>5cwnlxu7khedwm0dh2kc6ds9f</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xn3wa2y3js1bip1hvh5geplk_image-header_pEs_1738654069000/fill/none/top/none/85/300/180/webp/image"/>
+  <channel id="d506829d-1975-47e8-6d84-08dd72848114">
+    <display-name>d506829d-1975-47e8-6d84-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/SQUASH-2jpg-115302.jpg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2463,12 +2459,6 @@
     <title lang="es">Olímpico - Independiente</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250414103000 +0000" stop="20250414104500 +0000" channel="2u67a61n8gvguorxoywm8mkxf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bm9vzyau0k2co4sks8v0hors7_image-header_pEs_1738654069000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">París - Día 8 (Pro Stream)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20250412062500 +0000" stop="20250412113000 +0000" channel="45cb5145-3575-4789-6d4c-08dd72848114">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/08/PET-1jpg-103217.jpg"/>
@@ -3964,10 +3954,10 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250414101500 +0000" stop="20250414103000 +0000" channel="5cwnlxu7khedwm0dh2kc6ds9f">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7xn3wa2y3js1bip1hvh5geplk_image-header_pEs_1738654069000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">París - Día 8</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
+  <programme start="20250418162500 +0000" stop="20250418193000 +0000" channel="d506829d-1975-47e8-6d84-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/SQUASH-2jpg-115302.jpg"/>
+    <title lang="es">El Gouna International - Finales</title>
+    <desc lang="es">Las finales del El Gouna International Open PSA Squash Tour 2025.</desc>
+    <category lang="es">Squash</category>
   </programme>
 </tv>
