@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 14 12:34:54 2025">
+<tv date="Mon Apr 14 12:36:30 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1583,6 +1583,14 @@
   <channel id="d506829d-1975-47e8-6d84-08dd72848114">
     <display-name>d506829d-1975-47e8-6d84-08dd72848114</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/11/SQUASH-2jpg-115302.jpg"/>
+  </channel>
+  <channel id="esp-e200736825c0ch20038">
+    <display-name>esp-e200736825c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200736826c0ch20038">
+    <display-name>esp-e200736826c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3959,5 +3967,17 @@
     <title lang="es">El Gouna International - Finales</title>
     <desc lang="es">Las finales del El Gouna International Open PSA Squash Tour 2025.</desc>
     <category lang="es">Squash</category>
+  </programme>
+  <programme start="20250415160000 +0000" stop="20250415190000 +0000" channel="esp-e200736825c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250416160000 +0000" stop="20250416190000 +0000" channel="esp-e200736826c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
