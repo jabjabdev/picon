@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 14 12:36:30 2025">
+<tv date="Mon Apr 14 18:30:47 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1591,6 +1591,14 @@
   <channel id="esp-e200736826c0ch20038">
     <display-name>esp-e200736826c0ch20038</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="1slsu85fpvgih0ziklhirv64y">
+    <display-name>1slsu85fpvgih0ziklhirv64y</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o8y2pg7l3k11iwqsc4afpxav_image-header_pEs_1744402686000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5d9auowfd955z1ttvnv8yzig9">
+    <display-name>5d9auowfd955z1ttvnv8yzig9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1eainx7hosy8v1mt8vf00tt7ak_image-header_pEs_1744623578000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3979,5 +3987,17 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | Clasificación</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250418120000 +0000" stop="20250418180000 +0000" channel="1slsu85fpvgih0ziklhirv64y">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o8y2pg7l3k11iwqsc4afpxav_image-header_pEs_1744402686000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Smith vs. Germain - Pesaje</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250419153000 +0000" stop="20250419213000 +0000" channel="5d9auowfd955z1ttvnv8yzig9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1eainx7hosy8v1mt8vf00tt7ak_image-header_pEs_1744623578000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Smith vs. Germain - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
