@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 15 12:34:55 2025">
+<tv date="Tue Apr 15 18:30:18 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -451,10 +451,6 @@
   <channel id="12e012fa-7ade-49d7-fe49-08dd72951f9a">
     <display-name>12e012fa-7ade-49d7-fe49-08dd72951f9a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/07/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersWesternUnitedmatchpng-155546.png"/>
-  </channel>
-  <channel id="6rhhicpjeyypqmztu1bohq2b6">
-    <display-name>6rhhicpjeyypqmztu1bohq2b6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7y4wdql7f42qxvin76oixjtmf">
     <display-name>7y4wdql7f42qxvin76oixjtmf</display-name>
@@ -1660,6 +1656,10 @@
     <display-name>dca464d9-9202-4d82-7995-08dd7286dd49</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/LALIGAFINALENDSLATE16x9ESpng-085459.png"/>
   </channel>
+  <channel id="6rhhicpjeyypqmztu1bohq2b6">
+    <display-name>6rhhicpjeyypqmztu1bohq2b6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2337,12 +2337,6 @@
     <title lang="es">Western Sydney Wanderers - Western United</title>
     <desc lang="es">El partido correspondiente a la Jornada 26 de la Isuzu UTE A-League 2024/25.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250415115000 +0000" stop="20250415155000 +0000" channel="6rhhicpjeyypqmztu1bohq2b6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Giro d'Abruzzo - Etapa 1</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20250415160000 +0000" stop="20250415183000 +0000" channel="7y4wdql7f42qxvin76oixjtmf">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5llmo8vg1t0t1g35p71dey4z2_image-header_pEs_1727777344000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4149,5 +4143,11 @@
     <title lang="es">LALIGA FC Pro | Gran final</title>
     <desc lang="es">Sigue la Gran final de LALIGA FC Pro 2024/25.</desc>
     <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250415115000 +0000" stop="20250415155000 +0000" channel="6rhhicpjeyypqmztu1bohq2b6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
