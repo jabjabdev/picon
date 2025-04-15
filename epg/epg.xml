@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 15 18:30:18 2025">
+<tv date="Tue Apr 15 18:34:53 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1659,6 +1659,26 @@
   <channel id="6rhhicpjeyypqmztu1bohq2b6">
     <display-name>6rhhicpjeyypqmztu1bohq2b6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/961uqh5elbyxee7r1yvy025vf_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e65cd0d4-1469-47b8-796f-08dd7286dd49">
+    <display-name>e65cd0d4-1469-47b8-796f-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALAnaitasunavisitorASOBALBarcelonalocalpng-101534.png"/>
+  </channel>
+  <channel id="6189f1f8-db5e-427b-79a1-08dd7286dd49">
+    <display-name>6189f1f8-db5e-427b-79a1-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueKryvbaslocalpng-124501.png"/>
+  </channel>
+  <channel id="3e4f53bd-b1d5-4823-6d91-08dd72848114">
+    <display-name>3e4f53bd-b1d5-4823-6d91-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsAdelaideUnitedWellingtonPhoenixmatchpng-130943.png"/>
+  </channel>
+  <channel id="64351b74-dc09-4dfa-6e7a-08dd728afbc4">
+    <display-name>64351b74-dc09-4dfa-6e7a-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersMelbourneCitymatchpng-131013.png"/>
+  </channel>
+  <channel id="ef3609cb-3e60-4d57-6d93-08dd72848114">
+    <display-name>ef3609cb-3e60-4d57-6d93-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsCentralCoastMarinersMacarthurFCmatchpng-131213.png"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4149,5 +4169,35 @@
     <title lang="es">Giro d'Abruzzo - Etapa 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418175500 +0000" stop="20250418203000 +0000" channel="e65cd0d4-1469-47b8-796f-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/ASOBALAnaitasunavisitorASOBALBarcelonalocalpng-101534.png"/>
+    <title lang="es">Barça - Helvetia Anaitasuna</title>
+    <desc lang="es">El partido entre Barça y Helvetia Anaitasuna correspondiente a la Jornada 25 de la Liga Plenitude 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250416102500 +0000" stop="20250416130000 +0000" channel="6189f1f8-db5e-427b-79a1-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/UkrainianPremierLeagueShakhtarvisitorUkrainianPremierLeagueKryvbaslocalpng-124501.png"/>
+    <title lang="es">Kryvbas - Shakhtar</title>
+    <desc lang="es">El partido correspondiente a la Jornada 5 de la Ukrainian Premier League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250418090000 +0000" stop="20250418113500 +0000" channel="3e4f53bd-b1d5-4823-6d91-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsAdelaideUnitedWellingtonPhoenixmatchpng-130943.png"/>
+    <title lang="es">Adelaide United - Wellington Phoenix</title>
+    <desc lang="es">El partido correspondiente a la Jornada 27 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250419090000 +0000" stop="20250419113500 +0000" channel="64351b74-dc09-4dfa-6e7a-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsWesternSydneyWanderersMelbourneCitymatchpng-131013.png"/>
+    <title lang="es">Western Sydney Wanderers - Melbourne City</title>
+    <desc lang="es">El partido correspondiente a la Jornada 27 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250420062500 +0000" stop="20250420090000 +0000" channel="ef3609cb-3e60-4d57-6d93-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/IsuzuUTEALeagueThumbnailsCentralCoastMarinersMacarthurFCmatchpng-131213.png"/>
+    <title lang="es">Central Coast Mariners - Macarthur FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 27 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
