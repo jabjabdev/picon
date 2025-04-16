@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 16 18:30:18 2025">
+<tv date="Wed Apr 16 18:32:02 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1519,6 +1519,10 @@
   <channel id="4w61hjmzn8ztyj9sqs0g0yyd1">
     <display-name>4w61hjmzn8ztyj9sqs0g0yyd1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4h629gtem5ic16ocxlgppsq8_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
+    <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3799,5 +3803,11 @@
     <title lang="es">Giro d'Abruzzo - Etapa 2 + Tour de Limburgo</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250502213000 +0000" stop="20250503033000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Garcia vs. Romero</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
