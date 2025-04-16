@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 17 00:34:56 2025">
+<tv date="Thu Apr 17 00:36:43 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1743,6 +1743,46 @@
   <channel id="4c4bdd8c-1ef7-4cce-cffe-08dd729e9bb4">
     <display-name>4c4bdd8c-1ef7-4cce-cffe-08dd729e9bb4</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/AFCChampionsLeagueThumbnailKawasakiFrontaleAlSaddSCmatchpng-133408.png"/>
+  </channel>
+  <channel id="esp-e200749760c0ch20075">
+    <display-name>esp-e200749760c0ch20075</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749759c0ch20072">
+    <display-name>esp-e200749759c0ch20072</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749771c0ch20076">
+    <display-name>esp-e200749771c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749769c0ch20062">
+    <display-name>esp-e200749769c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749772c0ch20077">
+    <display-name>esp-e200749772c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749770c0ch20063">
+    <display-name>esp-e200749770c0ch20063</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749824c0ch20059">
+    <display-name>esp-e200749824c0ch20059</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749823c0ch20058">
+    <display-name>esp-e200749823c0ch20058</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749826c0ch20063">
+    <display-name>esp-e200749826c0ch20063</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200749825c0ch20062">
+    <display-name>esp-e200749825c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4359,5 +4399,65 @@
     <title lang="es">Kawasaki Frontale - Al-Sadd SC</title>
     <desc lang="es">Partido correspondiente a los cuartos de final de la AFC Champions League Elite 2024/25.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250418180000 +0000" stop="20250418220000 +0000" channel="esp-e200749760c0ch20075">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250418180000 +0000" stop="20250418220000 +0000" channel="esp-e200749759c0ch20072">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250419170000 +0000" stop="20250419220000 +0000" channel="esp-e200749771c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250419170000 +0000" stop="20250419220000 +0000" channel="esp-e200749769c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250419170000 +0000" stop="20250419220000 +0000" channel="esp-e200749772c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250419170000 +0000" stop="20250419220000 +0000" channel="esp-e200749770c0ch20063">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250420170000 +0000" stop="20250420220000 +0000" channel="esp-e200749824c0ch20059">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250420170000 +0000" stop="20250420220000 +0000" channel="esp-e200749823c0ch20058">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250420170000 +0000" stop="20250420220000 +0000" channel="esp-e200749826c0ch20063">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250420170000 +0000" stop="20250420220000 +0000" channel="esp-e200749825c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+    <title lang="es">Golf</title>
+    <desc lang="es"/>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
