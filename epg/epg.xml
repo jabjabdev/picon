@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 16 12:30:17 2025">
+<tv date="Wed Apr 16 12:34:53 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1483,6 +1483,42 @@
   <channel id="btw551zdh1vh6wdej0vcip902">
     <display-name>btw551zdh1vh6wdej0vcip902</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ejmfd9q76lijqxcyenx21wh5b_image-header_pEs_1744705916000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b335fb52-5d51-4da6-6e8a-08dd728afbc4">
+    <display-name>b335fb52-5d51-4da6-6e8a-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailUlmOldenburgmatchpng-101127.png"/>
+  </channel>
+  <channel id="06a4ccfc-2705-475b-6da7-08dd72848114">
+    <display-name>06a4ccfc-2705-475b-6da7-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
+  </channel>
+  <channel id="c283a217-e7e8-47b0-f9b4-08dd7286245a">
+    <display-name>c283a217-e7e8-47b0-f9b4-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailBayernMBCmatchpng-101738.png"/>
+  </channel>
+  <channel id="b5997ed1-9ed5-4222-6da0-08dd72848114">
+    <display-name>b5997ed1-9ed5-4222-6da0-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/MIFC-WOMENS-TOURNAMENTOKjpg-090140.jpg"/>
+  </channel>
+  <channel id="eecc7cb1-9168-49af-f9a1-08dd7286245a">
+    <display-name>eecc7cb1-9168-49af-f9a1-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+  </channel>
+  <channel id="283d4d84-b200-4d8c-fe84-08dd72951f9a">
+    <display-name>283d4d84-b200-4d8c-fe84-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+  </channel>
+  <channel id="1df466ab-feb1-4bc8-fe85-08dd72951f9a">
+    <display-name>1df466ab-feb1-4bc8-fe85-08dd72951f9a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+  </channel>
+  <channel id="914b2877-b7dd-41a4-cfed-08dd729e9bb4">
+    <display-name>914b2877-b7dd-41a4-cfed-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+  </channel>
+  <channel id="653716ef-7d3c-4ec4-79a5-08dd7286dd49">
+    <display-name>653716ef-7d3c-4ec4-79a5-08dd7286dd49</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3709,5 +3745,59 @@
     <title lang="es">Pesaje</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250421122500 +0000" stop="20250421160000 +0000" channel="b335fb52-5d51-4da6-6e8a-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailUlmOldenburgmatchpng-101127.png"/>
+    <title lang="es">Ulm - Oldenburg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 29 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250426155500 +0000" stop="20250426193000 +0000" channel="06a4ccfc-2705-475b-6da7-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
+    <title lang="es">Heidelberg - Löwen Braunschweig</title>
+    <desc lang="es">El partido correspondiente a la Jornada 30 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250427122500 +0000" stop="20250427160000 +0000" channel="c283a217-e7e8-47b0-f9b4-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailBayernMBCmatchpng-101738.png"/>
+    <title lang="es">Bayern - MBC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 30 de la easyCredit BBL 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250420062500 +0000" stop="20250420110000 +0000" channel="b5997ed1-9ed5-4222-6da0-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/MIFC-WOMENS-TOURNAMENTOKjpg-090140.jpg"/>
+    <title lang="es">MIFC Women's Tournament 2025</title>
+    <desc lang="es">La fase final de la Mallorca International Football Cup, organizada por la Vicente del Bosque Football Academy, tendrá lugar el próximo 20 de abril.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250421082500 +0000" stop="20250421180000 +0000" channel="eecc7cb1-9168-49af-f9a1-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+    <title lang="es">Lanzarote Open 2025: Dieciseisavos de final - Día 1</title>
+    <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250422082500 +0000" stop="20250422180000 +0000" channel="283d4d84-b200-4d8c-fe84-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+    <title lang="es">Lanzarote Open 2025: Dieciseisavos de final - Día 2</title>
+    <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250423102500 +0000" stop="20250423170000 +0000" channel="1df466ab-feb1-4bc8-fe85-08dd72951f9a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+    <title lang="es">Lanzarote Open 2025: Octavos de final - Día 1</title>
+    <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250424102500 +0000" stop="20250424170000 +0000" channel="914b2877-b7dd-41a4-cfed-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+    <title lang="es">Lanzarote Open 2025: Octavos de final - Día 2</title>
+    <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250425102500 +0000" stop="20250425170000 +0000" channel="653716ef-7d3c-4ec4-79a5-08dd7286dd49">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+    <title lang="es">Lanzarote Open 2025: Cuartos de final</title>
+    <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
+    <category lang="es">Pádel</category>
   </programme>
 </tv>
