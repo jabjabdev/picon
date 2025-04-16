@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 17 00:30:20 2025">
+<tv date="Thu Apr 17 00:34:56 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1735,6 +1735,14 @@
   <channel id="do5ertwz5kefkxoyelso7xpg4">
     <display-name>do5ertwz5kefkxoyelso7xpg4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fnrlr52tvui0ytpkjno5u9ji_image-header_pEs_1742992357000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d17311cd-8459-46bd-6db6-08dd72848114">
+    <display-name>d17311cd-8459-46bd-6db6-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/AFCChampionsLeagueThumbnailYokohamaMarinosAlNassrClubmatchpng-133227.png"/>
+  </channel>
+  <channel id="4c4bdd8c-1ef7-4cce-cffe-08dd729e9bb4">
+    <display-name>4c4bdd8c-1ef7-4cce-cffe-08dd729e9bb4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/AFCChampionsLeagueThumbnailKawasakiFrontaleAlSaddSCmatchpng-133408.png"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4338,6 +4346,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fnrlr52tvui0ytpkjno5u9ji_image-header_pEs_1742992357000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Arsenal - Crystal Palace</title>
     <desc lang="es">Vive el encuentro de Premier League entre Arsenal y Crystal Palace.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250426185000 +0000" stop="20250426213000 +0000" channel="d17311cd-8459-46bd-6db6-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/AFCChampionsLeagueThumbnailYokohamaMarinosAlNassrClubmatchpng-133227.png"/>
+    <title lang="es">Yokohama Marinos - Al-Nassr Club</title>
+    <desc lang="es">Partido correspondiente a los cuartos de final de la AFC Champions League Elite 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250427155000 +0000" stop="20250427183000 +0000" channel="4c4bdd8c-1ef7-4cce-cffe-08dd729e9bb4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/AFCChampionsLeagueThumbnailKawasakiFrontaleAlSaddSCmatchpng-133408.png"/>
+    <title lang="es">Kawasaki Frontale - Al-Sadd SC</title>
+    <desc lang="es">Partido correspondiente a los cuartos de final de la AFC Champions League Elite 2024/25.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
