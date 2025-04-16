@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 16 18:35:03 2025">
+<tv date="Wed Apr 16 18:36:54 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1651,6 +1651,46 @@
   <channel id="9a337c03-9e53-42c5-cff0-08dd729e9bb4">
     <display-name>9a337c03-9e53-42c5-cff0-08dd729e9bb4</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
+  </channel>
+  <channel id="esp-e200749748c0ch20075">
+    <display-name>esp-e200749748c0ch20075</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200749747c0ch20072">
+    <display-name>esp-e200749747c0ch20072</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200749653c0ch20022">
+    <display-name>esp-e200749653c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+  </channel>
+  <channel id="esp-e200699835c0ch20074">
+    <display-name>esp-e200699835c0ch20074</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200749654c0ch20022">
+    <display-name>esp-e200749654c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+  </channel>
+  <channel id="esp-e200749655c0ch20022">
+    <display-name>esp-e200749655c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+  </channel>
+  <channel id="esp-e200749656c0ch20022">
+    <display-name>esp-e200749656c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+  </channel>
+  <channel id="esp-e200699838c0ch20064">
+    <display-name>esp-e200699838c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200699841c0ch20077">
+    <display-name>esp-e200699841c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699841_20250329-113655.jpeg"/>
+  </channel>
+  <channel id="esp-e200699844c0ch20077">
+    <display-name>esp-e200699844c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699844_20250329-114733.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4129,5 +4169,65 @@
     <title lang="es">Lanzarote Open 2025: Final</title>
     <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250417180000 +0000" stop="20250417220000 +0000" channel="esp-e200749748c0ch20075">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250417180000 +0000" stop="20250417220000 +0000" channel="esp-e200749747c0ch20072">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250419123000 +0000" stop="20250419180000 +0000" channel="esp-e200749653c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+    <title lang="es">24h de Le Mans - Carrera</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Carreras de Resisten</category>
+  </programme>
+  <programme start="20250419173000 +0000" stop="20250419210000 +0000" channel="esp-e200699835c0ch20074">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 3 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250419180000 +0000" stop="20250419220000 +0000" channel="esp-e200749654c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+    <title lang="es">24h de Le Mans - Carrera</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Carreras de Resisten</category>
+  </programme>
+  <programme start="20250419220000 +0000" stop="20250420060000 +0000" channel="esp-e200749655c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+    <title lang="es">24h de Le Mans - Carrera</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Carreras de Resisten</category>
+  </programme>
+  <programme start="20250420060000 +0000" stop="20250420133000 +0000" channel="esp-e200749656c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611162_20230802-091942.jpeg"/>
+    <title lang="es">24h de Le Mans - Carrera</title>
+    <desc lang="es">Campeonato del Mundo</desc>
+    <category lang="es">Carreras de Resisten</category>
+  </programme>
+  <programme start="20250420173000 +0000" stop="20250420210000 +0000" channel="esp-e200699838c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 6 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250421173000 +0000" stop="20250421210000 +0000" channel="esp-e200699841c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699841_20250329-113655.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 9 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250422173000 +0000" stop="20250422210000 +0000" channel="esp-e200699844c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699844_20250329-114733.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 12 | First Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
