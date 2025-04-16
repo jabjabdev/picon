@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 16 12:34:53 2025">
+<tv date="Wed Apr 16 18:30:18 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -279,10 +279,6 @@
   <channel id="73118f38-f794-4cc3-f97a-08dd7286245a">
     <display-name>73118f38-f794-4cc3-f97a-08dd7286245a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/09/LigaNacionalBasquetbolThumbnailAtenasZaurateBasketmatchpng-090111.png"/>
-  </channel>
-  <channel id="4w61hjmzn8ztyj9sqs0g0yyd1">
-    <display-name>4w61hjmzn8ztyj9sqs0g0yyd1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4h629gtem5ic16ocxlgppsq8_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9gd10w5o29566xim0evjcoqvo">
     <display-name>9gd10w5o29566xim0evjcoqvo</display-name>
@@ -1520,6 +1516,10 @@
     <display-name>653716ef-7d3c-4ec4-79a5-08dd7286dd49</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/15/Open-Lanzarotejpg-134923.jpg"/>
   </channel>
+  <channel id="4w61hjmzn8ztyj9sqs0g0yyd1">
+    <display-name>4w61hjmzn8ztyj9sqs0g0yyd1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4h629gtem5ic16ocxlgppsq8_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -1939,12 +1939,6 @@
     <title lang="es">Atenas - Zárate Basket</title>
     <desc lang="es">Partido de la Liga Nacional Argentina correspondiente a la temporada 2024/25.</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250416115000 +0000" stop="20250416155000 +0000" channel="4w61hjmzn8ztyj9sqs0g0yyd1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4h629gtem5ic16ocxlgppsq8_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Giro d'Abruzzo - Etapa 2 + Tour de Limburgo</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20250416170000 +0000" stop="20250416193000 +0000" channel="9gd10w5o29566xim0evjcoqvo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dkj32b1ksz3d3ker00capq9ce_image-header_pEs_1743511677000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3799,5 +3793,11 @@
     <title lang="es">Lanzarote Open 2025: Cuartos de final</title>
     <desc lang="es">Disfruta de los enfrentamientos del Lanzarote Open 2025.</desc>
     <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20250416115000 +0000" stop="20250416155000 +0000" channel="4w61hjmzn8ztyj9sqs0g0yyd1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b4h629gtem5ic16ocxlgppsq8_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 2 + Tour de Limburgo</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
