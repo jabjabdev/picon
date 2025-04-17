@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 17 00:36:43 2025">
+<tv date="Thu Apr 17 06:36:33 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1783,6 +1783,46 @@
   <channel id="esp-e200749825c0ch20062">
     <display-name>esp-e200749825c0ch20062</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2606332_20240723-152837.jpeg"/>
+  </channel>
+  <channel id="esp-e200699845c0ch20078">
+    <display-name>esp-e200699845c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699845_20250329-115257.jpeg"/>
+  </channel>
+  <channel id="esp-e200700080c0ch20079">
+    <display-name>esp-e200700080c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700080_20250329-115429.jpeg"/>
+  </channel>
+  <channel id="esp-e200652142c0ch20003">
+    <display-name>esp-e200652142c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200652142_20250410-085514.jpeg"/>
+  </channel>
+  <channel id="esp-e200662356c0ch20002">
+    <display-name>esp-e200662356c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200662356_20250415-174436.jpeg"/>
+  </channel>
+  <channel id="esp-e200700081c0ch20079">
+    <display-name>esp-e200700081c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700081_20250329-115736.jpeg"/>
+  </channel>
+  <channel id="esp-e200699846c0ch20078">
+    <display-name>esp-e200699846c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699846_20250329-115628.jpeg"/>
+  </channel>
+  <channel id="esp-e200662355c0ch20001">
+    <display-name>esp-e200662355c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200662355_20250415-174517.jpeg"/>
+  </channel>
+  <channel id="esp-e200729513c0ch20075">
+    <display-name>esp-e200729513c0ch20075</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20075_6_200729513_20250416-142503.jpeg"/>
+  </channel>
+  <channel id="esp-e200699847c0ch20077">
+    <display-name>esp-e200699847c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699847_20250329-115838.jpeg"/>
+  </channel>
+  <channel id="esp-e200700082c0ch20079">
+    <display-name>esp-e200700082c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700082_20250329-115928.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4459,5 +4499,65 @@
     <title lang="es">Golf</title>
     <desc lang="es"/>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250423090000 +0000" stop="20250423120000 +0000" channel="esp-e200699845c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699845_20250329-115257.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 13 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250423090000 +0000" stop="20250423120000 +0000" channel="esp-e200700080c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700080_20250329-115429.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 13 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250423104000 +0000" stop="20250423123000 +0000" channel="esp-e200652142c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200652142_20250410-085514.jpeg"/>
+    <title lang="es">Tour de los Alpes - Etapa 3</title>
+    <desc lang="es">Masculino | Vipiteno / Stezing &gt; Innichen / San Candido (145,5 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250423104500 +0000" stop="20250423145500 +0000" channel="esp-e200662356c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200662356_20250415-174436.jpeg"/>
+    <title lang="es">Flecha Valona  </title>
+    <desc lang="es">Masculino | Huy &gt; Muro de Huy (205,2 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250423133000 +0000" stop="20250423163000 +0000" channel="esp-e200700081c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700081_20250329-115736.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 14 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250423133000 +0000" stop="20250423163000 +0000" channel="esp-e200699846c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699846_20250329-115628.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 14 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250423145500 +0000" stop="20250423161500 +0000" channel="esp-e200662355c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200662355_20250415-174517.jpeg"/>
+    <title lang="es">Flecha Valona  </title>
+    <desc lang="es">Femenino | Huy &gt; Muro de Huy (140,7 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250423163000 +0000" stop="20250423193000 +0000" channel="esp-e200729513c0ch20075">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20075_6_200729513_20250416-142503.jpeg"/>
+    <title lang="es">RC Celta - Villarreal CF</title>
+    <desc lang="es">LaLiga 2024/2025 | Jornada 33</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250423173000 +0000" stop="20250423210000 +0000" channel="esp-e200699847c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699847_20250329-115838.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 15 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250423180000 +0000" stop="20250423210000 +0000" channel="esp-e200700082c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700082_20250329-115928.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 15 | Second Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
