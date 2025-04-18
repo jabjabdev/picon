@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 18 12:30:18 2025">
+<tv date="Fri Apr 18 18:30:17 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -271,10 +271,6 @@
   <channel id="6nqssysedrk1g937w0eer36ze">
     <display-name>6nqssysedrk1g937w0eer36ze</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b13f6mtxkp9ov5c21b3ulkgci_image-header_pEs_1728028591000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2ku1ezw0vkf26bpcmumxhunzc">
-    <display-name>2ku1ezw0vkf26bpcmumxhunzc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6nl218pmh1jvv4ql8t3ggaoii_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3un70ba519p5ngtlb1mhdh9kp">
     <display-name>3un70ba519p5ngtlb1mhdh9kp</display-name>
@@ -1024,10 +1020,6 @@
     <display-name>3h9f7zkobvby5yqx8xe779pdh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edfdbpdaz913ogr12v1lxdlcv_image-header_pEs_1744296702000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="cjnt8lotcdn6qxxud6mbe02dw">
-    <display-name>cjnt8lotcdn6qxxud6mbe02dw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1741951897000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="4mmc4vvlhhrugn9yclrwqi8lw">
     <display-name>4mmc4vvlhhrugn9yclrwqi8lw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38xk0j17b2vpzkuaoqanm7hh0_image-header_pEs_1744365470000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1756,6 +1748,14 @@
     <display-name>c629pk1y3fgsl2ctij2ol7gus</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5opqs4y7gpvp6c9pl3yhhkj91_image-header_pEs_1744497016000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="2ku1ezw0vkf26bpcmumxhunzc">
+    <display-name>2ku1ezw0vkf26bpcmumxhunzc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6nl218pmh1jvv4ql8t3ggaoii_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cjnt8lotcdn6qxxud6mbe02dw">
+    <display-name>cjnt8lotcdn6qxxud6mbe02dw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1744915339000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2164,12 +2164,6 @@
     <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250418114000 +0000" stop="20250418154000 +0000" channel="2ku1ezw0vkf26bpcmumxhunzc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6nl218pmh1jvv4ql8t3ggaoii_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Giro d'Abruzzo - Etapa 4 + Flecha de Brabante</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
   <programme start="20250418120000 +0000" stop="20250418180000 +0000" channel="3un70ba519p5ngtlb1mhdh9kp">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1935j460rww41cnpc0rlgc98f_image-header_pEs_1744378129000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">WBC Boxing Grand Prix - Phase 1, Day 2</title>
@@ -2452,13 +2446,13 @@
     <desc lang="es">Femenino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250418111500 +0000" stop="20250418220000 +0000" channel="esp-e200665076c0ch20073">
+  <programme start="20250418141500 +0000" stop="20250418220000 +0000" channel="esp-e200665076c0ch20073">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20082_0_200665076_20250406-105048.jpeg"/>
     <title lang="es">RBC Heritage - Día 2</title>
     <desc lang="es">PGA Tour | Grupo destacado</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250418111500 +0000" stop="20250418220000 +0000" channel="esp-e200665075c0ch20072">
+  <programme start="20250418120000 +0000" stop="20250418180000 +0000" channel="esp-e200665075c0ch20072">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20081_0_200665075_20250406-104215.jpeg"/>
     <title lang="es">RBC Heritage - Día 2</title>
     <desc lang="es">PGA Tour | Señal alternativa</desc>
@@ -2470,13 +2464,13 @@
     <desc lang="es">Masculino | Corropoli &gt; Isola del Gran Sasso (164 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250418120000 +0000" stop="20250418220000 +0000" channel="esp-e200665077c0ch20074">
+  <programme start="20250418141500 +0000" stop="20250418220000 +0000" channel="esp-e200665077c0ch20074">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20083_0_200665077_20250406-105310.jpeg"/>
     <title lang="es">RBC Heritage - Día 2</title>
     <desc lang="es">PGA Tour | 'Featured groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250418120000 +0000" stop="20250418220000 +0000" channel="esp-e200665078c0ch20075">
+  <programme start="20250418124500 +0000" stop="20250418180000 +0000" channel="esp-e200665078c0ch20075">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20084_0_200665078_20250406-105537.jpeg"/>
     <title lang="es">RBC Heritage - Día 2</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
@@ -3291,12 +3285,6 @@
     <title lang="es">Brave CF 93 - Zhengzhou</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">MMA</category>
-  </programme>
-  <programme start="20250418140000 +0000" stop="20250418173000 +0000" channel="cjnt8lotcdn6qxxud6mbe02dw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1741951897000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y Bristol Flyers.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250418173000 +0000" stop="20250418200000 +0000" channel="4mmc4vvlhhrugn9yclrwqi8lw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38xk0j17b2vpzkuaoqanm7hh0_image-header_pEs_1744365470000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4388,6 +4376,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5opqs4y7gpvp6c9pl3yhhkj91_image-header_pEs_1744497016000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Olimpia Milano - Basket Cremona</title>
     <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Olimpia Milano y Basket Cremona.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250418114000 +0000" stop="20250418154000 +0000" channel="2ku1ezw0vkf26bpcmumxhunzc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6nl218pmh1jvv4ql8t3ggaoii_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Giro d'Abruzzo - Etapa 4 + Flecha de Brabante</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250418140000 +0000" stop="20250418173000 +0000" channel="cjnt8lotcdn6qxxud6mbe02dw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bp100ertsrv65o6zxg7e5vb1w_image-header_pEs_1744915339000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bristol Flyers - Caledonia Gladiators</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Caledonia Gladiators y Bristol Flyers.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
 </tv>
