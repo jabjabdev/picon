@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 18 06:36:35 2025">
+<tv date="Fri Apr 18 12:30:18 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1752,6 +1752,10 @@
     <display-name>esp-e200733308c0ch20077</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20077_6_200733308_20250410-111223.jpeg"/>
   </channel>
+  <channel id="c629pk1y3fgsl2ctij2ol7gus">
+    <display-name>c629pk1y3fgsl2ctij2ol7gus</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5opqs4y7gpvp6c9pl3yhhkj91_image-header_pEs_1744497016000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2160,7 +2164,7 @@
     <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250418115000 +0000" stop="20250418155000 +0000" channel="2ku1ezw0vkf26bpcmumxhunzc">
+  <programme start="20250418114000 +0000" stop="20250418154000 +0000" channel="2ku1ezw0vkf26bpcmumxhunzc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6nl218pmh1jvv4ql8t3ggaoii_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Giro d'Abruzzo - Etapa 4 + Flecha de Brabante</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -4379,5 +4383,11 @@
     <title lang="es">Real Betis - Real Valladolid</title>
     <desc lang="es">LaLiga 2024/2025 | Jornada 33</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250418183000 +0000" stop="20250418220000 +0000" channel="c629pk1y3fgsl2ctij2ol7gus">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5opqs4y7gpvp6c9pl3yhhkj91_image-header_pEs_1744497016000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Olimpia Milano - Basket Cremona</title>
+    <desc lang="es">Vive el encuentro de Lega Basket Serie A entre Olimpia Milano y Basket Cremona.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
