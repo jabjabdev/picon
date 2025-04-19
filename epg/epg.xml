@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 19 00:30:21 2025">
+<tv date="Sat Apr 19 06:36:38 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1659,6 +1659,54 @@
   <channel id="3c3o16hxm5d5zo7inq54982hv">
     <display-name>3c3o16hxm5d5zo7inq54982hv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m75v0klsn1fz1aii262sg38cv_image-header_pEs_1744106046000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200699850c0ch20078">
+    <display-name>esp-e200699850c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699850_20250329-120850.jpeg"/>
+  </channel>
+  <channel id="esp-e200700085c0ch20079">
+    <display-name>esp-e200700085c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700085_20250329-120952.jpeg"/>
+  </channel>
+  <channel id="esp-e200652144c0ch20003">
+    <display-name>esp-e200652144c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200652144_20250413-134818.jpeg"/>
+  </channel>
+  <channel id="esp-e200698748c0ch20067">
+    <display-name>esp-e200698748c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_2_200698748_20250413-132208.jpeg"/>
+  </channel>
+  <channel id="esp-e200698808c0ch20071">
+    <display-name>esp-e200698808c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20071_2_200698808_20250413-132558.jpeg"/>
+  </channel>
+  <channel id="esp-e200698788c0ch20069">
+    <display-name>esp-e200698788c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_2_200698788_20250413-132938.jpeg"/>
+  </channel>
+  <channel id="esp-e200699851c0ch20078">
+    <display-name>esp-e200699851c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699851_20250329-121226.jpeg"/>
+  </channel>
+  <channel id="esp-e200700086c0ch20079">
+    <display-name>esp-e200700086c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700086_20250329-121350.jpeg"/>
+  </channel>
+  <channel id="esp-e200698768c0ch20068">
+    <display-name>esp-e200698768c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_2_200698768_20250413-133129.jpeg"/>
+  </channel>
+  <channel id="esp-e200699852c0ch20077">
+    <display-name>esp-e200699852c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699852_20250329-121451.jpeg"/>
+  </channel>
+  <channel id="esp-e200700087c0ch20079">
+    <display-name>esp-e200700087c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700087_20250329-121551.jpeg"/>
+  </channel>
+  <channel id="esp-e200698728c0ch20065">
+    <display-name>esp-e200698728c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_200698728_20250413-133810.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4149,5 +4197,77 @@
     <title lang="es">Rally Islas Canarias - Media Zone &amp; Flexi Sv D from Gran Canaria Stadium SP</title>
     <desc lang="es">Watch the latest WRC action from the Rally Islas Canarias: Media Zone &amp; Flexi Sv D from Gran Canaria Stadium SP</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425120000 +0000" channel="esp-e200699850c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699850_20250329-120850.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 3 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425120000 +0000" channel="esp-e200700085c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700085_20250329-120952.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 3 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425113500 +0000" stop="20250425132500 +0000" channel="esp-e200652144c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200652144_20250413-134818.jpeg"/>
+    <title lang="es">Tour de los Alpes - Etapa 5</title>
+    <desc lang="es">Masculino | Lienz (112,2 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250425124500 +0000" stop="20250425220000 +0000" channel="esp-e200698748c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_2_200698748_20250413-132208.jpeg"/>
+    <title lang="es">Classic of New Orleans - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250425131500 +0000" stop="20250425220000 +0000" channel="esp-e200698808c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20071_2_200698808_20250413-132558.jpeg"/>
+    <title lang="es">Classic of New Orleans - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250425133000 +0000" stop="20250425220000 +0000" channel="esp-e200698788c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_2_200698788_20250413-132938.jpeg"/>
+    <title lang="es">Classic of New Orleans - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250425133000 +0000" stop="20250425163000 +0000" channel="esp-e200699851c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699851_20250329-121226.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 4 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425133000 +0000" stop="20250425163000 +0000" channel="esp-e200700086c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700086_20250329-121350.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 4 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425134500 +0000" stop="20250425220000 +0000" channel="esp-e200698768c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_2_200698768_20250413-133129.jpeg"/>
+    <title lang="es">Classic of New Orleans - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250425173000 +0000" stop="20250425210000 +0000" channel="esp-e200699852c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699852_20250329-121451.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 5 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425210000 +0000" channel="esp-e200700087c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700087_20250329-121551.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 5 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425190000 +0000" stop="20250425220000 +0000" channel="esp-e200698728c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_200698728_20250413-133810.jpeg"/>
+    <title lang="es">Classic of New Orleans - Día 2</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
