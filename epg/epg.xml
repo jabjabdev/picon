@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Apr 20 00:36:46 2025">
+<tv date="Sun Apr 20 06:30:18 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -343,10 +343,6 @@
   <channel id="9mpql2u2a4yuzfuz3mylug0qd">
     <display-name>9mpql2u2a4yuzfuz3mylug0qd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jytmhivhy7jxzkem09y0lhg8_image-header_pEs_1743167509000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="23zrol6b6s48xidwi3n76dy3j">
-    <display-name>23zrol6b6s48xidwi3n76dy3j</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72l2xdz0wm1mj0esflkjh28az_image-header_pEs_1743586498000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7mf8e2gf6iex73pspg7u9iajb">
     <display-name>7mf8e2gf6iex73pspg7u9iajb</display-name>
@@ -1608,6 +1604,10 @@
     <display-name>apalnzihl14sayom32hzbhc6f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7j2an8sqea0n1iapuw8405wzd_image-header_pEs_1744905401000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="23zrol6b6s48xidwi3n76dy3j">
+    <display-name>23zrol6b6s48xidwi3n76dy3j</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72l2xdz0wm1mj0esflkjh28az_image-header_pEs_1743586498000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2123,12 +2123,6 @@
     <title lang="es">Fundora vs. Badillo</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250420003000 +0000" stop="20250420063000 +0000" channel="23zrol6b6s48xidwi3n76dy3j">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72l2xdz0wm1mj0esflkjh28az_image-header_pEs_1743586498000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">24 Horas de Le Mans - Parte 3</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250420063000 +0000" stop="20250420123000 +0000" channel="7mf8e2gf6iex73pspg7u9iajb">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/11hukksebxo6twtv7gcymc4r_image-header_pEs_1743586751000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4019,5 +4013,11 @@
     <title lang="es">Camozzi vs. Bicchi</title>
     <desc lang="es">BKFC arrives in Florence, Italy, where Chris Camozzi seeks to defend his cruiserweight world title against Andrea Bicchi.</desc>
     <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20250420003000 +0000" stop="20250420063000 +0000" channel="23zrol6b6s48xidwi3n76dy3j">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72l2xdz0wm1mj0esflkjh28az_image-header_pEs_1743586498000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">24 Horas de Le Mans - Parte 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
