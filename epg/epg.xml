@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 21 12:30:20 2025">
+<tv date="Mon Apr 21 18:30:19 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -359,26 +359,6 @@
   <channel id="cvotojezl1ad9bgj3ig1oyq8y">
     <display-name>cvotojezl1ad9bgj3ig1oyq8y</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vtje4vvi2cwf6qksvxozn3og_image-header_pEs_1743433421000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b8k6uhvppijkz4rwpwiialka2">
-    <display-name>b8k6uhvppijkz4rwpwiialka2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzphtnc678miupt0td8nf5q92_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cw78h6ymtmcp9wuog9a095yc4">
-    <display-name>cw78h6ymtmcp9wuog9a095yc4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nghd449u1yg6lfsb7iz4wtmf_image-header_pEs_1743595519000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ds2t8rk4hcnd77izxsovetm0a">
-    <display-name>ds2t8rk4hcnd77izxsovetm0a</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cxgh6rka21jackujf0itr7dq1_image-header_pEs_1743785137000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cl2x5mb52pbob27hpa1dzgob8">
-    <display-name>cl2x5mb52pbob27hpa1dzgob8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71zvp6mi8uuawbonzfatxlwuq_image-header_pEs_1733502240000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cwywcqh3bhwy7g720ov5rx82c">
-    <display-name>cwywcqh3bhwy7g720ov5rx82c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9f8c3xqmjzpogbv9lpa4mm7gg_image-header_pEs_1743596129000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="93ff5q4xkl9suqaffol69odh6">
     <display-name>93ff5q4xkl9suqaffol69odh6</display-name>
@@ -1628,6 +1608,18 @@
     <display-name>63cpkjrsosrwnkulh89ucaf1s</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cm4uiumijb3gxegvxmhm1w1tt_image-header_pEs_1718546550000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="b8k6uhvppijkz4rwpwiialka2">
+    <display-name>b8k6uhvppijkz4rwpwiialka2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzphtnc678miupt0td8nf5q92_image-header_pEs_1726918954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ds2t8rk4hcnd77izxsovetm0a">
+    <display-name>ds2t8rk4hcnd77izxsovetm0a</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cxgh6rka21jackujf0itr7dq1_image-header_pEs_1743785137000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cl2x5mb52pbob27hpa1dzgob8">
+    <display-name>cl2x5mb52pbob27hpa1dzgob8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71zvp6mi8uuawbonzfatxlwuq_image-header_pEs_1733502240000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2168,36 +2160,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
   </programme>
-  <programme start="20250421114000 +0000" stop="20250421154000 +0000" channel="b8k6uhvppijkz4rwpwiialka2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzphtnc678miupt0td8nf5q92_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Tour de los Alpes - Etapa 1</title>
-    <desc lang="es">La carrera comienza en Trentino, con San Lorenzo Dorsino como sede de las actividades previas a la carrera del Domingo de Pascua y de la primera etapa. ¡No te lo pierdas!</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250421130000 +0000" stop="20250421153000 +0000" channel="cw78h6ymtmcp9wuog9a095yc4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nghd449u1yg6lfsb7iz4wtmf_image-header_pEs_1743595519000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cagliari - Fiorentina</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Fiorentina y Cagliari.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250421133000 +0000" stop="20250421193000 +0000" channel="ds2t8rk4hcnd77izxsovetm0a">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cxgh6rka21jackujf0itr7dq1_image-header_pEs_1743785137000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Maratón de Boston</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Atletismo</category>
-  </programme>
-  <programme start="20250421153000 +0000" stop="20250421190000 +0000" channel="cl2x5mb52pbob27hpa1dzgob8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71zvp6mi8uuawbonzfatxlwuq_image-header_pEs_1733502240000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Newcastle Eagles - Bristol Flyers</title>
-    <desc lang="es">Vive el encuentro de Super League Basketball entre Newcastle Eagles - Bristol Flyers.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250421160000 +0000" stop="20250421183000 +0000" channel="cwywcqh3bhwy7g720ov5rx82c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9f8c3xqmjzpogbv9lpa4mm7gg_image-header_pEs_1743596129000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Genoa - Lazio</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Genoa y Lazio.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250421180000 +0000" stop="20250421203000 +0000" channel="93ff5q4xkl9suqaffol69odh6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/acfhdi26lnnf6rv7kvcce0f18_image-header_pEs_1735895060000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Super8 - Jornada 32</title>
@@ -2246,7 +2208,7 @@
     <desc lang="es">MX2 | 1ª Carrera</desc>
     <category lang="es">Motocross</category>
   </programme>
-  <programme start="20250421111500 +0000" stop="20250421133000 +0000" channel="esp-e200668860c0ch20004">
+  <programme start="20250421132500 +0000" stop="20250421155000 +0000" channel="esp-e200668860c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200668860_20250409-122909.jpeg"/>
     <title lang="es">Ronde de Mouscron</title>
     <desc lang="es">Femenino</desc>
@@ -4069,5 +4031,23 @@
     <title lang="es">Oschersleben - Carrera 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250421114000 +0000" stop="20250421154000 +0000" channel="b8k6uhvppijkz4rwpwiialka2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzphtnc678miupt0td8nf5q92_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tour de los Alpes - Etapa 1</title>
+    <desc lang="es">La carrera comienza en Trentino, con San Lorenzo Dorsino como sede de las actividades previas a la carrera del Domingo de Pascua y de la primera etapa. ¡No te lo pierdas!</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250421133000 +0000" stop="20250421193000 +0000" channel="ds2t8rk4hcnd77izxsovetm0a">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cxgh6rka21jackujf0itr7dq1_image-header_pEs_1743785137000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Maratón de Boston</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20250421153000 +0000" stop="20250421190000 +0000" channel="cl2x5mb52pbob27hpa1dzgob8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71zvp6mi8uuawbonzfatxlwuq_image-header_pEs_1733502240000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Newcastle Eagles - Bristol Flyers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Newcastle Eagles - Bristol Flyers.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
