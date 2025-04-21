@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 21 06:36:41 2025">
+<tv date="Mon Apr 21 12:30:20 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -359,10 +359,6 @@
   <channel id="cvotojezl1ad9bgj3ig1oyq8y">
     <display-name>cvotojezl1ad9bgj3ig1oyq8y</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vtje4vvi2cwf6qksvxozn3og_image-header_pEs_1743433421000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="czbj0vqyfv75p4oylmv6uaplg">
-    <display-name>czbj0vqyfv75p4oylmv6uaplg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6gcsckem58q0459q0dq0k8fom_image-header_pEs_1743594132000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="b8k6uhvppijkz4rwpwiialka2">
     <display-name>b8k6uhvppijkz4rwpwiialka2</display-name>
@@ -1608,6 +1604,30 @@
     <display-name>esp-e200698829c0ch20067</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20085_4_200698829_20250401-135445.jpeg"/>
   </channel>
+  <channel id="csuyof58b3oi5rr9lbz91250">
+    <display-name>csuyof58b3oi5rr9lbz91250</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/egingkd4yorsum95uc3pvr5ob_image-header_pEs_1744901741000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="y41rpmq6jsydyps4hxu9swt0">
+    <display-name>y41rpmq6jsydyps4hxu9swt0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/791cczviuetucaeh0itv7ip8l_image-header_pEs_1744904108000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4fcir6e3cp3xbzubi0wm3xxse">
+    <display-name>4fcir6e3cp3xbzubi0wm3xxse</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2gohyjc1635a4fzvo3epqeljp_image-header_pEs_1744905158000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="mwvxa2ltibpzguix2ba7cbv8">
+    <display-name>mwvxa2ltibpzguix2ba7cbv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/798913davpagpu88xpb0hjkga_image-header_pEs_1717106341000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1a1kvpp91j3etq62dyf535yqc">
+    <display-name>1a1kvpp91j3etq62dyf535yqc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/44rm6wf7mkpjjmpqwoc1cl676_image-header_pEs_1717106341000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="63cpkjrsosrwnkulh89ucaf1s">
+    <display-name>63cpkjrsosrwnkulh89ucaf1s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cm4uiumijb3gxegvxmhm1w1tt_image-header_pEs_1718546550000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2147,12 +2167,6 @@
     <title lang="es">Lanzarote Open - Día 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20250421103000 +0000" stop="20250421130000 +0000" channel="czbj0vqyfv75p4oylmv6uaplg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6gcsckem58q0459q0dq0k8fom_image-header_pEs_1743594132000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Torino - Udinese</title>
-    <desc lang="es">Vive el encuentro de Serie A entre Udinese y Torino.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250421114000 +0000" stop="20250421154000 +0000" channel="b8k6uhvppijkz4rwpwiialka2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzphtnc678miupt0td8nf5q92_image-header_pEs_1726918954000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4019,5 +4033,41 @@
     <title lang="es">Mitsubishi Electric Classic</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250426072000 +0000" stop="20250426132000 +0000" channel="csuyof58b3oi5rr9lbz91250">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/egingkd4yorsum95uc3pvr5ob_image-header_pEs_1744901741000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Primera clasificación - Motorsport Arena Oschersleben</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250426113000 +0000" stop="20250426173000 +0000" channel="y41rpmq6jsydyps4hxu9swt0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/791cczviuetucaeh0itv7ip8l_image-header_pEs_1744904108000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Primera carrera - Motorsport Arena Oschersleben</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250426131000 +0000" stop="20250426191000 +0000" channel="4fcir6e3cp3xbzubi0wm3xxse">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2gohyjc1635a4fzvo3epqeljp_image-header_pEs_1744905158000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Oschersleben - Carrera 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250427072000 +0000" stop="20250427132000 +0000" channel="mwvxa2ltibpzguix2ba7cbv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/798913davpagpu88xpb0hjkga_image-header_pEs_1717106341000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Segunda clasificación - Motorsport Arena Oschersleben</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250427113000 +0000" stop="20250427173000 +0000" channel="1a1kvpp91j3etq62dyf535yqc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/44rm6wf7mkpjjmpqwoc1cl676_image-header_pEs_1717106341000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Segunda carrera - Motorsport Arena Oschersleben</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250427131000 +0000" stop="20250427191000 +0000" channel="63cpkjrsosrwnkulh89ucaf1s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cm4uiumijb3gxegvxmhm1w1tt_image-header_pEs_1718546550000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Oschersleben - Carrera 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
