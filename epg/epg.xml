@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 22 00:36:38 2025">
+<tv date="Tue Apr 22 06:36:51 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1643,6 +1643,34 @@
   <channel id="d0tye1tho4ptree4qzloo35ec">
     <display-name>d0tye1tho4ptree4qzloo35ec</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ig4xfvw3dd4xh3yuvtsg9xax_image-header_pEs_1745021469000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200700077c0ch20076">
+    <display-name>esp-e200700077c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_2_200700077_20250418-092923.jpeg"/>
+  </channel>
+  <channel id="esp-e200656841c0ch20003">
+    <display-name>esp-e200656841c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200656841_20250416-115733.jpeg"/>
+  </channel>
+  <channel id="esp-e200699859c0ch20078">
+    <display-name>esp-e200699859c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699859_20250329-131327.jpeg"/>
+  </channel>
+  <channel id="esp-e200700094c0ch20079">
+    <display-name>esp-e200700094c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700094_20250329-131422.jpeg"/>
+  </channel>
+  <channel id="esp-e200699860c0ch20077">
+    <display-name>esp-e200699860c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699860_20250329-131519.jpeg"/>
+  </channel>
+  <channel id="esp-e200629372c0ch20022">
+    <display-name>esp-e200629372c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200629372_20250330-163507.jpeg"/>
+  </channel>
+  <channel id="esp-e200700095c0ch20079">
+    <display-name>esp-e200700095c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700095_20250329-131620.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4109,5 +4137,47 @@
     <title lang="es">Hellas Verona - Cagliari</title>
     <desc lang="es">Vive el encuentro de Serie A entre Hellas Verona y Cagliari.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250422090000 +0000" stop="20250422120000 +0000" channel="esp-e200700077c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_2_200700077_20250418-092923.jpeg"/>
+    <title lang="es">Shaun Murphy - Daniel Wells</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 10 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250428113000 +0000" stop="20250428133000 +0000" channel="esp-e200656841c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200656841_20250416-115733.jpeg"/>
+    <title lang="es">Tour de Turquía - Etapa 2</title>
+    <desc lang="es">Masculino | Kemer &gt; Kalkan (167,4 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250428120000 +0000" stop="20250428150000 +0000" channel="esp-e200699859c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699859_20250329-131327.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 12 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250428120000 +0000" stop="20250428150000 +0000" channel="esp-e200700094c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700094_20250329-131422.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 12 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250428173000 +0000" stop="20250428210000 +0000" channel="esp-e200699860c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699860_20250329-131519.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 13 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250428180000 +0000" stop="20250428210000 +0000" channel="esp-e200629372c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_3_200629372_20250330-163507.jpeg"/>
+    <title lang="es">National British Championship - Gran Bretaña</title>
+    <desc lang="es">Día 1 | King's Lynn - Oxford</desc>
+    <category lang="es">Speedway</category>
+  </programme>
+  <programme start="20250428180000 +0000" stop="20250428210000 +0000" channel="esp-e200700095c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700095_20250329-131620.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 13 | Second Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
