@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 22 06:36:51 2025">
+<tv date="Tue Apr 22 12:30:18 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -383,10 +383,6 @@
   <channel id="e7042bwbvnt0pev53yjwoifmf">
     <display-name>e7042bwbvnt0pev53yjwoifmf</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/pbefltgdh5yn1763nsjwbrfp4_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200700077c0ch20079">
-    <display-name>esp-e200700077c0ch20079</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700077_20250329-114028.jpeg"/>
   </channel>
   <channel id="esp-e200699842c0ch20078">
     <display-name>esp-e200699842c0ch20078</display-name>
@@ -1672,6 +1668,10 @@
     <display-name>esp-e200700095c0ch20079</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700095_20250329-131620.jpeg"/>
   </channel>
+  <channel id="aoe4ei5gaudu4qgrky2dzlndt">
+    <display-name>aoe4ei5gaudu4qgrky2dzlndt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/156f50r1st69m1goip2f2nmuvi_image-header_pEs_1745173644000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2247,12 +2247,6 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 23</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250422090000 +0000" stop="20250422120000 +0000" channel="esp-e200700077c0ch20079">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700077_20250329-114028.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 10 | Second Choice</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20250422090000 +0000" stop="20250422120000 +0000" channel="esp-e200699842c0ch20078">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699842_20250329-113929.jpeg"/>
@@ -4179,5 +4173,11 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 13 | Second Choice</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250422230000 +0000" stop="20250423030000 +0000" channel="aoe4ei5gaudu4qgrky2dzlndt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/156f50r1st69m1goip2f2nmuvi_image-header_pEs_1745173644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">NFL Offsides - Ep 2</title>
+    <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
