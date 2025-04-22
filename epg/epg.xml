@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 22 12:30:18 2025">
+<tv date="Tue Apr 22 18:35:19 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1671,6 +1671,42 @@
   <channel id="aoe4ei5gaudu4qgrky2dzlndt">
     <display-name>aoe4ei5gaudu4qgrky2dzlndt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/156f50r1st69m1goip2f2nmuvi_image-header_pEs_1745173644000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="754ec620-961b-4294-ee92-08dd81789efd">
+    <display-name>754ec620-961b-4294-ee92-08dd81789efd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/JOMA-J1jpg-125742.jpg"/>
+  </channel>
+  <channel id="af4245c0-623e-43e2-755e-08dd817a153f">
+    <display-name>af4245c0-623e-43e2-755e-08dd817a153f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/IBER-J1jpg-125936.jpg"/>
+  </channel>
+  <channel id="614e8dfe-7fc6-47ee-ee90-08dd81789efd">
+    <display-name>614e8dfe-7fc6-47ee-ee90-08dd81789efd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/Daikin-HandballBundesligaThumbnailHSGWetzlarSCMagdeburgmatchpng-111416.png"/>
+  </channel>
+  <channel id="8e1af405-70c0-495a-6dc8-08dd72848114">
+    <display-name>8e1af405-70c0-495a-6dc8-08dd72848114</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsNewcastleJetsWesternSydneyWanderersmatchpng-143934.png"/>
+  </channel>
+  <channel id="9aca7a41-43fb-4cdf-6ea6-08dd728afbc4">
+    <display-name>9aca7a41-43fb-4cdf-6ea6-08dd728afbc4</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsMelbourneCityAdelaideUnitedMacarthurFCmatchpng-141509.png"/>
+  </channel>
+  <channel id="af6911be-599b-47e4-f9cf-08dd7286245a">
+    <display-name>af6911be-599b-47e4-f9cf-08dd7286245a</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsWesternUnitedSydneyFCmatchpng-144721.png"/>
+  </channel>
+  <channel id="2d7abd52-880f-409c-e784-08dd8181f6c6">
+    <display-name>2d7abd52-880f-409c-e784-08dd8181f6c6</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-1-1jpg-130619.jpg"/>
+  </channel>
+  <channel id="b05976a4-87a1-4e22-755f-08dd817a153f">
+    <display-name>b05976a4-87a1-4e22-755f-08dd817a153f</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-2jpg-145147.jpg"/>
+  </channel>
+  <channel id="41bb9b7e-a456-47c7-ee93-08dd81789efd">
+    <display-name>41bb9b7e-a456-47c7-ee93-08dd81789efd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-3jpg-145459.jpg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4179,5 +4215,59 @@
     <title lang="es">NFL Offsides - Ep 2</title>
     <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250426141000 +0000" stop="20250426190000 +0000" channel="754ec620-961b-4294-ee92-08dd81789efd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/JOMA-J1jpg-125742.jpg"/>
+    <title lang="es">Liga Joma División de Honor | 1ª Jornada</title>
+    <desc lang="es">La Pista José María Escriche de Huesca acoge la primera jornada de la Liga Joma (masculina) 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250426141000 +0000" stop="20250426190000 +0000" channel="af4245c0-623e-43e2-755e-08dd817a153f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/IBER-J1jpg-125936.jpg"/>
+    <title lang="es">Liga Iberdrola División de Honor | 1ª Jornada</title>
+    <desc lang="es">La Pista Los Pajaritos de Soria acoge la primera jornada de la Liga Iberdrola (femenina) 2025.</desc>
+    <category lang="es">Atletismo   </category>
+  </programme>
+  <programme start="20250427122500 +0000" stop="20250427150000 +0000" channel="614e8dfe-7fc6-47ee-ee90-08dd81789efd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/Daikin-HandballBundesligaThumbnailHSGWetzlarSCMagdeburgmatchpng-111416.png"/>
+    <title lang="es">HSG Wetzlar - SC Magdeburg</title>
+    <desc lang="es">El partido correspondiente a la Jornada 27 de la Daikin Handball-Bundesliga 2024/25.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250426062500 +0000" stop="20250426090000 +0000" channel="8e1af405-70c0-495a-6dc8-08dd72848114">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsNewcastleJetsWesternSydneyWanderersmatchpng-143934.png"/>
+    <title lang="es">Newcastle Jets - Western Sydney Wanderers</title>
+    <desc lang="es">El partido correspondiente a la Jornada 28 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250426090000 +0000" stop="20250426113500 +0000" channel="9aca7a41-43fb-4cdf-6ea6-08dd728afbc4">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsMelbourneCityAdelaideUnitedMacarthurFCmatchpng-141509.png"/>
+    <title lang="es">Melbourne City - Adelaide United</title>
+    <desc lang="es">El partido correspondiente a la Jornada 28 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250427062500 +0000" stop="20250427090000 +0000" channel="af6911be-599b-47e4-f9cf-08dd7286245a">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/21/IsuzuUTEALeagueThumbnailsWesternUnitedSydneyFCmatchpng-144721.png"/>
+    <title lang="es">Western United - Sydney FC</title>
+    <desc lang="es">El partido correspondiente a la Jornada 28 de la Isuzu UTE A-League 2024/25.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250426065500 +0000" stop="20250426113000 +0000" channel="2d7abd52-880f-409c-e784-08dd8181f6c6">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-1-1jpg-130619.jpg"/>
+    <title lang="es">Open +55 Dupletas y  Sub-23 Individual | Día 1 - Mañana</title>
+    <desc lang="es">Benejúzar (Alicante) acoge el Open de Veteranos +55 de Dupletas y Sub23 Individual los días 26 y 27 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250426125500 +0000" stop="20250426190000 +0000" channel="b05976a4-87a1-4e22-755f-08dd817a153f">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-2jpg-145147.jpg"/>
+    <title lang="es">Open +55 Dupletas y  Sub-23 Individual | Día 1 - Tarde</title>
+    <desc lang="es">Benejúzar (Alicante) acoge el Open de Veteranos +55 de Dupletas y Sub23 Individual los días 26 y 27 de abril.</desc>
+    <category lang="es">Petanca</category>
+  </programme>
+  <programme start="20250427062500 +0000" stop="20250427120000 +0000" channel="41bb9b7e-a456-47c7-ee93-08dd81789efd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/PET-3jpg-145459.jpg"/>
+    <title lang="es">Open +55 Dupletas y  Sub-23 Individual | Día 2</title>
+    <desc lang="es">Benejúzar (Alicante) acoge el Open de Veteranos +55 de Dupletas y Sub23 Individual los días 26 y 27 de abril.</desc>
+    <category lang="es">Petanca</category>
   </programme>
 </tv>
