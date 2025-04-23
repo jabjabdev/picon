@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 24 00:30:19 2025">
+<tv date="Thu Apr 24 00:36:39 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1491,6 +1491,10 @@
   <channel id="a6tqeqgzggsy9yxjauvz1dl9c">
     <display-name>a6tqeqgzggsy9yxjauvz1dl9c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2usze5z6ioqr2j367bx3p5w7g_image-header_pEs_1745251652000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200700083c0ch20061">
+    <display-name>esp-e200700083c0ch20061</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700083_20250329-120318.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3729,5 +3733,11 @@
     <title lang="es">Semifinales - FC Barcelona - Inter (Influencer Wars)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250424120000 +0000" stop="20250424150000 +0000" channel="esp-e200700083c0ch20061">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700083_20250329-120318.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | 1ª ronda | Sesión 16 | Second Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
