@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 23 00:36:39 2025">
+<tv date="Wed Apr 23 06:36:51 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1500,10 +1500,6 @@
     <display-name>esp-e200700095c0ch20079</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700095_20250329-131620.jpeg"/>
   </channel>
-  <channel id="aoe4ei5gaudu4qgrky2dzlndt">
-    <display-name>aoe4ei5gaudu4qgrky2dzlndt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/156f50r1st69m1goip2f2nmuvi_image-header_pEs_1745173644000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="754ec620-961b-4294-ee92-08dd81789efd">
     <display-name>754ec620-961b-4294-ee92-08dd81789efd</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/JOMA-J1jpg-125742.jpg"/>
@@ -1575,6 +1571,38 @@
   <channel id="esp-e200755001c0ch20068">
     <display-name>esp-e200755001c0ch20068</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200699861c0ch20078">
+    <display-name>esp-e200699861c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699861_20250329-160950.jpeg"/>
+  </channel>
+  <channel id="esp-e200700096c0ch20079">
+    <display-name>esp-e200700096c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700096_20250329-161040.jpeg"/>
+  </channel>
+  <channel id="esp-e200656842c0ch20003">
+    <display-name>esp-e200656842c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200656842_20250417-103512.jpeg"/>
+  </channel>
+  <channel id="esp-e200699862c0ch20078">
+    <display-name>esp-e200699862c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699862_20250329-161336.jpeg"/>
+  </channel>
+  <channel id="esp-e200700097c0ch20079">
+    <display-name>esp-e200700097c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700097_20250329-161416.jpeg"/>
+  </channel>
+  <channel id="esp-e200682235c0ch20002">
+    <display-name>esp-e200682235c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200682235_20250417-104234.jpeg"/>
+  </channel>
+  <channel id="esp-e200699863c0ch20077">
+    <display-name>esp-e200699863c0ch20077</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699863_20250329-161506.jpeg"/>
+  </channel>
+  <channel id="esp-e200700098c0ch20079">
+    <display-name>esp-e200700098c0ch20079</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700098_20250329-161551.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3826,12 +3854,6 @@
     <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 13 | Second Choice</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250422230000 +0000" stop="20250423030000 +0000" channel="aoe4ei5gaudu4qgrky2dzlndt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/156f50r1st69m1goip2f2nmuvi_image-header_pEs_1745173644000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NFL Offsides - Ep 2</title>
-    <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
   <programme start="20250426141000 +0000" stop="20250426190000 +0000" channel="754ec620-961b-4294-ee92-08dd81789efd">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/JOMA-J1jpg-125742.jpg"/>
     <title lang="es">Liga Joma División de Honor | 1ª Jornada</title>
@@ -3939,5 +3961,53 @@
     <title lang="es">Classic of New Orleans - Día 2</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250429090000 +0000" stop="20250429120000 +0000" channel="esp-e200699861c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699861_20250329-160950.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 1 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429090000 +0000" stop="20250429120000 +0000" channel="esp-e200700096c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700096_20250329-161040.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 1 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429113000 +0000" stop="20250429133000 +0000" channel="esp-e200656842c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200656842_20250417-103512.jpeg"/>
+    <title lang="es">Tour de Turquía - Etapa 3</title>
+    <desc lang="es">Masculino | Fethiye &gt; Marmaris (175,9 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250429133000 +0000" stop="20250429163000 +0000" channel="esp-e200699862c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699862_20250329-161336.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 2 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429133000 +0000" stop="20250429163000 +0000" channel="esp-e200700097c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700097_20250329-161416.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 2 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429133000 +0000" stop="20250429154500 +0000" channel="esp-e200682235c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200682235_20250417-104234.jpeg"/>
+    <title lang="es">Tour de Romandía - Prólogo</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250429173000 +0000" stop="20250429210000 +0000" channel="esp-e200699863c0ch20077">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200699863_20250329-161506.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 3 | First Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429180000 +0000" stop="20250429210000 +0000" channel="esp-e200700098c0ch20079">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700098_20250329-161551.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 3 | Second Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
