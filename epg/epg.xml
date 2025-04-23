@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 23 12:30:21 2025">
+<tv date="Wed Apr 23 12:35:07 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1655,6 +1655,14 @@
   <channel id="ex3bpq5iplbja0x0phhhzlffm">
     <display-name>ex3bpq5iplbja0x0phhhzlffm</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u4m0guk3yo451oxwec4tird0l_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2fd4daf7-7f80-489e-8c4a-08dd8189899d">
+    <display-name>2fd4daf7-7f80-489e-8c4a-08dd8189899d</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/LigaFemeninaEndesaThumbnailJoventutBadalonaValenciaBasketmatchpng-092830.png"/>
+  </channel>
+  <channel id="4758ae79-d977-4121-ee8f-08dd81789efd">
+    <display-name>4758ae79-d977-4121-ee8f-08dd81789efd</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/LigaFemeninaEndesaThumbnailValenciaBasketJoventutBadalonamatchpng-093218.png"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4139,5 +4147,17 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 24</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250424175500 +0000" stop="20250424213000 +0000" channel="2fd4daf7-7f80-489e-8c4a-08dd8189899d">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/LigaFemeninaEndesaThumbnailJoventutBadalonaValenciaBasketmatchpng-092830.png"/>
+    <title lang="es">Joventut Badalona - Valencia Basket</title>
+    <desc lang="es">El partido entre Joventut Badalona y Valencia Basket correspondiente a la ida de los Playoffs de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250427162500 +0000" stop="20250427200000 +0000" channel="4758ae79-d977-4121-ee8f-08dd81789efd">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/LigaFemeninaEndesaThumbnailValenciaBasketJoventutBadalonamatchpng-093218.png"/>
+    <title lang="es">Valencia Basket - Joventut Badalona</title>
+    <desc lang="es">El partido entre Valencia Basket y Joventut Badalona correspondiente a la vuelta de los Playoffs de Liga Femenina Endesa 2024/25.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
