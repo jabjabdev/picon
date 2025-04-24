@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 24 06:36:51 2025">
+<tv date="Thu Apr 24 12:30:20 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1528,6 +1528,18 @@
     <display-name>esp-e200700101c0ch20079</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700101_20250329-162455.jpeg"/>
   </channel>
+  <channel id="97nhfh4ppmchc3q6ha05wytzu">
+    <display-name>97nhfh4ppmchc3q6ha05wytzu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2s23h3j5vtjaceet4er60sr7_image-header_pEs_1745480109000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eclhivwf9ejl1g0kxmhk4gowk">
+    <display-name>eclhivwf9ejl1g0kxmhk4gowk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6uotqd3euu1pht3aou3nj6x67_image-header_pEs_1745477954000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ec8pvm8cg3l472ysvpn29xwyc">
+    <display-name>ec8pvm8cg3l472ysvpn29xwyc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c1c48thh8oov40hpi5kcdu7v_image-header_pEs_1745349262000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn</title>
@@ -2824,7 +2836,7 @@
     <desc lang="es">Watch the latest World Rally Championship action from Rally Islas Canarias.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250427091500 +0000" stop="20250427151500 +0000" channel="eiq22wc66mxub87pu61e58kd0">
+  <programme start="20250427092100 +0000" stop="20250427152100 +0000" channel="eiq22wc66mxub87pu61e58kd0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rvvb2cwm818dzkj5qxipixge_image-header_pEs_1743224401000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rally Islas Canarias - Stage 17</title>
     <desc lang="es">Watch the latest World Rally Championship action from Rally Islas Canarias</desc>
@@ -3819,5 +3831,23 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 6 | Second Choice</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425113000 +0000" channel="97nhfh4ppmchc3q6ha05wytzu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2s23h3j5vtjaceet4er60sr7_image-header_pEs_1745480109000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">V Encuentro de las estrellas</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250425103000 +0000" stop="20250425130000 +0000" channel="eclhivwf9ejl1g0kxmhk4gowk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6uotqd3euu1pht3aou3nj6x67_image-header_pEs_1745477954000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fiorentina - Juventus</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Juventus y Fiorentina.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425163000 +0000" channel="ec8pvm8cg3l472ysvpn29xwyc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9c1c48thh8oov40hpi5kcdu7v_image-header_pEs_1745349262000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Milan - Inter</title>
+    <desc lang="es">Vive el encuentro de Serie A Women entre Milan y Internazionale.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
