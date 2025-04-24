@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 24 18:30:24 2025">
+<tv date="Thu Apr 24 18:32:03 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1599,6 +1599,10 @@
   <channel id="8qlxflsxmmwjb5fehes5i385k">
     <display-name>8qlxflsxmmwjb5fehes5i385k</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/elu4wazk848p18phz1d99pxv_image-header_pEs_1745423067000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6e030cpdnvfkhcsxzskqyz6ef">
+    <display-name>6e030cpdnvfkhcsxzskqyz6ef</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d09gqamk9ie12ronwmo494l5_image-header_pEs_1745489642000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3999,5 +4003,11 @@
     <title lang="es">Paterson U - QC Crush</title>
     <desc lang="es">Vive el encuentro de A7FL entre Paterson U y QC Crush.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="6e030cpdnvfkhcsxzskqyz6ef">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d09gqamk9ie12ronwmo494l5_image-header_pEs_1745489642000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eubank Jr. vs. Benn - Ring Magazine &amp; True Geordie Watchalong</title>
+    <desc lang="es">Descubre la última hora del combate entre Chris Eubank Jr. vs. Conor Benn de la mano de True Geordie y Ring Magazine.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
