@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 25 06:36:47 2025">
+<tv date="Fri Apr 25 12:30:34 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -300,21 +300,9 @@
     <display-name>4jdzhu1vgqdv57xlwkj38o2gs</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yprzovfsxunt1jwga9rwhr5aj_image-header_pEs_1743609470000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="ccy6fg6mvuz0e3ximsp2e06c4">
-    <display-name>ccy6fg6mvuz0e3ximsp2e06c4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bvu4zcro4qts1c4rr7qapprjk_image-header_pEs_1742988572000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="5ml6gx3aeyu254b28r5zpgml9">
     <display-name>5ml6gx3aeyu254b28r5zpgml9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jlnwhy5g19qwtd2u7fvmvwb8_image-header_pEs_1744895349000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ck1vnafrf06cnkms5ketpx5as">
-    <display-name>ck1vnafrf06cnkms5ketpx5as</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8z2l35pgtoda1hf5necznuygp_image-header_pEs_1743167395000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="co8cl0eppf670zh3o3mgevqj8">
-    <display-name>co8cl0eppf670zh3o3mgevqj8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pc4mwffx7mqx1rdnd93du7d2c_image-header_pEs_1743174067000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="527ta2bf7qosoj0ny0i67ircf">
     <display-name>527ta2bf7qosoj0ny0i67ircf</display-name>
@@ -1344,10 +1332,6 @@
     <display-name>esp-e200700101c0ch20079</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700101_20250329-162455.jpeg"/>
   </channel>
-  <channel id="97nhfh4ppmchc3q6ha05wytzu">
-    <display-name>97nhfh4ppmchc3q6ha05wytzu</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2s23h3j5vtjaceet4er60sr7_image-header_pEs_1745480109000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="eclhivwf9ejl1g0kxmhk4gowk">
     <display-name>eclhivwf9ejl1g0kxmhk4gowk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6uotqd3euu1pht3aou3nj6x67_image-header_pEs_1745477954000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1631,6 +1615,10 @@
   <channel id="esp-e200702242c0ch20059">
     <display-name>esp-e200702242c0ch20059</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20059_0_200702242_20250419-115431.jpeg"/>
+  </channel>
+  <channel id="5an1anqxo26gkjjqijegppig2">
+    <display-name>5an1anqxo26gkjjqijegppig2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/juhlmcu64un0181269fu7vbf6_image-header_pEs_1745573091000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2082,28 +2070,10 @@
     <desc lang="es">Descubre donde serán elegidas las futuras estrellas de la NFL durante este evento de tres días en abril</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20250425070300 +0000" stop="20250425130300 +0000" channel="ccy6fg6mvuz0e3ximsp2e06c4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bvu4zcro4qts1c4rr7qapprjk_image-header_pEs_1742988572000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Islas Canarias - Stage 1</title>
-    <desc lang="es">Watch the latest WRC action from the Rally Islas Canarias.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250425065500 +0000" stop="20250425125500 +0000" channel="5ml6gx3aeyu254b28r5zpgml9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jlnwhy5g19qwtd2u7fvmvwb8_image-header_pEs_1744895349000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FP1 - Gran Premio Estrella Galicia 0,0 de España</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250425084900 +0000" stop="20250425144900 +0000" channel="ck1vnafrf06cnkms5ketpx5as">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8z2l35pgtoda1hf5necznuygp_image-header_pEs_1743167395000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Islas Canarias - Stage 2</title>
-    <desc lang="es">Watch the latest WRC action from the Rally Islas Canarias.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250425102500 +0000" stop="20250425162500 +0000" channel="co8cl0eppf670zh3o3mgevqj8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pc4mwffx7mqx1rdnd93du7d2c_image-header_pEs_1743174067000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rally Islas Canarias - Stage 3</title>
-    <desc lang="es">Watch the latest WRC action from the Rally Islas Canarias.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250425110000 +0000" stop="20250425130000 +0000" channel="527ta2bf7qosoj0ny0i67ircf">
@@ -3648,12 +3618,6 @@
     <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 6 | Second Choice</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250425090000 +0000" stop="20250425113000 +0000" channel="97nhfh4ppmchc3q6ha05wytzu">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2s23h3j5vtjaceet4er60sr7_image-header_pEs_1745480109000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">V Encuentro de las estrellas</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250425103000 +0000" stop="20250425130000 +0000" channel="eclhivwf9ejl1g0kxmhk4gowk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6uotqd3euu1pht3aou3nj6x67_image-header_pEs_1745477954000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Fiorentina - Juventus</title>
@@ -4079,5 +4043,11 @@
     <title lang="es">Byron Nelson - Día 1 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250425200000 +0000" stop="20250426020000 +0000" channel="5an1anqxo26gkjjqijegppig2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/juhlmcu64un0181269fu7vbf6_image-header_pEs_1745573091000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">KSI vs. Speed - Fatal Fury City of the Wolves</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
