@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 25 18:35:12 2025">
+<tv date="Fri Apr 25 18:36:40 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1623,6 +1623,10 @@
   <channel id="b4db01f8-90bc-4fae-6e0f-08dd8178e3a5">
     <display-name>b4db01f8-90bc-4fae-6e0f-08dd8178e3a5</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/25/Daikin-HandballBundesligaThumbnailMTMelsungenRheinNeckarLoewenmatchpng-112536.png"/>
+  </channel>
+  <channel id="esp-e200700089c0ch20062">
+    <display-name>esp-e200700089c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_7_200700089_20250425-162504.jpeg"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4059,5 +4063,11 @@
     <title lang="es">MT Melsungen - Rhein-Neckar Löwen</title>
     <desc lang="es">El partido correspondiente a la Jornada 28 de la Daikin Handball-Bundesliga 2024/25.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250426133000 +0000" stop="20250426163000 +0000" channel="esp-e200700089c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_7_200700089_20250425-162504.jpeg"/>
+    <title lang="es">Hossein Vafaei - Mark Williams</title>
+    <desc lang="es">Campeonato del Mundo | 2ª ronda | Sesión 7 | Second Choice</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
