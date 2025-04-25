@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 25 18:30:34 2025">
+<tv date="Fri Apr 25 18:35:12 2025">
   <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
     <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1619,6 +1619,10 @@
   <channel id="ol3sep49rqdk1uctvn173nms">
     <display-name>ol3sep49rqdk1uctvn173nms</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1orxaz3kq3oeu17phsxcknccls_image-header_pEs_1745417993000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b4db01f8-90bc-4fae-6e0f-08dd8178e3a5">
+    <display-name>b4db01f8-90bc-4fae-6e0f-08dd8178e3a5</display-name>
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/25/Daikin-HandballBundesligaThumbnailMTMelsungenRheinNeckarLoewenmatchpng-112536.png"/>
   </channel>
   <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yn4z8ca7zdph1mad0jxcgnp6i_image-header_pEs_1742911069000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4049,5 +4053,11 @@
     <title lang="es">LA Elite vs. NYC Attitude &amp; Philadelphia Smoke vs. Boston Butchers</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250504122500 +0000" stop="20250504150000 +0000" channel="b4db01f8-90bc-4fae-6e0f-08dd8178e3a5">
+    <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/25/Daikin-HandballBundesligaThumbnailMTMelsungenRheinNeckarLoewenmatchpng-112536.png"/>
+    <title lang="es">MT Melsungen - Rhein-Neckar Löwen</title>
+    <desc lang="es">El partido correspondiente a la Jornada 28 de la Daikin Handball-Bundesliga 2024/25.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
