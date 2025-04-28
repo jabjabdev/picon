@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 29 00:30:21 2025">
+<tv date="Tue Apr 29 00:36:48 2025">
   <channel id="06a4ccfc-2705-475b-6da7-08dd72848114">
     <display-name>06a4ccfc-2705-475b-6da7-08dd72848114</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
@@ -1883,6 +1883,18 @@
   <channel id="80vbkh44dk5wwnx3ad0kk8rzh">
     <display-name>80vbkh44dk5wwnx3ad0kk8rzh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/augswq6v3vkp1nvek4ts3fbo0_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200700096c0ch20076">
+    <display-name>esp-e200700096c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_2_200700096_20250428-204431.jpeg"/>
+  </channel>
+  <channel id="esp-e200700098c0ch20076">
+    <display-name>esp-e200700098c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_2_200700098_20250428-205517.jpeg"/>
+  </channel>
+  <channel id="esp-e200651754c0ch20028">
+    <display-name>esp-e200651754c0ch20028</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200651754_20250423-103844.jpeg"/>
   </channel>
   <programme start="20250426155500 +0000" stop="20250426193000 +0000" channel="06a4ccfc-2705-475b-6da7-08dd72848114">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
@@ -4708,6 +4720,24 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/augswq6v3vkp1nvek4ts3fbo0_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Código F1 - Miami</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250429090000 +0000" stop="20250429120000 +0000" channel="esp-e200700096c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_2_200700096_20250428-204431.jpeg"/>
+    <title lang="es">Zhao Xintong - Chris Wakelin</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 1 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250429180000 +0000" stop="20250429210000 +0000" channel="esp-e200700098c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_2_200700098_20250428-205517.jpeg"/>
+    <title lang="es">Zhao Xintong - Chris Wakelin</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 3 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250504103000 +0000" stop="20250504113000 +0000" channel="esp-e200651754c0ch20028">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200651754_20250423-103844.jpeg"/>
+    <title lang="es">Carreras de motos</title>
+    <desc lang="es"/>
     <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
