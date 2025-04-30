@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 30 00:36:36 2025">
+<tv date="Wed Apr 30 06:36:44 2025">
   <channel id="06a4ccfc-2705-475b-6da7-08dd72848114">
     <display-name>06a4ccfc-2705-475b-6da7-08dd72848114</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
@@ -1551,6 +1551,18 @@
   <channel id="hdfl468caz2exc7fwwrdeve1">
     <display-name>hdfl468caz2exc7fwwrdeve1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6j7l8s086ym51opdgkgqv23ua_image-header_pEs_1737041299000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200700099c0ch20076">
+    <display-name>esp-e200700099c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700099_20250329-161936.jpeg"/>
+  </channel>
+  <channel id="esp-e200700100c0ch20076">
+    <display-name>esp-e200700100c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700100_20250329-162316.jpeg"/>
+  </channel>
+  <channel id="esp-e200690816c0ch20004">
+    <display-name>esp-e200690816c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690816_20250330-150008.jpeg"/>
   </channel>
   <programme start="20250426155500 +0000" stop="20250426193000 +0000" channel="06a4ccfc-2705-475b-6da7-08dd72848114">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/16/BasketballBundesligaThumbnailHeidelbergLoewenBraunschweigmatchpng-101519.png"/>
@@ -3879,5 +3891,23 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 25</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250430090000 +0000" stop="20250430120000 +0000" channel="esp-e200700099c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700099_20250329-161936.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 4 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250430133000 +0000" stop="20250430163000 +0000" channel="esp-e200700100c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20079_3_200700100_20250329-162316.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Cuartos de final | Sesión 5 | Second Choice</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250506133500 +0000" stop="20250506153500 +0000" channel="esp-e200690816c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690816_20250330-150008.jpeg"/>
+    <title lang="es">La Vuelta Femenina - Etapa 3</title>
+    <desc lang="es">Barbastro &gt; Huesca (132,4 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
