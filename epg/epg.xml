@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 01 00:30:18 2025">
+<tv date="Thu May 01 06:36:49 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1399,6 +1399,14 @@
   <channel id="bbw25cbvkxtaujk39dit5m0pg">
     <display-name>bbw25cbvkxtaujk39dit5m0pg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/db0mpqde00s5jwmqtrgl0yznq_image-header_pEs_1746014369000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200690817c0ch20004">
+    <display-name>esp-e200690817c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690817_20250330-150234.jpeg"/>
+  </channel>
+  <channel id="esp-e200721106c0ch20001">
+    <display-name>esp-e200721106c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_3_200721106_20250409-135939.jpeg"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3499,5 +3507,17 @@
     <title lang="es">PSG - Nantes</title>
     <desc lang="es">Vive el encuentro de Première Ligue entre Nantes y PSG.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250507133500 +0000" stop="20250507153500 +0000" channel="esp-e200690817c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690817_20250330-150234.jpeg"/>
+    <title lang="es">La Vuelta Femenina - Etapa 4</title>
+    <desc lang="es">Pedrola &gt; Borja (111,6 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250507183000 +0000" stop="20250507200000 +0000" channel="esp-e200721106c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_3_200721106_20250409-135939.jpeg"/>
+    <title lang="es">Giro de Italia - Presentación de Equipos</title>
+    <desc lang="es">Tirana (Albania)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
