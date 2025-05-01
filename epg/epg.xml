@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 01 12:30:14 2025">
+<tv date="Thu May 01 18:30:17 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -307,18 +307,6 @@
   <channel id="9m28psg93iyh9ktwdrfck2k2c">
     <display-name>9m28psg93iyh9ktwdrfck2k2c</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bio4v5bz604p6k0uq1umpo7a6_image-header_pEs_1743607334000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ab2u9femehd4vbuvpe8tamnn1">
-    <display-name>ab2u9femehd4vbuvpe8tamnn1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1lzxvgdrtdla3m4ea8itc2wl_image-header_pEs_1732003573000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4u4gpktlqb4349p3wmiyl0vml">
-    <display-name>4u4gpktlqb4349p3wmiyl0vml</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18xffibuhmx0uxvvgoc0d8h2x_image-header_pEs_1745245840000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6o5wz0zqkmawccr6hkxn7q39w">
-    <display-name>6o5wz0zqkmawccr6hkxn7q39w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pebb32jc6fb27cxf4gdjvjkv_image-header_pEs_1743091643000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2nw88mhnp0mlf4qj0ggu843lp">
     <display-name>2nw88mhnp0mlf4qj0ggu843lp</display-name>
@@ -1404,6 +1392,14 @@
     <display-name>f10he20l5farivhzijo9w2jt1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eldpzdmmsopz2yj9t7rtvlrbz_image-header_pEs_1745245498000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="4u4gpktlqb4349p3wmiyl0vml">
+    <display-name>4u4gpktlqb4349p3wmiyl0vml</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18xffibuhmx0uxvvgoc0d8h2x_image-header_pEs_1745245840000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6o5wz0zqkmawccr6hkxn7q39w">
+    <display-name>6o5wz0zqkmawccr6hkxn7q39w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pebb32jc6fb27cxf4gdjvjkv_image-header_pEs_1743091643000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Garcia vs. Romero</title>
@@ -1864,24 +1860,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bio4v5bz604p6k0uq1umpo7a6_image-header_pEs_1743607334000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FC Levante Badalona - FC Barcelona</title>
     <desc lang="es">Vive el encuentro de Primera División Femenina entre FC Levante Badalona - FC Barcelona.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250501120000 +0000" stop="20250501140000 +0000" channel="ab2u9femehd4vbuvpe8tamnn1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1lzxvgdrtdla3m4ea8itc2wl_image-header_pEs_1732003573000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Toledo Open - Octavos de final</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Pádel</category>
-  </programme>
-  <programme start="20250501133000 +0000" stop="20250501173000 +0000" channel="4u4gpktlqb4349p3wmiyl0vml">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18xffibuhmx0uxvvgoc0d8h2x_image-header_pEs_1745245840000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Tour de Romandía - Etapa 2</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250501140000 +0000" stop="20250501163000 +0000" channel="6o5wz0zqkmawccr6hkxn7q39w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pebb32jc6fb27cxf4gdjvjkv_image-header_pEs_1743091643000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Final - Bayern München - SV Werder Bremen</title>
-    <desc lang="es">Vive el encuentro de DFB Pokal Women entre Bayern München y Werder Bremen.</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250501170000 +0000" stop="20250501230000 +0000" channel="2nw88mhnp0mlf4qj0ggu843lp">
@@ -3509,5 +3487,17 @@
     <title lang="es">Tour de Turquía - Etapa 5</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250501133000 +0000" stop="20250501173000 +0000" channel="4u4gpktlqb4349p3wmiyl0vml">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18xffibuhmx0uxvvgoc0d8h2x_image-header_pEs_1745245840000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tour de Romandía - Etapa 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250501140000 +0000" stop="20250501163000 +0000" channel="6o5wz0zqkmawccr6hkxn7q39w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pebb32jc6fb27cxf4gdjvjkv_image-header_pEs_1743091643000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final - Bayern München - SV Werder Bremen</title>
+    <desc lang="es">Vive el encuentro de DFB Pokal Women entre Bayern München y Werder Bremen.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
