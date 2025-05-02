@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 02 18:30:34 2025">
+<tv date="Fri May 02 18:32:03 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1355,6 +1355,10 @@
   <channel id="6ck06nun3mrdgkt33jdw9cnla">
     <display-name>6ck06nun3mrdgkt33jdw9cnla</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q40210hr539j18q07g5mi8bgz_image-header_pEs_1746178467000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7cqapdlexjvk4depvt809e7pl">
+    <display-name>7cqapdlexjvk4depvt809e7pl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/111xo4l3f2vo81vrc103ezu5c5_image-header_pEs_1746180956000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3388,6 +3392,12 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q40210hr539j18q07g5mi8bgz_image-header_pEs_1746178467000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pat McAfee Post Show</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250502214500 +0000" stop="20250503034500 +0000" channel="7cqapdlexjvk4depvt809e7pl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/111xo4l3f2vo81vrc103ezu5c5_image-header_pEs_1746180956000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Garcia vs. Romero - Ring Magazine &amp; True Geordie Watchalong</title>
+    <desc lang="es">In association with Ring Magazine, watch the Powered by Fatal Fury: City of the Wolves fight night in New York in the company of True Geordie</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
