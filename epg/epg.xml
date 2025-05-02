@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 03 00:30:18 2025">
+<tv date="Sat May 03 00:32:03 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1299,6 +1299,10 @@
   <channel id="d99pm9hodn5ckr44vsdqdjuhg">
     <display-name>d99pm9hodn5ckr44vsdqdjuhg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9y9t9ieodu2z9elp9ihjxff2r_image-header_pEs_1746019719000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f440qa6m4oxcnl5g9pwjuy9nu">
+    <display-name>f440qa6m4oxcnl5g9pwjuy9nu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/661urfqigy2o1jjqph84cs2cy_image-header_pEs_1746205426000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3249,5 +3253,11 @@
     <title lang="es">AC Milan - Bologna</title>
     <desc lang="es">Vive el encuentro de Serie A entre Milan y Bologna.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250503214500 +0000" stop="20250504034500 +0000" channel="f440qa6m4oxcnl5g9pwjuy9nu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/661urfqigy2o1jjqph84cs2cy_image-header_pEs_1746205426000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Scull - ShowBizz The Adult Watchalong</title>
+    <desc lang="es">Enjoy all the action from the Powered by Fatal Fury: City of the Wolves fight night in Riyadh in the company of ShowBizz The Adult.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
