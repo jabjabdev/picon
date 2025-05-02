@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 02 12:30:17 2025">
+<tv date="Fri May 02 12:32:02 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1348,9 +1348,9 @@
     <display-name>97im11ryrkjde3gluq5l9sidh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b5x134bl74kcsdy5k4rv9e84i_image-header_pEs_1745846057000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="4wcdu1ckcef9blb77a0xvv1f3">
-    <display-name>4wcdu1ckcef9blb77a0xvv1f3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1od412sv9wqp7aapbfwd4i7i_image-header_pEs_1745846057000/fill/none/top/none/85/300/180/webp/image"/>
+  <channel id="ckj2ugtfpm7xdk9b0dfl5bt79">
+    <display-name>ckj2ugtfpm7xdk9b0dfl5bt79</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/174ck8bp4akru1nrydkqpwa0jz_image-header_pEs_1746116977000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3374,10 +3374,10 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
   </programme>
-  <programme start="20250502102500 +0000" stop="20250502162500 +0000" channel="4wcdu1ckcef9blb77a0xvv1f3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1od412sv9wqp7aapbfwd4i7i_image-header_pEs_1745846057000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Shanghai - Ronda 2</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Salto Ecuestre</category>
+  <programme start="20250503214500 +0000" stop="20250504034500 +0000" channel="ckj2ugtfpm7xdk9b0dfl5bt79">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/174ck8bp4akru1nrydkqpwa0jz_image-header_pEs_1746116977000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Scull - Ring Magazine &amp; True Geordie Watchalong</title>
+    <desc lang="es">In association with Ring Magazine, watch the Powered by Fatal Fury: City of the Wolves fight night in Riyadh in the company of True Geordie.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
