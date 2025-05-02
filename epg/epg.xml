@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 02 00:30:16 2025">
+<tv date="Fri May 02 06:36:42 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1307,6 +1307,50 @@
   <channel id="8mv6lpc4im0uw98oejrkmhyt2">
     <display-name>8mv6lpc4im0uw98oejrkmhyt2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a5onlsgscbdz8z0o6j7pf666q_image-header_pEs_1745401847000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200709583c0ch20066">
+    <display-name>esp-e200709583c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200709623c0ch20068">
+    <display-name>esp-e200709623c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200709603c0ch20067">
+    <display-name>esp-e200709603c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200684001c0ch20001">
+    <display-name>esp-e200684001c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200690818c0ch20004">
+    <display-name>esp-e200690818c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200709543c0ch20070">
+    <display-name>esp-e200709543c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20070_4_200709543_20250416-100953.jpeg"/>
+  </channel>
+  <channel id="esp-e200709563c0ch20065">
+    <display-name>esp-e200709563c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200756827c0ch20066">
+    <display-name>esp-e200756827c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200756828c0ch20067">
+    <display-name>esp-e200756828c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200756829c0ch20068">
+    <display-name>esp-e200756829c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="esp-e200709643c0ch20069">
+    <display-name>esp-e200709643c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3269,5 +3313,71 @@
     <title lang="es">Etapa 5 - Golmayo - Lagunas de Neila</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250508120000 +0000" stop="20250508180000 +0000" channel="esp-e200709583c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour | Señal alternativa</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508124500 +0000" stop="20250508180000 +0000" channel="esp-e200709623c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Groups'/'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508130000 +0000" stop="20250508180000 +0000" channel="esp-e200709603c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508133000 +0000" stop="20250508153000 +0000" channel="esp-e200684001c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Boucles de l'Aulne  </title>
+    <desc lang="es">Masculino | Châteaulin</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250508133500 +0000" stop="20250508153500 +0000" channel="esp-e200690818c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">La Vuelta Femenina - Etapa 5</title>
+    <desc lang="es">Golmayo &gt; Lagunas de Neila (120,4 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250508140000 +0000" stop="20250508160000 +0000" channel="esp-e200709543c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20070_4_200709543_20250416-100953.jpeg"/>
+    <title lang="es">Myrtle Beach Classic - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="esp-e200709563c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="esp-e200756827c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="esp-e200756828c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="esp-e200756829c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="esp-e200709643c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+    <title lang="es">Truist Championship - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
