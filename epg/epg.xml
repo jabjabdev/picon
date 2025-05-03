@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 03 06:36:51 2025">
+<tv date="Sat May 03 12:30:15 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -372,14 +372,6 @@
     <display-name>cul10ammxqw4g0ax1go461sal</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2h0up6eq0t0vel0gq1zso1u3r_image-header_pEs_1745502984000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="7jxumyilf15aeu9kbhl9u8m7y">
-    <display-name>7jxumyilf15aeu9kbhl9u8m7y</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89vgbz2ac038a4rcg390fq77x_image-header_pEs_1744723799000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bn9q93sen6dpw051sz4y60p0l">
-    <display-name>bn9q93sen6dpw051sz4y60p0l</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8o89u1woay55i4pn14splzdta_image-header_pEs_1745250552000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="9pkgqgr61sv3gk8kcsmanrfh0">
     <display-name>9pkgqgr61sv3gk8kcsmanrfh0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6klge1pylsnvzg8w1123byr3u_image-header_pEs_1745243016000/fill/none/top/none/85/300/180/webp/image"/>
@@ -563,10 +555,6 @@
   <channel id="esp-e200570243c0ch20021">
     <display-name>esp-e200570243c0ch20021</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20021_4_200570243_20250407-104114.jpeg"/>
-  </channel>
-  <channel id="esp-e200695160c0ch20019">
-    <display-name>esp-e200695160c0ch20019</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200695160_20250409-214006.jpeg"/>
   </channel>
   <channel id="esp-e200651734c0ch20026">
     <display-name>esp-e200651734c0ch20026</display-name>
@@ -1368,6 +1356,14 @@
     <display-name>esp-e200709644c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
   </channel>
+  <channel id="7jxumyilf15aeu9kbhl9u8m7y">
+    <display-name>7jxumyilf15aeu9kbhl9u8m7y</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89vgbz2ac038a4rcg390fq77x_image-header_pEs_1744723799000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bn9q93sen6dpw051sz4y60p0l">
+    <display-name>bn9q93sen6dpw051sz4y60p0l</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8o89u1woay55i4pn14splzdta_image-header_pEs_1745250552000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Garcia vs. Romero</title>
@@ -1926,18 +1922,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250503091500 +0000" stop="20250503151500 +0000" channel="7jxumyilf15aeu9kbhl9u8m7y">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89vgbz2ac038a4rcg390fq77x_image-header_pEs_1744723799000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - Misano</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250503093000 +0000" stop="20250503133000 +0000" channel="bn9q93sen6dpw051sz4y60p0l">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8o89u1woay55i4pn14splzdta_image-header_pEs_1745250552000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Tour de Turquía - Etapa 7</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
   <programme start="20250503100000 +0000" stop="20250503123000 +0000" channel="9pkgqgr61sv3gk8kcsmanrfh0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6klge1pylsnvzg8w1123byr3u_image-header_pEs_1745243016000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">VCF Femenino - SD Eibar</title>
@@ -2213,12 +2197,6 @@
     <title lang="es">Campeonato del Mundo - Mónaco</title>
     <desc lang="es">Libres 1</desc>
     <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250503062000 +0000" stop="20250503081000 +0000" channel="esp-e200695160c0ch20019">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200695160_20250409-214006.jpeg"/>
-    <title lang="es">Global Champions League - Shanghai</title>
-    <desc lang="es">Saltos | 1ª Ronda</desc>
-    <category lang="es">Hípica</category>
   </programme>
   <programme start="20250503065500 +0000" stop="20250503073000 +0000" channel="esp-e200651734c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200651734_20250421-153826.jpeg"/>
@@ -3419,5 +3397,17 @@
     <title lang="es">Truist Championship - Día 2</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250503091500 +0000" stop="20250503151500 +0000" channel="7jxumyilf15aeu9kbhl9u8m7y">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/89vgbz2ac038a4rcg390fq77x_image-header_pEs_1744723799000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 1 - Misano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250503093000 +0000" stop="20250503133000 +0000" channel="bn9q93sen6dpw051sz4y60p0l">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8o89u1woay55i4pn14splzdta_image-header_pEs_1745250552000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tour de Turquía - Etapa 7</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
