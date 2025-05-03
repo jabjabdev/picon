@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 03 18:30:14 2025">
+<tv date="Sat May 03 18:32:03 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1344,9 +1344,9 @@
     <display-name>6yqiie6x3xln9lvhnj6062ira</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7drew8abvgqrzk15jf2lyq4gh_image-header_pEs_1729909532000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="dpvne9w3rtje1rzvbri0l0vxo">
-    <display-name>dpvne9w3rtje1rzvbri0l0vxo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1te6umlqiw4kv9oxf2ticbt6l_image-header_pEs_1745414877000/fill/none/top/none/85/300/180/webp/image"/>
+  <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
+    <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eov6sqvty8q1ecv3gvglefnw_image-header_pEs_1745658126000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3364,10 +3364,10 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250503160000 +0000" stop="20250503220000 +0000" channel="dpvne9w3rtje1rzvbri0l0vxo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1te6umlqiw4kv9oxf2ticbt6l_image-header_pEs_1745414877000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - ePrix Mónaco</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
+  <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eov6sqvty8q1ecv3gvglefnw_image-header_pEs_1745658126000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eubank Jr. vs. Benn</title>
+    <desc lang="es">Chris Eubank Jr. y Conor Benn finalmente pelearán el 26 de abril, encabezando el evento Fatal Fury: City of the Wolves de Ring Magazine.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
