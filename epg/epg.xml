@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 03 00:32:03 2025">
+<tv date="Sat May 03 06:30:14 2025">
   <channel id="6g9v8jvg4zyum7xgmb8v3ytrd">
     <display-name>6g9v8jvg4zyum7xgmb8v3ytrd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/300/180/webp/image"/>
@@ -367,10 +367,6 @@
   <channel id="esp-e200704495c0ch20006">
     <display-name>esp-e200704495c0ch20006</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_3_200704495_20250407-080943.jpeg"/>
-  </channel>
-  <channel id="56pzeifeqonpkzyqr0b6wtnv8">
-    <display-name>56pzeifeqonpkzyqr0b6wtnv8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/el0f1zu14i1bx7bcdbt2llr9h_image-header_pEs_1745405702000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cul10ammxqw4g0ax1go461sal">
     <display-name>cul10ammxqw4g0ax1go461sal</display-name>
@@ -1304,6 +1300,10 @@
     <display-name>f440qa6m4oxcnl5g9pwjuy9nu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/661urfqigy2o1jjqph84cs2cy_image-header_pEs_1746205426000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="56pzeifeqonpkzyqr0b6wtnv8">
+    <display-name>56pzeifeqonpkzyqr0b6wtnv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/el0f1zu14i1bx7bcdbt2llr9h_image-header_pEs_1745405702000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250502210000 +0000" stop="20250503030000 +0000" channel="6g9v8jvg4zyum7xgmb8v3ytrd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umrdh9gxxvn12u3xzee3959x_image-header_pEs_1744637471000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Garcia vs. Romero</title>
@@ -1856,12 +1856,6 @@
     <desc lang="es">Día 1</desc>
     <category lang="es">Atletismo</category>
   </programme>
-  <programme start="20250503000000 +0000" stop="20250503060000 +0000" channel="56pzeifeqonpkzyqr0b6wtnv8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/el0f1zu14i1bx7bcdbt2llr9h_image-header_pEs_1745405702000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - SpeedyCash.com 250</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250503085000 +0000" stop="20250503145000 +0000" channel="cul10ammxqw4g0ax1go461sal">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2h0up6eq0t0vel0gq1zso1u3r_image-header_pEs_1745502984000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Superpole -Acerbis Italian Round</title>
@@ -2144,7 +2138,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Atletismo</category>
   </programme>
-  <programme start="20250503015500 +0000" stop="20250503052500 +0000" channel="esp-e200597866c0ch20025">
+  <programme start="20250504015500 +0000" stop="20250504052500 +0000" channel="esp-e200597866c0ch20025">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_4_200597866_20250407-100043.jpeg"/>
     <title lang="es">Copa del Mundo - Bali</title>
     <desc lang="es">LEAD | Masculino y Femenino | Semifinales</desc>
@@ -3259,5 +3253,11 @@
     <title lang="es">Canelo vs. Scull - ShowBizz The Adult Watchalong</title>
     <desc lang="es">Enjoy all the action from the Powered by Fatal Fury: City of the Wolves fight night in Riyadh in the company of ShowBizz The Adult.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250503000000 +0000" stop="20250503060000 +0000" channel="56pzeifeqonpkzyqr0b6wtnv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/el0f1zu14i1bx7bcdbt2llr9h_image-header_pEs_1745405702000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera - SpeedyCash.com 250</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
