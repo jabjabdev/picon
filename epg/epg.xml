@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun May 04 18:31:18 2025">
+<tv date="Sun May 04 18:32:06 2025">
   <channel id="8ddc6fd4-3c39-4673-ee9d-08dd81789efd">
     <display-name>8ddc6fd4-3c39-4673-ee9d-08dd81789efd</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
@@ -1227,6 +1227,18 @@
   <channel id="esp-e200687006c0ch20010">
     <display-name>esp-e200687006c0ch20010</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200687006_20250425-075958.png"/>
+  </channel>
+  <channel id="iatdad1y08fv3hogmnl9n2ul">
+    <display-name>iatdad1y08fv3hogmnl9n2ul</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rxy454ya80vb1pc26blweluma_image-header_pEs_1744638130000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f440qa6m4oxcnl5g9pwjuy9nu">
+    <display-name>f440qa6m4oxcnl5g9pwjuy9nu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/661urfqigy2o1jjqph84cs2cy_image-header_pEs_1746205426000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1j7ymuh9ct71n30qkwtvgr4o2">
+    <display-name>1j7ymuh9ct71n30qkwtvgr4o2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eov6sqvty8q1ecv3gvglefnw_image-header_pEs_1745658126000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250501112500 +0000" stop="20250501180000 +0000" channel="8ddc6fd4-3c39-4673-ee9d-08dd81789efd">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
@@ -3069,5 +3081,23 @@
     <title lang="es">UFC 315 - Saint Denis - Álvarez + Muhammad - Della Maddalena</title>
     <desc lang="es">Velada Completa</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250503214500 +0000" stop="20250504034500 +0000" channel="iatdad1y08fv3hogmnl9n2ul">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rxy454ya80vb1pc26blweluma_image-header_pEs_1744638130000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Scull</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250503214500 +0000" stop="20250504034500 +0000" channel="f440qa6m4oxcnl5g9pwjuy9nu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/661urfqigy2o1jjqph84cs2cy_image-header_pEs_1746205426000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Scull - ShowBizz The Adult Watchalong</title>
+    <desc lang="es">Enjoy all the action from the Powered by Fatal Fury: City of the Wolves fight night in Riyadh in the company of ShowBizz The Adult.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250426160000 +0000" stop="20250426220000 +0000" channel="1j7ymuh9ct71n30qkwtvgr4o2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eov6sqvty8q1ecv3gvglefnw_image-header_pEs_1745658126000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eubank Jr. vs. Benn</title>
+    <desc lang="es">Chris Eubank Jr. y Conor Benn finalmente pelearán el 26 de abril, encabezando el evento Fatal Fury: City of the Wolves de Ring Magazine.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
