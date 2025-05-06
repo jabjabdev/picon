@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue May 06 00:30:13 2025">
+<tv date="Tue May 06 06:36:41 2025">
   <channel id="d20bd9c2-9b3e-4939-e789-08dd8181f6c6">
     <display-name>d20bd9c2-9b3e-4939-e789-08dd8181f6c6</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
@@ -1239,6 +1239,10 @@
   <channel id="d7bqh81t67yh7f9dg91robc44">
     <display-name>d7bqh81t67yh7f9dg91robc44</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4eb9nh621ngyym8so8ekci1e_image-header_pEs_1746186762000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200682183c0ch20026">
+    <display-name>esp-e200682183c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
   </channel>
   <programme start="20250502112500 +0000" stop="20250502180000 +0000" channel="d20bd9c2-9b3e-4939-e789-08dd8181f6c6">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
@@ -3099,5 +3103,11 @@
     <title lang="es">Atalanta - AS Roma</title>
     <desc lang="es">Vive el encuentro de Serie A entre Atalanta - AS Roma.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250512180000 +0000" stop="20250512210000 +0000" channel="esp-e200682183c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
+    <title lang="es">National British Championship - Gran Bretaña</title>
+    <desc lang="es">Día 2</desc>
+    <category lang="es">Speedway</category>
   </programme>
 </tv>
