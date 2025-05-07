@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed May 07 00:30:16 2025">
+<tv date="Wed May 07 06:36:48 2025">
   <channel id="b97b9111-d758-4fdd-6e04-08dd8178e3a5">
     <display-name>b97b9111-d758-4fdd-6e04-08dd8178e3a5</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
@@ -319,10 +319,6 @@
   <channel id="esp-e200690816c0ch20004">
     <display-name>esp-e200690816c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690816_20250330-150008.jpeg"/>
-  </channel>
-  <channel id="3va05pq69kw9y0uos46z34crd">
-    <display-name>3va05pq69kw9y0uos46z34crd</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/324gqolg6ojs16knbzyohoyio_image-header_pEs_1744721261000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1qefjb3jrl19wq3ph5y9rjori">
     <display-name>1qefjb3jrl19wq3ph5y9rjori</display-name>
@@ -1064,6 +1060,26 @@
     <display-name>9gtznjshafb86gci18ma5nnys</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2nwl820juj82gajjs4ox5dxp3_image-header_pEs_1746022896000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200721183c0ch20031">
+    <display-name>esp-e200721183c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200721183_20250506-124341.jpeg"/>
+  </channel>
+  <channel id="esp-e200723436c0ch20037">
+    <display-name>esp-e200723436c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723436_20250429-092417.jpeg"/>
+  </channel>
+  <channel id="esp-e200708087c0ch20001">
+    <display-name>esp-e200708087c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200722307c0ch20033">
+    <display-name>esp-e200722307c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200765076c0ch20069">
+    <display-name>esp-e200765076c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
+  </channel>
   <programme start="20250503135500 +0000" stop="20250503180000 +0000" channel="b97b9111-d758-4fdd-6e04-08dd8178e3a5">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/23/Toledo-Openjpg-111421.jpg"/>
     <title lang="es">Toledo Open 2025: Semifinales</title>
@@ -1543,12 +1559,6 @@
     <title lang="es">La Vuelta Femenina - Etapa 3</title>
     <desc lang="es">Barbastro &gt; Huesca (132,4 km)</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250506230000 +0000" stop="20250507030000 +0000" channel="3va05pq69kw9y0uos46z34crd">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/324gqolg6ojs16knbzyohoyio_image-header_pEs_1744721261000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NFL Offsides</title>
-    <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
-    <category lang="es">Fútbol Americano</category>
   </programme>
   <programme start="20250507133500 +0000" stop="20250507173500 +0000" channel="1qefjb3jrl19wq3ph5y9rjori">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aky5dpn9prbpeb6nd1njeamay_image-header_pEs_1745401413000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2658,6 +2668,36 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2nwl820juj82gajjs4ox5dxp3_image-header_pEs_1746022896000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sevilla FC - UD Las Palmas</title>
     <desc lang="es">Vive el encuentro de Primera División entre Sevilla FC - UD Las Palmas.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250513104500 +0000" stop="20250513154500 +0000" channel="esp-e200721183c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_6_200721183_20250506-124341.jpeg"/>
+    <title lang="es">Giro de Italia - Etapa 4</title>
+    <desc lang="es">Masculino | Alberobello &gt; Lecce (189 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250513105000 +0000" stop="20250513153500 +0000" channel="esp-e200723436c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723436_20250429-092417.jpeg"/>
+    <title lang="es">Giro de Italia - Etapa 4 - Versión Multipantalla</title>
+    <desc lang="es">Masculino | Alberobello &gt; Lecce (189 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250513130000 +0000" stop="20250513150000 +0000" channel="esp-e200708087c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Classique Dunkerque</title>
+    <desc lang="es">Masculino | Dunkerque &gt; Lens (193,8 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250513151500 +0000" stop="20250513154500 +0000" channel="esp-e200722307c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">La Montonera - Giro de Italia</title>
+    <desc lang="es">Etapa 4 | Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250513190000 +0000" stop="20250513220000 +0000" channel="esp-e200765076c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
+    <title lang="es">Sevilla FC - UD Las Palmas</title>
+    <desc lang="es">LaLiga</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
