@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 08 00:30:21 2025">
+<tv date="Thu May 08 06:36:53 2025">
   <channel id="67e76d61-51d8-4a32-736e-08dd81791c9a">
     <display-name>67e76d61-51d8-4a32-736e-08dd81791c9a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeaguePolissyalocalpng-153729.png"/>
@@ -943,6 +943,30 @@
   <channel id="4shhisj3ls5frq8yfwq7mfbo">
     <display-name>4shhisj3ls5frq8yfwq7mfbo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wqklzk8nf3c72xmm4mdp3lwc_image-header_pEs_1746193062000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200723437c0ch20037">
+    <display-name>esp-e200723437c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_3_200723437_20250507-081158.jpeg"/>
+  </channel>
+  <channel id="esp-e200721184c0ch20031">
+    <display-name>esp-e200721184c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721184_20250506-085233.jpeg"/>
+  </channel>
+  <channel id="esp-e200708150c0ch20002">
+    <display-name>esp-e200708150c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200708114c0ch20001">
+    <display-name>esp-e200708114c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200722308c0ch20033">
+    <display-name>esp-e200722308c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200765077c0ch20069">
+    <display-name>esp-e200765077c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_6_200765077_20250507-152204.jpeg"/>
   </channel>
   <programme start="20250504142500 +0000" stop="20250504170000 +0000" channel="67e76d61-51d8-4a32-736e-08dd81791c9a">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeaguePolissyalocalpng-153729.png"/>
@@ -2358,6 +2382,42 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wqklzk8nf3c72xmm4mdp3lwc_image-header_pEs_1746193062000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Final - AC Milan - Bologna</title>
     <desc lang="es">Disfruta en DAZN de la final de la Coppa Italia entre AC Milan - Bologna.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250514112500 +0000" stop="20250514153500 +0000" channel="esp-e200723437c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_3_200723437_20250507-081158.jpeg"/>
+    <title lang="es">Giro de Italia - Etapa 5 - Versión Multipantalla</title>
+    <desc lang="es">Masculino | Ceglie Messapica &gt; Matera (151 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250514113000 +0000" stop="20250514154500 +0000" channel="esp-e200721184c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721184_20250506-085233.jpeg"/>
+    <title lang="es">Giro de Italia - Etapa 5</title>
+    <desc lang="es">Masculino | Ceglie Messapica &gt; Matera (151 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250514130000 +0000" stop="20250514150000 +0000" channel="esp-e200708150c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour de Hungría - Etapa 1</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250514131500 +0000" stop="20250514150000 +0000" channel="esp-e200708114c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">4 días de Dunkerque - Etapa 1</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250514151500 +0000" stop="20250514154500 +0000" channel="esp-e200722308c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">La Montonera - Giro de Italia</title>
+    <desc lang="es">Etapa 5 | Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250514163000 +0000" stop="20250514193000 +0000" channel="esp-e200765077c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_6_200765077_20250507-152204.jpeg"/>
+    <title lang="es">Villarreal CF - CD Leganés</title>
+    <desc lang="es">LaLiga 2024/2025 | Jornada 36</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
