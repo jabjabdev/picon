@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 08 06:36:53 2025">
+<tv date="Thu May 08 12:30:19 2025">
   <channel id="67e76d61-51d8-4a32-736e-08dd81791c9a">
     <display-name>67e76d61-51d8-4a32-736e-08dd81791c9a</display-name>
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeaguePolissyalocalpng-153729.png"/>
@@ -968,6 +968,34 @@
     <display-name>esp-e200765077c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_6_200765077_20250507-152204.jpeg"/>
   </channel>
+  <channel id="8mz21gbvllr5llwi00bcwmuxg">
+    <display-name>8mz21gbvllr5llwi00bcwmuxg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746637009000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="63caz1mqxqv7q1pc8onxkdic4">
+    <display-name>63caz1mqxqv7q1pc8onxkdic4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gb3fw68hb2rpdy79ivshicq9_image-header_pEs_1746547798000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="70u5o4gtyme7b3uf6jt82ruok">
+    <display-name>70u5o4gtyme7b3uf6jt82ruok</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90i2oh7zy9kugnasdsja7sshh_image-header_pEs_1746563922000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8nl5uim3kqbfue7t2s7pdh250">
+    <display-name>8nl5uim3kqbfue7t2s7pdh250</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/augrftmac72firux6cn4zpaah_image-header_pEs_1746637009000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="71fa0bqgvndbos9b5tyv8hkic">
+    <display-name>71fa0bqgvndbos9b5tyv8hkic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/69vz0gh5iyxxh5pw74my0j2jc_image-header_pEs_1746563922000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7d0f6yfl8qav044ysvgv7ukgk">
+    <display-name>7d0f6yfl8qav044ysvgv7ukgk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cab7wb5hgn8zvopxbp5kgk5xb_image-header_pEs_1746613870000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9gza6a0r1vsllqxikwqhis07o">
+    <display-name>9gza6a0r1vsllqxikwqhis07o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aia5qnhc82l22b253i8mqgw8j_image-header_pEs_1746613888000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250504142500 +0000" stop="20250504170000 +0000" channel="67e76d61-51d8-4a32-736e-08dd81791c9a">
     <icon src="https://liga-llplus-statics.llt-services.com/llplus/vms-thumbnails/2025/04/22/UkrainianPremierLeagueOlexandriavisitorUkrainianPremierLeaguePolissyalocalpng-153729.png"/>
     <title lang="es">Polissya - Oleksandria</title>
@@ -1268,7 +1296,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250509110000 +0000" stop="20250509150000 +0000" channel="6i4at3yt206tow1aydcy1pbkr">
+  <programme start="20250509154500 +0000" stop="20250509194500 +0000" channel="6i4at3yt206tow1aydcy1pbkr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ek6qjfu2i4l3oqtnwv0ptd37u_image-header_pEs_1745402549000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 6 - Becerril de Campos - Baltanás</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -2418,6 +2446,48 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_6_200765077_20250507-152204.jpeg"/>
     <title lang="es">Villarreal CF - CD Leganés</title>
     <desc lang="es">LaLiga 2024/2025 | Jornada 36</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250510040500 +0000" stop="20250510073500 +0000" channel="8mz21gbvllr5llwi00bcwmuxg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746637009000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Alvark Tokyo - Chiba Jets</title>
+    <desc lang="es">El Alvark Tokyo se enfrenta al Chiba Jets en un duelo de la Liga B1 en el Coliseo Ariake el 10 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan mejorar su juego. ¿Será decisiva la ventaja de local para Tokyo? ¿O podrá Chiba alcanzar la victoria? ¡Fanáticos del baloncesto, prepárense para un choque electrizante!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250510060500 +0000" stop="20250510093500 +0000" channel="63caz1mqxqv7q1pc8onxkdic4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gb3fw68hb2rpdy79ivshicq9_image-header_pEs_1746547798000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ryukyu Golden Kings vs. Susanoo Magic</title>
+    <desc lang="es">¡Llega el gran partido! Ryukyu Golden Kings recibe a Susanoo Magic en un emocionante duelo de la Liga B1 en el Okinawa Arena el 10 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan destacar. ¿Quién se impondrá en este choque de baloncesto? ¡Consigue tus entradas para un espectáculo de clavadas!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250510080500 +0000" stop="20250510113500 +0000" channel="70u5o4gtyme7b3uf6jt82ruok">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90i2oh7zy9kugnasdsja7sshh_image-header_pEs_1746563922000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">NeoPhoenix vs. Gunma Crane Thunders</title>
+    <desc lang="es">Los Gunma Crane Thunders se enfrentan a NeoPhoenix en un crucial partido de la Liga B1. El 10 de mayo de 2025, en el Hamamatsu Arena, este choque promete acción emocionante mientras ambos equipos buscan destacar en la temporada 2024/25. ¿Podrá NeoPhoenix defender su cancha contra los visitantes? ¡No te pierdas este espectáculo de baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250511040500 +0000" stop="20250511073500 +0000" channel="8nl5uim3kqbfue7t2s7pdh250">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/augrftmac72firux6cn4zpaah_image-header_pEs_1746637009000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Alvark Tokyo - Chiba Jets</title>
+    <desc lang="es">Alvark Tokyo se enfrenta a Chiba Jets en un emocionante duelo de la Liga B1 en el Coliseo Ariake el 11 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan destacar. ¿Quién superará a su rival en este choque de alto nivel? Aficionados al baloncesto, ¡prepárense para un espectáculo trepidante!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250511100500 +0000" stop="20250511133500 +0000" channel="71fa0bqgvndbos9b5tyv8hkic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/69vz0gh5iyxxh5pw74my0j2jc_image-header_pEs_1746563922000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Utsunomiya Brex - SeaHorses Mikawa</title>
+    <desc lang="es">¡Se enfrentan en un duelo de baloncesto! Utsunomiya Brex se mide contra SeaHorses Mikawa en un emocionante choque de la B1 League. El Nikkan Arena vibrará el 11 de mayo de 2025 mientras estos equipos luchan por la supremacía. ¿Quién superará a su rival? ¡Prepárate para una acción trepidante en la cancha!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250511131500 +0000" stop="20250511154500 +0000" channel="7d0f6yfl8qav044ysvgv7ukgk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cab7wb5hgn8zvopxbp5kgk5xb_image-header_pEs_1746613870000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Olympique Lyonnais - Dijon</title>
+    <desc lang="es">El Olympique Lyonnais recibe al Dijon en el Stade des Lumières para un encuentro de la Première Ligue el 11 de mayo de 2025. Con la temporada 2024/25 en su punto álgido, ambos equipos buscan puntos. ¿Podrá Lyon defender su terreno o el Dijon dará la sorpresa? ¡Prepárate para una tarde de fútbol francés de primera!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250511190000 +0000" stop="20250511213000 +0000" channel="9gza6a0r1vsllqxikwqhis07o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aia5qnhc82l22b253i8mqgw8j_image-header_pEs_1746613888000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PSG - Paris FC</title>
+    <desc lang="es">El PSG recibe al Paris FC en un apasionante duelo de la Première Ligue en el Parc des Princes el 11 de mayo de 2025. Este derbi local promete acción intensa mientras ambos equipos buscan destacar en la temporada 2024/25. ¿Podrá el Paris FC dar la sorpresa ante sus ilustres vecinos? ¡No te pierdas este partido que podría cambiar la clasificación!</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
