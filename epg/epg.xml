@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 08 18:36:43 2025">
+<tv date="Fri May 09 00:30:16 2025">
   <channel id="esp-e200700013c0ch20078">
     <display-name>esp-e200700013c0ch20078</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200700013_20250409-212923.jpeg"/>
@@ -887,6 +887,26 @@
   <channel id="14dq9ww5ot92r9xdhlft8ee8q">
     <display-name>14dq9ww5ot92r9xdhlft8ee8q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/sxejxkdfybtz1svrm0eq9fkl1_image-header_pEs_1745927124000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="86v1tzfpyzgrn95013aofmop8">
+    <display-name>86v1tzfpyzgrn95013aofmop8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6h2ysdke49r7i13rng45m88a0_image-header_pEs_1745308390000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ht4wrcro8nsk6v85j5tqhkcl">
+    <display-name>3ht4wrcro8nsk6v85j5tqhkcl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4x6z3kv9uxtca2t1lro8gmsl5_image-header_pEs_1742889187000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="x4yz3yrwjey634269pe90z5f">
+    <display-name>x4yz3yrwjey634269pe90z5f</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/r8gmeq4cnwn91dj68phod5za1_image-header_pEs_1746538767000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9f5gojqhjfhmzdsacczb8olck">
+    <display-name>9f5gojqhjfhmzdsacczb8olck</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0jrjffbx6hk7jvtphmuo3l6v_image-header_pEs_1746022897000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="apu3m8wxh3jjookkfhwepcems">
+    <display-name>apu3m8wxh3jjookkfhwepcems</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r0olv6c4g591rj5wdaja29qt_image-header_pEs_1746526352000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250505114500 +0000" stop="20250505150000 +0000" channel="esp-e200700013c0ch20078">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_3_200700013_20250409-212923.jpeg"/>
@@ -2219,5 +2239,35 @@
     <title lang="es">Houston Hitmen vs. LA Elite &amp; Phoenix Fury vs. Las Vegas Hustle</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250515091500 +0000" stop="20250515131500 +0000" channel="86v1tzfpyzgrn95013aofmop8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6h2ysdke49r7i13rng45m88a0_image-header_pEs_1745308390000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 6 - Potenza - Napoli</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250515120000 +0000" stop="20250515180000 +0000" channel="3ht4wrcro8nsk6v85j5tqhkcl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4x6z3kv9uxtca2t1lro8gmsl5_image-header_pEs_1742889187000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - AWS GP del Made in Italy e dell 'Emilia-Romagna</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250515120000 +0000" stop="20250515180000 +0000" channel="x4yz3yrwjey634269pe90z5f">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/r8gmeq4cnwn91dj68phod5za1_image-header_pEs_1746538767000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fisher vs. Allen II - Press Conference</title>
+    <desc lang="es">Rueda de prensa</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250515163000 +0000" stop="20250515190000 +0000" channel="9f5gojqhjfhmzdsacczb8olck">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0jrjffbx6hk7jvtphmuo3l6v_image-header_pEs_1746022897000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rayo Vallecano - Real Betis</title>
+    <desc lang="es">Vive el encuentro de Primera División entre Rayo Vallecano y Real Betis.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250515184500 +0000" stop="20250515211500 +0000" channel="apu3m8wxh3jjookkfhwepcems">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r0olv6c4g591rj5wdaja29qt_image-header_pEs_1746526352000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rochdale - Southend</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
