@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 10 00:30:23 2025">
+<tv date="Sat May 10 06:30:34 2025">
   <channel id="esp-e200690816c0ch20004">
     <display-name>esp-e200690816c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690816_20250330-150008.jpeg"/>
@@ -148,21 +148,9 @@
     <display-name>7g765gs18apai71ue5vd1aboo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19wlctjvr1v71st1kbp767i0w_image-header_pEs_1741795937000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="a5iejgghcva3k64m9gv9d1bqs">
-    <display-name>a5iejgghcva3k64m9gv9d1bqs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14e2x928wt1qm1d02ujtqa1sgl_image-header_pEs_1745933607000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="a9beyy7kq097udg0i2k4gsqxe">
-    <display-name>a9beyy7kq097udg0i2k4gsqxe</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6qq42nymzj1hvicl3r35h343r_image-header_pEs_1744548125000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="e15tvoyufn3mk0batxm3p1qu6">
     <display-name>e15tvoyufn3mk0batxm3p1qu6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wiucui45k7ac1g24ac3cxkqnx_image-header_pEs_1744213306000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e0h7fapuihsn51u6i3f58w7o">
-    <display-name>e0h7fapuihsn51u6i3f58w7o</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78iznmsouzioa19mgwbguey9z_image-header_pEs_1744702658000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1kbqzpgnjcljbh90g8ihjt89g">
     <display-name>1kbqzpgnjcljbh90g8ihjt89g</display-name>
@@ -776,10 +764,6 @@
     <display-name>esp-e200765077c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_6_200765077_20250507-152204.jpeg"/>
   </channel>
-  <channel id="8mz21gbvllr5llwi00bcwmuxg">
-    <display-name>8mz21gbvllr5llwi00bcwmuxg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746637009000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="63caz1mqxqv7q1pc8onxkdic4">
     <display-name>63caz1mqxqv7q1pc8onxkdic4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gb3fw68hb2rpdy79ivshicq9_image-header_pEs_1746547798000/fill/none/top/none/85/300/180/webp/image"/>
@@ -959,6 +943,14 @@
   <channel id="ax3wc5n6n5569q9r73g0l8yep">
     <display-name>ax3wc5n6n5569q9r73g0l8yep</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dfvm03yik7c5ra0bqcxkjw36q_image-header_pEs_1732640551000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e0h7fapuihsn51u6i3f58w7o">
+    <display-name>e0h7fapuihsn51u6i3f58w7o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78iznmsouzioa19mgwbguey9z_image-header_pEs_1744702658000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8mz21gbvllr5llwi00bcwmuxg">
+    <display-name>8mz21gbvllr5llwi00bcwmuxg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746690259000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250506133500 +0000" stop="20250506153500 +0000" channel="esp-e200690816c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200690816_20250330-150008.jpeg"/>
@@ -1182,29 +1174,11 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250510000000 +0000" stop="20250510060000 +0000" channel="a5iejgghcva3k64m9gv9d1bqs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14e2x928wt1qm1d02ujtqa1sgl_image-header_pEs_1745933607000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Dominguez vs. Rodriguez</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250510000000 +0000" stop="20250510060000 +0000" channel="a9beyy7kq097udg0i2k4gsqxe">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6qq42nymzj1hvicl3r35h343r_image-header_pEs_1744548125000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">TC Gemini - Denver Onyx</title>
-    <desc lang="es">Vive el encuentro de Women's Elite Rugby entre Denver Onyx y TC Gemini.</desc>
-    <category lang="es">Rugby</category>
-  </programme>
   <programme start="20250510003000 +0000" stop="20250510063000 +0000" channel="e15tvoyufn3mk0batxm3p1qu6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wiucui45k7ac1g24ac3cxkqnx_image-header_pEs_1744213306000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Pero vs. Navarro</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250510020500 +0000" stop="20250510080500 +0000" channel="e0h7fapuihsn51u6i3f58w7o">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78iznmsouzioa19mgwbguey9z_image-header_pEs_1744702658000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - Tasmania Super 440</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250510055500 +0000" stop="20250510115500 +0000" channel="1kbqzpgnjcljbh90g8ihjt89g">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aqzpgmhv4yxxeffby1akjea5r_image-header_pEs_1744702659000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2124,12 +2098,6 @@
     <desc lang="es">LaLiga 2024/2025 | Jornada 36</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250510040500 +0000" stop="20250510073500 +0000" channel="8mz21gbvllr5llwi00bcwmuxg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746637009000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Alvark Tokyo - Chiba Jets</title>
-    <desc lang="es">El Alvark Tokyo se enfrenta al Chiba Jets en un duelo de la Liga B1 en el Coliseo Ariake el 10 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan mejorar su juego. ¿Será decisiva la ventaja de local para Tokyo? ¿O podrá Chiba alcanzar la victoria? ¡Fanáticos del baloncesto, prepárense para un choque electrizante!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20250510060500 +0000" stop="20250510093500 +0000" channel="63caz1mqxqv7q1pc8onxkdic4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4gb3fw68hb2rpdy79ivshicq9_image-header_pEs_1746547798000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ryukyu Golden Kings vs. Susanoo Magic</title>
@@ -2399,5 +2367,17 @@
     <title lang="es">HOKA Ultra - Trail Australia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250510020500 +0000" stop="20250510080500 +0000" channel="e0h7fapuihsn51u6i3f58w7o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78iznmsouzioa19mgwbguey9z_image-header_pEs_1744702658000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 1 - Tasmania Super 440</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250510040500 +0000" stop="20250510073500 +0000" channel="8mz21gbvllr5llwi00bcwmuxg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/925ij5k5tkq8pgooaz2o95cq2_image-header_pEs_1746690259000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Alvark Tokyo - Chiba Jets</title>
+    <desc lang="es">El Alvark Tokyo se enfrenta al Chiba Jets en un duelo de la Liga B1 en el Coliseo Ariake el 10 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan mejorar su juego. ¿Será decisiva la ventaja de local para Tokyo? ¿O podrá Chiba alcanzar la victoria? ¡Fanáticos del baloncesto, prepárense para un choque electrizante!</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
