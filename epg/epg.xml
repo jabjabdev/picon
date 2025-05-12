@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon May 12 06:36:48 2025">
+<tv date="Mon May 12 12:36:43 2025">
   <channel id="esp-e200709583c0ch20066">
     <display-name>esp-e200709583c0ch20066</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
@@ -355,18 +355,6 @@
   <channel id="esp-e200765076c0ch20069">
     <display-name>esp-e200765076c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
-  </channel>
-  <channel id="72m1rlflfn0liby38wkwldses">
-    <display-name>72m1rlflfn0liby38wkwldses</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dibtvevyu88esjtpfaftkiq53_image-header_pEs_1746563922000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="73771tnk4vy18jxdrq2r6cr2s">
-    <display-name>73771tnk4vy18jxdrq2r6cr2s</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a6unk36i4zop5ommusdvxdhjg_image-header_pEs_1746563922000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="63yifamsvyqfxbvmyfxzwyal0">
-    <display-name>63yifamsvyqfxbvmyfxzwyal0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awjvpm5ituw8725w4nmfou50s_image-header_pEs_1746547798000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1wfs0o1qb9h5o3mgoqwce9hdv">
     <display-name>1wfs0o1qb9h5o3mgoqwce9hdv</display-name>
@@ -1080,6 +1068,14 @@
     <display-name>esp-e200650577c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200650577_20250420-141504.jpeg"/>
   </channel>
+  <channel id="esp-e200770347c0ch20021">
+    <display-name>esp-e200770347c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
+  </channel>
+  <channel id="esp-e200770348c0ch20021">
+    <display-name>esp-e200770348c0ch20021</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
+  </channel>
   <programme start="20250508150000 +0000" stop="20250508180000 +0000" channel="esp-e200709583c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">Truist Championship - Día 1</title>
@@ -1613,24 +1609,6 @@
     <title lang="es">Sevilla FC - UD Las Palmas</title>
     <desc lang="es">LaLiga</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250512100500 +0000" stop="20250512133500 +0000" channel="72m1rlflfn0liby38wkwldses">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dibtvevyu88esjtpfaftkiq53_image-header_pEs_1746563922000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Utsunomiya Brex - SeaHorses Mikawa</title>
-    <desc lang="es">¡La pelota está en su cancha! SeaHorses Mikawa visita a Utsunomiya Brex en un emocionante duelo de la Liga B1 el 12 de mayo de 2025. El Nikkan Arena albergará este choque mientras ambos equipos buscan destacar en la temporada 2024/25. ¿Quién ganará este partido crucial? ¡No te pierdas esta fiesta del baloncesto!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250512100500 +0000" stop="20250512133500 +0000" channel="73771tnk4vy18jxdrq2r6cr2s">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a6unk36i4zop5ommusdvxdhjg_image-header_pEs_1746563922000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NeoPhoenix - Gunma Crane Thunders</title>
-    <desc lang="es">NeoPhoenix se enfrenta a Gunma Crane Thunders en un emocionante partido de la Liga B1 en el Hamamatsu Arena el 12 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscarán una victoria crucial. ¿Quién saldrá victorioso en este duelo de baloncesto? ¡Asegura tu asiento para un partido inolvidable!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250512103500 +0000" stop="20250512140500 +0000" channel="63yifamsvyqfxbvmyfxzwyal0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awjvpm5ituw8725w4nmfou50s_image-header_pEs_1746547798000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ryukyu Golden Kings - Susanoo Magic</title>
-    <desc lang="es">El Susanoo Magic viaja al Okinawa Arena para un emocionante duelo de la Liga B1 contra los Ryukyu Golden Kings el 12 de mayo de 2025. La temporada 2024/25 se calienta con este enfrentamiento de titanes. ¿Podrán los Golden Kings defender su cancha o el Magic hechizará a sus rivales? ¡No te pierdas este espectáculo de baloncesto!</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250513230000 +0000" stop="20250514030000 +0000" channel="1wfs0o1qb9h5o3mgoqwce9hdv">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4bqx3ulsuce21maabe4u7uo4j_image-header_pEs_1744721261000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2699,5 +2677,17 @@
     <title lang="es">Copa del Mundo - Curitiba</title>
     <desc lang="es">Femenino Búlder | Final</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250517121000 +0000" stop="20250517174500 +0000" channel="esp-e200770347c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
+    <title lang="es">BSB - Donington Park</title>
+    <desc lang="es"/>
+    <category lang="es">Superbike</category>
+  </programme>
+  <programme start="20250518092000 +0000" stop="20250518170000 +0000" channel="esp-e200770348c0ch20021">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
+    <title lang="es">BSB - Donington Park</title>
+    <desc lang="es"/>
+    <category lang="es">Superbike</category>
   </programme>
 </tv>
