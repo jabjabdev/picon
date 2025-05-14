@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed May 14 18:36:55 2025">
+<tv date="Thu May 15 00:30:17 2025">
   <channel id="esp-e200723434c0ch20037">
     <display-name>esp-e200723434c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
@@ -163,10 +163,6 @@
   <channel id="9h8f73snu15mi2ajd09ybiz9w">
     <display-name>9h8f73snu15mi2ajd09ybiz9w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4arvkxdsvblyhpzglbj61dzq1_image-header_pEs_1746022896000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="apdh4tpmrtz03i3ovl8tsi13o">
-    <display-name>apdh4tpmrtz03i3ovl8tsi13o</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qba120jgi7rx1m2k9el59ziyt_image-header_pEs_1746524700000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9gd2pazo2arjtxyhatgsbotg4">
     <display-name>9gd2pazo2arjtxyhatgsbotg4</display-name>
@@ -1588,6 +1584,22 @@
     <display-name>7ug5l969eghbo74ps9pdut8xh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1724vldqjz5to15knsab9uc3hi_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="44skjg7bgh4p7ropanejx1puc">
+    <display-name>44skjg7bgh4p7ropanejx1puc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9npsxq4uco6mr99slvv9zn3vj_image-header_pEs_1747218376000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1o98mnck7hrthdge155jatr4p">
+    <display-name>1o98mnck7hrthdge155jatr4p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6906jkkly611i65trejby4uj_image-header_pEs_1744721261000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6zrl778qujiv8r1k9p43ftgt3">
+    <display-name>6zrl778qujiv8r1k9p43ftgt3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cncnwk1mr9q51mremn6njlhw_image-header_pEs_1745310753000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5ldhu3dtgeaolu6ksr1qyzbli">
+    <display-name>5ldhu3dtgeaolu6ksr1qyzbli</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ht9jdvxdxsja3n1100j6blhz_image-header_pEs_1744224012000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250510112400 +0000" stop="20250510154500 +0000" channel="esp-e200723434c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
     <title lang="es">Giro de Italia - Etapa 2 - Versión Multipantalla</title>
@@ -1832,12 +1844,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4arvkxdsvblyhpzglbj61dzq1_image-header_pEs_1746022896000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Villarreal CF - CD Leganés</title>
     <desc lang="es">Vive el encuentro de Primera División entre Villarreal CF - CD Leganés.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250514184500 +0000" stop="20250514211500 +0000" channel="apdh4tpmrtz03i3ovl8tsi13o">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qba120jgi7rx1m2k9el59ziyt_image-header_pEs_1746524700000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Oldham - FC Halifax Town</title>
-    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250514190000 +0000" stop="20250514213000 +0000" channel="9gd2pazo2arjtxyhatgsbotg4">
@@ -3969,5 +3975,29 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 27</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250517060500 +0000" stop="20250517093500 +0000" channel="44skjg7bgh4p7ropanejx1puc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9npsxq4uco6mr99slvv9zn3vj_image-header_pEs_1747218376000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Utsunomiya Brex - Chiba Jets</title>
+    <desc lang="es">Utsunomiya Brex se prepara para enfrentar a Chiba Jets en un emocionante duelo de la B1 League el 17 de mayo de 2025. El Nikkan Arena será sede de este choque mientras ambos equipos buscan destacar en la temporada 2024/25. ¿Quién saldrá victorioso en este crucial encuentro? ¡Prepárate para un espectáculo de baloncesto imperdible!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250520230000 +0000" stop="20250521030000 +0000" channel="1o98mnck7hrthdge155jatr4p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6906jkkly611i65trejby4uj_image-header_pEs_1744721261000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">NFL Offsides</title>
+    <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250521100000 +0000" stop="20250521140000 +0000" channel="6zrl778qujiv8r1k9p43ftgt3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cncnwk1mr9q51mremn6njlhw_image-header_pEs_1745310753000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 11 - Viareggio - Castelnovo Ne' Monti</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250521170000 +0000" stop="20250521193000 +0000" channel="5ldhu3dtgeaolu6ksr1qyzbli">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ht9jdvxdxsja3n1100j6blhz_image-header_pEs_1744224012000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 1 - World Sevens</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
