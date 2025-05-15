@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 15 12:36:53 2025">
+<tv date="Thu May 15 18:30:14 2025">
   <channel id="esp-e200682183c0ch20026">
     <display-name>esp-e200682183c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
@@ -1715,6 +1715,18 @@
   <channel id="86v1tzfpyzgrn95013aofmop8">
     <display-name>86v1tzfpyzgrn95013aofmop8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6h2ysdke49r7i13rng45m88a0_image-header_pEs_1745308390000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="en1f319eblq7l3bhuqqizdeph">
+    <display-name>en1f319eblq7l3bhuqqizdeph</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7v76uzkfhfssw0334hdvc06cv_image-header_pEs_1746128572000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="460xp1xi0pl71yx2nnv0r5rmc">
+    <display-name>460xp1xi0pl71yx2nnv0r5rmc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8btbz8aibrtg8ftq37p7i60an_image-header_pEs_1747218376000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="47vkn7mib7b4hctk9gl8lzaqc">
+    <display-name>47vkn7mib7b4hctk9gl8lzaqc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b80qifungy6prcz4xdbh6nik6_image-header_pEs_1747218376000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250512180000 +0000" stop="20250512210000 +0000" channel="esp-e200682183c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
@@ -4289,5 +4301,23 @@
     <title lang="es">Etapa 6 - Potenza - Napoli</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250515191500 +0000" stop="20250515214500 +0000" channel="en1f319eblq7l3bhuqqizdeph">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7v76uzkfhfssw0334hdvc06cv_image-header_pEs_1746128572000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RCD Espanyol - FC Barcelona - Influencer Wars</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250519100500 +0000" stop="20250519133500 +0000" channel="460xp1xi0pl71yx2nnv0r5rmc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8btbz8aibrtg8ftq37p7i60an_image-header_pEs_1747218376000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Utsunomiya Brex - Chiba Jets</title>
+    <desc lang="es">Utsunomiya Brex se enfrenta a Chiba Jets en un emocionante duelo de la B1 League el 19 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, estos gigantes del baloncesto lucharán por puntos cruciales. ¿Quién superará a su rival en tiros, rebotes y juego? ¡No te pierdas este partido lleno de acción!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250519100500 +0000" stop="20250519133500 +0000" channel="47vkn7mib7b4hctk9gl8lzaqc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b80qifungy6prcz4xdbh6nik6_image-header_pEs_1747218376000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">NeoPhoenix - Ryukyu Golden Kings</title>
+    <desc lang="es">NeoPhoenix se enfrenta a Ryukyu Golden Kings en un emocionante choque de la B1 League el 19 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan destacar. ¿Será decisiva la ventaja de local para NeoPhoenix, o los Golden Kings lograrán la victoria? ¡Aficionados al baloncesto, no se pierdan este enfrentamiento!</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
