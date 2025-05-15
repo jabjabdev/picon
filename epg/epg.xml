@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 15 18:30:14 2025">
+<tv date="Thu May 15 18:37:00 2025">
   <channel id="esp-e200682183c0ch20026">
     <display-name>esp-e200682183c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
@@ -1727,6 +1727,14 @@
   <channel id="47vkn7mib7b4hctk9gl8lzaqc">
     <display-name>47vkn7mib7b4hctk9gl8lzaqc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b80qifungy6prcz4xdbh6nik6_image-header_pEs_1747218376000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200708991c0ch20005">
+    <display-name>esp-e200708991c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200708991_20250430-101311.jpeg"/>
+  </channel>
+  <channel id="esp-e200708990c0ch20005">
+    <display-name>esp-e200708990c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200708990_20250430-101950.jpeg"/>
   </channel>
   <programme start="20250512180000 +0000" stop="20250512210000 +0000" channel="esp-e200682183c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200682183_20250414-131042.jpeg"/>
@@ -4319,5 +4327,17 @@
     <title lang="es">NeoPhoenix - Ryukyu Golden Kings</title>
     <desc lang="es">NeoPhoenix se enfrenta a Ryukyu Golden Kings en un emocionante choque de la B1 League el 19 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscan destacar. ¿Será decisiva la ventaja de local para NeoPhoenix, o los Golden Kings lograrán la victoria? ¡Aficionados al baloncesto, no se pierdan este enfrentamiento!</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250518092500 +0000" stop="20250518095500 +0000" channel="esp-e200708991c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200708991_20250430-101311.jpeg"/>
+    <title lang="es">UCI Mountain Bike World Series - Bielsko-Biała</title>
+    <desc lang="es">Descenso | Femenino | Júnior</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250518095500 +0000" stop="20250518104500 +0000" channel="esp-e200708990c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200708990_20250430-101950.jpeg"/>
+    <title lang="es">UCI Mountain Bike World Series - Bielsko-Biała</title>
+    <desc lang="es">Descenso | Masculino | Júnior</desc>
+    <category lang="es">Mountain Bike</category>
   </programme>
 </tv>
