@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun May 18 12:30:51 2025">
+<tv date="Sun May 18 12:37:24 2025">
   <channel id="esp-e200721185c0ch20031">
     <display-name>esp-e200721185c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721185_20250506-085841.jpeg"/>
@@ -215,10 +215,6 @@
   <channel id="2463q35ox32pn2k9nbod3zh88">
     <display-name>2463q35ox32pn2k9nbod3zh88</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i016hsgs8criqchmsjjmfha1_image-header_pEs_1746701172000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esf80k9dljvbpm7llpbt20ro7">
-    <display-name>esf80k9dljvbpm7llpbt20ro7</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vx39cfob301x8p1vc58qctm0_image-header_pEs_1747472876000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="clup41hebhnvvtwj3qzooe3e">
     <display-name>clup41hebhnvvtwj3qzooe3e</display-name>
@@ -1880,10 +1876,6 @@
     <display-name>45ewzqarwzt87dwrerz9t1638</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exniybt2yivv7la70o60goq93_image-header_pEs_1747389630000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="dvur144fddh9qo4sox0jk09jb">
-    <display-name>dvur144fddh9qo4sox0jk09jb</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b5qva6xgw9iq3z6y8e4kncny_image-header_pEs_1746533166000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <programme start="20250515091500 +0000" stop="20250515154500 +0000" channel="esp-e200721185c0ch20031">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721185_20250506-085841.jpeg"/>
     <title lang="es">Giro de Italia - Etapa 6</title>
@@ -2207,12 +2199,6 @@
     <title lang="es">Carrera 2 - Motul Czech Round</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518103000 +0000" stop="20250518143000 +0000" channel="esf80k9dljvbpm7llpbt20ro7">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vx39cfob301x8p1vc58qctm0_image-header_pEs_1747472876000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Etapa 9 - Gubbio - Siena</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20250518110000 +0000" stop="20250518170000 +0000" channel="clup41hebhnvvtwj3qzooe3e">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajrobb5u98vpide3nm8x0wfke_image-header_pEs_1741342079000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4703,11 +4689,5 @@
     <title lang="es">Utsunomiya Brex - Chiba Jets</title>
     <desc lang="es">¡Choque de titanes! Chiba Jets visita a Utsunomiya Brex en un enfrentamiento de la B1 League 2024/25 el 18 de mayo de 2025. Con ambos equipos buscando la victoria, ¿quién saldrá victorioso en esta batalla de baloncesto? ¿Podrá Utsunomiya defender su cancha o Chiba alcanzará nuevas alturas? ¡Prepárate para un espectáculo de básquet!</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250518101500 +0000" stop="20250518161500 +0000" channel="dvur144fddh9qo4sox0jk09jb">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b5qva6xgw9iq3z6y8e4kncny_image-header_pEs_1746533166000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Top 32 I Madrid Drift Masters</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes Extremos</category>
   </programme>
 </tv>
