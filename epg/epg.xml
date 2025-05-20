@@ -1,105 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue May 20 06:37:14 2025">
-  <channel id="esp-e200721185c0ch20031">
-    <display-name>esp-e200721185c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721185_20250506-085841.jpeg"/>
-  </channel>
-  <channel id="esp-e200723438c0ch20037">
-    <display-name>esp-e200723438c0ch20037</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723438_20250429-103609.jpeg"/>
-  </channel>
-  <channel id="esp-e200708151c0ch20002">
-    <display-name>esp-e200708151c0ch20002</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200708151_20250429-104317.jpeg"/>
-  </channel>
-  <channel id="esp-e200708115c0ch20001">
-    <display-name>esp-e200708115c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200708115_20250429-104956.jpeg"/>
-  </channel>
-  <channel id="esp-e200722309c0ch20033">
-    <display-name>esp-e200722309c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200722309_20250508-110409.jpeg"/>
-  </channel>
-  <channel id="esp-e200709523c0ch20069">
-    <display-name>esp-e200709523c0ch20069</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_4_200709523_20250416-103317.jpeg"/>
-  </channel>
-  <channel id="esp-e200596082c0ch20023">
-    <display-name>esp-e200596082c0ch20023</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596082_20250503-160554.jpeg"/>
-  </channel>
-  <channel id="esp-e200709109c0ch20024">
-    <display-name>esp-e200709109c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709109_20250503-163149.jpeg"/>
-  </channel>
-  <channel id="esp-e200721186c0ch20031">
-    <display-name>esp-e200721186c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721186_20250506-090314.jpeg"/>
-  </channel>
-  <channel id="esp-e200708231c0ch20003">
-    <display-name>esp-e200708231c0ch20003</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200708231_20250429-125252.jpeg"/>
-  </channel>
-  <channel id="esp-e200723439c0ch20037">
-    <display-name>esp-e200723439c0ch20037</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723439_20250429-112239.jpeg"/>
-  </channel>
-  <channel id="esp-e200709111c0ch20024">
-    <display-name>esp-e200709111c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_2_200709111_20250503-165009.jpeg"/>
-  </channel>
-  <channel id="esp-e200709110c0ch20024">
-    <display-name>esp-e200709110c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709110_20250503-163739.jpeg"/>
-  </channel>
-  <channel id="esp-e200708152c0ch20002">
-    <display-name>esp-e200708152c0ch20002</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200708152_20250429-130221.jpeg"/>
-  </channel>
-  <channel id="esp-e200654248c0ch20028">
-    <display-name>esp-e200654248c0ch20028</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_2_200654248_20250503-162602.jpeg"/>
-  </channel>
-  <channel id="esp-e200729559c0ch20025">
-    <display-name>esp-e200729559c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200729559_20250503-153227.jpeg"/>
-  </channel>
-  <channel id="esp-e200708116c0ch20001">
-    <display-name>esp-e200708116c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200708116_20250429-131645.jpeg"/>
-  </channel>
-  <channel id="esp-e200709112c0ch20024">
-    <display-name>esp-e200709112c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709112_20250503-170337.jpeg"/>
-  </channel>
-  <channel id="esp-e200722310c0ch20033">
-    <display-name>esp-e200722310c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200722310_20250509-142331.jpeg"/>
-  </channel>
-  <channel id="esp-e200729560c0ch20025">
-    <display-name>esp-e200729560c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200729560_20250503-153421.jpeg"/>
-  </channel>
-  <channel id="esp-e200709524c0ch20069">
-    <display-name>esp-e200709524c0ch20069</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_2_200709524_20250503-170704.jpeg"/>
-  </channel>
-  <channel id="esp-e200596083c0ch20023">
-    <display-name>esp-e200596083c0ch20023</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596083_20250503-161522.jpeg"/>
-  </channel>
-  <channel id="esp-e200596084c0ch20023">
-    <display-name>esp-e200596084c0ch20023</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596084_20250503-162100.jpeg"/>
-  </channel>
-  <channel id="esp-e200596085c0ch20023">
-    <display-name>esp-e200596085c0ch20023</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200596085_20250504-185450.jpeg"/>
-  </channel>
-  <channel id="esp-e200709259c0ch20026">
-    <display-name>esp-e200709259c0ch20026</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200709259_20250504-142811.jpeg"/>
-  </channel>
+<tv date="Tue May 20 12:37:05 2025">
   <channel id="esp-e200717746c0ch20004">
     <display-name>esp-e200717746c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200717746_20250417-085356.jpeg"/>
@@ -163,86 +63,6 @@
   <channel id="esp-e200596086c0ch20023">
     <display-name>esp-e200596086c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200596086_20250509-082737.png"/>
-  </channel>
-  <channel id="cob2eff742nir78ywr74s8i95">
-    <display-name>cob2eff742nir78ywr74s8i95</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17d96o4a7n4taorxyeqwuqgt9_image-header_pEs_1745328360000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2sjgihj5mya3xm6ouj0tq3ppo">
-    <display-name>2sjgihj5mya3xm6ouj0tq3ppo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a54daewcyz4ic5vzyviqvax1u_image-header_pEs_1745332104000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8neaceh9lrbzs1xuckvsu5zy3">
-    <display-name>8neaceh9lrbzs1xuckvsu5zy3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dcj62nfv4wz442cpzztraf3nh_image-header_pEs_1746701009000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dx4rpetszydb90ur1qw8b63kg">
-    <display-name>dx4rpetszydb90ur1qw8b63kg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b15ynshy3xc9u0p4cfw5rtn9_image-header_pEs_1746532717000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9twvp8tmwgrpb10uphtxditck">
-    <display-name>9twvp8tmwgrpb10uphtxditck</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2gsvfl2rj7b6dmwqfqc68tgr2_image-header_pEs_1746524773000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9uu8apw0rqj3t11e7seqtti50">
-    <display-name>9uu8apw0rqj3t11e7seqtti50</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awihq1c9gvse3crebd8whj30n_image-header_pEs_1746524926000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9vpf9bznql4zh78p0fqulw9p0">
-    <display-name>9vpf9bznql4zh78p0fqulw9p0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5gtezfbvrokq38z1zeyv5gmmp_image-header_pEs_1746526114000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9ucv5jkl16w7dxl3pvbvn8g0k">
-    <display-name>9ucv5jkl16w7dxl3pvbvn8g0k</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qesqzl064ahvq7bhle5dsuwv_image-header_pEs_1746995124000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9v9te8javxwhfg92ins8xwv10">
-    <display-name>9v9te8javxwhfg92ins8xwv10</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k9ooyvbeom5zlwylotyl31tf_image-header_pEs_1746525057000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9w5kgwwm56rxbbwyp5jslwkr8">
-    <display-name>9w5kgwwm56rxbbwyp5jslwkr8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36fatf8wb2t3swbslq4g06paq_image-header_pEs_1746525944000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9wl3no960khbo5pemkiamzor8">
-    <display-name>9wl3no960khbo5pemkiamzor8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nqnasw9em8y6c7tjpl8zu7pc_image-header_pEs_1746525772000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9x0pi6sr90md0jr18i3gxml90">
-    <display-name>9x0pi6sr90md0jr18i3gxml90</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c8bi26womt6fdgtbz5qrwy6ch_image-header_pEs_1746525402000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2463q35ox32pn2k9nbod3zh88">
-    <display-name>2463q35ox32pn2k9nbod3zh88</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i016hsgs8criqchmsjjmfha1_image-header_pEs_1746701172000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="clup41hebhnvvtwj3qzooe3e">
-    <display-name>clup41hebhnvvtwj3qzooe3e</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajrobb5u98vpide3nm8x0wfke_image-header_pEs_1741342079000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e2frv3kvg7kam9foy78f20x78">
-    <display-name>e2frv3kvg7kam9foy78f20x78</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8oriv5iqpt9mxuwbit83ewr0c_image-header_pEs_1746532116000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e3oqa9sus396yvhmsjizo65n8">
-    <display-name>e3oqa9sus396yvhmsjizo65n8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/drp5gpvno8zol736bwi7z0mj9_image-header_pEs_1746529924000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e0tm7y3de4k220nsydyqbazo4">
-    <display-name>e0tm7y3de4k220nsydyqbazo4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bq668gvmmr4yteafet3qkoqf_image-header_pEs_1746530069000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e2u2srswpw0c62wls2tmcqfpw">
-    <display-name>e2u2srswpw0c62wls2tmcqfpw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4q58kebhmype8eetdygjoj6x9_image-header_pEs_1746530569000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e00tqapdtzxl61y696425zyfo">
-    <display-name>e00tqapdtzxl61y696425zyfo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4h5rie316fo4qk8voqr9pq2cz_image-header_pEs_1746531590000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e6fxifsclkl74l29fda1hcs92">
-    <display-name>e6fxifsclkl74l29fda1hcs92</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wmhs6x1765brh2xgnlgg6ozi_image-header_pEs_1738017732000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200596087c0ch20023">
     <display-name>esp-e200596087c0ch20023</display-name>
@@ -327,54 +147,6 @@
   <channel id="esp-e200770348c0ch20021">
     <display-name>esp-e200770348c0ch20021</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
-  </channel>
-  <channel id="42hy89x13atm619ve9gdbpo9g">
-    <display-name>42hy89x13atm619ve9gdbpo9g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q0inhkhdi3c4g2pn4upo5oda_image-header_pEs_1746283864000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dctrzv3ak36neqpo7qw1cbcwk">
-    <display-name>dctrzv3ak36neqpo7qw1cbcwk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/abv2j8cx6oy65wc550y5rtfst_image-header_pEs_1747047675000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="derxdfe27i2wmo9fu1p88ksno">
-    <display-name>derxdfe27i2wmo9fu1p88ksno</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2jqv2yzls059wxnoi99smmm9_image-header_pEs_1747047976000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dd7isb84az67c4tzw3ay0ewwk">
-    <display-name>dd7isb84az67c4tzw3ay0ewwk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/drjfsrjlbw8uk697y08h4dywm_image-header_pEs_1747047809000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="deek0xaik43mt2iiwj54ft3is">
-    <display-name>deek0xaik43mt2iiwj54ft3is</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pxyaj8w7dhzsklgihbnukz6s_image-header_pEs_1747047888000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dbbjegotytdw62w8jusakq1hw">
-    <display-name>dbbjegotytdw62w8jusakq1hw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/caeztvr23nsekoev74f593p2g_image-header_pEs_1747048057000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dbp2cjhaog60hyhu2h0x58rh0">
-    <display-name>dbp2cjhaog60hyhu2h0x58rh0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34u9w9zaykdwmo1i8h312npoz_image-header_pEs_1747048135000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dcgaxca965nmbcv661v65q4gk">
-    <display-name>dcgaxca965nmbcv661v65q4gk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7e82yn66ky8477bckvj9v0sfu_image-header_pEs_1747047555000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ddl349ip72e0ismhderuu3ifo">
-    <display-name>ddl349ip72e0ismhderuu3ifo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hk6pq9x8hxrjhz4gjyx5v5mq_image-header_pEs_1747048217000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ddypq45g0y6915kikotyxrac4">
-    <display-name>ddypq45g0y6915kikotyxrac4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78f4txp17cbx0nifaeibe78w3_image-header_pEs_1747048295000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9n6llsk345w5r8nqwdr7p7xkw">
-    <display-name>9n6llsk345w5r8nqwdr7p7xkw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8uvp0nxwf765c50rjegp9hmjc_image-header_pEs_1735896189000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e185ph5ci77fznpwx3cwo7z84">
-    <display-name>e185ph5ci77fznpwx3cwo7z84</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emjtom9m3dqy5sy87bjhy160u_image-header_pEs_1746620087000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200714563c0ch20002">
     <display-name>esp-e200714563c0ch20002</display-name>
@@ -615,26 +387,6 @@
   <channel id="esp-e200709260c0ch20027">
     <display-name>esp-e200709260c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200709260_20250504-143521.jpeg"/>
-  </channel>
-  <channel id="6ow0olgby2fdq0k9gxt416zhs">
-    <display-name>6ow0olgby2fdq0k9gxt416zhs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gb3xz2j4iia413ggr95dh4m75_image-header_pEs_1747147627000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9hn1yf521xobkjpkhg0n2t6vo">
-    <display-name>9hn1yf521xobkjpkhg0n2t6vo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cmnoqchciblv97h5hs3i7oadu_image-header_pEs_1747137856000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9i1m7ysivkta7uiumut5nnl78">
-    <display-name>9i1m7ysivkta7uiumut5nnl78</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8g37e1jw79jajgxftoupehwoa_image-header_pEs_1747137914000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9ig9wvatwknucjj2b12t65ono">
-    <display-name>9ig9wvatwknucjj2b12t65ono</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8zscvs1k9pk0g2hhcj6kpsds_image-header_pEs_1747137493000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9kh7bepwdl81dzjvyhu85y8t0">
-    <display-name>9kh7bepwdl81dzjvyhu85y8t0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3l4aigwtnhcmujv2lq2gciaus_image-header_pEs_1747137662000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9kmhk1ui9cusuuf8v3axz3ipw">
     <display-name>9kmhk1ui9cusuuf8v3axz3ipw</display-name>
@@ -1384,18 +1136,6 @@
     <display-name>esp-e200734480c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_2_200734480_20250506-160736.jpeg"/>
   </channel>
-  <channel id="4em22s9qvv6366xolhzl9yexz">
-    <display-name>4em22s9qvv6366xolhzl9yexz</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pxyaj8w7dhzsklgihbnukz6s_image-header_pEs_1747047888000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7uk26210y1sr2fvcvgjy9dy2a">
-    <display-name>7uk26210y1sr2fvcvgjy9dy2a</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34u9w9zaykdwmo1i8h312npoz_image-header_pEs_1747336666000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="c287lnu3i4h53je7yqzt17tb6">
-    <display-name>c287lnu3i4h53je7yqzt17tb6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hk6pq9x8hxrjhz4gjyx5v5mq_image-header_pEs_1747422947000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="2ttw576z5y0b3is3ygm7i0o0t">
     <display-name>2ttw576z5y0b3is3ygm7i0o0t</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4dtfhx092xocye7prnn0spsj5_image-header_pEs_1747396806000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1719,54 +1459,6 @@
   <channel id="esp-e200651366c0ch20025">
     <display-name>esp-e200651366c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200651366_20250509-142636.jpeg"/>
-  </channel>
-  <channel id="71dqe2i1a16p7vhi5fy2wu6tw">
-    <display-name>71dqe2i1a16p7vhi5fy2wu6tw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ar50og48h2ee1po4vttppukm5_image-header_pEs_1746715804000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="31uizv2c3g9zxopuscim7g7pa">
-    <display-name>31uizv2c3g9zxopuscim7g7pa</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cnywui4ncjzllq1op9629uuc_image-header_pEs_1746532234000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="45ewzqarwzt87dwrerz9t1638">
-    <display-name>45ewzqarwzt87dwrerz9t1638</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exniybt2yivv7la70o60goq93_image-header_pEs_1747389630000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bhd5p1s0aih10jwpoo60j0wnw">
-    <display-name>bhd5p1s0aih10jwpoo60j0wnw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5ois5btulywt6vt0c3vj8x617_image-header_pEs_1746791981000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="54zvccvon9n05hu987hd4o1lg">
-    <display-name>54zvccvon9n05hu987hd4o1lg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/876ocahetlur0m47jtirrnndk_image-header_pEs_1746990807000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ebay4v90n69njl9fetkiui32s">
-    <display-name>ebay4v90n69njl9fetkiui32s</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy5iraqhehv4ti0m7vf8dnreh_image-header_pEs_1746282418000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ecfm0h52hysihlt34ccwn02z8">
-    <display-name>ecfm0h52hysihlt34ccwn02z8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32pgg138pr399mfesm3dbck0p_image-header_pEs_1746282418000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e7x03wpyxld15ctoavwjtqkwj">
-    <display-name>e7x03wpyxld15ctoavwjtqkwj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epkryij6k485u5579mvjsowqi_image-header_pEs_1746534199000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5i2hjq65l1k2rj9d9bq3qt104">
-    <display-name>5i2hjq65l1k2rj9d9bq3qt104</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7aavo5ywu5t9ktg4ni0q378fe_image-header_pEs_1747475512000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="72smdl2s4b1ggxvezus08s0p">
-    <display-name>72smdl2s4b1ggxvezus08s0p</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1gy9jlbrhtwgeeq3itprx6r9_image-header_pEs_1746792147000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b3m1da4jdj3hh3r9nd5wvjqz9">
-    <display-name>b3m1da4jdj3hh3r9nd5wvjqz9</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1z7t2n0znq6qbfn9cazbqys8m_image-header_pEs_1740392253000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8zg0djokxg826rdgvizeg5p1w">
-    <display-name>8zg0djokxg826rdgvizeg5p1w</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ue3ii5z62sol4yazvd9v8v40_image-header_pEs_1747001720000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="e28pdyoejamn8th37giszyo8y">
     <display-name>e28pdyoejamn8th37giszyo8y</display-name>
@@ -2524,156 +2216,6 @@
     <display-name>esp-e200530439c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
   </channel>
-  <programme start="20250515091500 +0000" stop="20250515154500 +0000" channel="esp-e200721185c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721185_20250506-085841.jpeg"/>
-    <title lang="es">Giro de Italia - Etapa 6</title>
-    <desc lang="es">Masculino | Potenza &gt; Nápoles (227 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250515092900 +0000" stop="20250515153100 +0000" channel="esp-e200723438c0ch20037">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723438_20250429-103609.jpeg"/>
-    <title lang="es">Giro de Italia - Etapa 6 - Versión Multipantalla</title>
-    <desc lang="es">Masculino | Potenza &gt; Nápoles (227 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250515130000 +0000" stop="20250515150000 +0000" channel="esp-e200708151c0ch20002">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200708151_20250429-104317.jpeg"/>
-    <title lang="es">Tour de Hungría - Etapa 2</title>
-    <desc lang="es">Masculino | Veszprém &gt; Siófok (178 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250515131500 +0000" stop="20250515150000 +0000" channel="esp-e200708115c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200708115_20250429-104956.jpeg"/>
-    <title lang="es">4 días de Dunkerque - Etapa 2</title>
-    <desc lang="es">Masculino |  Avesnes-sur-Helpe &gt; Crépy-en-Valois (178.7km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250515151500 +0000" stop="20250515154500 +0000" channel="esp-e200722309c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200722309_20250508-110409.jpeg"/>
-    <title lang="es">La Montonera - Giro de Italia</title>
-    <desc lang="es">Etapa 6 | Masculino</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250515190000 +0000" stop="20250515220000 +0000" channel="esp-e200709523c0ch20069">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_4_200709523_20250416-103317.jpeg"/>
-    <title lang="es">Regions Tradition - Día 1</title>
-    <desc lang="es">PGA Tour Champions</desc>
-    <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250516065500 +0000" stop="20250516075000 +0000" channel="esp-e200596082c0ch20023">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596082_20250503-160554.jpeg"/>
-    <title lang="es">Fórmula E - GP de Tokyo - Libres 1</title>
-    <desc lang="es">Campeonato del Mundo</desc>
-    <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250516083000 +0000" stop="20250516093000 +0000" channel="esp-e200709109c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709109_20250503-163149.jpeg"/>
-    <title lang="es">WorldSBK - República Checa</title>
-    <desc lang="es">Libres 1</desc>
-    <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250516103000 +0000" stop="20250516154500 +0000" channel="esp-e200721186c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_4_200721186_20250506-090314.jpeg"/>
-    <title lang="es">Giro de Italia - Etapa 7</title>
-    <desc lang="es">Masculino | Castel di Sangro &gt; Tagliacozzo (168 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516103000 +0000" stop="20250516120000 +0000" channel="esp-e200708231c0ch20003">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200708231_20250429-125252.jpeg"/>
-    <title lang="es">Itzulia - Etapa 1</title>
-    <desc lang="es">Femenino | Vitoria-Gasteiz &gt; Elgoibar (140km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516104900 +0000" stop="20250516153000 +0000" channel="esp-e200723439c0ch20037">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20037_2_200723439_20250429-112239.jpeg"/>
-    <title lang="es">Giro de Italia - Etapa 7 - Versión Multipantalla</title>
-    <desc lang="es">Masculino | Castel di Sangro &gt; Tagliacozzo (168 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516115000 +0000" stop="20250516125500 +0000" channel="esp-e200709111c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_2_200709111_20250503-165009.jpeg"/>
-    <title lang="es">World SSP - República Checa</title>
-    <desc lang="es">Superpole</desc>
-    <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250516125500 +0000" stop="20250516135000 +0000" channel="esp-e200709110c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709110_20250503-163739.jpeg"/>
-    <title lang="es">World SBK - República Checa</title>
-    <desc lang="es">Libres 2</desc>
-    <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250516130000 +0000" stop="20250516150000 +0000" channel="esp-e200708152c0ch20002">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200708152_20250429-130221.jpeg"/>
-    <title lang="es">Tour de Hungría - Etapa 3</title>
-    <desc lang="es">Masculino | Gödöllő &gt; Gyöngyös-Kékestető (163 km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516130000 +0000" stop="20250516143000 +0000" channel="esp-e200654248c0ch20028">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_2_200654248_20250503-162602.jpeg"/>
-    <title lang="es">FIM Speedway GP - Varsovia</title>
-    <desc lang="es">Clasificación</desc>
-    <category lang="es">Speedway</category>
-  </programme>
-  <programme start="20250516131000 +0000" stop="20250516151000 +0000" channel="esp-e200729559c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200729559_20250503-153227.jpeg"/>
-    <title lang="es">Global Champions League - Madrid</title>
-    <desc lang="es">Saltos | Ronda 1</desc>
-    <category lang="es">Hípica</category>
-  </programme>
-  <programme start="20250516131500 +0000" stop="20250516150000 +0000" channel="esp-e200708116c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200708116_20250429-131645.jpeg"/>
-    <title lang="es">4 días de Dunkerque - Etapa 3</title>
-    <desc lang="es">Masculino | Valenciennes &gt; Famars (154,2km)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516135000 +0000" stop="20250516143000 +0000" channel="esp-e200709112c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_0_200709112_20250503-170337.jpeg"/>
-    <title lang="es">WorldSSP300 - República Checa</title>
-    <desc lang="es">Superpole</desc>
-    <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250516151500 +0000" stop="20250516154500 +0000" channel="esp-e200722310c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200722310_20250509-142331.jpeg"/>
-    <title lang="es">La Montonera - Giro de Italia</title>
-    <desc lang="es">Etapa 7 | Masculino</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250516165500 +0000" stop="20250516200000 +0000" channel="esp-e200729560c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200729560_20250503-153421.jpeg"/>
-    <title lang="es">Global Champions League - Madrid</title>
-    <desc lang="es">Saltos | Ronda 2</desc>
-    <category lang="es">Hípica</category>
-  </programme>
-  <programme start="20250516190000 +0000" stop="20250516220000 +0000" channel="esp-e200709524c0ch20069">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_2_200709524_20250503-170704.jpeg"/>
-    <title lang="es">  Regions Tradition - Día 2</title>
-    <desc lang="es">PGA Tour Champions</desc>
-    <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250516225500 +0000" stop="20250516235000 +0000" channel="esp-e200596083c0ch20023">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596083_20250503-161522.jpeg"/>
-    <title lang="es">Tokyo - Libres 2</title>
-    <desc lang="es">Campeonato del Mundo</desc>
-    <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250517010000 +0000" stop="20250517030000 +0000" channel="esp-e200596084c0ch20023">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596084_20250503-162100.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Tokio</title>
-    <desc lang="es">Clasificación 1ª Carrera</desc>
-    <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250517053000 +0000" stop="20250517073000 +0000" channel="esp-e200596085c0ch20023">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_2_200596085_20250504-185450.jpeg"/>
-    <title lang="es">Campeonato del Mundo - Tokio</title>
-    <desc lang="es">1ª Carrera</desc>
-    <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250517065500 +0000" stop="20250517072500 +0000" channel="esp-e200709259c0ch20026">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200709259_20250504-142811.jpeg"/>
-    <title lang="es">WorldSBK - República Checa</title>
-    <desc lang="es">Libres 3</desc>
-    <category lang="es">Superbike</category>
-  </programme>
   <programme start="20250517092000 +0000" stop="20250517130000 +0000" channel="esp-e200717746c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200717746_20250417-085356.jpeg"/>
     <title lang="es">GT World Series 2025</title>
@@ -2769,126 +2311,6 @@
     <title lang="es">Campeonato del Mundo - Tokyo</title>
     <desc lang="es">Libres 3</desc>
     <category lang="es">Formula E</category>
-  </programme>
-  <programme start="20250518062500 +0000" stop="20250518122500 +0000" channel="cob2eff742nir78ywr74s8i95">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17d96o4a7n4taorxyeqwuqgt9_image-header_pEs_1745328360000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - F3 - GP de Emilia Romagna</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518075500 +0000" stop="20250518135500 +0000" channel="2sjgihj5mya3xm6ouj0tq3ppo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a54daewcyz4ic5vzyviqvax1u_image-header_pEs_1745332104000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - F2 - GP de Emilia Romagna</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518084500 +0000" stop="20250518144500 +0000" channel="8neaceh9lrbzs1xuckvsu5zy3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dcj62nfv4wz442cpzztraf3nh_image-header_pEs_1746701009000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Superpole Race - Motul Czech Round</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518095000 +0000" stop="20250518155000 +0000" channel="dx4rpetszydb90ur1qw8b63kg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b15ynshy3xc9u0p4cfw5rtn9_image-header_pEs_1746532717000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - Imola</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9twvp8tmwgrpb10uphtxditck">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2gsvfl2rj7b6dmwqfqc68tgr2_image-header_pEs_1746524773000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Atlético de Madrid - FC Levante Badalona</title>
-    <desc lang="es">El Atlético Madrid se enfrenta al Levante Badalona en un emocionante partido de la Primera División Femenina. El encuentro se celebra el 18 de mayo de 2025 en el Estadio Wanda Atlético de Madrid Alcalá de Henares. ¿Logrará el Atlético Madrid la victoria en casa o el Levante Badalona dará la sorpresa? ¡No te pierdas esta acción de fútbol femenino de alto nivel!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9uu8apw0rqj3t11e7seqtti50">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/awihq1c9gvse3crebd8whj30n_image-header_pEs_1746524926000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">FC Barcelona - Athletic Club</title>
-    <desc lang="es">El Athletic Club viaja a Barcelona para un crucial encuentro de la Primera División Femenina en el Estadi Johan Cruyff el 18 de mayo de 2025. Este partido promete acción intensa mientras ambos equipos luchan por puntos vitales en la temporada 2024/25. ¿Podrá el Athletic Club desafiar al poderoso Barcelona en su cancha? ¡Prepárense para un espectáculo emocionante!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9vpf9bznql4zh78p0fqulw9p0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5gtezfbvrokq38z1zeyv5gmmp_image-header_pEs_1746526114000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">VCF Femenino - Real Madrid</title>
-    <desc lang="es">Valencia se enfrenta al Real Madrid en un emocionante choque de la Primera División Femenina en el Estadio Antonio Puchades el 18 de mayo de 2025. Este encuentro promete acción de alto nivel en la temporada 2024/25. ¿Qué equipo aprovechará el momento y logrará una victoria crucial? ¡No te pierdas este partido inolvidable!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9ucv5jkl16w7dxl3pvbvn8g0k">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qesqzl064ahvq7bhle5dsuwv_image-header_pEs_1746995124000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Granada CF - Levante UD</title>
-    <desc lang="es">El 18 de mayo de 2025, Levante visita a Granada en un crucial encuentro de la Primera División Femenina. El partido se juega en la Ciudad Deportiva del Granada CF, con ambos equipos buscando destacar en la temporada 2024/25. ¿Podrá Granada defender su campo contra un determinado Levante? ¡No te pierdas esta emocionante batalla!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9v9te8javxwhfg92ins8xwv10">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k9ooyvbeom5zlwylotyl31tf_image-header_pEs_1746525057000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">RCD Espanyol - Real Betis Féminas</title>
-    <desc lang="es">El Espanyol se enfrenta al Real Betis en un emocionante choque de la Primera División Femenina. La Ciutat Esportiva Dani Jarque acogerá este apasionante partido el 18 de mayo de 2025. Ambos equipos están ansiosos por destacar en la temporada 2024/25. ¿Quién saldrá victorioso en este duelo del fútbol femenino? ¡No te lo pierdas!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9w5kgwwm56rxbbwyp5jslwkr8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/36fatf8wb2t3swbslq4g06paq_image-header_pEs_1746525944000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Costa Adeje Tenerife - Real Sociedad</title>
-    <desc lang="es">UD Tenerife se enfrenta a Real Sociedad en un emocionante partido de la Primera División Femenina. El Campo de Fútbol de Adeje acoge este apasionante encuentro el 18 de mayo de 2025. ¿Podrá UD Tenerife lograr la victoria en casa, o Real Sociedad se llevará el espectáculo? ¡No te pierdas esta acción de fútbol femenino de primera!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9wl3no960khbo5pemkiamzor8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4nqnasw9em8y6c7tjpl8zu7pc_image-header_pEs_1746525772000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Sevilla FC - SD Eibar</title>
-    <desc lang="es">El 18 de mayo de 2025, Eibar visita a Sevilla en un emocionante choque de la Primera División Femenina. El partido se jugará en la Ciudad Deportiva José Ramón Cisneros Palacios. Ambos equipos buscan destacar en la temporada 2024/25. ¿Podrá Sevilla defender su casa o Eibar logrará una victoria crucial como visitante? ¡No te pierdas este espectáculo futbolístico!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518100000 +0000" stop="20250518123000 +0000" channel="9x0pi6sr90md0jr18i3gxml90">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c8bi26womt6fdgtbz5qrwy6ch_image-header_pEs_1746525402000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Madrid CFF - Deportivo Abanca</title>
-    <desc lang="es">El Deportivo de La Coruña visita el Estadio Fernando Torres para enfrentarse al Madrid en la Primera División Femenina el 18 de mayo de 2025. Este choque de final de temporada podría tener importantes implicaciones en la campaña 2024/25. ¿Qué equipo aprovechará la oportunidad para mejorar su posición? ¡No te pierdas esta emocionante acción del fútbol femenino!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518102000 +0000" stop="20250518162000 +0000" channel="2463q35ox32pn2k9nbod3zh88">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i016hsgs8criqchmsjjmfha1_image-header_pEs_1746701172000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - Motul Czech Round</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518110000 +0000" stop="20250518170000 +0000" channel="clup41hebhnvvtwj3qzooe3e">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajrobb5u98vpide3nm8x0wfke_image-header_pEs_1741342079000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - AWS GP del Made in Italy e dell 'Emilia-Romagna</title>
-    <desc lang="es">Disfruta del AWS GP Made in Italy dell'Emilia-Romagna en DAZN en lo que promete ser un fin de semana apasionante de motor.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518110000 +0000" stop="20250518133000 +0000" channel="e2frv3kvg7kam9foy78f20x78">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8oriv5iqpt9mxuwbit83ewr0c_image-header_pEs_1746532116000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Everton - Southampton</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Southampton y Everton.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518131500 +0000" stop="20250518154500 +0000" channel="e3oqa9sus396yvhmsjizo65n8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/drp5gpvno8zol736bwi7z0mj9_image-header_pEs_1746529924000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">West Ham United - Nottingham Forest</title>
-    <desc lang="es">Vive el encuentro de Premier League entre West Ham United y Nottingham Forest.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518140000 +0000" stop="20250518163000 +0000" channel="e0tm7y3de4k220nsydyqbazo4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1bq668gvmmr4yteafet3qkoqf_image-header_pEs_1746530069000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Brentford - Fulham</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Fulham y Brentford.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518140000 +0000" stop="20250518163000 +0000" channel="e2u2srswpw0c62wls2tmcqfpw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4q58kebhmype8eetdygjoj6x9_image-header_pEs_1746530569000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Leicester City - Ipswich Town</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Leicester City y Ipswich Town.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518153000 +0000" stop="20250518180000 +0000" channel="e00tqapdtzxl61y696425zyfo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4h5rie316fo4qk8voqr9pq2cz_image-header_pEs_1746531590000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Arsenal - Newcastle United</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Arsenal y Newcastle United.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518213000 +0000" stop="20250519033000 +0000" channel="e6fxifsclkl74l29fda1hcs92">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wmhs6x1765brh2xgnlgg6ozi_image-header_pEs_1738017732000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NASCAR All-Star Open</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250518010000 +0000" stop="20250518030000 +0000" channel="esp-e200596087c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200596087_20250504-190118.jpeg"/>
@@ -3015,78 +2437,6 @@
     <title lang="es">BSB - Donington Park</title>
     <desc lang="es"/>
     <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250518160000 +0000" stop="20250518173000 +0000" channel="42hy89x13atm619ve9gdbpo9g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q0inhkhdi3c4g2pn4upo5oda_image-header_pEs_1746283864000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Final (ida) - AEK Athens - Alkaloid</title>
-    <desc lang="es">Vive el encuentro de EHF European Cup entre Alkaloid y AEK Athens.</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="dctrzv3ak36neqpo7qw1cbcwk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/abv2j8cx6oy65wc550y5rtfst_image-header_pEs_1747047675000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Inter - Lazio</title>
-    <desc lang="es">El Internazionale se enfrenta al Lazio en un crucial partido de la Serie A 2024/25 el 18 de mayo de 2025 en el Stadio Giuseppe Meazza. Con ambos equipos ansiosos por la victoria, ¿quién aprovechará la oportunidad de escalar en la tabla? ¿Podrá alguno hacer un movimiento decisivo? ¡Sintoniza este espectáculo futbolístico!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="derxdfe27i2wmo9fu1p88ksno">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2jqv2yzls059wxnoi99smmm9_image-header_pEs_1747047976000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">AS Roma - AC Milan</title>
-    <desc lang="es">Roma se enfrenta al Milan en un duelo de Serie A en el Estadio Olímpico el 18 de mayo de 2025. Al acercarse el final de la temporada 2024/25, ambos clubes buscan puntos cruciales. ¿Podrá la ventaja local de Roma inclinar la balanza o triunfarán los guerreros visitantes del Milan? ¡No te pierdas este emocionante choque de titanes del fútbol italiano!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="dd7isb84az67c4tzw3ay0ewwk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/drjfsrjlbw8uk697y08h4dywm_image-header_pEs_1747047809000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Juventus - Udinese</title>
-    <desc lang="es">Juventus se enfrenta a Udinese en un emocionante encuentro de la Serie A el 18 de mayo de 2025 en el Juventus Stadium. Con la temporada 2024/25 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Quién saldrá victorioso en esta batalla de alto riesgo? No te pierdas este espectáculo futbolístico.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="deek0xaik43mt2iiwj54ft3is">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pxyaj8w7dhzsklgihbnukz6s_image-header_pEs_1747047888000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Parma - Napoli</title>
-    <desc lang="es">El Parma se enfrenta al Napoli en un duelo de Serie A en el Stadio Ennio Tardini el 18 de mayo de 2025. Con la temporada 2024/25 cerca de su clímax, ambos equipos buscan puntos cruciales. ¿Podrá el Parma defender su territorio o el Napoli logrará una victoria a domicilio? ¡Prepárate para un emocionante choque de titanes del fútbol italiano!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="dbbjegotytdw62w8jusakq1hw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/caeztvr23nsekoev74f593p2g_image-header_pEs_1747048057000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cagliari - Venezia</title>
-    <desc lang="es">¡Que empiece el juego! Cagliari se enfrenta a Venezia en un crucial partido de la Serie A 2024/25 en el Sardegna Arena el 18 de mayo de 2025. Con ambos equipos hambrientos de puntos vitales, este encuentro promete acción intensa y drama. ¿Qué equipo aprovechará la oportunidad para escalar en la tabla? ¡No te pierdas 90 minutos de fútbol emocionante!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="dbp2cjhaog60hyhu2h0x58rh0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34u9w9zaykdwmo1i8h312npoz_image-header_pEs_1747048135000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fiorentina - Bologna</title>
-    <desc lang="es">Fiorentina se enfrenta a Bologna en un emocionante choque de la Serie A 2024/25 en el Stadio Artemio Franchi el 18 de mayo de 2025. Con la temporada llegando a su clímax, ambos equipos están hambrientos de victoria. ¿Podrá Fiorentina asegurar una crucial victoria en casa, o Bologna arruinará sus planes? ¡Sintoniza este partido que podría definir la clasificación final!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="dcgaxca965nmbcv661v65q4gk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7e82yn66ky8477bckvj9v0sfu_image-header_pEs_1747047555000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hellas Verona - Como</title>
-    <desc lang="es">El Hellas Verona se prepara para enfrentar al Como en un apasionante partido de la Serie A 2024/25 en el Stadio Marc'Antonio Bentegodi el 18 de mayo de 2025. Ambos equipos buscan destacar, prometiendo intensa acción futbolística. ¿Podrá el Hellas Verona aprovechar su ventaja local? ¡Sintonice para una emocionante tarde de fútbol italiano!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="ddl349ip72e0ismhderuu3ifo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hk6pq9x8hxrjhz4gjyx5v5mq_image-header_pEs_1747048217000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Lecce - Torino</title>
-    <desc lang="es">Lecce se enfrenta a Torino en un duelo de la Serie A en el Stadio Comunale Via del Mare. En plena temporada 2024/25, ambos clubes buscan puntos vitales. ¿Será decisiva la ventaja local de Lecce o Torino logrará una victoria a domicilio? ¡Sintoniza el 18 de mayo para un choque que podría cambiar la tabla!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="ddypq45g0y6915kikotyxrac4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78f4txp17cbx0nifaeibe78w3_image-header_pEs_1747048295000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Monza - Empoli</title>
-    <desc lang="es">El Monza recibe al Empoli en un crucial encuentro de la Serie A 2024/25 en el Stadio Comunale Brianteo el 18 de mayo de 2025. Con la temporada llegando a su fin, ambos equipos necesitan puntos. ¿Podrá el Monza aprovechar su ventaja local o el Empoli dará la sorpresa? ¡Prepárate para un partido electrizante!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250519180000 +0000" stop="20250519203000 +0000" channel="9n6llsk345w5r8nqwdr7p7xkw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8uvp0nxwf765c50rjegp9hmjc_image-header_pEs_1735896189000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Super8 - Jornada 37</title>
-    <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250519190000 +0000" stop="20250519213000 +0000" channel="e185ph5ci77fznpwx3cwo7z84">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emjtom9m3dqy5sy87bjhy160u_image-header_pEs_1746620087000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Brighton - Liverpool</title>
-    <desc lang="es">Vive el encuentro de Premier League entre Liverpool y Brighton &amp; Hove Albion.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250519080000 +0000" stop="20250519113000 +0000" channel="esp-e200714563c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -3448,36 +2798,6 @@
     <desc lang="es">Superbike | Superpole | Día 2</desc>
     <category lang="es">Superbike</category>
   </programme>
-  <programme start="20250518020000 +0000" stop="20250518080000 +0000" channel="6ow0olgby2fdq0k9gxt416zhs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gb3xz2j4iia413ggr95dh4m75_image-header_pEs_1747147627000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Vargas Jr. vs. Coria</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250518163000 +0000" stop="20250518190000 +0000" channel="9hn1yf521xobkjpkhg0n2t6vo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cmnoqchciblv97h5hs3i7oadu_image-header_pEs_1747137856000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Atlético de Madrid - Real Betis</title>
-    <desc lang="es">Atlético Madrid se enfrenta al Real Betis en un duelo de Primera División en el Estadio La Peineta el 18 de mayo de 2025. Con la temporada 2024/25 llegando a su fin, ambos clubes buscan terminar con fuerza. ¿Cambiará este partido la clasificación? ¡Sintoniza para una tarde de emoción futbolística española!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518163000 +0000" stop="20250518190000 +0000" channel="9i1m7ysivkta7uiumut5nnl78">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8g37e1jw79jajgxftoupehwoa_image-header_pEs_1747137914000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">FC Barcelona - Villarreal CF</title>
-    <desc lang="es">El Villarreal visita al Barcelona en un crucial encuentro de Primera División en el Estadi Olímpic Lluís Companys el 18 de mayo de 2025. Este choque de final de temporada podría tener grandes implicaciones en la campaña 2024/25. ¿Será decisiva la ventaja local del Barcelona o podrá el Villarreal dar la sorpresa? ¡No te pierdas este emocionante partido!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518163000 +0000" stop="20250518190000 +0000" channel="9ig9wvatwknucjj2b12t65ono">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8zscvs1k9pk0g2hhcj6kpsds_image-header_pEs_1747137493000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">RC Celta - Rayo Vallecano</title>
-    <desc lang="es">Rayo Vallecano viaja para enfrentarse a Celta de Vigo en un crucial encuentro de Primera División en el Estadio de Balaídos el 18 de mayo de 2025. Con la temporada 2024/25 llegando a su fin, ambos equipos necesitan puntos. ¿Podrá Celta de Vigo defender su terreno o Rayo Vallecano logrará una victoria? ¡No te pierdas este enfrentamiento del fútbol español!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518163000 +0000" stop="20250518190000 +0000" channel="9kh7bepwdl81dzjvyhu85y8t0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3l4aigwtnhcmujv2lq2gciaus_image-header_pEs_1747137662000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Real Valladolid - Deportivo Alavés</title>
-    <desc lang="es">El Real Valladolid se enfrenta al Deportivo Alavés en un crucial partido de Primera División en el Estadio Municipal José Zorrilla el 18 de mayo de 2025. Con la temporada 2024/25 llegando a su fin, ambos equipos necesitan puntos. ¿Podrá el Valladolid asegurar una victoria en casa o el Alavés conseguirá ganar fuera? ¡No te pierdas este emocionante encuentro!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250520110000 +0000" stop="20250520150000 +0000" channel="9kmhk1ui9cusuuf8v3axz3ipw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5qex68cw7mtttg21u5q28yahs_image-header_pEs_1745310340000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 10 - Lucca - Pisa Tudor (CRI)</title>
@@ -3586,19 +2906,19 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200640171c0ch20011">
+  <programme start="20250520102401 +0000" stop="20250520122401 +0000" channel="esp-e200640171c0ch20011">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200583534c0ch20004">
+  <programme start="20250520103702 +0000" stop="20250520123702 +0000" channel="esp-e200583534c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200628204c0ch20007">
+  <programme start="20250520100600 +0000" stop="20250520120600 +0000" channel="esp-e200628204c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
@@ -3616,7 +2936,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200628945c0ch20008">
+  <programme start="20250520102401 +0000" stop="20250520122401 +0000" channel="esp-e200628945c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
@@ -3634,7 +2954,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200642666c0ch20014">
+  <programme start="20250520100601 +0000" stop="20250520120601 +0000" channel="esp-e200642666c0ch20014">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
@@ -3646,7 +2966,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="esp-e200641799c0ch20012">
+  <programme start="20250520103702 +0000" stop="20250520123702 +0000" channel="esp-e200641799c0ch20012">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 2 | Roland Garros</desc>
@@ -4600,24 +3920,6 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="4em22s9qvv6366xolhzl9yexz">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pxyaj8w7dhzsklgihbnukz6s_image-header_pEs_1747047888000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Parma - Napoli</title>
-    <desc lang="es">El Parma se enfrenta al Napoli en un duelo de Serie A en el Stadio Ennio Tardini el 18 de mayo de 2025. Con la temporada 2024/25 cerca de su clímax, ambos equipos buscan puntos cruciales. ¿Podrá el Parma defender su territorio o el Napoli logrará una victoria a domicilio? ¡Prepárate para un emocionante choque de titanes del fútbol italiano!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="7uk26210y1sr2fvcvgjy9dy2a">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34u9w9zaykdwmo1i8h312npoz_image-header_pEs_1747336666000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fiorentina - Bologna</title>
-    <desc lang="es">Fiorentina se enfrenta a Bologna en un emocionante choque de la Serie A 2024/25 en el Stadio Artemio Franchi el 18 de mayo de 2025. Con la temporada llegando a su clímax, ambos equipos están hambrientos de victoria. ¿Podrá Fiorentina asegurar una crucial victoria en casa, o Bologna arruinará sus planes? ¡Sintoniza este partido que podría definir la clasificación final!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518184500 +0000" stop="20250518211500 +0000" channel="c287lnu3i4h53je7yqzt17tb6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hk6pq9x8hxrjhz4gjyx5v5mq_image-header_pEs_1747422947000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Lecce - Torino</title>
-    <desc lang="es">Lecce se enfrenta a Torino en un duelo de la Serie A en el Stadio Comunale Via del Mare. En plena temporada 2024/25, ambos clubes buscan puntos vitales. ¿Será decisiva la ventaja local de Lecce o Torino logrará una victoria a domicilio? ¡Sintoniza el 18 de mayo para un choque que podría cambiar la tabla!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250520151500 +0000" stop="20250520153000 +0000" channel="2ttw576z5y0b3is3ygm7i0o0t">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4dtfhx092xocye7prnn0spsj5_image-header_pEs_1747396806000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chess.com Classic - Play-Offs - Día 1</title>
@@ -5103,78 +4405,6 @@
     <title lang="es">Copa del Mundo - Salt Lake City</title>
     <desc lang="es">Femenino Búlder | Final</desc>
     <category lang="es">Deportes Extremos</category>
-  </programme>
-  <programme start="20250518054300 +0000" stop="20250518114300 +0000" channel="71dqe2i1a16p7vhi5fy2wu6tw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ar50og48h2ee1po4vttppukm5_image-header_pEs_1746715804000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Vodafone Rally de Portugal - Stage 19</title>
-    <desc lang="es">​ Watch the latest World Rally Championship action from Vodafone Rally de Portugal.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518055000 +0000" stop="20250518115000 +0000" channel="31uizv2c3g9zxopuscim7g7pa">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4cnywui4ncjzllq1op9629uuc_image-header_pEs_1746532234000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - ePrix Tokyo</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518080500 +0000" stop="20250518113500 +0000" channel="45ewzqarwzt87dwrerz9t1638">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exniybt2yivv7la70o60goq93_image-header_pEs_1747389630000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Utsunomiya Brex - Chiba Jets</title>
-    <desc lang="es">¡Choque de titanes! Chiba Jets visita a Utsunomiya Brex en un enfrentamiento de la B1 League 2024/25 el 18 de mayo de 2025. Con ambos equipos buscando la victoria, ¿quién saldrá victorioso en esta batalla de baloncesto? ¿Podrá Utsunomiya defender su cancha o Chiba alcanzará nuevas alturas? ¡Prepárate para un espectáculo de básquet!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250518113500 +0000" stop="20250518173500 +0000" channel="bhd5p1s0aih10jwpoo60j0wnw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5ois5btulywt6vt0c3vj8x617_image-header_pEs_1746791981000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 3 - Misano</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518123000 +0000" stop="20250518160000 +0000" channel="54zvccvon9n05hu987hd4o1lg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/876ocahetlur0m47jtirrnndk_image-header_pEs_1746990807000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Oaklands Wolves - Sheffield Hatters</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250518133000 +0000" stop="20250518160000 +0000" channel="ebay4v90n69njl9fetkiui32s">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy5iraqhehv4ti0m7vf8dnreh_image-header_pEs_1746282418000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">FC Köln - Kaiserslautern</title>
-    <desc lang="es">Vive el encuentro de 2. Bundesliga entre Köln y Kaiserslautern.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518133000 +0000" stop="20250518160000 +0000" channel="ecfm0h52hysihlt34ccwn02z8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32pgg138pr399mfesm3dbck0p_image-header_pEs_1746282418000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Greuther Fürth - Hamburger SV</title>
-    <desc lang="es">Vive el encuentro de 2. Bundesliga entre Hamburger SV y Greuther Fürth.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250518135000 +0000" stop="20250518195000 +0000" channel="e7x03wpyxld15ctoavwjtqkwj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epkryij6k485u5579mvjsowqi_image-header_pEs_1746534199000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Top 16 &amp; Final - Drift Masters</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes Extremos</category>
-  </programme>
-  <programme start="20250518141000 +0000" stop="20250518201000 +0000" channel="5i2hjq65l1k2rj9d9bq3qt104">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7aavo5ywu5t9ktg4ni0q378fe_image-header_pEs_1747475512000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - Spa</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518142000 +0000" stop="20250518202000 +0000" channel="72smdl2s4b1ggxvezus08s0p">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1gy9jlbrhtwgeeq3itprx6r9_image-header_pEs_1746792147000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 4 - Misano</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250518145200 +0000" stop="20250518205200 +0000" channel="b3m1da4jdj3hh3r9nd5wvjqz9">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1z7t2n0znq6qbfn9cazbqys8m_image-header_pEs_1740392253000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Madrid - Grand Prix</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Salto Ecuestre</category>
-  </programme>
-  <programme start="20250518153000 +0000" stop="20250518190000 +0000" channel="8zg0djokxg826rdgvizeg5p1w">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ue3ii5z62sol4yazvd9v8v40_image-header_pEs_1747001720000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Final - Leicester Riders - Newcastle Eagles</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250525055500 +0000" stop="20250525115500 +0000" channel="e28pdyoejamn8th37giszyo8y">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emlvhederml4ukfc5kwq23u63_image-header_pEs_1746728006000/fill/none/top/none/85/600/360/webp/image"/>
