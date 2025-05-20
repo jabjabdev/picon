@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed May 21 00:30:12 2025">
+<tv date="Wed May 21 00:37:05 2025">
   <channel id="esp-e200717746c0ch20004">
     <display-name>esp-e200717746c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200717746_20250417-085356.jpeg"/>
@@ -2267,6 +2267,10 @@
   <channel id="6dq0c6qk32clx4e07uskhm4yh">
     <display-name>6dq0c6qk32clx4e07uskhm4yh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/esgszfa1mokkq3qig1ini8pb3_image-header_pEs_1717698987000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200777207c0ch20076">
+    <display-name>esp-e200777207c0ch20076</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_6_200777207_20250519-180607.jpeg"/>
   </channel>
   <programme start="20250517092000 +0000" stop="20250517130000 +0000" channel="esp-e200717746c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_4_200717746_20250417-085356.jpeg"/>
@@ -5669,5 +5673,11 @@
     <title lang="es">Día 3 - Sesión 2 (ES1)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250521100000 +0000" stop="20250521154500 +0000" channel="esp-e200777207c0ch20076">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20076_6_200777207_20250519-180607.jpeg"/>
+    <title lang="es">Giro de Italia - Etapa 11</title>
+    <desc lang="es">Masculino | Viareggio &gt; Castelnovo ne' Monti (186 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
