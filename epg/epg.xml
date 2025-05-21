@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed May 21 12:30:10 2025">
+<tv date="Wed May 21 12:37:07 2025">
   <channel id="esp-e200690311c0ch20017">
     <display-name>esp-e200690311c0ch20017</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200690311_20250420-145425.jpeg"/>
@@ -2428,10 +2428,6 @@
     <display-name>esp-e200530445c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
   </channel>
-  <channel id="6zrl778qujiv8r1k9p43ftgt3">
-    <display-name>6zrl778qujiv8r1k9p43ftgt3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cncnwk1mr9q51mremn6njlhw_image-header_pEs_1745310753000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <programme start="20250518100000 +0000" stop="20250518110000 +0000" channel="esp-e200690311c0ch20017">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20017_3_200690311_20250420-145425.jpeg"/>
     <title lang="es">Emilia Romagna - Carrera</title>
@@ -3392,7 +3388,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 3 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250521102901 +0000" stop="20250521122901 +0000" channel="esp-e200627427c0ch20005">
+  <programme start="20250521103502 +0000" stop="20250521123502 +0000" channel="esp-e200627427c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 3 | Roland Garros</desc>
@@ -3434,7 +3430,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 3 | Roland Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250521103001 +0000" stop="20250521123001 +0000" channel="esp-e200583541c0ch20004">
+  <programme start="20250521103531 +0000" stop="20250521123531 +0000" channel="esp-e200583541c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 3 | Roland Garros</desc>
@@ -6073,11 +6069,5 @@
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | 1ª Ronda | Día 3 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250521100000 +0000" stop="20250521140000 +0000" channel="6zrl778qujiv8r1k9p43ftgt3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6cncnwk1mr9q51mremn6njlhw_image-header_pEs_1745310753000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Etapa 11 - Viareggio - Castelnovo Ne' Monti</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
