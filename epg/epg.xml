@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 23 00:30:12 2025">
+<tv date="Fri May 23 00:37:15 2025">
   <channel id="esp-e200714563c0ch20002">
     <display-name>esp-e200714563c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -2719,6 +2719,38 @@
   <channel id="d62dh84gcw2l39gjggyi0lf02">
     <display-name>d62dh84gcw2l39gjggyi0lf02</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jm9j7139wmo1vv9qighqsh2b_image-header_pEs_1747403980000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200783699c0ch20011">
+    <display-name>esp-e200783699c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_36_200783699_20250522-163725.jpeg"/>
+  </channel>
+  <channel id="esp-e200783703c0ch20012">
+    <display-name>esp-e200783703c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783703_20250522-163913.jpeg"/>
+  </channel>
+  <channel id="esp-e200783704c0ch20012">
+    <display-name>esp-e200783704c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783704_20250522-164403.jpeg"/>
+  </channel>
+  <channel id="esp-e200783700c0ch20011">
+    <display-name>esp-e200783700c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_36_200783700_20250522-164251.jpeg"/>
+  </channel>
+  <channel id="esp-e200783705c0ch20012">
+    <display-name>esp-e200783705c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783705_20250522-164647.jpeg"/>
+  </channel>
+  <channel id="esp-e200734236c0ch20039">
+    <display-name>esp-e200734236c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_2_200734236_20250430-093025.jpeg"/>
+  </channel>
+  <channel id="esp-e200734235c0ch20040">
+    <display-name>esp-e200734235c0ch20040</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20039_2_200734235_20250430-094650.jpeg"/>
+  </channel>
+  <channel id="esp-e200783694c0ch20001">
+    <display-name>esp-e200783694c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200783694_20250522-163504.jpeg"/>
   </channel>
   <programme start="20250519080000 +0000" stop="20250519113000 +0000" channel="esp-e200714563c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -6798,6 +6830,54 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jm9j7139wmo1vv9qighqsh2b_image-header_pEs_1747403980000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 5 - Sesión 2 (ES1)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523085500 +0000" stop="20250523110000 +0000" channel="esp-e200783699c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_36_200783699_20250522-163725.jpeg"/>
+    <title lang="es">Justina Mikulskyte - Maria Lourdes Carlé</title>
+    <desc lang="es">Femenino | Individuales | Previa - 3ª ronda | Roland-Garros</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523085500 +0000" stop="20250523110000 +0000" channel="esp-e200783703c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783703_20250522-163913.jpeg"/>
+    <title lang="es">Federico Arnaboldi - Maximilian Marterer</title>
+    <desc lang="es">Pista 9 | Masculino | Individuales | Clasificación | Día 5 | Roland-Garros</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523110000 +0000" stop="20250523130000 +0000" channel="esp-e200783704c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783704_20250522-164403.jpeg"/>
+    <title lang="es">James Trotter - Benjamin Hassan</title>
+    <desc lang="es">Pista 9 | Masculino | Individuales | Clasificación | Día 5 | Roland-Garros</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523110000 +0000" stop="20250523130000 +0000" channel="esp-e200783700c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_36_200783700_20250522-164251.jpeg"/>
+    <title lang="es">Juan Manuel Cerundolo - Daniel Elahi Galan</title>
+    <desc lang="es">Pista 8 | Masculino | Individuales | Clasificación | Día 5 | Roland-Garros</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523130000 +0000" stop="20250523150000 +0000" channel="esp-e200783705c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_36_200783705_20250522-164647.jpeg"/>
+    <title lang="es">Lucrezia Stefanini - Veronika Erjavec</title>
+    <desc lang="es">Pista 9 | Femenino | Individuales | Clasificación | Día 5 | Roland-Garros</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250525115500 +0000" stop="20250525133500 +0000" channel="esp-e200734236c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_2_200734236_20250430-093025.jpeg"/>
+    <title lang="es">UCI Mountain Bike World Series - Nove Mesto</title>
+    <desc lang="es">Cross Country Olimpico | Femenino | Sub 23</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250525135500 +0000" stop="20250525153500 +0000" channel="esp-e200734235c0ch20040">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20039_2_200734235_20250430-094650.jpeg"/>
+    <title lang="es">UCI Mountain Bike World Series - Nove Mesto</title>
+    <desc lang="es">Cross Country Olimpico | Masculino | Sub 23</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250525170000 +0000" stop="20250525180000 +0000" channel="esp-e200783694c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_6_200783694_20250522-163504.jpeg"/>
+    <title lang="es">Tributo a Rafa</title>
+    <desc lang="es">Pista Philippe Chatrier | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
 </tv>
