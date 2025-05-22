@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu May 22 18:37:10 2025">
+<tv date="Fri May 23 00:30:12 2025">
   <channel id="esp-e200714563c0ch20002">
     <display-name>esp-e200714563c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -728,10 +728,6 @@
     <display-name>esp-e200775118c0ch20062</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
   </channel>
-  <channel id="esp-e200734480c0ch20064">
-    <display-name>esp-e200734480c0ch20064</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_2_200734480_20250506-160736.jpeg"/>
-  </channel>
   <channel id="epzyabvtadx4zecc5gecsy31h">
     <display-name>epzyabvtadx4zecc5gecsy31h</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73aouwfpeoqb1ndjow64gwu6a_image-header_pEs_1747403706000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1443,18 +1439,6 @@
   <channel id="esp-e200651367c0ch20025">
     <display-name>esp-e200651367c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200651367_20250511-090815.jpeg"/>
-  </channel>
-  <channel id="668zcozgh4fzpz9ygpqfbsm50">
-    <display-name>668zcozgh4fzpz9ygpqfbsm50</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5j8z14w138uoyfx59l5lto4kl_image-header_pEs_1747169809000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6japi3ybdmu46w48f2t13dyc4">
-    <display-name>6japi3ybdmu46w48f2t13dyc4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46febfnir76v4c9hu2ouo9yri_image-header_pEs_1747169809000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cnk8lh3y4ox5b444ed7olajh0">
-    <display-name>cnk8lh3y4ox5b444ed7olajh0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5devhn16r0up5wwhg10db46lr_image-header_pEs_1747169809000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="f2qg8b7fpnkrw88xjq2yj1xx">
     <display-name>f2qg8b7fpnkrw88xjq2yj1xx</display-name>
@@ -2712,6 +2696,30 @@
     <display-name>3tqjxy5g0385ox84id6jnst90</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3vvcnud96ob4snqmrzpx37hh5_image-header_pEs_1747759060000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="52udmbt5ti85dhkz5o84hwxeb">
+    <display-name>52udmbt5ti85dhkz5o84hwxeb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9dkysd1ual9ehe9qy5cdj6oc_image-header_pEs_1717776181000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dvn6ga9vdoj7445wfjxmepdec">
+    <display-name>dvn6ga9vdoj7445wfjxmepdec</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9i5pxnydhd0trdm7egu9e8zrb_image-header_pEs_1747815692000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2eyun7cy7m0u8zime1dwje9ca">
+    <display-name>2eyun7cy7m0u8zime1dwje9ca</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c31klytwtv46vyjhn2ph6imp1_image-header_pEs_1747828629000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3l5dwml3ozkgn9r3brjgh02l2">
+    <display-name>3l5dwml3ozkgn9r3brjgh02l2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8b9dk4otm6ld3n35welfjc3n_image-header_pEs_1745314083000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3tzi4xkg6zb9qxm11mldvqkcy">
+    <display-name>3tzi4xkg6zb9qxm11mldvqkcy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5mnp9y8ijkbksgb76rxd7yiam_image-header_pEs_1742889187000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d62dh84gcw2l39gjggyi0lf02">
+    <display-name>d62dh84gcw2l39gjggyi0lf02</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jm9j7139wmo1vv9qighqsh2b_image-header_pEs_1747403980000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250519080000 +0000" stop="20250519113000 +0000" channel="esp-e200714563c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
@@ -3804,12 +3812,6 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250522200000 +0000" stop="20250522230000 +0000" channel="esp-e200734480c0ch20064">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_2_200734480_20250506-160736.jpeg"/>
-    <title lang="es">Charles Schwab Challenge - Día 1 - Comentarios en español</title>
-    <desc lang="es">PGA Tour</desc>
-    <category lang="es">Golf</category>
-  </programme>
   <programme start="20250522120000 +0000" stop="20250522180000 +0000" channel="epzyabvtadx4zecc5gecsy31h">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73aouwfpeoqb1ndjow64gwu6a_image-header_pEs_1747403706000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Taylor vs. Essuman - Rueda de prensa</title>
@@ -4877,24 +4879,6 @@
     <title lang="es">Copa del Mundo - Salt Lake City</title>
     <desc lang="es">Masculino Búlder | Final</desc>
     <category lang="es">Deportes Extremos</category>
-  </programme>
-  <programme start="20250522190000 +0000" stop="20250522223000 +0000" channel="668zcozgh4fzpz9ygpqfbsm50">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5j8z14w138uoyfx59l5lto4kl_image-header_pEs_1747169809000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cuartos de final - Pallacanestro Trieste - Germani Brescia (Partido 3)</title>
-    <desc lang="es">¡El escenario está listo! Trieste se enfrentará a Brescia en un emocionante duelo de la Lega Basket Serie A el 22 de mayo de 2025. Con la temporada 2024/25 en pleno apogeo, ambos equipos buscarán una victoria crucial. ¿Quién brillará en la cancha y llevará a su equipo a la gloria? Aficionados al baloncesto, ¡no se pierdan este épico enfrentamiento!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250522180000 +0000" stop="20250522213000 +0000" channel="6japi3ybdmu46w48f2t13dyc4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46febfnir76v4c9hu2ouo9yri_image-header_pEs_1747169809000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cuartos de final - Pallacanestro Reggiana - Trapani Shark (Partido 3)</title>
-    <desc lang="es">Reggiana se enfrenta a Trapani Shark en un crucial partido de Lega Basket Serie A el 22 de mayo de 2025. El Palasport Bigi estará lleno de energía cuando estos equipos se midan en la temporada 2024/25. ¿Podrá Reggiana defender su cancha o Trapani Shark se llevará la victoria? ¡Sintoniza para ver este emocionante enfrentamiento!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250522184500 +0000" stop="20250522221500 +0000" channel="cnk8lh3y4ox5b444ed7olajh0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5devhn16r0up5wwhg10db46lr_image-header_pEs_1747169809000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Cuartos de final - EA7 Emporio Armani Milano - Dolomiti Energia Trentino (Partido 3)</title>
-    <desc lang="es">Trento viaja para enfrentar a Olimpia Milano en un crucial encuentro de la Lega Basket Serie A en el Mediolanum Forum el 22 de mayo de 2025. Con la temporada 2024/25 en su punto álgido, ambos equipos buscan una victoria vital. ¿Quién saldrá victorioso en esta batalla? ¡Prepara tus aperitivos y listo para la acción!</desc>
-    <category lang="es">Baloncesto</category>
   </programme>
   <programme start="20250523151500 +0000" stop="20250523153000 +0000" channel="f2qg8b7fpnkrw88xjq2yj1xx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/csey96aozadsdbz7cyr5yyho3_image-header_pEs_1747657555000/fill/none/top/none/85/600/360/webp/image"/>
@@ -6306,7 +6290,7 @@
     <desc lang="es">Pista 7 | Masculino | Individuales | Clasificación | Día 4 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250522164807 +0000" stop="20250522184807 +0000" channel="esp-e200782386c0ch20002">
+  <programme start="20250522173842 +0000" stop="20250522193842 +0000" channel="esp-e200782386c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_6_200782386_20250521-185519.jpeg"/>
     <title lang="es">Carole Monnet - Kristina Dmitruk</title>
     <desc lang="es">Suzanne Lenglen | Femenino | Individuales | Clasificación | Día 4 | Roland-Garros</desc>
@@ -6779,5 +6763,41 @@
     <title lang="es">Promoción ascenso - Elversberg - Heidenheim (vuelta)</title>
     <desc lang="es">Vive el encuentro de Play-offs 1/2 entre Elversberg y Heidenheim.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250525133000 +0000" stop="20250525193000 +0000" channel="52udmbt5ti85dhkz5o84hwxeb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e9dkysd1ual9ehe9qy5cdj6oc_image-header_pEs_1717776181000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 4 - Vallelunga</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527210000 +0000" channel="dvn6ga9vdoj7445wfjxmepdec">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9i5pxnydhd0trdm7egu9e8zrb_image-header_pEs_1747815692000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Promoción ascenso - Eintracht Braunschweig - Saarbrücken (vuelta)</title>
+    <desc lang="es">Vive el encuentro de Play-offs 2/3 entre Saarbrücken y Eintracht Braunschweig.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250529083000 +0000" stop="20250529143000 +0000" channel="2eyun7cy7m0u8zime1dwje9ca">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c31klytwtv46vyjhn2ph6imp1_image-header_pEs_1747828629000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - Sesión 1 (ES2)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250529113000 +0000" stop="20250529153000 +0000" channel="3l5dwml3ozkgn9r3brjgh02l2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8b9dk4otm6ld3n35welfjc3n_image-header_pEs_1745314083000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 18 - Morbegno - Cesano Maderno</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250529120000 +0000" stop="20250529180000 +0000" channel="3tzi4xkg6zb9qxm11mldvqkcy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5mnp9y8ijkbksgb76rxd7yiam_image-header_pEs_1742889187000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - Aramco GP de España</title>
+    <desc lang="es">El Gran Circo se desplaza hasta Barcelona para la disputa del Aramco GP de España. ¿Conseguirán Fernando Alonso y Carlos Sainz una buena actuación frente a su público?</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250529154500 +0000" stop="20250529214500 +0000" channel="d62dh84gcw2l39gjggyi0lf02">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jm9j7139wmo1vv9qighqsh2b_image-header_pEs_1747403980000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5 - Sesión 2 (ES1)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
