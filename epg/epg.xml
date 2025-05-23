@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 23 12:30:29 2025">
+<tv date="Fri May 23 18:30:14 2025">
   <channel id="esp-e200714569c0ch20002">
     <display-name>esp-e200714569c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -492,10 +492,6 @@
     <display-name>bmmr4hahe2i5mirlso6earf5w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aresjia2y4pa6ikhnqh6usccg_image-header_pEs_1728028591000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="lm12upq4r589n3sq0qgo9fol">
-    <display-name>lm12upq4r589n3sq0qgo9fol</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46x5s3efmt9dakrgfegceppyr_image-header_pEs_1745311390000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="f0dpdmu8w1qfk0oq5slk6mm7u">
     <display-name>f0dpdmu8w1qfk0oq5slk6mm7u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5zxhp01nirm58p41lfadzkwy_image-header_pEs_1746703002000/fill/none/top/none/85/300/180/webp/image"/>
@@ -614,10 +610,6 @@
   </channel>
   <channel id="esp-e200583554c0ch20004">
     <display-name>esp-e200583554c0ch20004</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-  </channel>
-  <channel id="esp-e200628224c0ch20007">
-    <display-name>esp-e200628224c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
   </channel>
   <channel id="esp-e200627835c0ch20006">
@@ -1179,10 +1171,6 @@
   <channel id="esp-e200651367c0ch20025">
     <display-name>esp-e200651367c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200651367_20250511-090815.jpeg"/>
-  </channel>
-  <channel id="f2qg8b7fpnkrw88xjq2yj1xx">
-    <display-name>f2qg8b7fpnkrw88xjq2yj1xx</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/csey96aozadsdbz7cyr5yyho3_image-header_pEs_1747657555000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="4i1u8ga7qsux6d3zzb2uibrg8">
     <display-name>4i1u8ga7qsux6d3zzb2uibrg8</display-name>
@@ -2796,6 +2784,14 @@
     <display-name>esp-e200530457c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
   </channel>
+  <channel id="lm12upq4r589n3sq0qgo9fol">
+    <display-name>lm12upq4r589n3sq0qgo9fol</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46x5s3efmt9dakrgfegceppyr_image-header_pEs_1745311390000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f2qg8b7fpnkrw88xjq2yj1xx">
+    <display-name>f2qg8b7fpnkrw88xjq2yj1xx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/csey96aozadsdbz7cyr5yyho3_image-header_pEs_1747657555000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250520080000 +0000" stop="20250520113000 +0000" channel="esp-e200714569c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
@@ -3534,12 +3530,6 @@
     <desc lang="es">Un viaje por las grandes ligas de fútbol europeas de la mano de Nacho González, David Fer y Miguel Quintana. Visitamos países como Alemania e Italia, pero contamos con los de siempre, España e Inglaterra.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250523104500 +0000" stop="20250523144500 +0000" channel="lm12upq4r589n3sq0qgo9fol">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46x5s3efmt9dakrgfegceppyr_image-header_pEs_1745311390000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Etapa 13 - Rovigo - Vicenza</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
   <programme start="20250523110000 +0000" stop="20250523170000 +0000" channel="f0dpdmu8w1qfk0oq5slk6mm7u">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5zxhp01nirm58p41lfadzkwy_image-header_pEs_1746703002000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Libres 1 - Tag Heuer GP de Mónaco</title>
@@ -3582,10 +3572,10 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250523170000 +0000" stop="20250523230000 +0000" channel="7xk8f44a1sd5sy131ocqisify">
+  <programme start="20250523174500 +0000" stop="20250523234500 +0000" channel="7xk8f44a1sd5sy131ocqisify">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rdd4lzlhwl1onrkieg3fpcd_image-header_pEs_1741191156000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Harper vs. Zimmerman</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <desc lang="es">La campeona del peso ligero de la OMB, Terri Harper (15-2-2), se enfrenta en su ciudad natal de Doncaster a la invicta Natalie Zimmerman (13-0). Harper defenderá por primera vez su título, que conquistó contra Rhiannon Dixon en 2024.</desc>
     <category lang="es">Boxeo</category>
   </programme>
   <programme start="20250523090000 +0000" stop="20250523110000 +0000" channel="esp-e200628963c0ch20008">
@@ -3666,7 +3656,7 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250523110000 +0000" stop="20250523130000 +0000" channel="esp-e200530958c0ch20002">
+  <programme start="20250523115632 +0000" stop="20250523135632 +0000" channel="esp-e200530958c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
@@ -3708,19 +3698,13 @@
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250523130000 +0000" stop="20250523150000 +0000" channel="esp-e200530959c0ch20002">
+  <programme start="20250523135747 +0000" stop="20250523155747 +0000" channel="esp-e200530959c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250523130000 +0000" stop="20250523150000 +0000" channel="esp-e200583554c0ch20004">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250523130000 +0000" stop="20250523150000 +0000" channel="esp-e200628224c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | Clasificación | Día 5 | Roland-Garros</desc>
@@ -4565,12 +4549,6 @@
     <title lang="es">Copa del Mundo - Salt Lake City</title>
     <desc lang="es">Masculino Búlder | Final</desc>
     <category lang="es">Deportes Extremos</category>
-  </programme>
-  <programme start="20250523151500 +0000" stop="20250523153000 +0000" channel="f2qg8b7fpnkrw88xjq2yj1xx">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/csey96aozadsdbz7cyr5yyho3_image-header_pEs_1747657555000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Chess.com Classic - Play-Offs - Día 4</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ajedrez</category>
   </programme>
   <programme start="20250523160000 +0000" stop="20250523183000 +0000" channel="4i1u8ga7qsux6d3zzb2uibrg8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8arnh5vyoga4syhpzgiug8u0l_image-header_pEs_1747659463000/fill/none/top/none/85/600/360/webp/image"/>
@@ -6414,7 +6392,7 @@
     <desc lang="es"/>
     <category lang="es">Trail Running</category>
   </programme>
-  <programme start="20250524060000 +0000" stop="20250524120000 +0000" channel="7obtwr9nr68y56igt4cxqvzso">
+  <programme start="20250524065000 +0000" stop="20250524125000 +0000" channel="7obtwr9nr68y56igt4cxqvzso">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8gwpuwmm5sed7fepslsjn6r3k_image-header_pEs_1747732032000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 1 - Autopolis</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -6989,5 +6967,17 @@
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250523104500 +0000" stop="20250523144500 +0000" channel="lm12upq4r589n3sq0qgo9fol">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/46x5s3efmt9dakrgfegceppyr_image-header_pEs_1745311390000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 13 - Rovigo - Vicenza</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250523151500 +0000" stop="20250523153000 +0000" channel="f2qg8b7fpnkrw88xjq2yj1xx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/csey96aozadsdbz7cyr5yyho3_image-header_pEs_1747657555000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chess.com Classic - Play-Offs - Día 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
   </programme>
 </tv>
