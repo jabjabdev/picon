@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat May 24 00:30:15 2025">
+<tv date="Sat May 24 06:30:14 2025">
   <channel id="esp-e200714569c0ch20002">
     <display-name>esp-e200714569c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -627,10 +627,6 @@
   <channel id="esp-e200775119c0ch20062">
     <display-name>esp-e200775119c0ch20062</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_6_200775119_20250516-141749.jpeg"/>
-  </channel>
-  <channel id="c58y8ytb9ta7b8d7rrrnno2l0">
-    <display-name>c58y8ytb9ta7b8d7rrrnno2l0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237ahr6v437iyx8iarq1wq9np_image-header_pEs_1746718421000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="qwi0ac94qjeo0gj7gnuf7vxx">
     <display-name>qwi0ac94qjeo0gj7gnuf7vxx</display-name>
@@ -2836,6 +2832,10 @@
     <display-name>c7roxkn2k1n1zbvzssw4jbyq2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dyoylxjlnq7yy1n0yk53peml1_image-header_pEs_1742229559000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="c58y8ytb9ta7b8d7rrrnno2l0">
+    <display-name>c58y8ytb9ta7b8d7rrrnno2l0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237ahr6v437iyx8iarq1wq9np_image-header_pEs_1746718421000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250520080000 +0000" stop="20250520113000 +0000" channel="esp-e200714569c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
@@ -3777,12 +3777,6 @@
     <title lang="es">Charles Schwab Challenge - Día 2</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250524003000 +0000" stop="20250524063000 +0000" channel="c58y8ytb9ta7b8d7rrrnno2l0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237ahr6v437iyx8iarq1wq9np_image-header_pEs_1746718421000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera - North Carolina Education Lottery 200</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250524083500 +0000" stop="20250524143500 +0000" channel="qwi0ac94qjeo0gj7gnuf7vxx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hgxqzid95cbxsab1grev6t3j_image-header_pEs_1746705500000/fill/none/top/none/85/600/360/webp/image"/>
@@ -7089,5 +7083,11 @@
     <title lang="es">Philadelphia - Día 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20250524003000 +0000" stop="20250524063000 +0000" channel="c58y8ytb9ta7b8d7rrrnno2l0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/237ahr6v437iyx8iarq1wq9np_image-header_pEs_1746718421000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera - North Carolina Education Lottery 200</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
