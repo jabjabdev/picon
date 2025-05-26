@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon May 26 18:30:26 2025">
+<tv date="Mon May 26 18:37:17 2025">
   <channel id="esp-e200628963c0ch20008">
     <display-name>esp-e200628963c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -2956,6 +2956,10 @@
     <display-name>6a2ii1z1u6g5w4m2dwj2g6v44</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1r8otexui93fkk3l9aqvyuc3p_image-header_pEs_1747155595000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200755112c0ch20039">
+    <display-name>esp-e200755112c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_2_200755112_20250518-171230.jpeg"/>
+  </channel>
   <programme start="20250523090000 +0000" stop="20250523110000 +0000" channel="esp-e200628963c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
@@ -3796,19 +3800,19 @@
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200531146c0ch20003">
+  <programme start="20250526170352 +0000" stop="20250526193352 +0000" channel="esp-e200531146c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200629846c0ch20010">
+  <programme start="20250526171538 +0000" stop="20250526194538 +0000" channel="esp-e200629846c0ch20010">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200627452c0ch20005">
+  <programme start="20250526181606 +0000" stop="20250526204606 +0000" channel="esp-e200627452c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
@@ -3826,13 +3830,13 @@
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200629526c0ch20009">
+  <programme start="20250526174630 +0000" stop="20250526201630 +0000" channel="esp-e200629526c0ch20009">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200627847c0ch20006">
+  <programme start="20250526165315 +0000" stop="20250526192315 +0000" channel="esp-e200627847c0ch20006">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
@@ -3844,7 +3848,7 @@
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250526163000 +0000" stop="20250526190000 +0000" channel="esp-e200640193c0ch20011">
+  <programme start="20250526163557 +0000" stop="20250526190557 +0000" channel="esp-e200640193c0ch20011">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Masculino y Femenino Individual | | Día 2 | Roland-Garros</desc>
@@ -7389,5 +7393,11 @@
     <title lang="es">Día 2 - Sesión 1 (ES2)</title>
     <desc lang="es">Vive toda la acción del segundo día de competición en las pistas de Roland Garros.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250601130000 +0000" stop="20250601145500 +0000" channel="esp-e200755112c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_2_200755112_20250518-171230.jpeg"/>
+    <title lang="es">Boucles de la Mayenne - Etapa 3</title>
+    <desc lang="es">Masculino | Javron-les-Chapelles &gt; Laval (163,4 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
