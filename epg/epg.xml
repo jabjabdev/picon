@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed May 28 00:37:15 2025">
+<tv date="Wed May 28 06:30:10 2025">
   <channel id="esp-e200734254c0ch20019">
     <display-name>esp-e200734254c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20044_2_200734254_20250510-095027.jpeg"/>
@@ -767,10 +767,6 @@
   <channel id="1totahosdgjwx72u3j22vefmr">
     <display-name>1totahosdgjwx72u3j22vefmr</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c5ct6wad0921w5gh3srwbwexx_image-header_pEs_1727777344000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9wlk49or6un0agae1w5crxpr1">
-    <display-name>9wlk49or6un0agae1w5crxpr1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e5e3v9372aas10b8l3lfrf1dw_image-header_pEs_1744721261000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="4bzv2phz87ujg3f6aav2o7ph7">
     <display-name>4bzv2phz87ujg3f6aav2o7ph7</display-name>
@@ -3148,6 +3144,18 @@
     <display-name>alec5lj0qs5eyezvftynmitu3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ay5wyvk3qb3l8m2nth13jdvgf_image-header_pEs_1746824597000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="c9pu0p09ib0ujho1gfskon98w">
+    <display-name>c9pu0p09ib0ujho1gfskon98w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1exvkav2rvp8h1gfinftify00d_image-header_pEs_1748379025000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7upsq8wkzfyrisfy1xscb8k6b">
+    <display-name>7upsq8wkzfyrisfy1xscb8k6b</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d856x1i1ku481glmd4zkfesuc_image-header_pEs_1748362451000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="wo2sto6c55y2djnkfi6q2bpu">
+    <display-name>wo2sto6c55y2djnkfi6q2bpu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7d37yir0gz91puvkregjruq4_image-header_pEs_1748364632000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250524100000 +0000" stop="20250524110000 +0000" channel="esp-e200734254c0ch20019">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20044_2_200734254_20250510-095027.jpeg"/>
     <title lang="es">UCI Mountain Bike World Series - Nove Mesto</title>
@@ -4300,12 +4308,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250527230000 +0000" stop="20250528030000 +0000" channel="9wlk49or6un0agae1w5crxpr1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e5e3v9372aas10b8l3lfrf1dw_image-header_pEs_1744721261000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">NFL Offsides - Ep. 6</title>
-    <desc lang="es">Disfruta NFL Offsides, un programa semanal donde tus figuras favoritas de la NFL compiten en retos basados en videojuegos</desc>
-    <category lang="es">Fútbol Americano</category>
-  </programme>
   <programme start="20250528083000 +0000" stop="20250528143000 +0000" channel="4bzv2phz87ujg3f6aav2o7ph7">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wlqd239vnhx8a2kzpveeuwk4_image-header_pEs_1717751322000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 4 - Sesión 1 (ES2)</title>
@@ -4318,7 +4320,7 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250528103000 +0000" stop="20250528143000 +0000" channel="yoqm69kb49iy5ayb9hd7ey5t">
+  <programme start="20250528130000 +0000" stop="20250528170000 +0000" channel="yoqm69kb49iy5ayb9hd7ey5t">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4dto621003qzazc4hvu4b7r0h_image-header_pEs_1744696971000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 17 - San Michele all'Adige - Bormio</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -4768,7 +4770,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250529113000 +0000" stop="20250529153000 +0000" channel="3l5dwml3ozkgn9r3brjgh02l2">
+  <programme start="20250529130000 +0000" stop="20250529170000 +0000" channel="3l5dwml3ozkgn9r3brjgh02l2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d8b9dk4otm6ld3n35welfjc3n_image-header_pEs_1745314083000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 18 - Morbegno - Cesano Maderno</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -5290,7 +5292,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250530100000 +0000" stop="20250530140000 +0000" channel="anen374hulbc02hpvjva6g8i4">
+  <programme start="20250530130000 +0000" stop="20250530170000 +0000" channel="anen374hulbc02hpvjva6g8i4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a1t7x9g7hkpvcs3tqol5509i5_image-header_pEs_1745314605000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 19 - Biella - Champoluc</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -5836,7 +5838,7 @@
     <desc lang="es">Libres 2</desc>
     <category lang="es">Formula E</category>
   </programme>
-  <programme start="20250530230000 +0000" stop="20250531050000 +0000" channel="c4s0hcnqvucq5gv8du9914j5">
+  <programme start="20250531000000 +0000" stop="20250531060000 +0000" channel="c4s0hcnqvucq5gv8du9914j5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yafye0jzo061o63gl6cwmkk8_image-header_pEs_1746029216000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Gallegos vs. Coe 2</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -5860,7 +5862,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250531083000 +0000" stop="20250531123000 +0000" channel="83dgqeuvnartnj3wf9eg97536">
+  <programme start="20250531130000 +0000" stop="20250531170000 +0000" channel="83dgqeuvnartnj3wf9eg97536">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e6hpp72r8ab8mq9tlv3xau9z6_image-header_pEs_1745314987000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 20 - Verrès - Sestrière</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -6496,7 +6498,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250601083000 +0000" stop="20250601143000 +0000" channel="55zrjyyvd9823p3zlrfzk8pyr">
+  <programme start="20250601090000 +0000" stop="20250601150000 +0000" channel="55zrjyyvd9823p3zlrfzk8pyr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7l3qkjjxxgxe8djqbuqb9k3p7_image-header_pEs_1747678138000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 8 - Sesión 1 (ES2)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -6532,7 +6534,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250601130000 +0000" stop="20250601170000 +0000" channel="anugpu7yuiy2wre6md7i83dk">
+  <programme start="20250601124500 +0000" stop="20250601164500 +0000" channel="anugpu7yuiy2wre6md7i83dk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/51gmqhrro03u1a1fj96xkfje8_image-header_pEs_1745315568000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Etapa 21 - Roma - Roma</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -6544,7 +6546,7 @@
     <desc lang="es">Vive el encuentro de A7FL entre Silk City Animals y East Orange Renegades.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20250601173000 +0000" stop="20250601233000 +0000" channel="bkzch2ba0b0cqls4djhqquisc">
+  <programme start="20250601174500 +0000" stop="20250601234500 +0000" channel="bkzch2ba0b0cqls4djhqquisc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e5bliqpmy9mvh3rrjwp9xv14t_image-header_pEs_1747729151000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 8 - Sesión 2 (ES1)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -7869,5 +7871,23 @@
     <title lang="es">Cuartos de final masculino - Sesión 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250528120000 +0000" stop="20250528180000 +0000" channel="c9pu0p09ib0ujho1gfskon98w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1exvkav2rvp8h1gfinftify00d_image-header_pEs_1748379025000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Garner vs. Belloti - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250531010000 +0000" stop="20250531070000 +0000" channel="7upsq8wkzfyrisfy1xscb8k6b">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d856x1i1ku481glmd4zkfesuc_image-header_pEs_1748362451000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">San Antonio Snipers vs. Atlanta Attack &amp; Nashville Smash vs. NYC Attitude</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250601190000 +0000" stop="20250602010000 +0000" channel="wo2sto6c55y2djnkfi6q2bpu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7d37yir0gz91puvkregjruq4_image-header_pEs_1748364632000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Phoenix Fury vs. Boston Butchers &amp; LA Elite vs. Las Vegas Hustle</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
