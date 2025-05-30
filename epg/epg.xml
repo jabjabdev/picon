@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri May 30 18:30:13 2025">
+<tv date="Fri May 30 18:37:34 2025">
   <channel id="esp-e200642136c0ch20004">
     <display-name>esp-e200642136c0ch20004</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -3356,6 +3356,14 @@
     <display-name>b4n1ig6xr360m6xe5k2eq6ifx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ebwdcsshqx4fqiircdsw71uw_image-header_pEs_1748528328000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200777329c0ch20026">
+    <display-name>esp-e200777329c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200777329_20250519-142038.jpeg"/>
+  </channel>
+  <channel id="esp-e200777346c0ch20024">
+    <display-name>esp-e200777346c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_4_200777346_20250520-143937.jpeg"/>
+  </channel>
   <programme start="20250527085500 +0000" stop="20250527113000 +0000" channel="esp-e200642136c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
@@ -4820,7 +4828,7 @@
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250530163000 +0000" stop="20250530190000 +0000" channel="esp-e200642157c0ch20004">
+  <programme start="20250530170057 +0000" stop="20250530193057 +0000" channel="esp-e200642157c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
@@ -4838,7 +4846,7 @@
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250530163000 +0000" stop="20250530190000 +0000" channel="esp-e200530782c0ch20002">
+  <programme start="20250530174007 +0000" stop="20250530201007 +0000" channel="esp-e200530782c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
@@ -4850,7 +4858,7 @@
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250530163000 +0000" stop="20250530190000 +0000" channel="esp-e200531162c0ch20003">
+  <programme start="20250530174611 +0000" stop="20250530201611 +0000" channel="esp-e200531162c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
@@ -8389,5 +8397,17 @@
     <title lang="es">Día 3 - DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250531165000 +0000" stop="20250531171500 +0000" channel="esp-e200777329c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_2_200777329_20250519-142038.jpeg"/>
+    <title lang="es">World Series - Montpellier</title>
+    <desc lang="es">Final | Speed | Femenino</desc>
+    <category lang="es">Parkour</category>
+  </programme>
+  <programme start="20250601144500 +0000" stop="20250601151500 +0000" channel="esp-e200777346c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_4_200777346_20250520-143937.jpeg"/>
+    <title lang="es">World Series - Montpellier</title>
+    <desc lang="es">Final | Speed | Masculino</desc>
+    <category lang="es">Parkour</category>
   </programme>
 </tv>
