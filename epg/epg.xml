@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jun 01 00:30:19 2025">
+<tv date="Sun Jun 01 06:30:13 2025">
   <channel id="esp-e200530748c0ch20002">
     <display-name>esp-e200530748c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
@@ -1074,11 +1074,7 @@
   </channel>
   <channel id="586ww6p8yj540g0ppkc5n0hzo">
     <display-name>586ww6p8yj540g0ppkc5n0hzo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bqm6ui30yqvs1nje16wypnm6o_image-header_pEs_1748590194000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6gnqptn8c5iol440cmtwzk98v">
-    <display-name>6gnqptn8c5iol440cmtwzk98v</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e2jv8g4jvlfv0jh15z59z2jph_image-header_pEs_1747999408000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a812yvwslnu185wazlqndju3_image-header_pEs_1748590194000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5lp45j8rdqhvekudbyn0bpifj">
     <display-name>5lp45j8rdqhvekudbyn0bpifj</display-name>
@@ -4944,17 +4940,11 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250601020000 +0000" stop="20250601043000 +0000" channel="586ww6p8yj540g0ppkc5n0hzo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bqm6ui30yqvs1nje16wypnm6o_image-header_pEs_1748590194000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250601023000 +0000" stop="20250601053500 +0000" channel="586ww6p8yj540g0ppkc5n0hzo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5a812yvwslnu185wazlqndju3_image-header_pEs_1748590194000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">LAFC - Club América</title>
     <desc lang="es">Dos gigantes. Un billete para el Mundial de Clubes FIFA. LAFC y Club América se enfrentan en un partido a todo o nada. ¡En directo y gratis en DAZN!</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250601040000 +0000" stop="20250601100000 +0000" channel="6gnqptn8c5iol440cmtwzk98v">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e2jv8g4jvlfv0jh15z59z2jph_image-header_pEs_1747999408000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Hamburgo</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Triatlón</category>
   </programme>
   <programme start="20250601062500 +0000" stop="20250601122500 +0000" channel="5lp45j8rdqhvekudbyn0bpifj">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/824zn9fjjl9i46piac8u4qpkt_image-header_pEs_1745347675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -4962,7 +4952,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250601065000 +0000" stop="20250601125000 +0000" channel="8iv5lqysz0bxpwlm1itm4uf88">
+  <programme start="20250601045000 +0000" stop="20250601105000 +0000" channel="8iv5lqysz0bxpwlm1itm4uf88">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1e8j8lz3vgshjxfs4jyq3zek_image-header_pEs_1747999849000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 2 - ePrix de Shanghái</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
