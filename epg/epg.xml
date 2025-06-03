@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jun 03 06:30:15 2025">
+<tv date="Tue Jun 03 06:37:03 2025">
   <channel id="esp-e200596193c0ch20023">
     <display-name>esp-e200596193c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200596193_20250512-143734.jpeg"/>
@@ -2991,6 +2991,14 @@
   <channel id="5066hcyh83a1s7eealtzzq2vb">
     <display-name>5066hcyh83a1s7eealtzzq2vb</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3udy44fpqq4u624kb1ffbjiwg_image-header_pEs_1748878714000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200782226c0ch20002">
+    <display-name>esp-e200782226c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200774072c0ch20022">
+    <display-name>esp-e200774072c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
   <programme start="20250530075500 +0000" stop="20250530085000 +0000" channel="esp-e200596193c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200596193_20250512-143734.jpeg"/>
@@ -7479,5 +7487,17 @@
     <title lang="es">Día 7 - DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250609114000 +0000" stop="20250609141500 +0000" channel="esp-e200782226c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Antwerp Port Epic  </title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250609132500 +0000" stop="20250609152500 +0000" channel="esp-e200774072c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Criterium du Dauphiné - Etapa 2</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
