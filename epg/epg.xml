@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jun 06 06:36:49 2025">
+<tv date="Fri Jun 06 12:30:13 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -762,22 +762,6 @@
   </channel>
   <channel id="esp-e200627686c0ch20005">
     <display-name>esp-e200627686c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-  </channel>
-  <channel id="esp-e200643966c0ch20016">
-    <display-name>esp-e200643966c0ch20016</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-  </channel>
-  <channel id="esp-e200628438c0ch20007">
-    <display-name>esp-e200628438c0ch20007</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-  </channel>
-  <channel id="esp-e200697736c0ch15002">
-    <display-name>esp-e200697736c0ch15002</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15002_6_200697736_20250523-131034.jpeg"/>
-  </channel>
-  <channel id="esp-e200530948c0ch20002">
-    <display-name>esp-e200530948c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
   </channel>
   <channel id="esp-e200777585c0ch20064">
@@ -1747,6 +1731,14 @@
   <channel id="esp-e200771203c0ch20024">
     <display-name>esp-e200771203c0ch20024</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20024_2_200771203_20250528-130537.jpeg"/>
+  </channel>
+  <channel id="9nbdf8bilszsepp81y7h0czk0">
+    <display-name>9nbdf8bilszsepp81y7h0czk0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccw34c94113oc1f91pladvepj_image-header_pEs_1749143075000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="96c7idnthat12zez3cz5wvr7d">
+    <display-name>96c7idnthat12zez3cz5wvr7d</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aadm4i9fcwg7dwld9txnxkcvr_image-header_pEs_1749143648000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2870,7 +2862,7 @@
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250606085500 +0000" stop="20250606110000 +0000" channel="esp-e200531135c0ch20003">
+  <programme start="20250606095500 +0000" stop="20250606120000 +0000" channel="esp-e200531135c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
@@ -2882,37 +2874,13 @@
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250606085500 +0000" stop="20250606110000 +0000" channel="esp-e200642361c0ch20004">
+  <programme start="20250606095500 +0000" stop="20250606120000 +0000" channel="esp-e200642361c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20250606085500 +0000" stop="20250606110000 +0000" channel="esp-e200627686c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Roland-Garros</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250606085500 +0000" stop="20250606110000 +0000" channel="esp-e200643966c0ch20016">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Roland-Garros</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250606085500 +0000" stop="20250606110000 +0000" channel="esp-e200628438c0ch20007">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">|  |  | Roland-Garros</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250606090000 +0000" stop="20250606200000 +0000" channel="esp-e200697736c0ch15002">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15002_6_200697736_20250523-131034.jpeg"/>
-    <title lang="es">Roland-Garros - Día 13 - Versión Multipantalla</title>
-    <desc lang="es">Masculino y Femenino | Individuales | Semifinales | Roland-Garros</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20250606090000 +0000" stop="20250606113000 +0000" channel="esp-e200530948c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20250416-145843.jpeg"/>
     <title lang="es">Tenis</title>
     <desc lang="es">|  |  | Roland-Garros</desc>
@@ -4369,5 +4337,17 @@
     <title lang="es">FIA WEC - 24 Horas de Le Mans</title>
     <desc lang="es">Libres 4</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250607094500 +0000" stop="20250607154500 +0000" channel="9nbdf8bilszsepp81y7h0czk0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccw34c94113oc1f91pladvepj_image-header_pEs_1749143075000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Top 32 - Finlandia</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250607135000 +0000" stop="20250607195000 +0000" channel="96c7idnthat12zez3cz5wvr7d">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aadm4i9fcwg7dwld9txnxkcvr_image-header_pEs_1749143648000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Top 16 &amp; Final - Finlandia</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
   </programme>
 </tv>
