@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jun 09 06:37:35 2025">
+<tv date="Mon Jun 09 18:30:13 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1499,6 +1499,30 @@
   <channel id="esp-e200730447c0ch20025">
     <display-name>esp-e200730447c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200730447_20250601-105957.jpeg"/>
+  </channel>
+  <channel id="3shq74h9cmpmgv3ih0gw4hx5g">
+    <display-name>3shq74h9cmpmgv3ih0gw4hx5g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6lyjznssy5qs4zxf9embokb8_image-header_pEs_1749459353000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e40lbaytrgu6t72nllvpw0u3t">
+    <display-name>e40lbaytrgu6t72nllvpw0u3t</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/108jshew6kxsq1b8d35latng4u_image-header_pEs_1749477092000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3t70n71ycb0fn0k9b3yctnuac">
+    <display-name>3t70n71ycb0fn0k9b3yctnuac</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8yzkgdj8wq81qnwou3f6a86xv_image-header_pEs_1749459263000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6ok91lhjspsrw9f1q4o9ewf8n">
+    <display-name>6ok91lhjspsrw9f1q4o9ewf8n</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1n6accuayaopw1xjsri9e943ni_image-header_pEs_1749475567000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a215c31evx7sizt3gehc9jjiu">
+    <display-name>a215c31evx7sizt3gehc9jjiu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1evnnh2y8x2iy1jn1v9u80rhva_image-header_pEs_1747827786000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cq6xceczqbpppwyp4x6sdu3r0">
+    <display-name>cq6xceczqbpppwyp4x6sdu3r0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c1yna13kz9oe2emw2dpc3ngir_image-header_pEs_1745251652000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3198,13 +3222,13 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20250615190000 +0000" stop="20250615213000 +0000" channel="31pz31vq6e47d7pf8cqzuj7xu">
+  <programme start="20250615180000 +0000" stop="20250615203000 +0000" channel="31pz31vq6e47d7pf8cqzuj7xu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8biz48mmz29hmy8ojyuozfsbk_image-header_pEs_1747938290000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Atlético de Madrid</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre PSG y Atlético Madrid.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250615190000 +0000" stop="20250615213000 +0000" channel="y3frlhrjbusyx1utp6fnnzf8">
+  <programme start="20250615180000 +0000" stop="20250615203000 +0000" channel="y3frlhrjbusyx1utp6fnnzf8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pui4shbh0zk8jd30x6ts5wrz_image-header_pEs_1748590904000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Atlético de Madrid</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre PSG y Atlético Madrid.</desc>
@@ -3749,5 +3773,41 @@
     <title lang="es">Copa del Mundo - Berna</title>
     <desc lang="es">Búlder | Masculino | Final</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250612183000 +0000" stop="20250612220000 +0000" channel="3shq74h9cmpmgv3ih0gw4hx5g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6lyjznssy5qs4zxf9embokb8_image-header_pEs_1749459353000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Germani Brescia - Virtus Bologna</title>
+    <desc lang="es">¡Que comience el juego! Virtus Bologna y Brescia se enfrentarán en un crucial encuentro de la Lega Basket Serie A. El Virtus Arena será sede de este importante choque de la temporada 2024/2025 el 12 de junio de 2025. ¿Qué equipo estará a la altura y se llevará la victoria? ¡No te pierdas este espectáculo del baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250613230000 +0000" stop="20250614050000 +0000" channel="e40lbaytrgu6t72nllvpw0u3t">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/108jshew6kxsq1b8d35latng4u_image-header_pEs_1749477092000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Porter vs. Cleckler - Pesaje</title>
+    <desc lang="es">Mira toda la acción en vivo en DAZN</desc>
+    <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20250614183000 +0000" stop="20250614220000 +0000" channel="3t70n71ycb0fn0k9b3yctnuac">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8yzkgdj8wq81qnwou3f6a86xv_image-header_pEs_1749459263000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Germani Brescia - Virtus Bologna</title>
+    <desc lang="es">Virtus Bologna se enfrenta a Brescia en un crucial encuentro de la Lega Basket Serie A. La temporada 2024/2025 se intensifica con este choque de titanes en el Virtus Arena el 14 de junio de 2025. ¿Qué equipo estará a la altura y se llevará la victoria en este partido decisivo? ¡No te pierdas este espectáculo de baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250615010000 +0000" stop="20250615070000 +0000" channel="6ok91lhjspsrw9f1q4o9ewf8n">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1n6accuayaopw1xjsri9e943ni_image-header_pEs_1749475567000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Philadelphia Smoke vs. Miami Assassins &amp; NYC Attitude vs. Boston Butchers</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250615020000 +0000" stop="20250615080000 +0000" channel="a215c31evx7sizt3gehc9jjiu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1evnnh2y8x2iy1jn1v9u80rhva_image-header_pEs_1747827786000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Molina vs. Jimenez</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250615190000 +0000" stop="20250615213000 +0000" channel="cq6xceczqbpppwyp4x6sdu3r0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c1yna13kz9oe2emw2dpc3ngir_image-header_pEs_1745251652000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PSG - Atlético Madrid</title>
+    <desc lang="es">PSG se prepara para enfrentar al Atlético Madrid en un emocionante choque de Primera División. Este encuentro de alto riesgo, parte de la temporada DAZN ONLY - Influencer Wars Spain 2025, está programado para el 15 de junio de 2025. ¿Podrá PSG imponerse en casa o el Atlético Madrid arruinará sus planes? ¡No te pierdas este espectáculo futbolístico!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
