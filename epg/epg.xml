@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 11 00:30:14 2025">
+<tv date="Wed Jun 11 00:37:01 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1419,6 +1419,10 @@
   <channel id="aqilr3me707jn0yapxu6gajp4">
     <display-name>aqilr3me707jn0yapxu6gajp4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1n34l6ggcv6oc4bclasr7cxqv_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200801757c0ch20024">
+    <display-name>esp-e200801757c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3549,5 +3553,11 @@
     <title lang="es">River Plate - Urawa Red Diamonds</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre River Plate y Urawa Reds.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250614130000 +0000" stop="20250614134500 +0000" channel="esp-e200801757c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
+    <title lang="es">FIA WEC - 24h de Le Mans</title>
+    <desc lang="es"/>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
