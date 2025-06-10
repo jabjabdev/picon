@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jun 10 06:37:04 2025">
+<tv date="Tue Jun 10 18:30:30 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1380,6 +1380,18 @@
     <display-name>esp-e200775692c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200775692_20250602-144554.jpeg"/>
   </channel>
+  <channel id="5jzvn3266joqz3qkr4bjexv4b">
+    <display-name>5jzvn3266joqz3qkr4bjexv4b</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6y7iqn99onq5rfsx1z8zux4yh_image-header_pEs_1749059031000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dgj994kdyygd66phuibc6m0kt">
+    <display-name>dgj994kdyygd66phuibc6m0kt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1cph5yxpiu7m1j7ziic6cn1ci">
+    <display-name>1cph5yxpiu7m1j7ziic6cn1ci</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7pk956pa2il1qpogxubzxy2o_image-header_pEs_1749552289000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1890,7 +1902,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250612170000 +0000" stop="20250612230000 +0000" channel="57bllboz7oz4vh1d3pgwmppfi">
+  <programme start="20250612190000 +0000" stop="20250613010000 +0000" channel="57bllboz7oz4vh1d3pgwmppfi">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vycccscal0ni1tmzbzjykkqyo_image-header_pEs_1749038752000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Hitchins vs. Kambosos Jr. - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -3449,5 +3461,23 @@
     <title lang="es">Vuelta a Suiza - Etapa 2</title>
     <desc lang="es">Masculino | Aarau &gt; Schwarzsee (177,1 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250610080000 +0000" stop="20250611001500 +0000" channel="5jzvn3266joqz3qkr4bjexv4b">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6y7iqn99onq5rfsx1z8zux4yh_image-header_pEs_1749059031000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Content Select &amp; Switch - 10-06-2025</title>
+    <desc lang="es">Content Select &amp; Switch: 10-06-2025</desc>
+    <category lang="es">Producciones DAZN</category>
+  </programme>
+  <programme start="20250614010000 +0000" stop="20250614070000 +0000" channel="dgj994kdyygd66phuibc6m0kt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Atlanta Attack vs. Nashville Smash</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250614210000 +0000" stop="20250615030000 +0000" channel="1cph5yxpiu7m1j7ziic6cn1ci">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7pk956pa2il1qpogxubzxy2o_image-header_pEs_1749552289000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hitchins vs. Kambosos Jr. - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
