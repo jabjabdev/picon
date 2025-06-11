@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 11 18:30:11 2025">
+<tv date="Wed Jun 11 18:36:53 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1295,6 +1295,14 @@
   <channel id="a0py1wt7mnoc026xbsubc1vq0">
     <display-name>a0py1wt7mnoc026xbsubc1vq0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tj13ufvynbzd12qybk9mdprp7_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200807862c0ch20019">
+    <display-name>esp-e200807862c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200807862_20250611-152014.jpeg"/>
+  </channel>
+  <channel id="esp-e200807863c0ch20019">
+    <display-name>esp-e200807863c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200807863_20250611-151724.jpeg"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3239,5 +3247,17 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 31</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250614080500 +0000" stop="20250614090000 +0000" channel="esp-e200807862c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200807862_20250611-152014.jpeg"/>
+    <title lang="es">Copa del Mundo - Misano</title>
+    <desc lang="es">R3 | 1ª Carrera</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250615075500 +0000" stop="20250615085000 +0000" channel="esp-e200807863c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_6_200807863_20250611-151724.jpeg"/>
+    <title lang="es">Copa del Mundo - Misano </title>
+    <desc lang="es">R3 | 2ª Carrera</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
