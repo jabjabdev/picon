@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 11 06:37:01 2025">
+<tv date="Wed Jun 11 12:30:11 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -135,10 +135,6 @@
   <channel id="555e7pokei0vzbl7dgcum0vqa">
     <display-name>555e7pokei0vzbl7dgcum0vqa</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6tycyj4qt9bl55qj0oyt1bmcw_image-header_pEs_1749139351000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="373sph27k5s3ny6tf3tdck1mj">
-    <display-name>373sph27k5s3ny6tf3tdck1mj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14ky38h89hfut1emlz3sqgton7_image-header_pEs_1748940753000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5kg2fx07iiydubzl2w2l0ys0x">
     <display-name>5kg2fx07iiydubzl2w2l0ys0x</display-name>
@@ -1280,6 +1276,14 @@
     <display-name>esp-e200775693c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200775693_20250609-134557.jpeg"/>
   </channel>
+  <channel id="9s1q1w6v0lmo8vucv9ynpllqk">
+    <display-name>9s1q1w6v0lmo8vucv9ynpllqk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/duzksysds59eb9vs9p6bw5rv9_image-header_pEs_1749622925000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7ijp4o9k60u8ypgdam1wlk9m0">
+    <display-name>7ijp4o9k60u8ypgdam1wlk9m0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eblzekwmumchnoz5sr2bmsq8p_image-header_pEs_1749622925000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1483,12 +1487,6 @@
     <title lang="es">Rico Verhoeven vs. Artem Vakhitov</title>
     <desc lang="es">GLORY 100 se celebra en Rotterdam, con Rico Verhoeven en la pelea principal de la velada, quien defiende su título mundial de los pesos pesados contra Artem Vakhitov.</desc>
     <category lang="es">Kickboxing</category>
-  </programme>
-  <programme start="20250611080000 +0000" stop="20250611140000 +0000" channel="373sph27k5s3ny6tf3tdck1mj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14ky38h89hfut1emlz3sqgton7_image-header_pEs_1748940753000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Entrevista DAZN - Fernando Alonso</title>
-    <desc lang="es">El piloto asturiano de F1 nos revela sus secretos. Descubre su lado más personal en esta entrevista con DAZN. Disponible a partir del 11 de junio.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250611132500 +0000" stop="20250611172500 +0000" channel="5kg2fx07iiydubzl2w2l0ys0x">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5r16n4wuepdasnsiwdovslpju_image-header_pEs_1748345709000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3199,5 +3197,17 @@
     <title lang="es">Vuelta a Suiza - Etapa 3</title>
     <desc lang="es">Masculino | Aarau &gt; Heiden (195,6 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250612133200 +0000" stop="20250612193200 +0000" channel="9s1q1w6v0lmo8vucv9ynpllqk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/duzksysds59eb9vs9p6bw5rv9_image-header_pEs_1749622925000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Saint-Tropez - Ronda 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Salto Ecuestre</category>
+  </programme>
+  <programme start="20250612161000 +0000" stop="20250612221000 +0000" channel="7ijp4o9k60u8ypgdam1wlk9m0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eblzekwmumchnoz5sr2bmsq8p_image-header_pEs_1749622925000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Saint-Tropez - Ronda 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Salto Ecuestre</category>
   </programme>
 </tv>
