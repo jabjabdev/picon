@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 11 12:30:11 2025">
+<tv date="Wed Jun 11 18:30:11 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -738,7 +738,7 @@
   </channel>
   <channel id="abrdrzswyfdwla6ji0sp3rpzf">
     <display-name>abrdrzswyfdwla6ji0sp3rpzf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1odnuwr2w33jn12x3uwcmq8k5c_image-header_pEs_1746029788000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1x8ctp1cevjvs1bvvpjhyv3snf_image-header_pEs_1746029788000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1zapol77mp19b3hvodnl02xiq">
     <display-name>1zapol77mp19b3hvodnl02xiq</display-name>
@@ -1283,6 +1283,18 @@
   <channel id="7ijp4o9k60u8ypgdam1wlk9m0">
     <display-name>7ijp4o9k60u8ypgdam1wlk9m0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eblzekwmumchnoz5sr2bmsq8p_image-header_pEs_1749622925000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b52ig3srebz7rcqj6aci2wwx6">
+    <display-name>b52ig3srebz7rcqj6aci2wwx6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pbzisic55wlmt6tlm0jygopp_image-header_pEs_1748354496000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3tvzgajqx3n0cvuy76g29mxw4">
+    <display-name>3tvzgajqx3n0cvuy76g29mxw4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e85e8ee244khouqz0et603z0s_image-header_pEs_1749459197000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a0py1wt7mnoc026xbsubc1vq0">
+    <display-name>a0py1wt7mnoc026xbsubc1vq0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tj13ufvynbzd12qybk9mdprp7_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2388,8 +2400,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250614230000 +0000" stop="20250615050000 +0000" channel="abrdrzswyfdwla6ji0sp3rpzf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1odnuwr2w33jn12x3uwcmq8k5c_image-header_pEs_1746029788000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250615003000 +0000" stop="20250615063000 +0000" channel="abrdrzswyfdwla6ji0sp3rpzf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1x8ctp1cevjvs1bvvpjhyv3snf_image-header_pEs_1746029788000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Hitchins vs. Kambosos Jr.</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
@@ -3209,5 +3221,23 @@
     <title lang="es">Saint-Tropez - Ronda 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
+  </programme>
+  <programme start="20250613110000 +0000" stop="20250613170000 +0000" channel="b52ig3srebz7rcqj6aci2wwx6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pbzisic55wlmt6tlm0jygopp_image-header_pEs_1748354496000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Clasificación a contrarreloj - Dubrovnik</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250617183000 +0000" stop="20250617220000 +0000" channel="3tvzgajqx3n0cvuy76g29mxw4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e85e8ee244khouqz0et603z0s_image-header_pEs_1749459197000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final - Germani Brescia - Virtus Bologna (Partido 3)</title>
+    <desc lang="es">Brescia se enfrenta a Virtus Bologna en un crucial partido de la Lega Basket Serie A 2024/2025 el 17 de junio de 2025. Con la temporada en su apogeo, ambos equipos buscan una victoria para mejorar su posición. ¿Será decisiva la ventaja de local de Brescia? ¿O logrará Virtus Bologna una importante victoria como visitante?</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250617210000 +0000" stop="20250618030000 +0000" channel="a0py1wt7mnoc026xbsubc1vq0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tj13ufvynbzd12qybk9mdprp7_image-header_pEs_1732211560000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 31</title>
+    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
