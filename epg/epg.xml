@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jun 12 00:30:15 2025">
+<tv date="Thu Jun 12 06:37:00 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -163,10 +163,6 @@
   <channel id="2xfsmflggn0c8e65lrqmmaio3">
     <display-name>2xfsmflggn0c8e65lrqmmaio3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8br2oj9xf9yxcvhuyvv54vtrc_image-header_pEs_1748873709000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="df20laci3ph55ve0m3kxf1nf3">
-    <display-name>df20laci3ph55ve0m3kxf1nf3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/evv7x6l5x1a068dyfzbnodg4o_image-header_pEs_1749051862000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2is16n43xavga456726fxzci9">
     <display-name>2is16n43xavga456726fxzci9</display-name>
@@ -1360,6 +1356,22 @@
     <display-name>8iws7o8bldj9xie27whljyvyl</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3czaudyschcqvzr7qug2nnzov_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="esp-e200778659c0ch20004">
+    <display-name>esp-e200778659c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200778659_20250529-105534.jpeg"/>
+  </channel>
+  <channel id="esp-e200775002c0ch20003">
+    <display-name>esp-e200775002c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200775002_20250604-080742.jpeg"/>
+  </channel>
+  <channel id="esp-e200775694c0ch20005">
+    <display-name>esp-e200775694c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200775694_20250609-134433.jpeg"/>
+  </channel>
+  <channel id="esp-e200779152c0ch20006">
+    <display-name>esp-e200779152c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200779152_20250604-111649.jpeg"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1605,12 +1617,6 @@
     <title lang="es">Día 9 - DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250611230000 +0000" stop="20250612050000 +0000" channel="df20laci3ph55ve0m3kxf1nf3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/evv7x6l5x1a068dyfzbnodg4o_image-header_pEs_1749051862000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Pesaje</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">MMA</category>
   </programme>
   <programme start="20250612080000 +0000" stop="20250612103000 +0000" channel="2is16n43xavga456726fxzci9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vc34oz6ny0ad188j4q7no1nn7_image-header_pEs_1748875639000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3399,5 +3405,29 @@
     <title lang="es">Real Madrid - Al Hilal</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Real Madrid y Al Hilal.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250618120500 +0000" stop="20250618144000 +0000" channel="esp-e200778659c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_2_200778659_20250529-105534.jpeg"/>
+    <title lang="es">Ruta de Occitania - Etapa 1</title>
+    <desc lang="es">Masculino | Saint-Affrique – Roquefort-sur-Soulzon (10,5 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250618122000 +0000" stop="20250618142000 +0000" channel="esp-e200775002c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200775002_20250604-080742.jpeg"/>
+    <title lang="es">Giro Next Gen - Etapa 4</title>
+    <desc lang="es">Masculino Sub-23 | Manerbio &gt; Salsomaggiore Terme (148 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250618125000 +0000" stop="20250618154000 +0000" channel="esp-e200775694c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200775694_20250609-134433.jpeg"/>
+    <title lang="es">Vuelta a Suiza - Etapa 4</title>
+    <desc lang="es">Masculino | Heiden &gt; Piuro (Valchiavenna) (193,2 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250618130000 +0000" stop="20250618150000 +0000" channel="esp-e200779152c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200779152_20250604-111649.jpeg"/>
+    <title lang="es">Vuelta a Bélgica - Etapa 1</title>
+    <desc lang="es">Masculino | Merelbeke-Melle &gt; Knokke-Heist (198 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
