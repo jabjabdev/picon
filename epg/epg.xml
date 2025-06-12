@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jun 12 06:37:00 2025">
+<tv date="Thu Jun 12 12:30:12 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -163,10 +163,6 @@
   <channel id="2xfsmflggn0c8e65lrqmmaio3">
     <display-name>2xfsmflggn0c8e65lrqmmaio3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8br2oj9xf9yxcvhuyvv54vtrc_image-header_pEs_1748873709000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2is16n43xavga456726fxzci9">
-    <display-name>2is16n43xavga456726fxzci9</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vc34oz6ny0ad188j4q7no1nn7_image-header_pEs_1748875639000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="47th4gpjgom6mpmix3nzjjiub">
     <display-name>47th4gpjgom6mpmix3nzjjiub</display-name>
@@ -1372,6 +1368,10 @@
     <display-name>esp-e200779152c0ch20006</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_0_200779152_20250604-111649.jpeg"/>
   </channel>
+  <channel id="2is16n43xavga456726fxzci9">
+    <display-name>2is16n43xavga456726fxzci9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vc34oz6ny0ad188j4q7no1nn7_image-header_pEs_1748875639000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1616,12 +1616,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8br2oj9xf9yxcvhuyvv54vtrc_image-header_pEs_1748873709000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 9 - DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250612080000 +0000" stop="20250612103000 +0000" channel="2is16n43xavga456726fxzci9">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vc34oz6ny0ad188j4q7no1nn7_image-header_pEs_1748875639000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Premier Corner - Guardiola</title>
-    <desc lang="es">Guardiola es uno de los entrenadores más reconocidos de la Premier League. En Premier Corner, con Eneko Fernández, charlamos con el técnico catalán.</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250612132500 +0000" stop="20250612172500 +0000" channel="47th4gpjgom6mpmix3nzjjiub">
@@ -3429,5 +3423,11 @@
     <title lang="es">Vuelta a Bélgica - Etapa 1</title>
     <desc lang="es">Masculino | Merelbeke-Melle &gt; Knokke-Heist (198 km)</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250612080000 +0000" stop="20250612103000 +0000" channel="2is16n43xavga456726fxzci9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vc34oz6ny0ad188j4q7no1nn7_image-header_pEs_1748875639000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Premier Corner - Guardiola</title>
+    <desc lang="es">Guardiola es uno de los entrenadores más reconocidos de la Premier League. En Premier Corner, con Eneko Fernández, charlamos con el técnico catalán.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
