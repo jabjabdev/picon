@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jun 12 12:30:12 2025">
+<tv date="Thu Jun 12 18:30:12 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -191,10 +191,6 @@
   <channel id="esp-e200774075c0ch20022">
     <display-name>esp-e200774075c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20022_0_200774075_20250529-101659.jpeg"/>
-  </channel>
-  <channel id="esp-e200729579c0ch20025">
-    <display-name>esp-e200729579c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_4_200729579_20250512-093301.jpeg"/>
   </channel>
   <channel id="esp-e200729580c0ch20026">
     <display-name>esp-e200729580c0ch20026</display-name>
@@ -778,7 +774,7 @@
   </channel>
   <channel id="y3frlhrjbusyx1utp6fnnzf8">
     <display-name>y3frlhrjbusyx1utp6fnnzf8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pui4shbh0zk8jd30x6ts5wrz_image-header_pEs_1748590904000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pui4shbh0zk8jd30x6ts5wrz_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="aex3wb9cf2e5revw7j937o2l0">
     <display-name>aex3wb9cf2e5revw7j937o2l0</display-name>
@@ -1660,12 +1656,6 @@
     <desc lang="es">Masculino | Saint Prest &gt; Macon (183 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250612133000 +0000" stop="20250612152000 +0000" channel="esp-e200729579c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_4_200729579_20250512-093301.jpeg"/>
-    <title lang="es">Global Champions League - Saint Tropez</title>
-    <desc lang="es">Saltos | Ronda 1</desc>
-    <category lang="es">Hípica</category>
-  </programme>
   <programme start="20250612161000 +0000" stop="20250612190000 +0000" channel="esp-e200729580c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_4_200729580_20250512-093352.jpeg"/>
     <title lang="es">Global Champions League - Saint Tropez</title>
@@ -2530,14 +2520,14 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20250615180000 +0000" stop="20250615203000 +0000" channel="31pz31vq6e47d7pf8cqzuj7xu">
+  <programme start="20250615181500 +0000" stop="20250615204500 +0000" channel="31pz31vq6e47d7pf8cqzuj7xu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8biz48mmz29hmy8ojyuozfsbk_image-header_pEs_1747938290000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Atlético de Madrid</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre PSG y Atlético Madrid.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250615180000 +0000" stop="20250615203000 +0000" channel="y3frlhrjbusyx1utp6fnnzf8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pui4shbh0zk8jd30x6ts5wrz_image-header_pEs_1748590904000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250615181500 +0000" stop="20250615204500 +0000" channel="y3frlhrjbusyx1utp6fnnzf8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8pui4shbh0zk8jd30x6ts5wrz_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Atlético de Madrid</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre PSG y Atlético Madrid.</desc>
     <category lang="es">Fútbol</category>
@@ -3106,7 +3096,7 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250615020000 +0000" stop="20250615080000 +0000" channel="a215c31evx7sizt3gehc9jjiu">
+  <programme start="20250614230000 +0000" stop="20250615050000 +0000" channel="a215c31evx7sizt3gehc9jjiu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1evnnh2y8x2iy1jn1v9u80rhva_image-header_pEs_1747827786000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Molina vs. Jimenez</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
