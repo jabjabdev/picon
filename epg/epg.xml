@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jun 13 12:30:17 2025">
+<tv date="Fri Jun 13 12:37:14 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1327,6 +1327,14 @@
   <channel id="z5st67pb5rpuaqj3v2fosd90">
     <display-name>z5st67pb5rpuaqj3v2fosd90</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6yo7n49tg2eazzhojf823e9p1_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200814416c0ch15001">
+    <display-name>esp-e200814416c0ch15001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15001_6_200814416_20250613-092320.jpeg"/>
+  </channel>
+  <channel id="esp-e200814457c0ch15001">
+    <display-name>esp-e200814457c0ch15001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15001_36_200814457_20250613-093319.jpeg"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3319,5 +3327,17 @@
     <title lang="es">Seattle Sounders FC - Atlético de Madrid</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Atlético Madrid y Seattle Sounders.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250614134900 +0000" stop="20250615020000 +0000" channel="esp-e200814416c0ch15001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15001_6_200814416_20250613-092320.jpeg"/>
+    <title lang="es">FIA WEC - 24h de Le Mans</title>
+    <desc lang="es">Carrera | Multipantalla | Parte 1</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250615020000 +0000" stop="20250615150000 +0000" channel="esp-e200814457c0ch15001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/15001_36_200814457_20250613-093319.jpeg"/>
+    <title lang="es">FIA WEC - 24h de Le Mans</title>
+    <desc lang="es">Carrera | Multipantalla | Parte 2</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
