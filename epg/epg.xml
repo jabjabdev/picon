@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jun 14 00:37:07 2025">
+<tv date="Sat Jun 14 06:30:12 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1008,10 +1008,6 @@
     <display-name>esp-e200775692c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200775692_20250602-144554.jpeg"/>
   </channel>
-  <channel id="dgj994kdyygd66phuibc6m0kt">
-    <display-name>dgj994kdyygd66phuibc6m0kt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1cph5yxpiu7m1j7ziic6cn1ci">
     <display-name>1cph5yxpiu7m1j7ziic6cn1ci</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7pk956pa2il1qpogxubzxy2o_image-header_pEs_1749552289000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1339,6 +1335,10 @@
   <channel id="byvem29q1xvnedb43wpgldp90">
     <display-name>byvem29q1xvnedb43wpgldp90</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/epwlbk5dewl0jxf5wyb41dzjd_image-header_pEs_1748508896000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dgj994kdyygd66phuibc6m0kt">
+    <display-name>dgj994kdyygd66phuibc6m0kt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2852,12 +2852,6 @@
     <desc lang="es">Masculino | Aarau &gt; Schwarzsee (177,1 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250614000000 +0000" stop="20250614060000 +0000" channel="dgj994kdyygd66phuibc6m0kt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Atlanta Attack vs. Nashville Smash</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20250614223000 +0000" stop="20250615043000 +0000" channel="1cph5yxpiu7m1j7ziic6cn1ci">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1f7pk956pa2il1qpogxubzxy2o_image-header_pEs_1749552289000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Hitchins vs. Kambosos Jr. - Preliminares</title>
@@ -3349,5 +3343,11 @@
     <title lang="es">Carrera - MillerTech Battery 200</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250614000000 +0000" stop="20250614060000 +0000" channel="dgj994kdyygd66phuibc6m0kt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hc24luk1cu5f10k6cwb9zsh80_image-header_pEs_1749475323000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Atlanta Attack vs. Nashville Smash</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
