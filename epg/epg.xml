@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jun 15 00:30:48 2025">
+<tv date="Sun Jun 15 06:30:27 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -964,10 +964,6 @@
     <display-name>b4xns120okos0a3al8sbdlat5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2os8vhb1jx7ohqugz3htih0dd_image-header_pEs_1748437222000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="9hn9j0paazcl92d3qn528kqxo">
-    <display-name>9hn9j0paazcl92d3qn528kqxo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5o5lty16ktx4sgurvj867jvz2_image-header_pEs_1749667470000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="6brpktqbz12is6uhkvv3o6w8x">
     <display-name>6brpktqbz12is6uhkvv3o6w8x</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3lx52zre6fsu9rrzvjlx0san8_image-header_pEs_1749667827000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1387,6 +1383,10 @@
   <channel id="85pmr5pczq0tnyp3a4whikges">
     <display-name>85pmr5pczq0tnyp3a4whikges</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6808xwd73b33grym4zrg56uz1_image-header_pEs_1748509507000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1cph5yxpiu7m1j7ziic6cn1ci">
+    <display-name>1cph5yxpiu7m1j7ziic6cn1ci</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3i9j8rummff31tnjf9wfazs3o_image-header_pEs_1749552289000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2156,7 +2156,7 @@
     <desc lang="es">Carrera</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250615010000 +0000" stop="20250615070000 +0000" channel="esp-e200796295c0ch20078">
+  <programme start="20250615050000 +0000" stop="20250615070000 +0000" channel="esp-e200796295c0ch20078">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
     <title lang="es">FIA WEC - 24h de Le Mans</title>
     <desc lang="es">Carrera</desc>
@@ -2834,12 +2834,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
   </programme>
-  <programme start="20250615033000 +0000" stop="20250615060000 +0000" channel="9hn9j0paazcl92d3qn528kqxo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5o5lty16ktx4sgurvj867jvz2_image-header_pEs_1749667470000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Resumen de la jornada</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250616043000 +0000" stop="20250616070000 +0000" channel="6brpktqbz12is6uhkvv3o6w8x">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3lx52zre6fsu9rrzvjlx0san8_image-header_pEs_1749667827000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Resumen de la jornada</title>
@@ -3469,5 +3463,11 @@
     <title lang="es">Carrera - Explore the Pocono Mountains 250</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250614223000 +0000" stop="20250615004500 +0000" channel="1cph5yxpiu7m1j7ziic6cn1ci">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3i9j8rummff31tnjf9wfazs3o_image-header_pEs_1749552289000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hitchins vs. Kambosos Jr. - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
