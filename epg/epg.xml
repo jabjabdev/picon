@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jun 17 00:30:14 2025">
+<tv date="Tue Jun 17 18:30:16 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -662,11 +662,11 @@
   </channel>
   <channel id="4t15yg3fklpwsg708pozvrccl">
     <display-name>4t15yg3fklpwsg708pozvrccl</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbmjwo5ryz0hm9723lfnuqd4i_image-header_pEs_1747916129000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17trw2exag8s1m9fbjhx9xkj9_image-header_pEs_1747916129000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="dc83jt4i5kyoafe0pgc3spz4k">
     <display-name>dc83jt4i5kyoafe0pgc3spz4k</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8j0p5fizg641fcihbuurqq4nt_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jf7agqusmrkyy3gt2w9ucpy7_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3em2a4e43zzzckxpgyprdsff8">
     <display-name>3em2a4e43zzzckxpgyprdsff8</display-name>
@@ -1443,6 +1443,10 @@
   <channel id="ztgr81diff2jb5jbx9ird9uc">
     <display-name>ztgr81diff2jb5jbx9ird9uc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu01nmr4u5womg45ykj24lrn6_image-header_pEs_1749706492000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4rsf7tszhswdcp5qeqkvuqert">
+    <display-name>4rsf7tszhswdcp5qeqkvuqert</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1km1gladxiqhh1iwwyylqwepbe_image-header_pEs_1749646554000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2434,14 +2438,14 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250617150000 +0000" stop="20250617173000 +0000" channel="4t15yg3fklpwsg708pozvrccl">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bbmjwo5ryz0hm9723lfnuqd4i_image-header_pEs_1747916129000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250617160000 +0000" stop="20250617193000 +0000" channel="4t15yg3fklpwsg708pozvrccl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17trw2exag8s1m9fbjhx9xkj9_image-header_pEs_1747916129000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Fluminense - Borussia Dortmund</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Fluminense y Borussia Dortmund.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250617150000 +0000" stop="20250617173000 +0000" channel="dc83jt4i5kyoafe0pgc3spz4k">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8j0p5fizg641fcihbuurqq4nt_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250617160000 +0000" stop="20250617193000 +0000" channel="dc83jt4i5kyoafe0pgc3spz4k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9jf7agqusmrkyy3gt2w9ucpy7_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Fluminense - Borussia Dortmund</title>
     <desc lang="es">Borussia Dortmund visita a Fluminense en un emocionante choque de la FIFA Club World Cup en el MetLife Stadium el 17 de junio de 2025. Estos equipos de élite de diferentes continentes se enfrentan en el duelo global de la temporada 2024/25. ¿Podrán los campeones brasileños superar a sus homólogos alemanes? ¡No te pierdas este espectáculo intercontinental!</desc>
     <category lang="es">Fútbol</category>
@@ -2650,7 +2654,7 @@
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Al Ahly y Palmeiras.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250619160000 +0000" stop="20250619183000 +0000" channel="77vwjq2g4pknwmn35lg42vw2c">
+  <programme start="20250619150000 +0000" stop="20250619173000 +0000" channel="77vwjq2g4pknwmn35lg42vw2c">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bwocszyuz8w2afzo6xvoypg50_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Palmeiras - Al Ahly FC</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Palmeiras y Al Ahly.</desc>
@@ -2992,13 +2996,13 @@
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Bayern München y Boca Juniors.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250621020000 +0000" stop="20250621080000 +0000" channel="c8u0rvla6e4mo0x74xli49d85">
+  <programme start="20250621010000 +0000" stop="20250621070000 +0000" channel="c8u0rvla6e4mo0x74xli49d85">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qdlpujmrnttv1nkb9luxpvuj6_image-header_pEs_1748350948000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Stevens vs. Khamukov</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250621022000 +0000" stop="20250621082000 +0000" channel="34tbfiu9p7so24261jup2yxw4">
+  <programme start="20250621021500 +0000" stop="20250621081500 +0000" channel="34tbfiu9p7so24261jup2yxw4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2uhcnm3mxu8xs7gfm47y1z6gj_image-header_pEs_1748872360000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 1 - Betr Darwin Triple Crown</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -3064,7 +3068,7 @@
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Borussia Dortmund y Mamelodi Sundowns.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250621153000 +0000" stop="20250621213000 +0000" channel="avy36qob33j5azz4pr28iajsg">
+  <programme start="20250621151500 +0000" stop="20250621211500 +0000" channel="avy36qob33j5azz4pr28iajsg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/sqzjuc6uprb51hclsmm8kzczj_image-header_pEs_1749738308000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Yafai vs. Rodriguez - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -3609,5 +3613,11 @@
     <title lang="es">Seattle Sounders FC - Paris Saint-Germain</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Seattle Sounders y PSG.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250621010000 +0000" stop="20250621070000 +0000" channel="4rsf7tszhswdcp5qeqkvuqert">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1km1gladxiqhh1iwwyylqwepbe_image-header_pEs_1749646554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Miami Assassins vs. Boston Butchers &amp; Philadelphia Smoke vs. Las Vegas Hustle</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
