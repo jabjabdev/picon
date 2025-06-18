@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 18 12:30:15 2025">
+<tv date="Wed Jun 18 12:36:46 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1391,6 +1391,14 @@
   <channel id="4fnb0o64tfz08etfrd0wf5q04">
     <display-name>4fnb0o64tfz08etfrd0wf5q04</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9xhr1q8q5gcejkvfjbxh8bit_image-header_pEs_1744054882000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200820107c0ch20011">
+    <display-name>esp-e200820107c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
+  </channel>
+  <channel id="esp-e200730761c0ch20025">
+    <display-name>esp-e200730761c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200730761_20250509-101401.jpeg"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3479,5 +3487,17 @@
     <title lang="es">Eblen vs Van Steenis - Weigh In</title>
     <desc lang="es">Watch the biggest names and the best fights on DAZN, the global home of boxing.</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250624135500 +0000" stop="20250624165000 +0000" channel="esp-e200820107c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
+    <title lang="es">Universiada - Rin-Ruhr</title>
+    <desc lang="es">Día 2</desc>
+    <category lang="es">Judo</category>
+  </programme>
+  <programme start="20250624142500 +0000" stop="20250624201500 +0000" channel="esp-e200730761c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200730761_20250509-101401.jpeg"/>
+    <title lang="es">Copa Mundial Paralímpica - Innsbruck</title>
+    <desc lang="es">Final</desc>
+    <category lang="es">Deportes Extremos</category>
   </programme>
 </tv>
