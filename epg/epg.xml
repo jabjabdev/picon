@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 18 00:30:18 2025">
+<tv date="Wed Jun 18 12:30:15 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -764,10 +764,6 @@
     <display-name>esp-e200782012c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_0_200782012_20250605-112107.jpeg"/>
   </channel>
-  <channel id="3fknufweti99e55yuw47tmx87">
-    <display-name>3fknufweti99e55yuw47tmx87</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12ufsd8uphotj1g1cxaq1afook_image-header_pEs_1749810187000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="bu5zlin35465p90e5atfdh8w5">
     <display-name>bu5zlin35465p90e5atfdh8w5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cv42atc5pup2663id8m2rlhzg_image-header_pEs_1749802931000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1391,6 +1387,10 @@
   <channel id="1seoyji3qv3k2hd8d7z3slj7u">
     <display-name>1seoyji3qv3k2hd8d7z3slj7u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fv6nqau5xgp01vsgboh3ggycl_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4fnb0o64tfz08etfrd0wf5q04">
+    <display-name>4fnb0o64tfz08etfrd0wf5q04</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9xhr1q8q5gcejkvfjbxh8bit_image-header_pEs_1744054882000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2538,12 +2538,6 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250618080000 +0000" stop="20250618140000 +0000" channel="3fknufweti99e55yuw47tmx87">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12ufsd8uphotj1g1cxaq1afook_image-header_pEs_1749810187000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Decoded - Pecco Bagnaia</title>
-    <desc lang="es">Descubre todo sobre el piloto italiano en una nueva entrega de nuestro programa de análisis de grandes figuras del deporte, 'Decoded'. Disponible a partir del 18 de junio.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250618184500 +0000" stop="20250618211500 +0000" channel="bu5zlin35465p90e5atfdh8w5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cv42atc5pup2663id8m2rlhzg_image-header_pEs_1749802931000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Madrid - Al Hilal - Influencer Wars</title>
@@ -3479,5 +3473,11 @@
     <title lang="es">Ariel x Ade - The Boxing Show - Ep. 32</title>
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250619230000 +0000" stop="20250620050000 +0000" channel="4fnb0o64tfz08etfrd0wf5q04">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a9xhr1q8q5gcejkvfjbxh8bit_image-header_pEs_1744054882000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eblen vs Van Steenis - Weigh In</title>
+    <desc lang="es">Watch the biggest names and the best fights on DAZN, the global home of boxing.</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
