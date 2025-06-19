@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jun 19 12:30:16 2025">
+<tv date="Thu Jun 19 18:30:15 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -94,11 +94,11 @@
   </channel>
   <channel id="1cbxcwwy767w31m8111gjdqx0">
     <display-name>1cbxcwwy767w31m8111gjdqx0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1s6pj11ccgg3gq11m9pngbzkk_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y1z30xnf2l2djp6i75cih8qx_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="77vwjq2g4pknwmn35lg42vw2c">
     <display-name>77vwjq2g4pknwmn35lg42vw2c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bwocszyuz8w2afzo6xvoypg50_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i89ikhca3pkcjndnodxnba89_image-header_pEs_1749706493000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1750cb0c0rmbqxv30s3pub33x">
     <display-name>1750cb0c0rmbqxv30s3pub33x</display-name>
@@ -1058,14 +1058,14 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250619150000 +0000" stop="20250619173000 +0000" channel="1cbxcwwy767w31m8111gjdqx0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1s6pj11ccgg3gq11m9pngbzkk_image-header_pEs_1747916130000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250619160000 +0000" stop="20250619193000 +0000" channel="1cbxcwwy767w31m8111gjdqx0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y1z30xnf2l2djp6i75cih8qx_image-header_pEs_1747916130000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Palmeiras - Al Ahly FC</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Al Ahly y Palmeiras.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250619150000 +0000" stop="20250619173000 +0000" channel="77vwjq2g4pknwmn35lg42vw2c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bwocszyuz8w2afzo6xvoypg50_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250619160000 +0000" stop="20250619193000 +0000" channel="77vwjq2g4pknwmn35lg42vw2c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1i89ikhca3pkcjndnodxnba89_image-header_pEs_1749706493000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Palmeiras - Al Ahly FC</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Palmeiras y Al Ahly.</desc>
     <category lang="es">Fútbol</category>
@@ -1082,13 +1082,13 @@
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Inter Miami y Porto.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250619113000 +0000" stop="20250619170000 +0000" channel="esp-e200782048c0ch20065">
+  <programme start="20250619120000 +0000" stop="20250619170000 +0000" channel="esp-e200782048c0ch20065">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_200782048_20250605-110528.jpeg"/>
     <title lang="es">Travelers Championship - Día 1</title>
     <desc lang="es">PGA Tour | Señal alternativa</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250619121500 +0000" stop="20250619170000 +0000" channel="esp-e200782128c0ch20067">
+  <programme start="20250619130000 +0000" stop="20250619170000 +0000" channel="esp-e200782128c0ch20067">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_2_200782128_20250605-110753.jpeg"/>
     <title lang="es">Travelers Championship - Día 1</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
@@ -1106,7 +1106,7 @@
     <desc lang="es">Masculino Sub-23 | Fiorenzuola D’Arda &gt; Gavi (153 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250619123000 +0000" stop="20250619170000 +0000" channel="esp-e200782088c0ch20066">
+  <programme start="20250619143000 +0000" stop="20250619170000 +0000" channel="esp-e200782088c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20066_2_200782088_20250605-110928.jpeg"/>
     <title lang="es">Travelers Championship - Día 1</title>
     <desc lang="es">PGA Tour | Grupo destacado</desc>
@@ -1460,7 +1460,7 @@
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Borussia Dortmund y Mamelodi Sundowns.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250621151500 +0000" stop="20250621211500 +0000" channel="avy36qob33j5azz4pr28iajsg">
+  <programme start="20250621153000 +0000" stop="20250621213000 +0000" channel="avy36qob33j5azz4pr28iajsg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/sqzjuc6uprb51hclsmm8kzczj_image-header_pEs_1749738308000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Yafai vs. Rodriguez - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -2120,7 +2120,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
   </programme>
-  <programme start="20250620203000 +0000" stop="20250621023000 +0000" channel="5fn2telcwuxsl2xf97t0ri1gt">
+  <programme start="20250620210000 +0000" stop="20250621030000 +0000" channel="5fn2telcwuxsl2xf97t0ri1gt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7x86nin85rceup142w4cwn3b4_image-header_pEs_1750257467000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">PFL World Tournament</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
