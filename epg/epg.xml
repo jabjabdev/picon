@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jun 22 06:37:09 2025">
+<tv date="Sun Jun 22 18:30:14 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -318,11 +318,11 @@
   </channel>
   <channel id="6unzy9k5s45o3t7inb3ollfdg">
     <display-name>6unzy9k5s45o3t7inb3ollfdg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/963y8b18y8m3jwey9vkxwfdoh_image-header_pEs_1749706492000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5m7widfn0yqg7r5bko3alsyf7_image-header_pEs_1749706492000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="98g4v3n0uuzpor3vtkbhd8ua2">
     <display-name>98g4v3n0uuzpor3vtkbhd8ua2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ftl9gzb9uh3hgetixlgpmyhq_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/20o7khfpftnk9xk8lkv8tltvw_image-header_pEs_1747916130000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="q3e3gt0q7i3494f8op6rfztg">
     <display-name>q3e3gt0q7i3494f8op6rfztg</display-name>
@@ -1216,6 +1216,14 @@
     <display-name>esp-e200790379c0ch20028</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_6_200790379_20250604-134710.jpeg"/>
   </channel>
+  <channel id="370g150j1tflo70hueh62tnh0">
+    <display-name>370g150j1tflo70hueh62tnh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2mwom4xmk7cj3qd2bqs8sez4u_image-header_pEs_1750352391000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="368c7frrk396eq6aeh7gk7dw4">
+    <display-name>368c7frrk396eq6aeh7gk7dw4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pu58jbh14bj1gynog7ikvn9k_image-header_pEs_1750352391000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1690,14 +1698,14 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250622150000 +0000" stop="20250622173000 +0000" channel="6unzy9k5s45o3t7inb3ollfdg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/963y8b18y8m3jwey9vkxwfdoh_image-header_pEs_1749706492000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250622160000 +0000" stop="20250622193000 +0000" channel="6unzy9k5s45o3t7inb3ollfdg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5m7widfn0yqg7r5bko3alsyf7_image-header_pEs_1749706492000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Juventus - Wydad</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Wydad Casablanca y Juventus.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250622150000 +0000" stop="20250622173000 +0000" channel="98g4v3n0uuzpor3vtkbhd8ua2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ftl9gzb9uh3hgetixlgpmyhq_image-header_pEs_1747916130000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250622160000 +0000" stop="20250622193000 +0000" channel="98g4v3n0uuzpor3vtkbhd8ua2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/20o7khfpftnk9xk8lkv8tltvw_image-header_pEs_1747916130000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Juventus - Wydad</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Juventus y Wydad Casablanca.</desc>
     <category lang="es">Fútbol</category>
@@ -1738,7 +1746,7 @@
     <desc lang="es">Cross Country Olimpico | Masculino | Élite</desc>
     <category lang="es">Mountain Bike</category>
   </programme>
-  <programme start="20250622112000 +0000" stop="20250622135000 +0000" channel="esp-e200775006c0ch20003">
+  <programme start="20250622113000 +0000" stop="20250622135000 +0000" channel="esp-e200775006c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200775006_20250608-145344.jpeg"/>
     <title lang="es">Giro Next Gen - Etapa 8</title>
     <desc lang="es">Masculino | Pinerolo &gt; Pinerolo (141 km)</desc>
@@ -1774,7 +1782,7 @@
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250622123000 +0000" stop="20250622170000 +0000" channel="esp-e200782091c0ch20066">
+  <programme start="20250622144500 +0000" stop="20250622170200 +0000" channel="esp-e200782091c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20066_6_200782091_20250608-114202.jpeg"/>
     <title lang="es">Travelers Championship - Día 4</title>
     <desc lang="es">PGA Tour | Grupo destacado</desc>
@@ -1792,13 +1800,13 @@
     <desc lang="es">MXGP | 1ª Carrera</desc>
     <category lang="es">Motocross</category>
   </programme>
-  <programme start="20250622130500 +0000" stop="20250622155000 +0000" channel="esp-e200775698c0ch20005">
+  <programme start="20250622131000 +0000" stop="20250622155000 +0000" channel="esp-e200775698c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_6_200775698_20250614-074445.jpeg"/>
     <title lang="es">Vuelta a Suiza - Etapa 8</title>
     <desc lang="es">Masculino | Beckenried &gt; Stockhütte (CRI, 10 km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250622140000 +0000" stop="20250622160000 +0000" channel="esp-e200801677c0ch20001">
+  <programme start="20250622152000 +0000" stop="20250622180500 +0000" channel="esp-e200801677c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200801677_20250611-082832.jpeg"/>
     <title lang="es">FIA GT World Series - Palisades Tahoe</title>
     <desc lang="es">Broken Arrow</desc>
@@ -3039,5 +3047,17 @@
     <title lang="es">UFC 317 - Ilia Topuria - Charles Oliveira </title>
     <desc lang="es">Velada completa</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250628160000 +0000" stop="20250628183000 +0000" channel="370g150j1tflo70hueh62tnh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2mwom4xmk7cj3qd2bqs8sez4u_image-header_pEs_1750352391000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Primero del grupo A contra segundo del grupo B</title>
+    <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250628200000 +0000" stop="20250628223000 +0000" channel="368c7frrk396eq6aeh7gk7dw4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pu58jbh14bj1gynog7ikvn9k_image-header_pEs_1750352391000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Primero del grupo C contra segundo del grupo D</title>
+    <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
