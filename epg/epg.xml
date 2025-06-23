@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jun 23 12:37:05 2025">
+<tv date="Mon Jun 23 18:30:17 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -379,10 +379,6 @@
   <channel id="ztgr81diff2jb5jbx9ird9uc">
     <display-name>ztgr81diff2jb5jbx9ird9uc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu01nmr4u5womg45ykj24lrn6_image-header_pEs_1749706492000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200820106c0ch20011">
-    <display-name>esp-e200820106c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
   </channel>
   <channel id="52ila0ajke5656w7me0ykvz9f">
     <display-name>52ila0ajke5656w7me0ykvz9f</display-name>
@@ -1232,6 +1228,26 @@
     <display-name>esp-e200730736c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240307-131653.jpeg"/>
   </channel>
+  <channel id="bp18bt91akw4tt7g8bsqs3pzd">
+    <display-name>bp18bt91akw4tt7g8bsqs3pzd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4u5kqxuqk8vf2yqqwti9bj0nb_image-header_pEs_1750323098000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7eejcssw4oc3hkalpixj61oqo">
+    <display-name>7eejcssw4oc3hkalpixj61oqo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/74qzkxnfpxetf09nknouniatd_image-header_pEs_1750349582000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="argszqu8zoltoozjfh38rzh82">
+    <display-name>argszqu8zoltoozjfh38rzh82</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/du2po8q3zhloyb9qsz4ggqy5e_image-header_pEs_1750351222000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="25h9fkng4tt5o58guayctxgv1">
+    <display-name>25h9fkng4tt5o58guayctxgv1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j2jeej9gseh71l4ggwykyxeca_image-header_pEs_1750686059000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a93tkcqpqixklfwznko5vambj">
+    <display-name>a93tkcqpqixklfwznko5vambj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sg8iqhn2lvtkth658a9i5dj7_image-header_pEs_1750323492000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1801,12 +1817,6 @@
     <title lang="es">Seattle Sounders FC - Paris Saint-Germain</title>
     <desc lang="es">Vive el encuentro de FIFA Club World Cup entre Seattle Sounders y PSG.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250623135500 +0000" stop="20250623165000 +0000" channel="esp-e200820106c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
-    <title lang="es">Universiada - Rin-Ruhr</title>
-    <desc lang="es">Día 1</desc>
-    <category lang="es">Judo</category>
   </programme>
   <programme start="20250624010000 +0000" stop="20250624033000 +0000" channel="52ila0ajke5656w7me0ykvz9f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4k590kr23fvrg14kfph1g7hu6_image-header_pEs_1747916128000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3079,5 +3089,35 @@
     <title lang="es">Masculino y Femenino Lead - Final</title>
     <desc lang="es">Copa del Mundo | Innsbruck</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625181500 +0000" channel="bp18bt91akw4tt7g8bsqs3pzd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4u5kqxuqk8vf2yqqwti9bj0nb_image-header_pEs_1750323098000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250626180000 +0000" stop="20250626181500 +0000" channel="7eejcssw4oc3hkalpixj61oqo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/74qzkxnfpxetf09nknouniatd_image-header_pEs_1750349582000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250627180000 +0000" stop="20250627181500 +0000" channel="argszqu8zoltoozjfh38rzh82">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/du2po8q3zhloyb9qsz4ggqy5e_image-header_pEs_1750351222000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250627230000 +0000" stop="20250628050000 +0000" channel="25h9fkng4tt5o58guayctxgv1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j2jeej9gseh71l4ggwykyxeca_image-header_pEs_1750686059000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canelo vs. Crawford - Las Vegas Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250628180000 +0000" stop="20250628181500 +0000" channel="a93tkcqpqixklfwznko5vambj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sg8iqhn2lvtkth658a9i5dj7_image-header_pEs_1750323492000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
   </programme>
 </tv>
