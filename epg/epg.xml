@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jun 24 00:30:15 2025">
+<tv date="Tue Jun 24 18:30:14 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -299,10 +299,6 @@
   <channel id="1seoyji3qv3k2hd8d7z3slj7u">
     <display-name>1seoyji3qv3k2hd8d7z3slj7u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fv6nqau5xgp01vsgboh3ggycl_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="esp-e200820107c0ch20011">
-    <display-name>esp-e200820107c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
   </channel>
   <channel id="esp-e200730761c0ch20025">
     <display-name>esp-e200730761c0ch20025</display-name>
@@ -1602,12 +1598,6 @@
     <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250624135500 +0000" stop="20250624165000 +0000" channel="esp-e200820107c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
-    <title lang="es">Universiada - Rin-Ruhr</title>
-    <desc lang="es">Día 2</desc>
-    <category lang="es">Judo</category>
-  </programme>
   <programme start="20250624142500 +0000" stop="20250624201500 +0000" channel="esp-e200730761c0ch20025">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_3_200730761_20250509-101401.jpeg"/>
     <title lang="es">Copa Mundial Paralímpica - Innsbruck</title>
@@ -2808,19 +2798,19 @@
     <desc lang="es">Copa del Mundo | Innsbruck</desc>
     <category lang="es">Deportes Extremos</category>
   </programme>
-  <programme start="20250625180000 +0000" stop="20250625181500 +0000" channel="bp18bt91akw4tt7g8bsqs3pzd">
+  <programme start="20250625160000 +0000" stop="20250625161500 +0000" channel="bp18bt91akw4tt7g8bsqs3pzd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4u5kqxuqk8vf2yqqwti9bj0nb_image-header_pEs_1750323098000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 1</title>
+    <title lang="es">Bullet Chess Championship - Day 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
   </programme>
-  <programme start="20250626180000 +0000" stop="20250626181500 +0000" channel="7eejcssw4oc3hkalpixj61oqo">
+  <programme start="20250626160000 +0000" stop="20250626161500 +0000" channel="7eejcssw4oc3hkalpixj61oqo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/74qzkxnfpxetf09nknouniatd_image-header_pEs_1750349582000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
   </programme>
-  <programme start="20250627180000 +0000" stop="20250627181500 +0000" channel="argszqu8zoltoozjfh38rzh82">
+  <programme start="20250627160000 +0000" stop="20250627161500 +0000" channel="argszqu8zoltoozjfh38rzh82">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/du2po8q3zhloyb9qsz4ggqy5e_image-header_pEs_1750351222000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 3</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -2832,7 +2822,7 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250628180000 +0000" stop="20250628181500 +0000" channel="a93tkcqpqixklfwznko5vambj">
+  <programme start="20250628160000 +0000" stop="20250628161500 +0000" channel="a93tkcqpqixklfwznko5vambj">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sg8iqhn2lvtkth658a9i5dj7_image-header_pEs_1750323492000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 4</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
