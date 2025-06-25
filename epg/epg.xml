@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jun 25 00:32:02 2025">
+<tv date="Wed Jun 25 06:30:13 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1039,6 +1039,10 @@
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="aq1f4jq81kdv89vil3s2eg6z2">
+    <display-name>aq1f4jq81kdv89vil3s2eg6z2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/alae02s9x31iqtaedwdro7syj_image-header_pEs_1746618986000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2599,5 +2603,11 @@
     <title lang="es">Esports World Cup Fight Week - Itauma vs. Whyte</title>
     <desc lang="es">El invicto en el peso pesado Moses Itauma (12-0) regresa a Riad para enfrentarse a Dillian Whyte (31-3).</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250628000000 +0000" stop="20250628060000 +0000" channel="aq1f4jq81kdv89vil3s2eg6z2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/alae02s9x31iqtaedwdro7syj_image-header_pEs_1746618986000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PFL World Tournament</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
