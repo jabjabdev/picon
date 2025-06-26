@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jun 26 12:30:03 2025">
+<tv date="Fri Jun 27 00:30:07 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -159,10 +159,6 @@
   <channel id="esp-e200779373c0ch20003">
     <display-name>esp-e200779373c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200779373_20250611-150901.jpeg"/>
-  </channel>
-  <channel id="esp-e200820109c0ch20011">
-    <display-name>esp-e200820109c0ch20011</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
   </channel>
   <channel id="esp-e200792689c0ch20032">
     <display-name>esp-e200792689c0ch20032</display-name>
@@ -824,6 +820,10 @@
     <display-name>4a2d23ya4a87wv93dudddbuqw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dxqn301b2q84t7ppxa7ek25x9_image-header_pEs_1750434918000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="6siyic2w6j5yf67dk2qic70it">
+    <display-name>6siyic2w6j5yf67dk2qic70it</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dufgu12clud77letqmbrp737d_image-header_pEs_1750959810000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -1010,7 +1010,7 @@
     <desc lang="es">PGA Tour | Señal Alternativa</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250626104500 +0000" stop="20250626170000 +0000" channel="esp-e200785001c0ch20068">
+  <programme start="20250626110000 +0000" stop="20250626170000 +0000" channel="esp-e200785001c0ch20068">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_6_200785001_20250610-091710.jpeg"/>
     <title lang="es">Rocket Classic - Día 1</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
@@ -1058,17 +1058,11 @@
     <desc lang="es">British Open | Clasificación | Día 2 | Mesa 3</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250626130000 +0000" stop="20250626154500 +0000" channel="esp-e200779373c0ch20003">
+  <programme start="20250626132604 +0000" stop="20250626155604 +0000" channel="esp-e200779373c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_0_200779373_20250611-150901.jpeg"/>
     <title lang="es">Campeonato de Francia - Les Herbiers</title>
     <desc lang="es">Masculino | Contrarreloj</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20250626135500 +0000" stop="20250626165000 +0000" channel="esp-e200820109c0ch20011">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240304-130642.jpeg"/>
-    <title lang="es">Universiada - Rin-Ruhr</title>
-    <desc lang="es">Día 4</desc>
-    <category lang="es">Judo</category>
   </programme>
   <programme start="20250626150000 +0000" stop="20250626170000 +0000" channel="esp-e200792689c0ch20032">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200792689_20250608-114749.jpeg"/>
@@ -1706,7 +1700,7 @@
     <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250628220000 +0000" stop="20250629040000 +0000" channel="b48ehr9lsh3kvpcjjg6rn08g9">
+  <programme start="20250628190000 +0000" stop="20250629010000 +0000" channel="b48ehr9lsh3kvpcjjg6rn08g9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qprph9rltf851b5aj7qu4cl9p_image-header_pEs_1750352764000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paul vs. Chavez - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -2059,5 +2053,11 @@
     <title lang="es">Sorteo - Fase de grupos</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250627033000 +0000" stop="20250627060000 +0000" channel="6siyic2w6j5yf67dk2qic70it">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dufgu12clud77letqmbrp737d_image-header_pEs_1750959810000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Resumen de la jornada 13</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
