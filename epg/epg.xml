@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jun 28 12:36:58 2025">
+<tv date="Sun Jun 29 00:30:06 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -626,11 +626,11 @@
   </channel>
   <channel id="dyn43j1dzvoumjxbgyzt0891g">
     <display-name>dyn43j1dzvoumjxbgyzt0891g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjpn29p6607s7t109ia365wuw_image-header_pEs_1750258078000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjpn29p6607s7t109ia365wuw_image-header_pEs_1750924754000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="39b4oggf8mbeym37tdwuls8b8">
     <display-name>39b4oggf8mbeym37tdwuls8b8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dv4vkysl0mte0jmosff2pw3i_image-header_pEs_1750352391000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dv4vkysl0mte0jmosff2pw3i_image-header_pEs_1750929201000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cr2muv7le4b9gx935zsdipxve">
     <display-name>cr2muv7le4b9gx935zsdipxve</display-name>
@@ -759,6 +759,10 @@
   <channel id="esp-e200793527c0ch20064">
     <display-name>esp-e200793527c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_0_200793527_20250619-112420.jpeg"/>
+  </channel>
+  <channel id="40i06en80d1nalbzx2178v0hk">
+    <display-name>40i06en80d1nalbzx2178v0hk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5swtn05wof914l0pz14fuge5l_image-header_pEs_1750961557000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1288,13 +1292,13 @@
     <desc lang="es">British Open | Clasificación | Día 4 | Mesa 3</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250628105500 +0000" stop="20250628143000 +0000" channel="esp-e200779376c0ch20003">
+  <programme start="20250628110000 +0000" stop="20250628143000 +0000" channel="esp-e200779376c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
     <title lang="es">Ciclismo</title>
     <desc lang="es">Femenino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250628110000 +0000" stop="20250628170000 +0000" channel="esp-e200785003c0ch20068">
+  <programme start="20250628120000 +0000" stop="20250628170000 +0000" channel="esp-e200785003c0ch20068">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_0_200785003_20250613-130109.jpeg"/>
     <title lang="es">Rocket Classic - Día 3</title>
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
@@ -1336,7 +1340,7 @@
     <desc lang="es">British Open | Clasificación | Día 4 | Mesa 1</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250628123000 +0000" stop="20250628143000 +0000" channel="esp-e200823838c0ch20005">
+  <programme start="20250628131500 +0000" stop="20250628144500 +0000" channel="esp-e200823838c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
     <title lang="es">Ciclismo</title>
     <desc lang="es">Femenino</desc>
@@ -1696,15 +1700,15 @@
     <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250630190000 +0000" stop="20250630213000 +0000" channel="dyn43j1dzvoumjxbgyzt0891g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjpn29p6607s7t109ia365wuw_image-header_pEs_1750258078000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Primero del grupo E contra segundo del grupo F</title>
-    <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA</desc>
+  <programme start="20250630180000 +0000" stop="20250630203000 +0000" channel="dyn43j1dzvoumjxbgyzt0891g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjpn29p6607s7t109ia365wuw_image-header_pEs_1750924754000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - Fluminense</title>
+    <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250630190000 +0000" stop="20250630213000 +0000" channel="39b4oggf8mbeym37tdwuls8b8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dv4vkysl0mte0jmosff2pw3i_image-header_pEs_1750352391000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Primero del grupo E contra segundo del grupo F</title>
+  <programme start="20250630180000 +0000" stop="20250630203000 +0000" channel="39b4oggf8mbeym37tdwuls8b8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3dv4vkysl0mte0jmosff2pw3i_image-header_pEs_1750929201000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - Fluminense</title>
     <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
   </programme>
@@ -1714,7 +1718,7 @@
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250629190000 +0000" stop="20250630010000 +0000" channel="2a5v5plkoz528v586l21rb77j">
+  <programme start="20250630190000 +0000" stop="20250701010000 +0000" channel="2a5v5plkoz528v586l21rb77j">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6fwxw9vlnbarbdu8mx49x12jg_image-header_pEs_1744436244000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Cliff Diving World Series - Polignano a Mare - Stop 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1899,5 +1903,11 @@
     <title lang="es">Clásico John Deere - Día 2 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250629230000 +0000" stop="20250630013000 +0000" channel="40i06en80d1nalbzx2178v0hk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5swtn05wof914l0pz14fuge5l_image-header_pEs_1750961557000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Resumen de la jornada 15</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
