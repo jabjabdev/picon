@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jun 29 00:30:06 2025">
+<tv date="Sun Jun 29 06:32:02 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -7,10 +7,6 @@
   <channel id="3qei0rksy137c1hqwk6cmjh0l">
     <display-name>3qei0rksy137c1hqwk6cmjh0l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5jzsk2iim49vwuuu30cwawtxd">
-    <display-name>5jzsk2iim49vwuuu30cwawtxd</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18thsnyd97mdy1ddcjo7vffe1k_image-header_pEs_1748359601000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200792671c0ch20031">
     <display-name>esp-e200792671c0ch20031</display-name>
@@ -460,10 +456,6 @@
     <display-name>3c1buff64uvufeir5ut7iymtw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rii4c59ttfy7injmby3w6xde_image-header_pEs_1750101527000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="9uzuuitu4vk2xcflhserzr64y">
-    <display-name>9uzuuitu4vk2xcflhserzr64y</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bdjmovhr2k5tovcaven49inwp_image-header_pEs_1742229559000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="6yskuxvn8kkm6nyis52dtsvoh">
     <display-name>6yskuxvn8kkm6nyis52dtsvoh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3bveisk66di6e1xwnim1hce2k_image-header_pEs_1750241965000/fill/none/top/none/85/300/180/webp/image"/>
@@ -764,6 +756,10 @@
     <display-name>40i06en80d1nalbzx2178v0hk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5swtn05wof914l0pz14fuge5l_image-header_pEs_1750961557000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="5jzsk2iim49vwuuu30cwawtxd">
+    <display-name>5jzsk2iim49vwuuu30cwawtxd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b4ct97dqdxbm1o0lyyp7olphe_image-header_pEs_1749715900000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -774,12 +770,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Usyk vs. Dubois 2</title>
     <desc lang="es">Oleksandr Usyk y Daniel Dubois se volverán a enfrentar el próximo 19 de julio con título peso pesado indiscutible sobre la mesa en el mítico estadio Wembley.</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250629000000 +0000" stop="20250629060000 +0000" channel="5jzsk2iim49vwuuu30cwawtxd">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18thsnyd97mdy1ddcjo7vffe1k_image-header_pEs_1748359601000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Jake Paul vs. Chavez Jr.</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
   <programme start="20250625090000 +0000" stop="20250625110000 +0000" channel="esp-e200792671c0ch20031">
@@ -1454,12 +1444,6 @@
     <desc lang="es">Disfruta de una nueva noche de NASCAR Cup Series en DAZN, en esta ocasión con la Quaker State 400 Available at Walmart que se celebra en Atlanta.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250628233000 +0000" stop="20250629053000 +0000" channel="9uzuuitu4vk2xcflhserzr64y">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bdjmovhr2k5tovcaven49inwp_image-header_pEs_1742229559000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Día 1 - Los Ángeles</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Atletismo</category>
-  </programme>
   <programme start="20250629040000 +0000" stop="20250629100000 +0000" channel="6yskuxvn8kkm6nyis52dtsvoh">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3bveisk66di6e1xwnim1hce2k_image-header_pEs_1750241965000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Frankfurt</title>
@@ -1909,5 +1893,11 @@
     <title lang="es">Resumen de la jornada 15</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250629000000 +0000" stop="20250629060000 +0000" channel="5jzsk2iim49vwuuu30cwawtxd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b4ct97dqdxbm1o0lyyp7olphe_image-header_pEs_1749715900000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jake Paul vs. Chavez Jr.</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
