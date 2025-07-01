@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 01 18:30:02 2025">
+<tv date="Wed Jul 02 00:30:03 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -187,10 +187,6 @@
   <channel id="3bn1oakaznlzmkaeqgdbkpr84">
     <display-name>3bn1oakaznlzmkaeqgdbkpr84</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5oc2l9bmxe3dphp6bden3tiyf_image-header_pEs_1751015061000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cup0dr9cnqvfqmkoixjhj93zo">
-    <display-name>cup0dr9cnqvfqmkoixjhj93zo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byp9w84ycfrc1f6f3sjmott4d_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
@@ -484,6 +480,22 @@
     <display-name>esp-e200810859c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
+  <channel id="9jfjf27alp7spspfxhocc4amj">
+    <display-name>9jfjf27alp7spspfxhocc4amj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dvbnsm8ocv93639pl1jp6943u_image-header_pEs_1750354968000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9xxc1dbf72of1uusbuixr0auq">
+    <display-name>9xxc1dbf72of1uusbuixr0auq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/evdud2i71pa1lg8nidw7ie4t5_image-header_pEs_1742889187000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8r7s2ltmdqfuz4q96d0k2l1jr">
+    <display-name>8r7s2ltmdqfuz4q96d0k2l1jr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72fawjiignw4gjgodq0jci3u8_image-header_pEs_1751378391000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8pte59uo1gr0x7w8lk8foxghj">
+    <display-name>8pte59uo1gr0x7w8lk8foxghj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56lhla9ups2a7vkoie9q1ilrp_image-header_pEs_1751292517000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Berlanga vs. Sheeraz &amp; Stevenson vs. Zepeda</title>
@@ -765,12 +777,6 @@
     <title lang="es">Real Madrid - Juventus</title>
     <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250701210000 +0000" stop="20250702030000 +0000" channel="cup0dr9cnqvfqmkoixjhj93zo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byp9w84ycfrc1f6f3sjmott4d_image-header_pEs_1732211560000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 33</title>
-    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1209,5 +1215,29 @@
     <title lang="es">Tour de Francia - Etapa 3</title>
     <desc lang="es">Masculino</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250703071500 +0000" stop="20250703131500 +0000" channel="9jfjf27alp7spspfxhocc4amj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dvbnsm8ocv93639pl1jp6943u_image-header_pEs_1750354968000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 1 - HOKA Val d'Aran</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250703120000 +0000" stop="20250703180000 +0000" channel="9xxc1dbf72of1uusbuixr0auq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/evdud2i71pa1lg8nidw7ie4t5_image-header_pEs_1742889187000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - Qatar Airways GP de Gran Bretaña</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250703150000 +0000" stop="20250703210000 +0000" channel="8r7s2ltmdqfuz4q96d0k2l1jr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/72fawjiignw4gjgodq0jci3u8_image-header_pEs_1751378391000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PFL MENA 2 - Pesaje</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250703183000 +0000" stop="20250704003000 +0000" channel="8pte59uo1gr0x7w8lk8foxghj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/56lhla9ups2a7vkoie9q1ilrp_image-header_pEs_1751292517000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ceremonia de salida - Rally Rías Baixas 2025</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
