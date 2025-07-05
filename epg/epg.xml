@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 05 12:30:07 2025">
+<tv date="Sat Jul 05 18:30:06 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -104,10 +104,6 @@
     <display-name>esp-e200810218c0ch20032</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
   </channel>
-  <channel id="esp-e200817224c0ch20037">
-    <display-name>esp-e200817224c0ch20037</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
-  </channel>
   <channel id="esp-e200794432c0ch20068">
     <display-name>esp-e200794432c0ch20068</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_0_200794432_20250620-085426.jpeg"/>
@@ -115,10 +111,6 @@
   <channel id="esp-e200793561c0ch20065">
     <display-name>esp-e200793561c0ch20065</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_0_200793561_20250620-085317.jpeg"/>
-  </channel>
-  <channel id="esp-e200783376c0ch20020">
-    <display-name>esp-e200783376c0ch20020</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200783376_20250620-112935.jpeg"/>
   </channel>
   <channel id="esp-e200819866c0ch20023">
     <display-name>esp-e200819866c0ch20023</display-name>
@@ -466,11 +458,11 @@
   </channel>
   <channel id="acwpepmtpes0d34mvjrhdledo">
     <display-name>acwpepmtpes0d34mvjrhdledo</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0cc7wk0ihna75afurrfewkwm_image-header_pEs_1751564162000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5asnnh5p9ugpxr3bmw3mrin04_image-header_pEs_1751564162000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="bqgmr6onf7q9xlzqxi3dn4mj8">
     <display-name>bqgmr6onf7q9xlzqxi3dn4mj8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c3jgiaxlomt484c688rz76437_image-header_pEs_1751564162000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/beqs4k06xq7it7nmhaq2r1wrt_image-header_pEs_1751564162000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2vcpalk1fvkpcwvf5mhkwua3m">
     <display-name>2vcpalk1fvkpcwvf5mhkwua3m</display-name>
@@ -856,12 +848,6 @@
     <desc lang="es">Masculino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250705110900 +0000" stop="20250705154600 +0000" channel="esp-e200817224c0ch20037">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
-    <title lang="es">Tour de Francia - Etapa 1</title>
-    <desc lang="es">Masculino</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
   <programme start="20250705120000 +0000" stop="20250705170000 +0000" channel="esp-e200794432c0ch20068">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_0_200794432_20250620-085426.jpeg"/>
     <title lang="es">Clásico John Deere - Día 3</title>
@@ -873,12 +859,6 @@
     <title lang="es">Clásico John Deere - Día 3</title>
     <desc lang="es">PGA Tour | Señal alternativa</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250705120000 +0000" stop="20250705133000 +0000" channel="esp-e200783376c0ch20020">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_0_200783376_20250620-112935.jpeg"/>
-    <title lang="es">FIM Speedway GP - Malilla</title>
-    <desc lang="es">Clasificación</desc>
-    <category lang="es">Speedway</category>
   </programme>
   <programme start="20250705122000 +0000" stop="20250705141000 +0000" channel="esp-e200819866c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200819866_20250620-100908.jpeg"/>
@@ -1396,14 +1376,14 @@
     <desc lang="es">Watch the latest European Rally Championship action from the Rally di Roma Capitale.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250705150000 +0000" stop="20250705173000 +0000" channel="acwpepmtpes0d34mvjrhdledo">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0cc7wk0ihna75afurrfewkwm_image-header_pEs_1751564162000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250705160000 +0000" stop="20250705203000 +0000" channel="acwpepmtpes0d34mvjrhdledo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5asnnh5p9ugpxr3bmw3mrin04_image-header_pEs_1751564162000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Bayern München</title>
     <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250705150000 +0000" stop="20250705173000 +0000" channel="bqgmr6onf7q9xlzqxi3dn4mj8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c3jgiaxlomt484c688rz76437_image-header_pEs_1751564162000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250705160000 +0000" stop="20250705203000 +0000" channel="bqgmr6onf7q9xlzqxi3dn4mj8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/beqs4k06xq7it7nmhaq2r1wrt_image-header_pEs_1751564162000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Paris Saint-Germain - Bayern München</title>
     <desc lang="es">Vive toda la acción del Mundial de Clubes FIFA.</desc>
     <category lang="es">Fútbol</category>
