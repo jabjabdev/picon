@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jul 06 00:37:02 2025">
+<tv date="Sun Jul 06 06:30:04 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -699,6 +699,14 @@
   <channel id="esp-e200849936c0ch20047">
     <display-name>esp-e200849936c0ch20047</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2608632_20240723-151955.jpeg"/>
+  </channel>
+  <channel id="8bcjd4mfsnpl7llj7h616jaj8">
+    <display-name>8bcjd4mfsnpl7llj7h616jaj8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aakm90vsd3ub6vfi7qnz922td_image-header_pEs_1751767616000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7aayc6z9ret9a2gv9hebz28es">
+    <display-name>7aayc6z9ret9a2gv9hebz28es</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61jubmpo1c1blmy2ss4rdv88q_image-header_pEs_1751767616000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712210000 +0000" stop="20250713030000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1749,5 +1757,17 @@
     <title lang="es">BMX</title>
     <desc lang="es"/>
     <category lang="es">BMX</category>
+  </programme>
+  <programme start="20250706150000 +0000" stop="20250706183000 +0000" channel="8bcjd4mfsnpl7llj7h616jaj8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aakm90vsd3ub6vfi7qnz922td_image-header_pEs_1751767616000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">New Zealand U19 - Slovenia U19</title>
+    <desc lang="es">Vive el encuentro de FIBA U19 World Cup entre New Zealand U19 y Slovenia U19.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250706180000 +0000" stop="20250706213000 +0000" channel="7aayc6z9ret9a2gv9hebz28es">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61jubmpo1c1blmy2ss4rdv88q_image-header_pEs_1751767616000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">United States U19 - Germany U19</title>
+    <desc lang="es">Vive el encuentro de FIBA U19 World Cup entre United States U19 y Germany U19.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
