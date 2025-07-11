@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jul 11 12:36:57 2025">
+<tv date="Fri Jul 11 18:37:04 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hmgaxjj1qrcu1b7xl2rw0novv_image-header_pEs_1747341061000/fill/none/top/none/85/300/180/webp/image"/>
@@ -163,14 +163,6 @@
   <channel id="esp-e200817633c0ch20027">
     <display-name>esp-e200817633c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_0_200817633_20250626-130610.jpeg"/>
-  </channel>
-  <channel id="esp-e200822024c0ch20048">
-    <display-name>esp-e200822024c0ch20048</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
-  </channel>
-  <channel id="esp-e200822025c0ch20048">
-    <display-name>esp-e200822025c0ch20048</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
   </channel>
   <channel id="esp-e200794911c0ch20065">
     <display-name>esp-e200794911c0ch20065</display-name>
@@ -989,18 +981,6 @@
     <title lang="es">WorldSBK - Reino Unido</title>
     <desc lang="es">Supersport | Superpole | Día 1</desc>
     <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20250711151500 +0000" stop="20250711154500 +0000" channel="esp-e200822024c0ch20048">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
-    <title lang="es">UCI Mountain Bike World Series - Pal Arinsal</title>
-    <desc lang="es">Cross Country Carrera Corta | Femenino | Élite</desc>
-    <category lang="es">Mountain Bike</category>
-  </programme>
-  <programme start="20250711154500 +0000" stop="20250711170000 +0000" channel="esp-e200822025c0ch20048">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
-    <title lang="es">UCI Mountain Bike World Series - Pal Arinsal</title>
-    <desc lang="es">Cross Country Carrera Corta | Masculino | Élite</desc>
-    <category lang="es">Mountain Bike</category>
   </programme>
   <programme start="20250711180000 +0000" stop="20250711200000 +0000" channel="esp-e200794911c0ch20065">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_0_200794911_20250626-145142.jpeg"/>
