@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 12 18:37:01 2025">
+<tv date="Sun Jul 13 00:30:05 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xof0q2vkbijg1qrlzcxrbkq3h_image-header_pEs_1750067142000/fill/none/top/none/85/300/180/webp/image"/>
@@ -492,10 +492,6 @@
     <display-name>5jqxo9fdm9pln3px5s2g864us</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/81i4hew9whlwnqaap7zf2253b_image-header_pEs_1751489902000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="aj6nqwx3yfwhepzwcr52ippz0">
-    <display-name>aj6nqwx3yfwhepzwcr52ippz0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3w6sb8izdygj14an31a9jxnr7_image-header_pEs_1751637155000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200810228c0ch20032">
     <display-name>esp-e200810228c0ch20032</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200810228_20250703-112108.jpeg"/>
@@ -795,6 +791,18 @@
   <channel id="esp-e200862914c0ch20031">
     <display-name>esp-e200862914c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_0_200862914_20250712-062509.jpeg"/>
+  </channel>
+  <channel id="85ttzvhmxrfhabj81flmhtpex">
+    <display-name>85ttzvhmxrfhabj81flmhtpex</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cast2dnei6svonm8s77md9i2w_image-header_pEs_1750811017000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cqhdtj2xyb9m8y4yo5dvomnts">
+    <display-name>cqhdtj2xyb9m8y4yo5dvomnts</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tzccy9n9um5y1i2vyjcs2vion_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6qun001adw4dbt55bktx8oj2i">
+    <display-name>6qun001adw4dbt55bktx8oj2i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i6jm433ef1kuzs0lt8g8c090_image-header_pEs_1748252947000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250712220000 +0000" stop="20250713040000 +0000" channel="8jcxjsm81zkpt34jvrwjkvnyq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xof0q2vkbijg1qrlzcxrbkq3h_image-header_pEs_1750067142000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1120,7 +1128,7 @@
     <desc lang="es">Etapa 8 | Masculino | Saint-Méen-le-Grande &gt; Laval Espace Mayenne (171.4km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250712170000 +0000" stop="20250712200000 +0000" channel="esp-e200794690c0ch20064">
+  <programme start="20250712200000 +0000" stop="20250712230000 +0000" channel="esp-e200794690c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_0_200794690_20250627-133953.jpeg"/>
     <title lang="es">Kentucky Championship - Día 3 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
@@ -1534,12 +1542,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250712220000 +0000" stop="20250713040000 +0000" channel="aj6nqwx3yfwhepzwcr52ippz0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3w6sb8izdygj14an31a9jxnr7_image-header_pEs_1751637155000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ring III - Lucha Libre</title>
-    <desc lang="es">Disfruta las primeras peleas de este histórico evento de Ring Magazine sin costo adicional. Exclusivamente en DAZN</desc>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20250716110000 +0000" stop="20250716154500 +0000" channel="esp-e200810228c0ch20032">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_6_200810228_20250703-112108.jpeg"/>
     <title lang="es">Tour de Francia - Etapa 11</title>
@@ -1774,7 +1776,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250713095000 +0000" stop="20250713155000 +0000" channel="9rzq258mqvmmmn3d795q7u501">
+  <programme start="20250713112000 +0000" stop="20250713172000 +0000" channel="9rzq258mqvmmmn3d795q7u501">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ayj9p36oqz6fxrfzk0rl4t45z_image-header_pEs_1751638473000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">ML -BB - Last Chance Qualifier</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1989,5 +1991,23 @@
     <title lang="es">Masculino Elite Descenso - Pal Arinsal</title>
     <desc lang="es">UCI Mountain Bike World Series</desc>
     <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250714110000 +0000" stop="20250714150000 +0000" channel="85ttzvhmxrfhabj81flmhtpex">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cast2dnei6svonm8s77md9i2w_image-header_pEs_1750811017000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 10 I Ennezat - Puy Sancy</title>
+    <desc lang="es">La 112º edición del Tour de Francia se celebra del 5 al 27 de julio de 2025, con salida en Lille y llegada en los tradicionales Campos Elíseos de París. El recorrido, exclusivamente en suelo francés, comprende 21 etapas y más de 3 300 kilómetros, incluyendo dos contrarrelojes individuales, cinco finales en alto y más de 51 000 metros de desnivel positivo.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250714183000 +0000" stop="20250715003000 +0000" channel="cqhdtj2xyb9m8y4yo5dvomnts">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tzccy9n9um5y1i2vyjcs2vion_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP - Alemania</title>
+    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250714190000 +0000" stop="20250714213000 +0000" channel="6qun001adw4dbt55bktx8oj2i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i6jm433ef1kuzs0lt8g8c090_image-header_pEs_1748252947000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
