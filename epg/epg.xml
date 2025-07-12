@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 12 12:36:40 2025">
+<tv date="Sat Jul 12 18:37:01 2025">
   <channel id="8jcxjsm81zkpt34jvrwjkvnyq">
     <display-name>8jcxjsm81zkpt34jvrwjkvnyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xof0q2vkbijg1qrlzcxrbkq3h_image-header_pEs_1750067142000/fill/none/top/none/85/300/180/webp/image"/>
@@ -160,10 +160,6 @@
     <display-name>esp-e200817710c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200817710_20250627-140704.jpeg"/>
   </channel>
-  <channel id="esp-e200822026c0ch20048">
-    <display-name>esp-e200822026c0ch20048</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_0_200822026_20250627-144113.jpeg"/>
-  </channel>
   <channel id="esp-e200821790c0ch20046">
     <display-name>esp-e200821790c0ch20046</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20046_2_200821790_20250705-200914.jpeg"/>
@@ -195,10 +191,6 @@
   <channel id="esp-e200817802c0ch20028">
     <display-name>esp-e200817802c0ch20028</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_4_200817802_20250625-103840.jpeg"/>
-  </channel>
-  <channel id="esp-e200822027c0ch20048">
-    <display-name>esp-e200822027c0ch20048</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_0_200822027_20250627-143619.jpeg"/>
   </channel>
   <channel id="esp-e200817712c0ch20027">
     <display-name>esp-e200817712c0ch20027</display-name>
@@ -1044,12 +1036,6 @@
     <desc lang="es">Superbike | Superpole | Día 2</desc>
     <category lang="es">Superbike</category>
   </programme>
-  <programme start="20250712104500 +0000" stop="20250712120000 +0000" channel="esp-e200822026c0ch20048">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_0_200822026_20250627-144113.jpeg"/>
-    <title lang="es">UCI Mountain Bike World Series - Pal Arinsal</title>
-    <desc lang="es">Descenso | Femenino | Elite</desc>
-    <category lang="es">Mountain Bike</category>
-  </programme>
   <programme start="20250712105000 +0000" stop="20250712125000 +0000" channel="esp-e200821790c0ch20046">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20046_2_200821790_20250705-200914.jpeg"/>
     <title lang="es">Giro de Italia - Etapa 7</title>
@@ -1097,12 +1083,6 @@
     <title lang="es">Campeonato del Mundo - Reino Unido</title>
     <desc lang="es">1ª Carrera | Femenino</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250712120000 +0000" stop="20250712140000 +0000" channel="esp-e200822027c0ch20048">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_0_200822027_20250627-143619.jpeg"/>
-    <title lang="es">UCI Mountain Bike World Series - Pal Arinsal</title>
-    <desc lang="es">Descenso | Masculino | Elite</desc>
-    <category lang="es">Mountain Bike</category>
   </programme>
   <programme start="20250712122000 +0000" stop="20250712133500 +0000" channel="esp-e200817712c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_0_200817712_20250627-134558.jpeg"/>
