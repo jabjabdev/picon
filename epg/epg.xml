@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 15 12:36:52 2025">
+<tv date="Tue Jul 15 18:32:02 2025">
   <channel id="3qei0rksy137c1hqwk6cmjh0l">
     <display-name>3qei0rksy137c1hqwk6cmjh0l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/300/180/webp/image"/>
@@ -731,6 +731,10 @@
   <channel id="esp-e200864790c0ch20013">
     <display-name>esp-e200864790c0ch20013</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607382_20240723-164248.jpeg"/>
+  </channel>
+  <channel id="aeax2wl5euhbbyymsdevzbu3c">
+    <display-name>aeax2wl5euhbbyymsdevzbu3c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j5czs0aeaj731hmilcp36qhiv_image-header_pEs_1752585733000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250719180000 +0000" stop="20250720000000 +0000" channel="3qei0rksy137c1hqwk6cmjh0l">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1829,5 +1833,11 @@
     <title lang="es">Taekwondo</title>
     <desc lang="es"/>
     <category lang="es">Taekwondo</category>
+  </programme>
+  <programme start="20250719163000 +0000" stop="20250719223000 +0000" channel="aeax2wl5euhbbyymsdevzbu3c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j5czs0aeaj731hmilcp36qhiv_image-header_pEs_1752585733000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Usyk vs. Dubois 2 - True Geordie Watchalong</title>
+    <desc lang="es">Únete a True Geordie para ver el duelo indiscutible de pesos pesados entre Oleksandr Usyk y Daniel Dubois.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
