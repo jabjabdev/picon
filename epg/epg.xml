@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 15 00:30:05 2025">
+<tv date="Tue Jul 15 06:37:02 2025">
   <channel id="3qei0rksy137c1hqwk6cmjh0l">
     <display-name>3qei0rksy137c1hqwk6cmjh0l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/300/180/webp/image"/>
@@ -687,6 +687,38 @@
   <channel id="5mvv8th4bit9dkcx9a1akibth">
     <display-name>5mvv8th4bit9dkcx9a1akibth</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7bn7ox97rwvw5zcw6uexird3q_image-header_pEs_1743913135000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200820040c0ch20011">
+    <display-name>esp-e200820040c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_2_200820040_20250706-083031.jpeg"/>
+  </channel>
+  <channel id="esp-e200818509c0ch20005">
+    <display-name>esp-e200818509c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200818509_20250706-083709.jpeg"/>
+  </channel>
+  <channel id="esp-e200856093c0ch20002">
+    <display-name>esp-e200856093c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200818097c0ch20004">
+    <display-name>esp-e200818097c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200818097_20250706-085634.jpeg"/>
+  </channel>
+  <channel id="esp-e200818670c0ch20008">
+    <display-name>esp-e200818670c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200818670_20250706-090233.jpeg"/>
+  </channel>
+  <channel id="esp-e200820130c0ch20012">
+    <display-name>esp-e200820130c0ch20012</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200820130_20250706-090925.jpeg"/>
+  </channel>
+  <channel id="esp-e200818588c0ch20007">
+    <display-name>esp-e200818588c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200818588_20250706-091203.jpeg"/>
+  </channel>
+  <channel id="esp-e200818671c0ch20009">
+    <display-name>esp-e200818671c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_0_200818671_20250706-092342.jpeg"/>
   </channel>
   <programme start="20250719180000 +0000" stop="20250720000000 +0000" channel="3qei0rksy137c1hqwk6cmjh0l">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q4zldc89mdj41m77yr3ujqw1m_image-header_pEs_1747736427000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1719,5 +1751,53 @@
     <title lang="es">Las Vegas - Día 1 (Pro Stream)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250721125500 +0000" stop="20250721175000 +0000" channel="esp-e200820040c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_2_200820040_20250706-083031.jpeg"/>
+    <title lang="es">Juegos Universitarios - RIn-Ruhr</title>
+    <desc lang="es">Día 5</desc>
+    <category lang="es">Esgrima</category>
+  </programme>
+  <programme start="20250721135500 +0000" stop="20250721153000 +0000" channel="esp-e200818509c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20005_0_200818509_20250706-083709.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Trampolín 3m | Femenino</desc>
+    <category lang="es">Saltos de Natación</category>
+  </programme>
+  <programme start="20250721140000 +0000" stop="20250721153000 +0000" channel="esp-e200856093c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Clásica Terres de l'Ebre  </title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250721141500 +0000" stop="20250721191500 +0000" channel="esp-e200818097c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_0_200818097_20250706-085634.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Día 1</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20250721145500 +0000" stop="20250721173000 +0000" channel="esp-e200818670c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20008_2_200818670_20250706-090233.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Femenino | Semifinales</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20250721152500 +0000" stop="20250721180000 +0000" channel="esp-e200820130c0ch20012">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200820130_20250706-090925.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Día 5</desc>
+    <category lang="es">Taekwondo</category>
+  </programme>
+  <programme start="20250721165500 +0000" stop="20250721193500 +0000" channel="esp-e200818588c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200818588_20250706-091203.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Día 5</desc>
+    <category lang="es">Natación</category>
+  </programme>
+  <programme start="20250721175500 +0000" stop="20250721203000 +0000" channel="esp-e200818671c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_0_200818671_20250706-092342.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Femenino | Semifinales</desc>
+    <category lang="es">Voleibol</category>
   </programme>
 </tv>
