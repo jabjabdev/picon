@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 19 18:36:57 2025">
+<tv date="Sun Jul 20 00:30:06 2025">
   <channel id="3qei0rksy137c1hqwk6cmjh0l">
     <display-name>3qei0rksy137c1hqwk6cmjh0l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ybeujzkp13mr14ec8ihh6a1gy_image-header_pEs_1750423881000/fill/none/top/none/85/300/180/webp/image"/>
@@ -256,10 +256,6 @@
     <display-name>esp-e200818586c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200818586_20250704-170108.jpeg"/>
   </channel>
-  <channel id="esp-e200820828c0ch20009">
-    <display-name>esp-e200820828c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_0_200820828_20250704-170751.jpeg"/>
-  </channel>
   <channel id="esp-e200842236c0ch20010">
     <display-name>esp-e200842236c0ch20010</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200842236_20250710-103721.jpeg"/>
@@ -407,10 +403,6 @@
   <channel id="esp-e200864790c0ch20013">
     <display-name>esp-e200864790c0ch20013</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607382_20240723-164248.jpeg"/>
-  </channel>
-  <channel id="aeax2wl5euhbbyymsdevzbu3c">
-    <display-name>aeax2wl5euhbbyymsdevzbu3c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j5czs0aeaj731hmilcp36qhiv_image-header_pEs_1752585733000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200864741c0ch20003">
     <display-name>esp-e200864741c0ch20003</display-name>
@@ -1176,6 +1168,30 @@
     <display-name>c2ym2c4z5xzg1jmue55koiot0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4m0vt4bxojo9gcidoel7pp6aj_image-header_pEs_1752889534000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="128cyfnx7tetn473aic6mqvg4">
+    <display-name>128cyfnx7tetn473aic6mqvg4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vv04ks9s0vc41fasolljdscuo_image-header_pEs_1752222334000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6k81rgz37qygppf07c8g12l23">
+    <display-name>6k81rgz37qygppf07c8g12l23</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3uzeeun2zkqo155ojirky21c0_image-header_pEs_1752222334000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bc8n3wrqcmlrrvk4ladio5uwh">
+    <display-name>bc8n3wrqcmlrrvk4ladio5uwh</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xy3kxcuxkowr1epqvnlx0kvx1_image-header_pEs_1752222334000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="327cyz2mpsbh63jfprphvsp3p">
+    <display-name>327cyz2mpsbh63jfprphvsp3p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i2pvzngmpvs61t50aff1rydp3_image-header_pEs_1752222334000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="hquoddsqxlhkl53o759zshyl">
+    <display-name>hquoddsqxlhkl53o759zshyl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aeqloo5pwdi13ecfnu0tlhjx_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5v2jqb8m8j4tynlr5albs4uc8">
+    <display-name>5v2jqb8m8j4tynlr5albs4uc8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34kz8ukc75pqfrit6gsnhh0vf_image-header_pEs_1752151813000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250719163000 +0000" stop="20250719223000 +0000" channel="3qei0rksy137c1hqwk6cmjh0l">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ybeujzkp13mr14ec8ihh6a1gy_image-header_pEs_1750423881000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Usyk vs. Dubois 2</title>
@@ -1560,12 +1576,6 @@
     <desc lang="es">Día 3</desc>
     <category lang="es">Natación</category>
   </programme>
-  <programme start="20250719172500 +0000" stop="20250719200000 +0000" channel="esp-e200820828c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_0_200820828_20250704-170751.jpeg"/>
-    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
-    <desc lang="es">Femenino | Semifinales</desc>
-    <category lang="es">Tenis de Mesa</category>
-  </programme>
   <programme start="20250719173000 +0000" stop="20250719193000 +0000" channel="esp-e200842236c0ch20010">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20010_6_200842236_20250710-103721.jpeg"/>
     <title lang="es">Tenis</title>
@@ -1584,7 +1594,7 @@
     <desc lang="es">ATP Challenger Open Ciudad de Pozoblanco Memorial Fabián Dorado | Individuales | Semifinales</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250719200000 +0000" stop="20250719230000 +0000" channel="esp-e200803774c0ch20064">
+  <programme start="20250719220000 +0000" stop="20250720010000 +0000" channel="esp-e200803774c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_0_200803774_20250704-152612.jpeg"/>
     <title lang="es">Barracuda Championship - Día 3 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
@@ -1787,12 +1797,6 @@
     <title lang="es">Taekwondo</title>
     <desc lang="es"/>
     <category lang="es">Taekwondo</category>
-  </programme>
-  <programme start="20250719173000 +0000" stop="20250719233000 +0000" channel="aeax2wl5euhbbyymsdevzbu3c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j5czs0aeaj731hmilcp36qhiv_image-header_pEs_1752585733000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Usyk vs. Dubois 2 - segunda pantalla con True Geordie</title>
-    <desc lang="es">Disfruta la pelea de Usyk vs. Dubois 2 con los comentarios del youtube True Geordie</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20250717142500 +0000" stop="20250717161500 +0000" channel="esp-e200864741c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200864741_20250715-093828.jpeg"/>
@@ -2939,5 +2943,41 @@
     <title lang="es">United States U19 - Spain U19</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250720220000 +0000" stop="20250721020000 +0000" channel="128cyfnx7tetn473aic6mqvg4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vv04ks9s0vc41fasolljdscuo_image-header_pEs_1752222334000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">2025 NFL Flag Championships - Boys’ Semi-Finals</title>
+    <desc lang="es">2025 NFL Flag Championships en NFL Game Pass.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250721000000 +0000" stop="20250721040000 +0000" channel="6k81rgz37qygppf07c8g12l23">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3uzeeun2zkqo155ojirky21c0_image-header_pEs_1752222334000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">2025 NFL Flag Championships - Girls’ Semi-Finals</title>
+    <desc lang="es">2025 NFL Flag Championships en NFL Game Pass.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250721020000 +0000" stop="20250721060000 +0000" channel="bc8n3wrqcmlrrvk4ladio5uwh">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xy3kxcuxkowr1epqvnlx0kvx1_image-header_pEs_1752222334000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">2025 NFL Flag Championships - Boys’ Championship Game</title>
+    <desc lang="es">2025 NFL Flag Championships en NFL Game Pass.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250721030000 +0000" stop="20250721070000 +0000" channel="327cyz2mpsbh63jfprphvsp3p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i2pvzngmpvs61t50aff1rydp3_image-header_pEs_1752222334000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">2025 NFL Flag Championships - Girls’ Championship Game</title>
+    <desc lang="es">2025 NFL Flag Championships en NFL Game Pass.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250721183000 +0000" stop="20250722003000 +0000" channel="hquoddsqxlhkl53o759zshyl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aeqloo5pwdi13ecfnu0tlhjx_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP - República Checa</title>
+    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250721190000 +0000" stop="20250721230000 +0000" channel="5v2jqb8m8j4tynlr5albs4uc8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34kz8ukc75pqfrit6gsnhh0vf_image-header_pEs_1752151813000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Producciones DAZN</category>
   </programme>
 </tv>
