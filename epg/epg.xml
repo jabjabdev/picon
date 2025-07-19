@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 19 12:30:08 2025">
+<tv date="Sat Jul 19 18:30:08 2025">
   <channel id="3qei0rksy137c1hqwk6cmjh0l">
     <display-name>3qei0rksy137c1hqwk6cmjh0l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ybeujzkp13mr14ec8ihh6a1gy_image-header_pEs_1750423881000/fill/none/top/none/85/300/180/webp/image"/>
@@ -232,10 +232,6 @@
     <display-name>esp-e200818517c0ch20006</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20006_2_200818517_20250704-150719.jpeg"/>
   </channel>
-  <channel id="esp-e200820073c0ch20001">
-    <display-name>esp-e200820073c0ch20001</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_2_200820073_20250704-165042.jpeg"/>
-  </channel>
   <channel id="esp-e200820073c0ch20002">
     <display-name>esp-e200820073c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200820073_20250704-165338.jpeg"/>
@@ -243,10 +239,6 @@
   <channel id="esp-e200818221c0ch20003">
     <display-name>esp-e200818221c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_2_200818221_20250704-132937.jpeg"/>
-  </channel>
-  <channel id="esp-e200820128c0ch20012">
-    <display-name>esp-e200820128c0ch20012</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200820128_20250704-170958.jpeg"/>
   </channel>
   <channel id="esp-e200810870c0ch20034">
     <display-name>esp-e200810870c0ch20034</display-name>
@@ -698,7 +690,7 @@
   </channel>
   <channel id="cy6wf65jkbvrvsq3fm3p45l1d">
     <display-name>cy6wf65jkbvrvsq3fm3p45l1d</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5f5nsm5cgqyqxlw0elil0vgvo_image-header_pEs_1751638473000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/65fxi4nbj7e2xjftgwf7wlxj3_image-header_pEs_1751638473000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="v76mkibi7475gcaxg81n60aa">
     <display-name>v76mkibi7475gcaxg81n60aa</display-name>
@@ -1532,12 +1524,6 @@
     <desc lang="es">Plataforma | Masculino</desc>
     <category lang="es">Saltos de Natación</category>
   </programme>
-  <programme start="20250719141000 +0000" stop="20250719161500 +0000" channel="esp-e200820073c0ch20001">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_2_200820073_20250704-165042.jpeg"/>
-    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
-    <desc lang="es">Individual y por Equipos | Palos, cintas, pelota y aro | Final por aparatos</desc>
-    <category lang="es">Gimnasia rítmica</category>
-  </programme>
   <programme start="20250719141000 +0000" stop="20250719161500 +0000" channel="esp-e200820073c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200820073_20250704-165338.jpeg"/>
     <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
@@ -1549,12 +1535,6 @@
     <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
     <desc lang="es">Cuartos de final</desc>
     <category lang="es">Baloncesto 3x3</category>
-  </programme>
-  <programme start="20250719145500 +0000" stop="20250719174500 +0000" channel="esp-e200820128c0ch20012">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200820128_20250704-170958.jpeg"/>
-    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
-    <desc lang="es">Día 3</desc>
-    <category lang="es">Taekwondo</category>
   </programme>
   <programme start="20250719153000 +0000" stop="20250719160000 +0000" channel="esp-e200810870c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_6_200810870_20250703-083857.jpeg"/>
@@ -2228,8 +2208,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
   </programme>
-  <programme start="20250719080000 +0000" stop="20250719153000 +0000" channel="cy6wf65jkbvrvsq3fm3p45l1d">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5f5nsm5cgqyqxlw0elil0vgvo_image-header_pEs_1751638473000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250719083000 +0000" stop="20250719143000 +0000" channel="cy6wf65jkbvrvsq3fm3p45l1d">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/65fxi4nbj7e2xjftgwf7wlxj3_image-header_pEs_1751638473000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">ML -BB Women - Finales</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
