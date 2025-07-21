@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jul 21 18:36:52 2025">
+<tv date="Tue Jul 22 00:30:03 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -828,10 +828,6 @@
     <display-name>327cyz2mpsbh63jfprphvsp3p</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i2pvzngmpvs61t50aff1rydp3_image-header_pEs_1752222334000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="hquoddsqxlhkl53o759zshyl">
-    <display-name>hquoddsqxlhkl53o759zshyl</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aeqloo5pwdi13ecfnu0tlhjx_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="5v2jqb8m8j4tynlr5albs4uc8">
     <display-name>5v2jqb8m8j4tynlr5albs4uc8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34kz8ukc75pqfrit6gsnhh0vf_image-header_pEs_1752151813000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1203,6 +1199,30 @@
   <channel id="esp-e200818279c0ch20027">
     <display-name>esp-e200818279c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
+  </channel>
+  <channel id="dwocxu9rp4axuz7q6v08q4mfi">
+    <display-name>dwocxu9rp4axuz7q6v08q4mfi</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dnah6hjio5dbn71zd0rruyds4_image-header_pEs_1751653366000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8ejtta34x6q5n0ryasizeg48j">
+    <display-name>8ejtta34x6q5n0ryasizeg48j</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/33dxvsfu6itb5b8pphzxr5hso_image-header_pEs_1751653367000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="22fzykuret9401vlbgphz17u">
+    <display-name>22fzykuret9401vlbgphz17u</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djlzq0t1jtkzgwpgxhjypvvzk_image-header_pEs_1751901456000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5l4190dwrjrdbaf0uencmvdyg">
+    <display-name>5l4190dwrjrdbaf0uencmvdyg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2r8db0r32a2h3valu1r27kod4_image-header_pEs_1751901456000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="643vtyv8atuka6afnei59c1sn">
+    <display-name>643vtyv8atuka6afnei59c1sn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctld1ja82tq2in1tngi8jfv3n_image-header_pEs_1750812039000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="93tchw8n0wexh4ubp4h11lrr2">
+    <display-name>93tchw8n0wexh4ubp4h11lrr2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17kwozxlj8hq81fgnq5itatlf1_image-header_pEs_1752861177000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2446,12 +2466,6 @@
     <desc lang="es">2025 NFL Flag Championships en NFL Game Pass.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20250721183000 +0000" stop="20250722003000 +0000" channel="hquoddsqxlhkl53o759zshyl">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aeqloo5pwdi13ecfnu0tlhjx_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - República Checa</title>
-    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250721190000 +0000" stop="20250721230000 +0000" channel="5v2jqb8m8j4tynlr5albs4uc8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34kz8ukc75pqfrit6gsnhh0vf_image-header_pEs_1752151813000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">DAZN Transfer by Fabrizio Romano</title>
@@ -3009,5 +3023,41 @@
     <title lang="es">Superbike - Hungría</title>
     <desc lang="es">Libres 3</desc>
     <category lang="es">Superbike</category>
+  </programme>
+  <programme start="20250723084000 +0000" stop="20250723144000 +0000" channel="dwocxu9rp4axuz7q6v08q4mfi">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dnah6hjio5dbn71zd0rruyds4_image-header_pEs_1751653366000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Honor of Kings - Playoffs - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250723085000 +0000" stop="20250723145000 +0000" channel="8ejtta34x6q5n0ryasizeg48j">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/33dxvsfu6itb5b8pphzxr5hso_image-header_pEs_1751653367000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">ML -BB - Fase de grupos - Día 1 (Español)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250723093000 +0000" stop="20250723153000 +0000" channel="22fzykuret9401vlbgphz17u">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djlzq0t1jtkzgwpgxhjypvvzk_image-header_pEs_1751901456000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">StarCraft II - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250723095000 +0000" stop="20250723155000 +0000" channel="5l4190dwrjrdbaf0uencmvdyg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2r8db0r32a2h3valu1r27kod4_image-header_pEs_1751901456000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">StarCraft II Stream B - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250723111500 +0000" stop="20250723151500 +0000" channel="643vtyv8atuka6afnei59c1sn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ctld1ja82tq2in1tngi8jfv3n_image-header_pEs_1750812039000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 17 I Bollène - Valence</title>
+    <desc lang="es">La 112º edición del Tour de Francia se celebra del 5 al 27 de julio de 2025, con salida en Lille y llegada en los tradicionales Campos Elíseos de París. El recorrido, exclusivamente en suelo francés, comprende 21 etapas y más de 3 300 kilómetros, incluyendo dos contrarrelojes individuales, cinco finales en alto y más de 51 000 metros de desnivel positivo.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250723150000 +0000" stop="20250723210000 +0000" channel="93tchw8n0wexh4ubp4h11lrr2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17kwozxlj8hq81fgnq5itatlf1_image-header_pEs_1752861177000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">X Series 22 - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
