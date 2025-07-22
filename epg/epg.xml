@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jul 22 18:32:02 2025">
+<tv date="Tue Jul 22 18:37:14 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1163,6 +1163,14 @@
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200873896c0ch20026">
+    <display-name>esp-e200873896c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Original/ESP.jpg"/>
+  </channel>
+  <channel id="esp-e200873897c0ch20026">
+    <display-name>esp-e200873897c0ch20026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Original/ESP.jpg"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2909,5 +2917,17 @@
     <title lang="es">X Series 22 - Till vs. Rockhold</title>
     <desc lang="es"/>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250726141000 +0000" stop="20250726145000 +0000" channel="esp-e200873896c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Original/ESP.jpg"/>
+    <title lang="es">Carreras de motos</title>
+    <desc lang="es"/>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250727141000 +0000" stop="20250727145000 +0000" channel="esp-e200873897c0ch20026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Original/ESP.jpg"/>
+    <title lang="es">Carreras de motos</title>
+    <desc lang="es"/>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
