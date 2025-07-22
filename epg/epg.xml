@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jul 23 00:30:05 2025">
+<tv date="Wed Jul 23 00:36:46 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1211,6 +1211,18 @@
   <channel id="exrene30uukdc2flq3zukr396">
     <display-name>exrene30uukdc2flq3zukr396</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uvmn1ixmzlrw1n01mu6v6e182_image-header_pEs_1752843300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200820106c0ch20011">
+    <display-name>esp-e200820106c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_1_200820106_20250620-124333.jpeg"/>
+  </channel>
+  <channel id="esp-e200875138c0ch20002">
+    <display-name>esp-e200875138c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607382_20240723-164248.jpeg"/>
+  </channel>
+  <channel id="esp-e200820109c0ch20011">
+    <display-name>esp-e200820109c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_2_200820109_20250711-135005.jpeg"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3029,5 +3041,23 @@
     <title lang="es">Garner vs. Bellotti - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250723145500 +0000" stop="20250723180000 +0000" channel="esp-e200820106c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_1_200820106_20250620-124333.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Día 1</desc>
+    <category lang="es">Judo</category>
+  </programme>
+  <programme start="20250723152500 +0000" stop="20250723170000 +0000" channel="esp-e200875138c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607382_20240723-164248.jpeg"/>
+    <title lang="es">Taekwondo</title>
+    <desc lang="es"/>
+    <category lang="es">Taekwondo</category>
+  </programme>
+  <programme start="20250726145500 +0000" stop="20250726180000 +0000" channel="esp-e200820109c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_2_200820109_20250711-135005.jpeg"/>
+    <title lang="es">Juegos Universitarios - Rin-Ruhr</title>
+    <desc lang="es">Mixto por Equipos | Día 4</desc>
+    <category lang="es">Judo</category>
   </programme>
 </tv>
