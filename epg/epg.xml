@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 26 18:30:06 2025">
+<tv date="Sun Jul 27 00:30:07 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1383,6 +1383,22 @@
   <channel id="esp-e200822691c0ch20069">
     <display-name>esp-e200822691c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
+  </channel>
+  <channel id="c1598wppi51kce4vmixpiv8st">
+    <display-name>c1598wppi51kce4vmixpiv8st</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y1sqthhtmafc1mapryv0aziiu_image-header_pEs_1753453054000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ck7i0jf33ro72wb65szo5wgkf">
+    <display-name>ck7i0jf33ro72wb65szo5wgkf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9hwfvc1kflo9rqilbf1u8kpp9_image-header_pEs_1721675986000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cgrto9mpmoq1agviqjb6vynxk">
+    <display-name>cgrto9mpmoq1agviqjb6vynxk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8tdviuojks1bdlqnd9rh65etc_image-header_pEs_1752151813000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="802khge98rass7gvwkgkx379s">
+    <display-name>802khge98rass7gvwkgkx379s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1kkmt5ot8r82e1e0wuazqlavhy_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3459,5 +3475,29 @@
     <title lang="es"> -</title>
     <desc lang="es">PGA Developmental Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250728130000 +0000" stop="20250728190000 +0000" channel="c1598wppi51kce4vmixpiv8st">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y1sqthhtmafc1mapryv0aziiu_image-header_pEs_1753453054000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Crocker vs. Donovan 2 - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250728131500 +0000" stop="20250728171500 +0000" channel="ck7i0jf33ro72wb65szo5wgkf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9hwfvc1kflo9rqilbf1u8kpp9_image-header_pEs_1721675986000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 3 - La Gacilly - Angers</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250728190000 +0000" stop="20250728230000 +0000" channel="cgrto9mpmoq1agviqjb6vynxk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8tdviuojks1bdlqnd9rh65etc_image-header_pEs_1752151813000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Producciones DAZN</category>
+  </programme>
+  <programme start="20250728190000 +0000" stop="20250729010000 +0000" channel="802khge98rass7gvwkgkx379s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1kkmt5ot8r82e1e0wuazqlavhy_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código F1 - Bélgica</title>
+    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
