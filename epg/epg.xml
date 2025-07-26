@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jul 26 00:30:12 2025">
+<tv date="Sat Jul 26 12:30:43 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -452,10 +452,6 @@
     <display-name>esp-e200817902c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607482_20240723-144526.jpeg"/>
   </channel>
-  <channel id="esp-e200818279c0ch20025">
-    <display-name>esp-e200818279c0ch20025</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
-  </channel>
   <channel id="esp-e200820794c0ch20011">
     <display-name>esp-e200820794c0ch20011</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200820794_20250704-105946.jpeg"/>
@@ -483,10 +479,6 @@
   <channel id="esp-e200818384c0ch20007">
     <display-name>esp-e200818384c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607082_20240723-164959.jpeg"/>
-  </channel>
-  <channel id="esp-e200867044c0ch20009">
-    <display-name>esp-e200867044c0ch20009</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132427.jpeg"/>
   </channel>
   <channel id="esp-e200839862c0ch20017">
     <display-name>esp-e200839862c0ch20017</display-name>
@@ -1068,17 +1060,9 @@
     <display-name>apwplu6odg60w9qm47ymxai8h</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2sh4kxeq2tkpvbhva8dbdzdfl_image-header_pEs_1751386546000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="7zjjmsss9nj8srn1d0xaa1fsj">
-    <display-name>7zjjmsss9nj8srn1d0xaa1fsj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cwi3ecbxtj91cwm8j1d27lmu7_image-header_pEs_1751653366000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="apnxm9wpzxpxv7e797g9dvbee">
     <display-name>apnxm9wpzxpxv7e797g9dvbee</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4qqspq2dppzu1oe7d214gar9s_image-header_pEs_1739354068000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4eqsuzbbsuq1cgoj41xpdrx6o">
-    <display-name>4eqsuzbbsuq1cgoj41xpdrx6o</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8isq8qvj6arfh03zddhhykger_image-header_pEs_1751653367000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="a6pmoshskt88gf8pc6btd5x7">
     <display-name>a6pmoshskt88gf8pc6btd5x7</display-name>
@@ -1331,6 +1315,14 @@
   <channel id="c9mdhsafgiw1ly0y6xzps9fdg">
     <display-name>c9mdhsafgiw1ly0y6xzps9fdg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3j2ahojf5rdwgwi4d0f7fym7e_image-header_pEs_1747477011000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7zjjmsss9nj8srn1d0xaa1fsj">
+    <display-name>7zjjmsss9nj8srn1d0xaa1fsj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e0i8l7lk81ugudnn6y7txbo5p_image-header_pEs_1751653366000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4eqsuzbbsuq1cgoj41xpdrx6o">
+    <display-name>4eqsuzbbsuq1cgoj41xpdrx6o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2jt67e5ta62555b65i3ltey0_image-header_pEs_1751653367000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2010,12 +2002,6 @@
     <desc lang="es"/>
     <category lang="es">Tiro con Arco</category>
   </programme>
-  <programme start="20250726065500 +0000" stop="20250726073000 +0000" channel="esp-e200818279c0ch20025">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
-    <title lang="es">Superbike - Hungría</title>
-    <desc lang="es">Libres 3</desc>
-    <category lang="es">Superbike</category>
-  </programme>
   <programme start="20250726075500 +0000" stop="20250726102500 +0000" channel="esp-e200820794c0ch20011">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20011_3_200820794_20250704-105946.jpeg"/>
     <title lang="es">Tenis</title>
@@ -2028,7 +2014,7 @@
     <desc lang="es"/>
     <category lang="es">Tiro con Arco</category>
   </programme>
-  <programme start="20250726083000 +0000" stop="20250726093000 +0000" channel="esp-e200818280c0ch20027">
+  <programme start="20250726085000 +0000" stop="20250726093000 +0000" channel="esp-e200818280c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
     <title lang="es">Superbike - Hungría</title>
     <desc lang="es">Superpole</desc>
@@ -2057,12 +2043,6 @@
     <title lang="es">Waterpolo</title>
     <desc lang="es"/>
     <category lang="es">Waterpolo</category>
-  </programme>
-  <programme start="20250726095500 +0000" stop="20250726105500 +0000" channel="esp-e200867044c0ch20009">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132427.jpeg"/>
-    <title lang="es">Bádminton</title>
-    <desc lang="es"/>
-    <category lang="es">Badminton</category>
   </programme>
   <programme start="20250726100500 +0000" stop="20250726142000 +0000" channel="esp-e200839862c0ch20017">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
@@ -2934,23 +2914,11 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250726084000 +0000" stop="20250726144000 +0000" channel="7zjjmsss9nj8srn1d0xaa1fsj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cwi3ecbxtj91cwm8j1d27lmu7_image-header_pEs_1751653366000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Honor of Kings - Finales</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">eSports</category>
-  </programme>
   <programme start="20250726085000 +0000" stop="20250726145000 +0000" channel="apnxm9wpzxpxv7e797g9dvbee">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4qqspq2dppzu1oe7d214gar9s_image-header_pEs_1739354068000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Superpole - Hungarian Round</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250726085000 +0000" stop="20250726145000 +0000" channel="4eqsuzbbsuq1cgoj41xpdrx6o">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8isq8qvj6arfh03zddhhykger_image-header_pEs_1751653367000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">ML -BB - Fase de grupos - Día 4 (Español)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">eSports</category>
   </programme>
   <programme start="20250726093000 +0000" stop="20250726153000 +0000" channel="a6pmoshskt88gf8pc6btd5x7">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/115xtqj7nf1rdmmqf9wi7jgsi_image-header_pEs_1746270742000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3329,5 +3297,17 @@
     <title lang="es">Carrera - Brickyard 400</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250726074000 +0000" stop="20250726164500 +0000" channel="7zjjmsss9nj8srn1d0xaa1fsj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e0i8l7lk81ugudnn6y7txbo5p_image-header_pEs_1751653366000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Honor of Kings - Finales</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250726075000 +0000" stop="20250726172500 +0000" channel="4eqsuzbbsuq1cgoj41xpdrx6o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2jt67e5ta62555b65i3ltey0_image-header_pEs_1751653367000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">ML -BB - Fase de grupos - Día 4 (Español)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
   </programme>
 </tv>
