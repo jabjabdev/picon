@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Aug 03 12:36:58 2025">
+<tv date="Mon Aug 04 00:30:03 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -748,6 +748,26 @@
     <display-name>esp-e200823356c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_0_200823356_20250725-154918.jpeg"/>
   </channel>
+  <channel id="4h92zmsepmaz7dv3lf10j6o8">
+    <display-name>4h92zmsepmaz7dv3lf10j6o8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xc3tolgfby6yjgx9mbm15olj_image-header_pEs_1752048960000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dzfqpnw7avb1mv7xqjdy5sal3">
+    <display-name>dzfqpnw7avb1mv7xqjdy5sal3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wi38ky547f4dyrnp72npax02_image-header_pEs_1752048960000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esq3dzqtbvx3messz77h74zp8">
+    <display-name>esq3dzqtbvx3messz77h74zp8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pgfithx7xpr6d0o8219xhobh_image-header_pEs_1752048960000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2amarzrojz19w1c52rlih5t25">
+    <display-name>2amarzrojz19w1c52rlih5t25</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/85nvigzb0af1ht3n2r3wi8zf9_image-header_pEs_1737056724000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="16m5cm3rj5p5u9mg5e1bs0pmx">
+    <display-name>16m5cm3rj5p5u9mg5e1bs0pmx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wvgoay18u3u01dcbhzw59uspv_image-header_pEs_1732211560000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Esports World Cup Fight Week - Itauma vs. Whyte</title>
@@ -1108,7 +1128,7 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250803120000 +0000" stop="20250803170000 +0000" channel="esp-e200822554c0ch20066">
+  <programme start="20250803131500 +0000" stop="20250803170000 +0000" channel="esp-e200822554c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">Campeonato de Wyndham -</title>
     <desc lang="es">PGA Tour</desc>
@@ -1869,5 +1889,35 @@
     <title lang="es">Boeing Classic - Día 2</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250805095000 +0000" stop="20250805155000 +0000" channel="4h92zmsepmaz7dv3lf10j6o8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6xc3tolgfby6yjgx9mbm15olj_image-header_pEs_1752048960000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rainbow Six Siege X 25 - Stream B - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250805095000 +0000" stop="20250805155000 +0000" channel="dzfqpnw7avb1mv7xqjdy5sal3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wi38ky547f4dyrnp72npax02_image-header_pEs_1752048960000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rainbow Six Siege X 25 - Stream A - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250805095000 +0000" stop="20250805155000 +0000" channel="esq3dzqtbvx3messz77h74zp8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pgfithx7xpr6d0o8219xhobh_image-header_pEs_1752048960000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rainbow Six Siege X 25 - Stream C - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250805110000 +0000" stop="20250805150000 +0000" channel="2amarzrojz19w1c52rlih5t25">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/85nvigzb0af1ht3n2r3wi8zf9_image-header_pEs_1737056724000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 2 - Tour de Polonia</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250805210000 +0000" stop="20250806030000 +0000" channel="16m5cm3rj5p5u9mg5e1bs0pmx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wvgoay18u3u01dcbhzw59uspv_image-header_pEs_1732211560000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 37</title>
+    <desc lang="es">Conoce las novedades del mundo del boxeo junto Ariel Helwani y Ade Oladipo en el nuevo programa semanal de DAZN cada martes. El dúo analiza las historias más grandes del boxeo junto a un invitado especial cada semana.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
