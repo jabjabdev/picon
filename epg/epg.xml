@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Aug 04 18:36:36 2025">
+<tv date="Tue Aug 05 00:30:04 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -303,14 +303,6 @@
   <channel id="3sd9wf1hgmsysm9xu9a22mq2t">
     <display-name>3sd9wf1hgmsysm9xu9a22mq2t</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4wmg8pty59lgnda5nwg7bxqvr_image-header_pEs_1752151813000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4o0fyp0sdrb64d3y299km6vbx">
-    <display-name>4o0fyp0sdrb64d3y299km6vbx</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4syjif8ig6ywsz77l466desb_image-header_pEs_1754061154000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dtllk8tmq1od3zl00iil95b91">
-    <display-name>dtllk8tmq1od3zl00iil95b91</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jhn2gvr89tg21cw9trig781ls_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e200824757c0ch20003">
     <display-name>esp-e200824757c0ch20003</display-name>
@@ -776,6 +768,30 @@
     <display-name>esp-e200773550c0ch20028</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_2_200773550_20250724-110034.jpeg"/>
   </channel>
+  <channel id="7skpa08iwmf1o8ovsjn3l7z1i">
+    <display-name>7skpa08iwmf1o8ovsjn3l7z1i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bip830pruwec1ac79ol1whumw_image-header_pEs_1753796765000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6o50sfrko176ucxuytq6j3vr0">
+    <display-name>6o50sfrko176ucxuytq6j3vr0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vk1pugqlq9nsbf8cr7hhb044_image-header_pEs_1754307210000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6lhio0nbtxqs31y731775rbp">
+    <display-name>6lhio0nbtxqs31y731775rbp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aj51j37gpy80epcveu83wh1rn_image-header_pEs_1752232367000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3dkmrb8tbw1hnsxiij7w6owo3">
+    <display-name>3dkmrb8tbw1hnsxiij7w6owo3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tpce9upbr9c3q0oh2p1soif9_image-header_pEs_1753102917000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="etv2fw9vzksgzuffrsf9reysz">
+    <display-name>etv2fw9vzksgzuffrsf9reysz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bmvai81g1jnm9unengc3ywr1i_image-header_pEs_1745240057000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="77eu19a43mz5ga9fjjot00aqc">
+    <display-name>77eu19a43mz5ga9fjjot00aqc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ccn7ujgchlm71pskfk1vsbpy_image-header_pEs_1752232367000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Esports World Cup Fight Week - Itauma vs. Whyte</title>
@@ -1231,18 +1247,6 @@
     <title lang="es">DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Producciones DAZN</category>
-  </programme>
-  <programme start="20250804190000 +0000" stop="20250804223000 +0000" channel="4o0fyp0sdrb64d3y299km6vbx">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4syjif8ig6ywsz77l466desb_image-header_pEs_1754061154000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Francia - Montenegro</title>
-    <desc lang="es">Vive el encuentro de Friendlies entre Montenegro y France.</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20250804190000 +0000" stop="20250805010000 +0000" channel="dtllk8tmq1od3zl00iil95b91">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jhn2gvr89tg21cw9trig781ls_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código F1 - Hungría</title>
-    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250808093000 +0000" stop="20250808151000 +0000" channel="esp-e200824757c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20003_6_200824757_20250730-144637.jpeg"/>
@@ -1939,5 +1943,41 @@
     <title lang="es">Global Champions League - Londres</title>
     <desc lang="es">Saltos | Ronda 2</desc>
     <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20250805120000 +0000" stop="20250805180000 +0000" channel="7skpa08iwmf1o8ovsjn3l7z1i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bip830pruwec1ac79ol1whumw_image-header_pEs_1753796765000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Queensberry Launch Press Conference - Glasgow</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250806100500 +0000" stop="20250806140500 +0000" channel="6o50sfrko176ucxuytq6j3vr0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vk1pugqlq9nsbf8cr7hhb044_image-header_pEs_1754307210000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 3 - Tour de Pologne</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250806142000 +0000" stop="20250806202000 +0000" channel="6lhio0nbtxqs31y731775rbp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aj51j37gpy80epcveu83wh1rn_image-header_pEs_1752232367000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rainbow Six Siege X 25 - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250806143000 +0000" stop="20250806203000 +0000" channel="3dkmrb8tbw1hnsxiij7w6owo3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tpce9upbr9c3q0oh2p1soif9_image-header_pEs_1753102917000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Call of Duty - Warzone - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250806144500 +0000" stop="20250806184500 +0000" channel="etv2fw9vzksgzuffrsf9reysz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bmvai81g1jnm9unengc3ywr1i_image-header_pEs_1745240057000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 1 - Tour de Ain</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250806145000 +0000" stop="20250806205000 +0000" channel="77eu19a43mz5ga9fjjot00aqc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ccn7ujgchlm71pskfk1vsbpy_image-header_pEs_1752232367000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rainbow Six Siege X 25 - Stream C - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
   </programme>
 </tv>
