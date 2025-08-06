@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Aug 06 18:30:03 2025">
+<tv date="Wed Aug 06 18:32:03 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -739,6 +739,10 @@
   <channel id="coy3uy0h543pfvv09hrfouixx">
     <display-name>coy3uy0h543pfvv09hrfouixx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ch1pjrym48us7gbr3fv4uxnnb_image-header_pEs_1754394698000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="173j3xrdfvl3tosojjf92scxs">
+    <display-name>173j3xrdfvl3tosojjf92scxs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aq19qtieeyp4k50h052iserl7_image-header_pEs_1752182397000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1849,5 +1853,11 @@
     <title lang="es">Día 2 - Partido 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250814160000 +0000" stop="20250814183000 +0000" channel="173j3xrdfvl3tosojjf92scxs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aq19qtieeyp4k50h052iserl7_image-header_pEs_1752182397000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Napoli - Olympiakos Piraeus</title>
+    <desc lang="es">Napoli se enfrenta a Olympiakos Piraeus en un amistoso de pretemporada el 14 de agosto de 2025. Este partido brinda a ambos equipos la oportunidad de afinar sus estrategias y probar nuevos jugadores antes del inicio de sus respectivas ligas. ¿Podrá alguno ganar confianza con una buena actuación? ¡Sintoniza para ver el desarrollo!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
