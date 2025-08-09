@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Aug 09 06:30:10 2025">
+<tv date="Sat Aug 09 06:36:43 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -963,6 +963,54 @@
   <channel id="19f3fix96di8nyc76rxovs7x0">
     <display-name>19f3fix96di8nyc76rxovs7x0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i0p26nen1b3b13h7zl9qy5xdi_image-header_pEs_1751557070000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200867978c0ch20018">
+    <display-name>esp-e200867978c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867978_20250720-115438.jpeg"/>
+  </channel>
+  <channel id="esp-e200827651c0ch20004">
+    <display-name>esp-e200827651c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200825597c0ch20001">
+    <display-name>esp-e200825597c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200879410c0ch20065">
+    <display-name>esp-e200879410c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_200879410_20250731-122231.jpeg"/>
+  </channel>
+  <channel id="esp-e200827515c0ch20002">
+    <display-name>esp-e200827515c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200827528c0ch20003">
+    <display-name>esp-e200827528c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200879413c0ch20068">
+    <display-name>esp-e200879413c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_2_200879413_20250731-125543.jpeg"/>
+  </channel>
+  <channel id="esp-e200879412c0ch20067">
+    <display-name>esp-e200879412c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_2_200879412_20250731-125336.jpeg"/>
+  </channel>
+  <channel id="esp-e200879411c0ch20066">
+    <display-name>esp-e200879411c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20066_2_200879411_20250731-130610.jpeg"/>
+  </channel>
+  <channel id="esp-e200867979c0ch20018">
+    <display-name>esp-e200867979c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867979_20250720-115707.jpeg"/>
+  </channel>
+  <channel id="esp-e200874974c0ch20032">
+    <display-name>esp-e200874974c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607157_20240723-153705.jpeg"/>
+  </channel>
+  <channel id="esp-e200878085c0ch20064">
+    <display-name>esp-e200878085c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_2_200878085_20250731-130501.jpeg"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2409,5 +2457,77 @@
     <title lang="es">Saints @ Chargers</title>
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250815110000 +0000" stop="20250815143000 +0000" channel="esp-e200867978c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867978_20250720-115438.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Masters de Arabia Saudí | Semifinales | Sesión 1</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250815110000 +0000" stop="20250815124500 +0000" channel="esp-e200827651c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour de Romandía - Etapa 1</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250815123000 +0000" stop="20250815140000 +0000" channel="esp-e200825597c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour de la República Chec - Etapa 2</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250815131500 +0000" stop="20250815220000 +0000" channel="esp-e200879410c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_200879410_20250731-122231.jpeg"/>
+    <title lang="es">BMW Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250815133000 +0000" stop="20250815160000 +0000" channel="esp-e200827515c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Circuito Franco-Belga  </title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250815134500 +0000" stop="20250815154500 +0000" channel="esp-e200827528c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour de Dinamarca - Etapa 4</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250815140000 +0000" stop="20250815220000 +0000" channel="esp-e200879413c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20068_2_200879413_20250731-125543.jpeg"/>
+    <title lang="es">BMW Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250815140000 +0000" stop="20250815220000 +0000" channel="esp-e200879412c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_2_200879412_20250731-125336.jpeg"/>
+    <title lang="es">BMW Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250815141500 +0000" stop="20250815220000 +0000" channel="esp-e200879411c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20066_2_200879411_20250731-130610.jpeg"/>
+    <title lang="es">BMW Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250815170000 +0000" stop="20250815203000 +0000" channel="esp-e200867979c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867979_20250720-115707.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Masters de Arabia Saudí | Semifinales | Sesión 2</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250815173000 +0000" stop="20250815180000 +0000" channel="esp-e200874974c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607157_20240723-153705.jpeg"/>
+    <title lang="es"> - </title>
+    <desc lang="es">|</desc>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20250815180000 +0000" stop="20250815220000 +0000" channel="esp-e200878085c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20064_2_200878085_20250731-130501.jpeg"/>
+    <title lang="es">BMW Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
