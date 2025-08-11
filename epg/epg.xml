@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Aug 11 18:36:31 2025">
+<tv date="Tue Aug 12 00:30:06 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -807,6 +807,42 @@
   <channel id="esp-e200907545c0ch20023">
     <display-name>esp-e200907545c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+  </channel>
+  <channel id="4onwtj6jo2qmcl8yax1sujxa8">
+    <display-name>4onwtj6jo2qmcl8yax1sujxa8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wd0hfz3qjeyynol7bmhdsclc_image-header_pEs_1730493682000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="35kyehcdwwssrl41mos22jnyc">
+    <display-name>35kyehcdwwssrl41mos22jnyc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/buuf7mzxqdvwochsimmb6pt4a_image-header_pEs_1731699938000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="591xhxx6w3tlkp2sd6cn9nc0k">
+    <display-name>591xhxx6w3tlkp2sd6cn9nc0k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z24vzus1zur21hvhyp7jhjx3o_image-header_pEs_1754058554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="43zj6ey9yqwltbctv1cu2cany">
+    <display-name>43zj6ey9yqwltbctv1cu2cany</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8izit19ooybfdr1a9pfnr6ew5_image-header_pEs_1753790618000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c25clrtum0ai4xll40i7idfe0">
+    <display-name>c25clrtum0ai4xll40i7idfe0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ae487141r9icmbmodp4u95hwx_image-header_pEs_1753781183000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="81ib8phia0x40317rnwl15n0q">
+    <display-name>81ib8phia0x40317rnwl15n0q</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9rwsqri83jyzuw2xhh6vbg93_image-header_pEs_1752500232000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ertzmd970tcjlfh5ukjg7npqq">
+    <display-name>ertzmd970tcjlfh5ukjg7npqq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7ew7bhnhp9rife5oh9wuume1_image-header_pEs_1754408962000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="536dtaxaccpk71g5jsvix6zwo">
+    <display-name>536dtaxaccpk71g5jsvix6zwo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecnadwjrv0w7m8yofxkmn9viv_image-header_pEs_1721673585000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ahs6gxvasp4vg7eos5xv93l3f">
+    <display-name>ahs6gxvasp4vg7eos5xv93l3f</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tgzck7hzut6h119jhwzijwn14_image-header_pEs_1754918363000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2019,5 +2055,59 @@
     <title lang="es">Monterey Motorsports Reunion</title>
     <desc lang="es">Día 2 | Parte 2</desc>
     <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250813024500 +0000" stop="20250813064500 +0000" channel="4onwtj6jo2qmcl8yax1sujxa8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wd0hfz3qjeyynol7bmhdsclc_image-header_pEs_1730493682000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Endurance World Championship - Lake Toba - MOTO 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Powerboat Racing</category>
+  </programme>
+  <programme start="20250813064500 +0000" stop="20250813104500 +0000" channel="35kyehcdwwssrl41mos22jnyc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/buuf7mzxqdvwochsimmb6pt4a_image-header_pEs_1731699938000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Endurance World Championship - Lake Toba - MOTO 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Powerboat Racing</category>
+  </programme>
+  <programme start="20250813070000 +0000" stop="20250813130000 +0000" channel="591xhxx6w3tlkp2sd6cn9nc0k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z24vzus1zur21hvhyp7jhjx3o_image-header_pEs_1754058554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">WBC Boxing Grand Prix - Quarter-Finals</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250813073000 +0000" stop="20250813133000 +0000" channel="43zj6ey9yqwltbctv1cu2cany">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8izit19ooybfdr1a9pfnr6ew5_image-header_pEs_1753790618000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Team Fight Tactics - Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250813104000 +0000" stop="20250813164000 +0000" channel="c25clrtum0ai4xll40i7idfe0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ae487141r9icmbmodp4u95hwx_image-header_pEs_1753781183000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">PUBG Battlegrounds - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250813133000 +0000" stop="20250813193000 +0000" channel="81ib8phia0x40317rnwl15n0q">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9rwsqri83jyzuw2xhh6vbg93_image-header_pEs_1752500232000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tekken 8 - Fase 1 - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20250813133000 +0000" stop="20250813134500 +0000" channel="ertzmd970tcjlfh5ukjg7npqq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b7ew7bhnhp9rife5oh9wuume1_image-header_pEs_1754408962000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 5</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20250813134500 +0000" stop="20250813174500 +0000" channel="536dtaxaccpk71g5jsvix6zwo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecnadwjrv0w7m8yofxkmn9viv_image-header_pEs_1721673585000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 2 - Tour de Dinamarca</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250813180000 +0000" stop="20250814000000 +0000" channel="ahs6gxvasp4vg7eos5xv93l3f">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tgzck7hzut6h119jhwzijwn14_image-header_pEs_1754918363000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itauma vs. Whyte - Práctica Abierta</title>
+    <desc lang="es">Sigue la práctica abierta para la pelea entre los pesos pesados Moses Itauma y Dillian Whyte en Riad.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
