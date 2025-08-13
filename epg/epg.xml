@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Aug 13 12:30:04 2025">
+<tv date="Wed Aug 13 18:36:34 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -258,10 +258,6 @@
   </channel>
   <channel id="esp-e200867907c0ch20018">
     <display-name>esp-e200867907c0ch20018</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-  </channel>
-  <channel id="esp-e200868015c0ch20019">
-    <display-name>esp-e200868015c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <channel id="esp-e200868274c0ch20022">
@@ -607,6 +603,22 @@
   <channel id="chuvfoq9x3oub1gqoqwnbkjdg">
     <display-name>chuvfoq9x3oub1gqoqwnbkjdg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a3p7ph3clfrojfnykni1bu4fq_image-header_pEs_1752182397000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200912184c0ch20058">
+    <display-name>esp-e200912184c0ch20058</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
+  </channel>
+  <channel id="esp-e200908414c0ch20003">
+    <display-name>esp-e200908414c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="esp-e200874975c0ch20032">
+    <display-name>esp-e200874975c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_2_200874975_20250804-113822.jpeg"/>
+  </channel>
+  <channel id="esp-e200895693c0ch20023">
+    <display-name>esp-e200895693c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200895693_20250805-151337.jpeg"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -993,12 +1005,6 @@
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250813163000 +0000" stop="20250813200000 +0000" channel="esp-e200867907c0ch20018">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Masters de Arabia Saudí | 1/8 F</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250813163000 +0000" stop="20250813200000 +0000" channel="esp-e200868015c0ch20019">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Masters de Arabia Saudí | 1/8 F</desc>
@@ -1519,5 +1525,29 @@
     <title lang="es">Napoli - Olympiakos Piraeus</title>
     <desc lang="es">Olympiakos Piraeus visita a Napoli en un emocionante partido amistoso el 14 de agosto de 2025. El Stadio Teofilo Patini será sede de este encuentro de pretemporada mientras ambos equipos ajustan sus estrategias. ¿Podrá Napoli aprovechar su ventaja local o Olympiakos sorprenderá al equipo italiano? ¡Prepárense para una acción futbolística apasionante!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250817143000 +0000" stop="20250817173000 +0000" channel="esp-e200912184c0ch20058">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
+    <title lang="es">RC Celta - Getafe CF</title>
+    <desc lang="es">LaLiga 2025/2026 | Jornada 1</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250819132000 +0000" stop="20250819152000 +0000" channel="esp-e200908414c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+    <title lang="es">Tour du Limousin - Etapa 1</title>
+    <desc lang="es"/>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250819180000 +0000" stop="20250819183000 +0000" channel="esp-e200874975c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_2_200874975_20250804-113822.jpeg"/>
+    <title lang="es">The Ocean Race Europe</title>
+    <desc lang="es">Onboard | Episodio 3</desc>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20250820000000 +0000" stop="20250820023000 +0000" channel="esp-e200895693c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200895693_20250805-151337.jpeg"/>
+    <title lang="es">Dana White's Contender Series</title>
+    <desc lang="es">Temporada 9 | Episodio 2</desc>
+    <category lang="es">MMA</category>
   </programme>
 </tv>
