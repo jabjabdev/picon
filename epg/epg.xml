@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Aug 14 12:30:05 2025">
+<tv date="Thu Aug 14 18:32:05 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -224,10 +224,6 @@
     <display-name>esp-e200895692c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240320-144426.jpeg"/>
   </channel>
-  <channel id="173j3xrdfvl3tosojjf92scxs">
-    <display-name>173j3xrdfvl3tosojjf92scxs</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aq19qtieeyp4k50h052iserl7_image-header_pEs_1752182397000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200868273c0ch20022">
     <display-name>esp-e200868273c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -303,10 +299,6 @@
   <channel id="esp-e200879391c0ch20066">
     <display-name>esp-e200879391c0ch20066</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20066_0_200879391_20250731-130735.jpeg"/>
-  </channel>
-  <channel id="esp-e200868017c0ch20019">
-    <display-name>esp-e200868017c0ch20019</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200868017_20250720-115103.jpeg"/>
   </channel>
   <channel id="esp-e200867909c0ch20018">
     <display-name>esp-e200867909c0ch20018</display-name>
@@ -596,10 +588,6 @@
     <display-name>99bejhkfhe0cpkkmxtgxwnu0h</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1spc1bodtur7y14g42gv380hu0_image-header_pEs_1754916951000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="chuvfoq9x3oub1gqoqwnbkjdg">
-    <display-name>chuvfoq9x3oub1gqoqwnbkjdg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a3p7ph3clfrojfnykni1bu4fq_image-header_pEs_1752182397000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="esp-e200912184c0ch20058">
     <display-name>esp-e200912184c0ch20058</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
@@ -711,6 +699,14 @@
   <channel id="esp-e200908415c0ch20003">
     <display-name>esp-e200908415c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="4qjry9nidnl2v7sav4rce5l08">
+    <display-name>4qjry9nidnl2v7sav4rce5l08</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9zuyp1vsvzbbj00r0k2ok9djv_image-header_pEs_1755158027000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="chuvfoq9x3oub1gqoqwnbkjdg">
+    <display-name>chuvfoq9x3oub1gqoqwnbkjdg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k5dbsj4d806ajgrm79al4tbx_image-header_pEs_1752182397000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250816170000 +0000" stop="20250816230000 +0000" channel="8ukmut68cve455vlzwmcttd6q">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1048,12 +1044,6 @@
     <desc lang="es"/>
     <category lang="es">MMA</category>
   </programme>
-  <programme start="20250814160000 +0000" stop="20250814183000 +0000" channel="173j3xrdfvl3tosojjf92scxs">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aq19qtieeyp4k50h052iserl7_image-header_pEs_1752182397000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Napoli - Olympiakos Piraeus</title>
-    <desc lang="es">Napoli se enfrenta a Olympiakos Piraeus en un amistoso de pretemporada el 14 de agosto de 2025. Este partido brinda a ambos equipos la oportunidad de afinar sus estrategias y probar nuevos jugadores antes del inicio de sus respectivas ligas. ¿Podrá alguno ganar confianza con una buena actuación? ¡Sintoniza para ver el desarrollo!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250813100000 +0000" stop="20250813133000 +0000" channel="esp-e200868273c0ch20022">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -1167,12 +1157,6 @@
     <title lang="es">BMW Championship -</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250814163000 +0000" stop="20250814200000 +0000" channel="esp-e200868017c0ch20019">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200868017_20250720-115103.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Masters de Arabia Saudí | Cuartos de final | Mesa 1 | Sesión 2</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20250814163000 +0000" stop="20250814200000 +0000" channel="esp-e200867909c0ch20018">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867909_20250720-114951.jpeg"/>
@@ -1606,12 +1590,6 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20250814160000 +0000" stop="20250814183000 +0000" channel="chuvfoq9x3oub1gqoqwnbkjdg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a3p7ph3clfrojfnykni1bu4fq_image-header_pEs_1752182397000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Napoli - Olympiakos Piraeus</title>
-    <desc lang="es">Olympiakos Piraeus visita a Napoli en un emocionante partido amistoso el 14 de agosto de 2025. El Stadio Teofilo Patini será sede de este encuentro de pretemporada mientras ambos equipos ajustan sus estrategias. ¿Podrá Napoli aprovechar su ventaja local o Olympiakos sorprenderá al equipo italiano? ¡Prepárense para una acción futbolística apasionante!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250817143000 +0000" stop="20250817173000 +0000" channel="esp-e200912184c0ch20058">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
     <title lang="es">RC Celta - Getafe CF</title>
@@ -1779,5 +1757,17 @@
     <title lang="es">Tour du Limousin - Etapa 2</title>
     <desc lang="es"/>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250823180000 +0000" stop="20250824000000 +0000" channel="4qjry9nidnl2v7sav4rce5l08">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9zuyp1vsvzbbj00r0k2ok9djv_image-header_pEs_1755158027000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">GLORY 103</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Kickboxing</category>
+  </programme>
+  <programme start="20250814160000 +0000" stop="20250814183000 +0000" channel="chuvfoq9x3oub1gqoqwnbkjdg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1k5dbsj4d806ajgrm79al4tbx_image-header_pEs_1752182397000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Napoli - Olympiakos Piraeus</title>
+    <desc lang="es">Olympiakos Piraeus visita a Napoli en un emocionante partido amistoso el 14 de agosto de 2025. El Stadio Teofilo Patini será sede de este encuentro de pretemporada mientras ambos equipos ajustan sus estrategias. ¿Podrá Napoli aprovechar su ventaja local o Olympiakos sorprenderá al equipo italiano? ¡Prepárense para una acción futbolística apasionante!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
