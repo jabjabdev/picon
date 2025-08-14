@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Aug 14 06:36:30 2025">
+<tv date="Thu Aug 14 12:30:05 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1750789725000/fill/none/top/none/85/300/180/webp/image"/>
@@ -275,10 +275,6 @@
   <channel id="esp-e200867908c0ch20018">
     <display-name>esp-e200867908c0ch20018</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_3_200867908_20250720-114511.jpeg"/>
-  </channel>
-  <channel id="esp-e200868016c0ch20019">
-    <display-name>esp-e200868016c0ch20019</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200868016_20250720-114622.jpeg"/>
   </channel>
   <channel id="esp-e200825638c0ch20002">
     <display-name>esp-e200825638c0ch20002</display-name>
@@ -566,7 +562,7 @@
   </channel>
   <channel id="etew5wcc9vkxjca96f3qfxc71">
     <display-name>etew5wcc9vkxjca96f3qfxc71</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/szvvrsc9mkrfcwrjwll4f8px_image-header_pEs_1753781183000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3os9qfrkv6e34cm06dnj0qwyj_image-header_pEs_1753781183000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="j52cxzw3ge1nfmxqvn5begjv">
     <display-name>j52cxzw3ge1nfmxqvn5begjv</display-name>
@@ -1130,12 +1126,6 @@
     <desc lang="es">Masters de Arabia Saudí | Cuartos de final | Sesión 1</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20250814100000 +0000" stop="20250814133000 +0000" channel="esp-e200868016c0ch20019">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20019_3_200868016_20250720-114622.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Masters de Arabia Saudí | Cuartos de final | Mesa 1 | Sesión 1</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20250814120000 +0000" stop="20250814140000 +0000" channel="esp-e200825638c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_0_200825638_20250730-131318.jpeg"/>
     <title lang="es">Tour de Polonia - Etapa 3</title>
@@ -1562,8 +1552,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
   </programme>
-  <programme start="20250814104000 +0000" stop="20250814164000 +0000" channel="etew5wcc9vkxjca96f3qfxc71">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/szvvrsc9mkrfcwrjwll4f8px_image-header_pEs_1753781183000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250814102500 +0000" stop="20250814171500 +0000" channel="etew5wcc9vkxjca96f3qfxc71">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3os9qfrkv6e34cm06dnj0qwyj_image-header_pEs_1753781183000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">PUBG Battlegrounds - Día 3</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
@@ -1676,7 +1666,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
   </programme>
-  <programme start="20250815100000 +0000" stop="20250815160000 +0000" channel="3tzc35qgjztpjc6ozvoc02es7">
+  <programme start="20250815110000 +0000" stop="20250815170000 +0000" channel="3tzc35qgjztpjc6ozvoc02es7">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/iolqexgyg56g1x6h0qg42e2dt_image-header_pEs_1755020223000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">BOXRAW Sparring Session</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1748,7 +1738,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
   </programme>
-  <programme start="20250815180000 +0000" stop="20250816000000 +0000" channel="1uhktmp8sd0w1ax6fnkiw7cxh">
+  <programme start="20250815190000 +0000" stop="20250816010000 +0000" channel="1uhktmp8sd0w1ax6fnkiw7cxh">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rxf2lo012nc717vd754yp9lri_image-header_pEs_1754918211000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Itauma vs. Whyte - Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
