@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Aug 17 06:36:41 2025">
+<tv date="Sun Aug 17 18:30:04 2025">
   <channel id="8ukmut68cve455vlzwmcttd6q">
     <display-name>8ukmut68cve455vlzwmcttd6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tepcw2125y6o1mxq6tx5pdqdn_image-header_pEs_1754568295000/fill/none/top/none/85/300/180/webp/image"/>
@@ -260,10 +260,6 @@
     <display-name>esp-e200879377c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_2_200879377_20250803-075144.jpeg"/>
   </channel>
-  <channel id="esp-e200912184c0ch20058">
-    <display-name>esp-e200912184c0ch20058</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
-  </channel>
   <channel id="esp-e200908414c0ch20003">
     <display-name>esp-e200908414c0ch20003</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
@@ -498,7 +494,7 @@
   </channel>
   <channel id="1xsuss2qa9y5zh01xagmvr4an0">
     <display-name>1xsuss2qa9y5zh01xagmvr4an0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aotkb6axxsng825fft6k0cji8_image-header_pEs_1751900061000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2g4xfkzlpae4w3l7nq342ftn1_image-header_pEs_1751900061000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="cxkzjd7mdt5uxs845mjdkcozx">
     <display-name>cxkzjd7mdt5uxs845mjdkcozx</display-name>
@@ -974,7 +970,7 @@
     <desc lang="es">Masculino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250817120000 +0000" stop="20250817140000 +0000" channel="esp-e200826257c0ch20002">
+  <programme start="20250817123000 +0000" stop="20250817140000 +0000" channel="esp-e200826257c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
     <title lang="es">Polynormande  </title>
     <desc lang="es">Masculino</desc>
@@ -1016,7 +1012,7 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20250817140000 +0000" stop="20250817220000 +0000" channel="esp-e200879451c0ch20066">
+  <programme start="20250817144500 +0000" stop="20250817220000 +0000" channel="esp-e200879451c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">BMW Championship -</title>
     <desc lang="es">PGA Tour</desc>
@@ -1069,12 +1065,6 @@
     <title lang="es">Rogers Charity Classic - Día 3</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
-  </programme>
-  <programme start="20250817143000 +0000" stop="20250817173000 +0000" channel="esp-e200912184c0ch20058">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20058_6_200912184_20250813-160229.jpeg"/>
-    <title lang="es">RC Celta - Getafe CF</title>
-    <desc lang="es">LaLiga 2025/2026 | Jornada 1</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250819132000 +0000" stop="20250819152000 +0000" channel="esp-e200908414c0ch20003">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
@@ -1424,8 +1414,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250817143000 +0000" stop="20250817170000 +0000" channel="1xsuss2qa9y5zh01xagmvr4an0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aotkb6axxsng825fft6k0cji8_image-header_pEs_1751900061000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250817150000 +0000" stop="20250817180000 +0000" channel="1xsuss2qa9y5zh01xagmvr4an0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2g4xfkzlpae4w3l7nq342ftn1_image-header_pEs_1751900061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RC Celta - Getafe CF</title>
     <desc lang="es">Narrador: Alberto Montoya. Comentarista: Casquero. Narrador en gallego: Pablo Campos. Equipo DAZN: Irene Molina. Vive el encuentro de LALIGA EA SPORTS entre Getafe CF y Celta de Vigo en DAZN.</desc>
     <category lang="es">Fútbol</category>
