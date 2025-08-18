@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Aug 18 06:36:40 2025">
+<tv date="Mon Aug 18 12:30:03 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -623,6 +623,10 @@
   <channel id="esp-e200879988c0ch20061">
     <display-name>esp-e200879988c0ch20061</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20061_0_200879988_20250809-110408.jpeg"/>
+  </channel>
+  <channel id="3o3robdvvnq3itk4nr7hw5lhs">
+    <display-name>3o3robdvvnq3itk4nr7hw5lhs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pqm0uo1jtnrd1wu2ikro8rbm2_image-header_pEs_1738056030000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1559,5 +1563,11 @@
     <title lang="es">The Ally Challenge - Día 3</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20250819210000 +0000" stop="20250820030000 +0000" channel="3o3robdvvnq3itk4nr7hw5lhs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pqm0uo1jtnrd1wu2ikro8rbm2_image-header_pEs_1738056030000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ariel x Ade - The Boxing Show - Ep. 39</title>
+    <desc lang="es"/>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
