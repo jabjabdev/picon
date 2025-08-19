@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Aug 19 00:30:05 2025">
+<tv date="Tue Aug 19 12:30:04 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -543,6 +543,10 @@
   <channel id="b5een55zxs01u23h3sy4ze1xi">
     <display-name>b5een55zxs01u23h3sy4ze1xi</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dk1ghdx5d11qf764vy3dzn4dt_image-header_pEs_1754400832000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="anai354hwdvpcedwcn95p5ml6">
+    <display-name>anai354hwdvpcedwcn95p5ml6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebsoh4rsm3p9hfsys1op1ailt_image-header_pEs_1754394698000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1359,5 +1363,11 @@
     <title lang="es">Etapa 1 - Tour de Benelux</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250820113000 +0000" stop="20250820114500 +0000" channel="anai354hwdvpcedwcn95p5ml6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebsoh4rsm3p9hfsys1op1ailt_image-header_pEs_1754394698000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Primera semifinal</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
   </programme>
 </tv>
