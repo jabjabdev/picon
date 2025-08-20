@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Aug 20 12:36:45 2025">
+<tv date="Wed Aug 20 18:30:05 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -636,6 +636,10 @@
     <display-name>esp-e200895694c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_6_200895694_20250814-102029.jpeg"/>
   </channel>
+  <channel id="5aqown60heep4mkat4b4yf2nc">
+    <display-name>5aqown60heep4mkat4b4yf2nc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1164ndek47dtp18adsvzgklj5g_image-header_pEs_1755696780000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">X Series 22 - Till vs. Rockhold</title>
@@ -828,13 +832,13 @@
     <desc lang="es">Temporada 9 | Episodio 2</desc>
     <category lang="es">MMA</category>
   </programme>
-  <programme start="20250820130000 +0000" stop="20250820150000 +0000" channel="esp-e200831075c0ch20026">
+  <programme start="20250820143000 +0000" stop="20250820163000 +0000" channel="esp-e200831075c0ch20026">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_2_200831075_20250805-205609.jpeg"/>
     <title lang="es">Tour de Alemania - Prólogo</title>
     <desc lang="es">Masculino | Essen (CR, 3.1km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250820131500 +0000" stop="20250820151500 +0000" channel="esp-e200829238c0ch20025">
+  <programme start="20250820133000 +0000" stop="20250820154500 +0000" channel="esp-e200829238c0ch20025">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20025_0_200829238_20250805-141632.jpeg"/>
     <title lang="es">Tour de Benelux - Etapa 1</title>
     <desc lang="es">Masculino | Terneuzen &gt; Breskens (182.7km)</desc>
@@ -1589,5 +1593,11 @@
     <title lang="es">Dana White's Contender Series</title>
     <desc lang="es">Temporada 9 | Episodio 3</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20250821190000 +0000" stop="20250822010000 +0000" channel="5aqown60heep4mkat4b4yf2nc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1164ndek47dtp18adsvzgklj5g_image-header_pEs_1755696780000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">BKFC 82 -Rueda de prensa</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Bare Knuckle</category>
   </programme>
 </tv>
