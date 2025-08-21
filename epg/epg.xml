@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Aug 22 00:30:21 2025">
+<tv date="Fri Aug 22 00:36:40 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -819,6 +819,30 @@
   <channel id="2bqqqpoiz4npx6acu2eqfw9p8">
     <display-name>2bqqqpoiz4npx6acu2eqfw9p8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g5e6c8j4v18c1c5m46txxhu0q_image-header_pEs_1755680908000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200915646c0ch20034">
+    <display-name>esp-e200915646c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+  </channel>
+  <channel id="esp-e200915645c0ch20034">
+    <display-name>esp-e200915645c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_5_200915645_20250821-205731.jpeg"/>
+  </channel>
+  <channel id="esp-e200915648c0ch20034">
+    <display-name>esp-e200915648c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_0_200915648_20250821-204928.jpeg"/>
+  </channel>
+  <channel id="esp-e200915647c0ch20034">
+    <display-name>esp-e200915647c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+  </channel>
+  <channel id="esp-e200915650c0ch20034">
+    <display-name>esp-e200915650c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_0_200915650_20250821-210119.jpeg"/>
+  </channel>
+  <channel id="esp-e200915649c0ch20034">
+    <display-name>esp-e200915649c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2049,5 +2073,41 @@
     <title lang="es">Rivera vs. Cordova  - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250822075000 +0000" stop="20250822120000 +0000" channel="esp-e200915646c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250822120000 +0000" stop="20250822181500 +0000" channel="esp-e200915645c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_5_200915645_20250821-205731.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250823075000 +0000" stop="20250823120000 +0000" channel="esp-e200915648c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_0_200915648_20250821-204928.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250823120000 +0000" stop="20250823181500 +0000" channel="esp-e200915647c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250824075000 +0000" stop="20250824120000 +0000" channel="esp-e200915650c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_0_200915650_20250821-210119.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
+  </programme>
+  <programme start="20250824120000 +0000" stop="20250824181500 +0000" channel="esp-e200915649c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/23129642_20230802-092039.jpeg"/>
+    <title lang="es">Carreras de Coches Históricos</title>
+    <desc lang="es"/>
+    <category lang="es">Carreras de Coches Histór</category>
   </programme>
 </tv>
