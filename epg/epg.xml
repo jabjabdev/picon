@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Aug 23 06:30:13 2025">
+<tv date="Sat Aug 23 06:36:39 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1039,6 +1039,38 @@
   <channel id="eterzlst0nhdqmfa3lmj5q8dp">
     <display-name>eterzlst0nhdqmfa3lmj5q8dp</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1cjb9k78c2avl15iy5emh6hs43_image-header_pEs_1755774556000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200877751c0ch20069">
+    <display-name>esp-e200877751c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200832184c0ch20030">
+    <display-name>esp-e200832184c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_6_200832184_20250821-142150.jpeg"/>
+  </channel>
+  <channel id="esp-e200877752c0ch20069">
+    <display-name>esp-e200877752c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200901993c0ch20045">
+    <display-name>esp-e200901993c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20045_0_200901993_20250813-134448.jpeg"/>
+  </channel>
+  <channel id="esp-e200896337c0ch20033">
+    <display-name>esp-e200896337c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896337_20250821-121732.jpeg"/>
+  </channel>
+  <channel id="esp-e200869247c0ch20046">
+    <display-name>esp-e200869247c0ch20046</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+  </channel>
+  <channel id="esp-e200869248c0ch20046">
+    <display-name>esp-e200869248c0ch20046</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+  </channel>
+  <channel id="esp-e200874978c0ch20032">
+    <display-name>esp-e200874978c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607157_20240723-153705.jpeg"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2599,5 +2631,53 @@
     <title lang="es">Terán vs. Guzmán (en español)</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250829060000 +0000" stop="20250829093000 +0000" channel="esp-e200877751c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Wuhan | Semifinales</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250829094500 +0000" stop="20250829154500 +0000" channel="esp-e200832184c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_6_200832184_20250821-142150.jpeg"/>
+    <title lang="es">La Vuelta - Etapa 7</title>
+    <desc lang="es">Masculino | Andorra la Vella &gt; Cerler (188km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250829113000 +0000" stop="20250829150000 +0000" channel="esp-e200877752c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Wuhan | Semifinales</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250829130000 +0000" stop="20250829153000 +0000" channel="esp-e200901993c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20045_0_200901993_20250813-134448.jpeg"/>
+    <title lang="es">Tour De Avenir - Etapa 6</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250829151500 +0000" stop="20250829154500 +0000" channel="esp-e200896337c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896337_20250821-121732.jpeg"/>
+    <title lang="es">La Montonera - La Vuelta</title>
+    <desc lang="es">Etapa 7 | Masculino | Andorra la Vella &gt; Cerler (188km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250829154500 +0000" stop="20250829163000 +0000" channel="esp-e200869247c0ch20046">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+    <title lang="es">Femenino Elite Cross Country Carrera Corta - Alta Saboya</title>
+    <desc lang="es">UCI Mountain Bike World Series</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250829163000 +0000" stop="20250829173000 +0000" channel="esp-e200869248c0ch20046">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+    <title lang="es">Masculino Elite Cross Country Carrera Corta - Alta Saboya</title>
+    <desc lang="es">UCI Mountain Bike World Series</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250829180000 +0000" stop="20250829183000 +0000" channel="esp-e200874978c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2607157_20240723-153705.jpeg"/>
+    <title lang="es"> - </title>
+    <desc lang="es">|</desc>
+    <category lang="es">Vela</category>
   </programme>
 </tv>
