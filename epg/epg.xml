@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Aug 24 12:36:36 2025">
+<tv date="Sun Aug 24 18:30:06 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -211,10 +211,6 @@
   <channel id="esp-e200879529c0ch20043">
     <display-name>esp-e200879529c0ch20043</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20043_3_200879529_20250809-104625.jpeg"/>
-  </channel>
-  <channel id="esp-e200879525c0ch20041">
-    <display-name>esp-e200879525c0ch20041</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20041_3_200879525_20250809-104527.jpeg"/>
   </channel>
   <channel id="esp-e200877702c0ch20069">
     <display-name>esp-e200877702c0ch20069</display-name>
@@ -582,7 +578,7 @@
   </channel>
   <channel id="y92kmwdptuyz0128ib1z4frnth">
     <display-name>y92kmwdptuyz0128ib1z4frnth</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9iaesx7nht061mka95l1ks2sv_image-header_pEs_1740760013000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6274u1jtzrguwujxy4apm16nw_image-header_pEs_1740760013000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1co5tcvml2bu11dxuisqsl8fws">
     <display-name>1co5tcvml2bu11dxuisqsl8fws</display-name>
@@ -1082,7 +1078,7 @@
     <desc lang="es">MX2 | 1ª Carrera</desc>
     <category lang="es">Motocross</category>
   </programme>
-  <programme start="20250824110500 +0000" stop="20250824173000 +0000" channel="esp-e200912079c0ch20023">
+  <programme start="20250824120000 +0000" stop="20250824173000 +0000" channel="esp-e200912079c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_0_200912079_20250814-125046.jpeg"/>
     <title lang="es">BSB - Cadwell Park</title>
     <desc lang="es">Día 1</desc>
@@ -1104,12 +1100,6 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20043_3_200879529_20250809-104625.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Wuhan | 2ª ronda | Mesa 4 | Sesión 2</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20250824113000 +0000" stop="20250824143000 +0000" channel="esp-e200879525c0ch20041">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20041_3_200879525_20250809-104527.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Wuhan | 1ª ronda | Mesa 2 | Sesión 3</desc>
     <category lang="es">Snooker</category>
   </programme>
   <programme start="20250824113000 +0000" stop="20250824143000 +0000" channel="esp-e200877702c0ch20069">
@@ -1178,7 +1168,7 @@
     <desc lang="es">Etapa 2 | Masculino | Alba &gt; Limone Piemonte (157km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250824160000 +0000" stop="20250824220000 +0000" channel="esp-e200879968c0ch20067">
+  <programme start="20250824170000 +0000" stop="20250824220000 +0000" channel="esp-e200879968c0ch20067">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20067_0_200879968_20250811-124859.jpeg"/>
     <title lang="es">Tour Championship - Día 4</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
@@ -1658,8 +1648,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
   </programme>
-  <programme start="20250824143000 +0000" stop="20250824170000 +0000" channel="y92kmwdptuyz0128ib1z4frnth">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9iaesx7nht061mka95l1ks2sv_image-header_pEs_1740760013000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250824150000 +0000" stop="20250824180000 +0000" channel="y92kmwdptuyz0128ib1z4frnth">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6274u1jtzrguwujxy4apm16nw_image-header_pEs_1740760013000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">CA Osasuna - Valencia CF</title>
     <desc lang="es">Narradora: Andrea Segura. Comentaristas: David Fer y Campoy. Narrador en euskera: Julen Axpe. Narrador en valenciano: Vicent Ortega. Equipo DAZN: Alex S. Vive el encuentro de LALIGA EA SPORTS entre CA Osasuna - Valencia CF en DAZN.</desc>
     <category lang="es">Fútbol</category>
