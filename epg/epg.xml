@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Aug 25 18:36:32 2025">
+<tv date="Tue Aug 26 00:30:02 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -564,10 +564,6 @@
     <display-name>vrvljw8sygi001hhpw2h3xa280</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18dpv7n9d8m71107ayzhw60vcs_image-header_pEs_1753293682000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="7pk3s4h2fsa6l686q7obxhmr6">
-    <display-name>7pk3s4h2fsa6l686q7obxhmr6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/p8c41mu7zssb1eifubrm35byb_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="14w6619yp9zaw3oo0fwszk3c80">
     <display-name>14w6619yp9zaw3oo0fwszk3c80</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95mjk6p44efu5ba2ai8bafc55_image-header_pEs_1752573057000/fill/none/top/none/85/300/180/webp/image"/>
@@ -671,6 +667,14 @@
   <channel id="f1q9xtxgb34hikvi5d4trl6wb">
     <display-name>f1q9xtxgb34hikvi5d4trl6wb</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cyi8d1q32692dwwtpa1wyp37u_image-header_pEs_1753581370000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6oqjh9j7vy9nkda8v68ya6q6f">
+    <display-name>6oqjh9j7vy9nkda8v68ya6q6f</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8s7j32ur4i9ohveu9pih32qsb_image-header_pEs_1752247054000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="i4rovsy5tdmpsrqat48srtvw">
+    <display-name>i4rovsy5tdmpsrqat48srtvw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ddqxma4nbz9cyg3b9lvej171_image-header_pEs_1748528328000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1518,12 +1522,6 @@
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250825183000 +0000" stop="20250826003000 +0000" channel="7pk3s4h2fsa6l686q7obxhmr6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/p8c41mu7zssb1eifubrm35byb_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - Hungría</title>
-    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250825190000 +0000" stop="20250825213000 +0000" channel="14w6619yp9zaw3oo0fwszk3c80">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95mjk6p44efu5ba2ai8bafc55_image-header_pEs_1752573057000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sevilla FC - Getafe CF</title>
@@ -1676,6 +1674,18 @@
   </programme>
   <programme start="20250826190000 +0000" stop="20250826213000 +0000" channel="f1q9xtxgb34hikvi5d4trl6wb">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cyi8d1q32692dwwtpa1wyp37u_image-header_pEs_1753581370000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250827141500 +0000" stop="20250827181500 +0000" channel="6oqjh9j7vy9nkda8v68ya6q6f">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8s7j32ur4i9ohveu9pih32qsb_image-header_pEs_1752247054000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 5 - Figueres - Figueres (CRE)</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250827190000 +0000" stop="20250827213000 +0000" channel="i4rovsy5tdmpsrqat48srtvw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ddqxma4nbz9cyg3b9lvej171_image-header_pEs_1748528328000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
