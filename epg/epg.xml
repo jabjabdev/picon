@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Aug 25 00:36:36 2025">
+<tv date="Mon Aug 25 06:36:32 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -779,6 +779,34 @@
   <channel id="7arozl1a778ix9ssokj47azfw">
     <display-name>7arozl1a778ix9ssokj47azfw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29qe8hmobuqa4qejljr4tllob_image-header_pEs_1752245319000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200834684c0ch20024">
+    <display-name>esp-e200834684c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611060_20230802-091856.jpeg"/>
+  </channel>
+  <channel id="esp-e200887681c0ch20025">
+    <display-name>esp-e200887681c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+  </channel>
+  <channel id="esp-e200832186c0ch20030">
+    <display-name>esp-e200832186c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_6_200832186_20250821-143448.jpeg"/>
+  </channel>
+  <channel id="esp-e200887682c0ch20025">
+    <display-name>esp-e200887682c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+  </channel>
+  <channel id="esp-e200888127c0ch20023">
+    <display-name>esp-e200888127c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_13_200888127_20250819-142606.jpeg"/>
+  </channel>
+  <channel id="esp-e200896339c0ch20033">
+    <display-name>esp-e200896339c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896339_20250821-122623.jpeg"/>
+  </channel>
+  <channel id="esp-e200916327c0ch20069">
+    <display-name>esp-e200916327c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1949,5 +1977,47 @@
     <title lang="es">Etapa 4 - Susa - Voiron</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250831094000 +0000" stop="20250831104000 +0000" channel="esp-e200834684c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Generique/Crop/16_9/2611060_20230802-091856.jpeg"/>
+    <title lang="es">One Make Racing</title>
+    <desc lang="es"/>
+    <category lang="es">One Make Racing</category>
+  </programme>
+  <programme start="20250831104500 +0000" stop="20250831124500 +0000" channel="esp-e200887681c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+    <title lang="es">Femenino Elite Cross Country Olímpico - Alta Saboya</title>
+    <desc lang="es">UCI Mountain Bike World Series</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250831124500 +0000" stop="20250831160000 +0000" channel="esp-e200832186c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_6_200832186_20250821-143448.jpeg"/>
+    <title lang="es">La Vuelta - Etapa 9</title>
+    <desc lang="es">Masculino | Alfaro &gt; Estación de Esquí de Valdezcaray (195.5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250831124500 +0000" stop="20250831145000 +0000" channel="esp-e200887682c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104606.jpeg"/>
+    <title lang="es">Masculino Elite Cross Country Olímpico - Alta Saboya</title>
+    <desc lang="es">UCI Mountain Bike World Series</desc>
+    <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250831131500 +0000" stop="20250831152000 +0000" channel="esp-e200888127c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20023_13_200888127_20250819-142606.jpeg"/>
+    <title lang="es">Clásica de Bretaña  </title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250831151500 +0000" stop="20250831154500 +0000" channel="esp-e200896339c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896339_20250821-122623.jpeg"/>
+    <title lang="es">La Montonera - La Vuelta</title>
+    <desc lang="es">Etapa 9 | Masculino | Alfaro &gt; Estación de Esquí de Valdezcaray (195.5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250831163000 +0000" stop="20250831193000 +0000" channel="esp-e200916327c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
+    <title lang="es">Fútbol</title>
+    <desc lang="es">LaLiga</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
