@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Aug 26 18:36:35 2025">
+<tv date="Wed Aug 27 00:30:06 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -607,6 +607,34 @@
   <channel id="esp-e200921679c0ch20049">
     <display-name>esp-e200921679c0ch20049</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094433.jpeg"/>
+  </channel>
+  <channel id="64d5sazsr1fgelre1pu59aps0">
+    <display-name>64d5sazsr1fgelre1pu59aps0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/andcnkr5qev5p9m5eh6hwaw1k_image-header_pEs_1754955753000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bwk5ucc1v6v9sf2itqy6z2d7o">
+    <display-name>bwk5ucc1v6v9sf2itqy6z2d7o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6lkekht54ftzf89t91famol4w_image-header_pEs_1742889187000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="otyu8d5qhm5xh73od530b70o">
+    <display-name>otyu8d5qhm5xh73od530b70o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ljlsi1i9z3r51aifz7t7d9lqt_image-header_pEs_1755876041000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c3fkndkxwv5zk91osvssks5vg">
+    <display-name>c3fkndkxwv5zk91osvssks5vg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bfltksjftdhmb1pi3v31amr01_image-header_pEs_1752247484000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="56stl6vvq13c9ppcinyrcan0a">
+    <display-name>56stl6vvq13c9ppcinyrcan0a</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m93dvzjnj8zq1wii3ip5ccejv_image-header_pEs_1756199305000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c43xx10r0eruiqhol63z7ra8m">
+    <display-name>c43xx10r0eruiqhol63z7ra8m</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15ukdox1b1joo1b9d779sbxl6o_image-header_pEs_1753987410000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1i4sgo5hqtxaenogg7oom2gve">
+    <display-name>1i4sgo5hqtxaenogg7oom2gve</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/81qlnc16b8hfiy7645e40jl13_image-header_pEs_1748528328000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1519,5 +1547,47 @@
     <title lang="es">Ronse  </title>
     <desc lang="es"/>
     <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250828054500 +0000" stop="20250828114500 +0000" channel="64d5sazsr1fgelre1pu59aps0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/andcnkr5qev5p9m5eh6hwaw1k_image-header_pEs_1754955753000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Mont-Blanc - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20250828110000 +0000" stop="20250828170000 +0000" channel="bwk5ucc1v6v9sf2itqy6z2d7o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6lkekht54ftzf89t91famol4w_image-header_pEs_1742889187000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - Países Bajos</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250828120100 +0000" stop="20250828180100 +0000" channel="otyu8d5qhm5xh73od530b70o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ljlsi1i9z3r51aifz7t7d9lqt_image-header_pEs_1755876041000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">ueno Rally del Paraguay - Shakedown</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the ueno Rally del Paraguay.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250828124500 +0000" stop="20250828164500 +0000" channel="c3fkndkxwv5zk91osvssks5vg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bfltksjftdhmb1pi3v31amr01_image-header_pEs_1752247484000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 6 - Olot - Pal. Andorra</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250828160000 +0000" stop="20250828220000 +0000" channel="56stl6vvq13c9ppcinyrcan0a">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m93dvzjnj8zq1wii3ip5ccejv_image-header_pEs_1756199305000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">X Series 22 - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250828170000 +0000" stop="20250828230000 +0000" channel="c43xx10r0eruiqhol63z7ra8m">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15ukdox1b1joo1b9d779sbxl6o_image-header_pEs_1753987410000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">BKFC Budva - Pesaje</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20250828190000 +0000" stop="20250828213000 +0000" channel="1i4sgo5hqtxaenogg7oom2gve">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/81qlnc16b8hfiy7645e40jl13_image-header_pEs_1748528328000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
