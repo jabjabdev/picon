@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Aug 26 00:36:34 2025">
+<tv date="Tue Aug 26 06:36:31 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -675,6 +675,54 @@
   <channel id="i4rovsy5tdmpsrqat48srtvw">
     <display-name>i4rovsy5tdmpsrqat48srtvw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ddqxma4nbz9cyg3b9lvej171_image-header_pEs_1748528328000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200916373c0ch20038">
+    <display-name>esp-e200916373c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916452c0ch20039">
+    <display-name>esp-e200916452c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916332c0ch20036">
+    <display-name>esp-e200916332c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916372c0ch20037">
+    <display-name>esp-e200916372c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916374c0ch20037">
+    <display-name>esp-e200916374c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916453c0ch20039">
+    <display-name>esp-e200916453c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916333c0ch20036">
+    <display-name>esp-e200916333c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916375c0ch20038">
+    <display-name>esp-e200916375c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916334c0ch20036">
+    <display-name>esp-e200916334c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916376c0ch20037">
+    <display-name>esp-e200916376c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916454c0ch20039">
+    <display-name>esp-e200916454c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916377c0ch20038">
+    <display-name>esp-e200916377c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1689,5 +1737,77 @@
     <title lang="es">DAZN Transfer by Fabrizio Romano</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="esp-e200916373c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="esp-e200916452c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="esp-e200916332c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi’an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="esp-e200916372c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901133000 +0000" stop="20250901163000 +0000" channel="esp-e200916374c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901133000 +0000" stop="20250901163000 +0000" channel="esp-e200916453c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901133000 +0000" stop="20250901163000 +0000" channel="esp-e200916333c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901133000 +0000" stop="20250901163000 +0000" channel="esp-e200916375c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901180000 +0000" stop="20250901210000 +0000" channel="esp-e200916334c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión nocturna</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901180000 +0000" stop="20250901210000 +0000" channel="esp-e200916376c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión nocturna</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901180000 +0000" stop="20250901210000 +0000" channel="esp-e200916454c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión nocturna</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250901180000 +0000" stop="20250901210000 +0000" channel="esp-e200916377c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión nocturna</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
