@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Aug 28 18:30:05 2025">
+<tv date="Thu Aug 28 18:36:32 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -555,6 +555,54 @@
   <channel id="8gt6ncicyjmspbomk92g14xzo">
     <display-name>8gt6ncicyjmspbomk92g14xzo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1df76rl03vc3e1t9mte14sgbu0_image-header_pEs_1755884922000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200916385c0ch20038">
+    <display-name>esp-e200916385c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916458c0ch20039">
+    <display-name>esp-e200916458c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916384c0ch20037">
+    <display-name>esp-e200916384c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916338c0ch20036">
+    <display-name>esp-e200916338c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200902009c0ch20040">
+    <display-name>esp-e200902009c0ch20040</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_0_200902009_20250818-142354.jpeg"/>
+  </channel>
+  <channel id="esp-e200832188c0ch20030">
+    <display-name>esp-e200832188c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_5_200832188_20250821-093957.jpeg"/>
+  </channel>
+  <channel id="esp-e200917939c0ch20044">
+    <display-name>esp-e200917939c0ch20044</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20044_2_200917939_20250825-140422.jpeg"/>
+  </channel>
+  <channel id="esp-e200916459c0ch20039">
+    <display-name>esp-e200916459c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916339c0ch20036">
+    <display-name>esp-e200916339c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916387c0ch20038">
+    <display-name>esp-e200916387c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200916386c0ch20037">
+    <display-name>esp-e200916386c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e200896341c0ch20033">
+    <display-name>esp-e200896341c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896341_20250821-123840.jpeg"/>
   </channel>
   <programme start="20250830180000 +0000" stop="20250831000000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/imxyn1jy9pse1nsbbwnbk62qy_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1389,5 +1437,77 @@
     <title lang="es">ueno Rally del Paraguay - Stage 8</title>
     <desc lang="es">Watch the latest World Rally Championship action from the ueno Rally del Paraguay.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250903090000 +0000" stop="20250903120000 +0000" channel="esp-e200916385c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903090000 +0000" stop="20250903120000 +0000" channel="esp-e200916458c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903090000 +0000" stop="20250903120000 +0000" channel="esp-e200916384c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903090000 +0000" stop="20250903120000 +0000" channel="esp-e200916338c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión matutina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903095500 +0000" stop="20250903143000 +0000" channel="esp-e200902009c0ch20040">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20040_0_200902009_20250818-142354.jpeg"/>
+    <title lang="es">Vuelta a Gran Bretaña - Etapa 2</title>
+    <desc lang="es">Masculino | Stowmarket &gt; Stowmarket (169,5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250903113000 +0000" stop="20250903160000 +0000" channel="esp-e200832188c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20030_5_200832188_20250821-093957.jpeg"/>
+    <title lang="es">La Vuelta - Etapa 11</title>
+    <desc lang="es">Masculino | Bilbao &gt; Bilbao (157.4 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250903123000 +0000" stop="20250903141500 +0000" channel="esp-e200917939c0ch20044">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20044_2_200917939_20250825-140422.jpeg"/>
+    <title lang="es">Simac Tour Ladies - Etapa 2</title>
+    <desc lang="es">Femenino | Gennep &gt; Gennep (124,5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250903133000 +0000" stop="20250903163000 +0000" channel="esp-e200916459c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903133000 +0000" stop="20250903163000 +0000" channel="esp-e200916339c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903133000 +0000" stop="20250903163000 +0000" channel="esp-e200916387c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903133000 +0000" stop="20250903163000 +0000" channel="esp-e200916386c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Xi'an Grand Prix | Clasificación | Sesión vespertina</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20250903151500 +0000" stop="20250903154500 +0000" channel="esp-e200896341c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896341_20250821-123840.jpeg"/>
+    <title lang="es">La Montonera - La Vuelta</title>
+    <desc lang="es">Etapa 11 | Masculino | Bilbao &gt; Bilbao (157.4 km)</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
