@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Aug 30 18:30:09 2025">
+<tv date="Sun Aug 31 00:30:07 2025">
   <channel id="3ar6rbcffu6hdc4nrllv2yewt">
     <display-name>3ar6rbcffu6hdc4nrllv2yewt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tzr7d0oy38fv17bhqn09dechm_image-header_pEs_1752681675000/fill/none/top/none/85/300/180/webp/image"/>
@@ -159,10 +159,6 @@
   <channel id="esp-e200834879c0ch20025">
     <display-name>esp-e200834879c0ch20025</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240321-094939.jpeg"/>
-  </channel>
-  <channel id="esp-e200916322c0ch20066">
-    <display-name>esp-e200916322c0ch20066</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
   </channel>
   <channel id="esp-e200801269c0ch20024">
     <display-name>esp-e200801269c0ch20024</display-name>
@@ -668,10 +664,6 @@
     <display-name>esp-e200914251c0ch20045</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
-  <channel id="2d7l6arsagrcjna4dsm7wcjzi">
-    <display-name>2d7l6arsagrcjna4dsm7wcjzi</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38so5wf5kmbg6s4z5z57ankjv_image-header_pEs_1756457871000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="50p13051mqun1e01m7rpjhdlg">
     <display-name>50p13051mqun1e01m7rpjhdlg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/99q43cxmjwvqpq2iddydag9jx_image-header_pEs_1754386731000/fill/none/top/none/85/300/180/webp/image"/>
@@ -779,6 +771,22 @@
   <channel id="k0898vpwsim30q65grjux1mmp0">
     <display-name>k0898vpwsim30q65grjux1mmp0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5spsxjo44b2qxy32a10kt58s3_image-header_pEs_1755774380000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3bbn0afyudwtofpkkf54lb5lg">
+    <display-name>3bbn0afyudwtofpkkf54lb5lg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn46h22kll6mnbrddj8irwc33_image-header_pEs_1754385815000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="24digin04lcbbvztdezb384h1">
+    <display-name>24digin04lcbbvztdezb384h1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eg38iujlz32q1rarrj99bkzjt_image-header_pEs_1756388274000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a7mdquei9oxvf17dv9g2k1t59">
+    <display-name>a7mdquei9oxvf17dv9g2k1t59</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u5w0b7yhucp1c0zwwngxiwfp_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="exv1qnawb56olzynv5vyvv6nn">
+    <display-name>exv1qnawb56olzynv5vyvv6nn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/655luxbe3x6s80sst63880yhm_image-header_pEs_1748528328000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830170000 +0000" stop="20250830230000 +0000" channel="3ar6rbcffu6hdc4nrllv2yewt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tzr7d0oy38fv17bhqn09dechm_image-header_pEs_1752681675000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1019,12 +1027,6 @@
     <title lang="es">FIM Speedway GP - Breslavia​​ </title>
     <desc lang="es">Carrera</desc>
     <category lang="es">Speedway</category>
-  </programme>
-  <programme start="20250830170000 +0000" stop="20250830200000 +0000" channel="esp-e200916322c0ch20066">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
-    <title lang="es">Fútbol</title>
-    <desc lang="es">LaLiga</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250830200000 +0000" stop="20250831000000 +0000" channel="esp-e200801269c0ch20024">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240307-131447.jpeg"/>
@@ -1782,12 +1784,6 @@
     <desc lang="es">|  | Cuartos de final | Sevilla</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20250830173000 +0000" stop="20250830200000 +0000" channel="2d7l6arsagrcjna4dsm7wcjzi">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38so5wf5kmbg6s4z5z57ankjv_image-header_pEs_1756457871000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Girona FC - Sevilla FC</title>
-    <desc lang="es">El Sevilla viaja para enfrentarse al Girona en un emocionante choque de Primera División. Con la temporada 2025/2026 de LaLiga en pleno apogeo, ambos clubes buscan dejar huella. ¿Podrá el Girona defender su territorio o el Sevilla logrará una victoria crucial fuera de casa el 30 de agosto? ¡No te pierdas este partido que promete emociones!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250830233000 +0000" stop="20250831053000 +0000" channel="50p13051mqun1e01m7rpjhdlg">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/99q43cxmjwvqpq2iddydag9jx_image-header_pEs_1754386731000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera - Pacific Office Automation 147</title>
@@ -1948,6 +1944,30 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5spsxjo44b2qxy32a10kt58s3_image-header_pEs_1755774380000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rayo Vallecano - FC Barcelona + El Post</title>
     <desc lang="es">Narrador: MA Román. Comentaristas: Eneko, Edjogo y Alberto Bueno. Narrador en català: Carles Fitè i Albert Morén. Equipo DAZN: Rafa Escrig y Sandra Díaz. Disfruta del partidazo entre Rayo Vallecano - FC Barcelona en DAZN. ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250831220000 +0000" stop="20250901040000 +0000" channel="3bbn0afyudwtofpkkf54lb5lg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn46h22kll6mnbrddj8irwc33_image-header_pEs_1754385815000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera - Cook Out Southern 500</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250831230000 +0000" stop="20250901050000 +0000" channel="24digin04lcbbvztdezb384h1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eg38iujlz32q1rarrj99bkzjt_image-header_pEs_1756388274000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">All Star (USA vs. The World) &amp; Megabrawl Finals - Philadelphia Smoke vs. NYC Attitude</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250901190000 +0000" stop="20250902010000 +0000" channel="a7mdquei9oxvf17dv9g2k1t59">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u5w0b7yhucp1c0zwwngxiwfp_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código F1 - Países Bajos</title>
+    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250901190010 +0000" stop="20250901213010 +0000" channel="exv1qnawb56olzynv5vyvv6nn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/655luxbe3x6s80sst63880yhm_image-header_pEs_1748528328000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DAZN Transfer by Fabrizio Romano</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
