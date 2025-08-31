@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Aug 31 12:37:07 2025">
+<tv date="Sun Aug 31 18:30:05 2025">
   <channel id="esp-e200879555c0ch20041">
     <display-name>esp-e200879555c0ch20041</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -135,10 +135,6 @@
   <channel id="esp-e200896339c0ch20033">
     <display-name>esp-e200896339c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896339_20250821-122623.jpeg"/>
-  </channel>
-  <channel id="esp-e200916327c0ch20069">
-    <display-name>esp-e200916327c0ch20069</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
   </channel>
   <channel id="esp-e200916373c0ch20038">
     <display-name>esp-e200916373c0ch20038</display-name>
@@ -494,7 +490,7 @@
   </channel>
   <channel id="a1b5s1zx47zy06zgltbithgl60">
     <display-name>a1b5s1zx47zy06zgltbithgl60</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9n5pd9jjbdja7934bhmvk9xhn_image-header_pEs_1752573756000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vkdk4ky1aw93gzgyu2tj425y_image-header_pEs_1752573756000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="qgmzg9x80cw10v2wj933fx5mv0">
     <display-name>qgmzg9x80cw10v2wj933fx5mv0</display-name>
@@ -1052,12 +1048,6 @@
     <desc lang="es">Etapa 9 | Masculino | Alfaro &gt; Estación de Esquí de Valdezcaray (195.5km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250831163000 +0000" stop="20250831193000 +0000" channel="esp-e200916327c0ch20069">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-120845.jpeg"/>
-    <title lang="es">Fútbol</title>
-    <desc lang="es">LaLiga</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="esp-e200916373c0ch20038">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
     <title lang="es">Snooker</title>
@@ -1586,8 +1576,8 @@
     <desc lang="es">Vive el encuentro de Primera División Femenina entre Real Sociedad y Madrid.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250831163000 +0000" stop="20250831190000 +0000" channel="a1b5s1zx47zy06zgltbithgl60">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9n5pd9jjbdja7934bhmvk9xhn_image-header_pEs_1752573756000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250831170000 +0000" stop="20250831200000 +0000" channel="a1b5s1zx47zy06zgltbithgl60">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vkdk4ky1aw93gzgyu2tj425y_image-header_pEs_1752573756000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Betis - Athletic Club</title>
     <desc lang="es">Narrador: Pablo Pinto. Comentaristas: Capi y Miguel Quintana. Narrador en euskera: Julen Axpe. Equipo DAZN: Ainhoa Pérez. Disfruta del partidazo entre Real Betis - Athletic Club en DAZN. ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
@@ -1664,7 +1654,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250831144500 +0000" stop="20250831163000 +0000" channel="esp-e200930264c0ch20034">
+  <programme start="20250831145000 +0000" stop="20250831163000 +0000" channel="esp-e200930264c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_2_200930264_20250828-170839.jpeg"/>
     <title lang="es">The Ocean Race Europe - Niza</title>
     <desc lang="es">Etapa 4 | Inicio</desc>
