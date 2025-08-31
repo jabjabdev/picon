@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Aug 31 18:36:37 2025">
+<tv date="Mon Sep 01 00:30:04 2025">
   <channel id="esp-e200879555c0ch20041">
     <display-name>esp-e200879555c0ch20041</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -843,6 +843,38 @@
   <channel id="esp-e200918853c0ch20023">
     <display-name>esp-e200918853c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
+  </channel>
+  <channel id="d1ghja908test85wo65nc0dka">
+    <display-name>d1ghja908test85wo65nc0dka</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9hwf1arnpko2renzsr11xzixc_image-header_pEs_1752350228000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1iqyaohgu1pxy1866613u666bq">
+    <display-name>1iqyaohgu1pxy1866613u666bq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gbjiex2k2lyz1hnqrwt3mbawk_image-header_pEs_1756228915000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1qs3xgmtjp82svsjzwqxl9ifh0">
+    <display-name>1qs3xgmtjp82svsjzwqxl9ifh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t8gfaai3rriz13pi9agg9seya_image-header_pEs_1756228914000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1rbrhfrpk35ir153eqc5lugwd6">
+    <display-name>1rbrhfrpk35ir153eqc5lugwd6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tt7mzfj0itej1v6sj176tg7p9_image-header_pEs_1753357430000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1thq4tmf936t618jfg01fswunc">
+    <display-name>1thq4tmf936t618jfg01fswunc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1lkw4naowt8lc12nxnbg29g7eu_image-header_pEs_1753356989000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8lc5yq0f7qbsswh39xmu5gjys">
+    <display-name>8lc5yq0f7qbsswh39xmu5gjys</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ss2ectjde661d3s8zou9ln69_image-header_pEs_1756371929000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="96rblagmk7yt0slsuhctm07220">
+    <display-name>96rblagmk7yt0slsuhctm07220</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1en81dx59043y11w1rgyru4891_image-header_pEs_1754328309000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="f2v46rxn62mzlnpxar4z4gmj8">
+    <display-name>f2v46rxn62mzlnpxar4z4gmj8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nuvpyncdssqs1fexz33xsqozf_image-header_pEs_1756368975000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250828060000 +0000" stop="20250828090000 +0000" channel="esp-e200879555c0ch20041">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -2109,5 +2141,53 @@
     <title lang="es">FIA WEC - Lone Star Le Mans</title>
     <desc lang="es">Clasificación</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250902124500 +0000" stop="20250902164500 +0000" channel="d1ghja908test85wo65nc0dka">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9hwf1arnpko2renzsr11xzixc_image-header_pEs_1752350228000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 10 - Parque de la naturaleza San Juan - El Ferial Larra Belagua</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="1iqyaohgu1pxy1866613u666bq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gbjiex2k2lyz1hnqrwt3mbawk_image-header_pEs_1756228915000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eastleigh - Scunthorpe</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="1qs3xgmtjp82svsjzwqxl9ifh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t8gfaai3rriz13pi9agg9seya_image-header_pEs_1756228914000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Solihull Moors vs. Yeovil</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="1rbrhfrpk35ir153eqc5lugwd6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tt7mzfj0itej1v6sj176tg7p9_image-header_pEs_1753357430000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wealdstone - Southend</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="1thq4tmf936t618jfg01fswunc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1lkw4naowt8lc12nxnbg29g7eu_image-header_pEs_1753356989000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Braintree - Tamworth</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="8lc5yq0f7qbsswh39xmu5gjys">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ss2ectjde661d3s8zou9ln69_image-header_pEs_1756371929000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hampton &amp; Richmond - Torquay</title>
+    <desc lang="es">Sigue toda la acción de la National League South en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="96rblagmk7yt0slsuhctm07220">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1en81dx59043y11w1rgyru4891_image-header_pEs_1754328309000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Morecambe - Forest Green</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250902184500 +0000" stop="20250902211500 +0000" channel="f2v46rxn62mzlnpxar4z4gmj8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nuvpyncdssqs1fexz33xsqozf_image-header_pEs_1756368975000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Marine - Darlington</title>
+    <desc lang="es">Sigue toda la acción de la National League North en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
