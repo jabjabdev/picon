@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Sep 02 12:36:51 2025">
+<tv date="Wed Sep 03 00:30:06 2025">
   <channel id="esp-e200887519c0ch20023">
     <display-name>esp-e200887519c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104132.jpeg"/>
@@ -963,6 +963,22 @@
   <channel id="esp-e200932162c0ch20048">
     <display-name>esp-e200932162c0ch20048</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_6_200932162_20250901-110333.jpeg"/>
+  </channel>
+  <channel id="4441nukka1tzmpjy2e7me70fm">
+    <display-name>4441nukka1tzmpjy2e7me70fm</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6bstrt8o3ozajo3pspwda33eg_image-header_pEs_1756727992000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3f9a3k23g17tdi3wn99p05wdk">
+    <display-name>3f9a3k23g17tdi3wn99p05wdk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dvfynglrbh8s6l85dczzzdgfw_image-header_pEs_1752351088000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2s0qriau9yb770scblew6x0un">
+    <display-name>2s0qriau9yb770scblew6x0un</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjfo3zldfaax8n5kgmjoiy30_image-header_pEs_1748277614000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7towyghnov9w9kvoz3yz5nhlj">
+    <display-name>7towyghnov9w9kvoz3yz5nhlj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jg40pfwdlmdm1vrhfjywzv0do_image-header_pEs_1756719589000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250830044500 +0000" stop="20250830092500 +0000" channel="esp-e200887519c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-104132.jpeg"/>
@@ -2408,6 +2424,30 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20048_6_200932162_20250901-110333.jpeg"/>
     <title lang="es">World Boxing Championship - Liverpool</title>
     <desc lang="es">Día 5 | Sesión 2 | Ring 1 | F65kg, M60kg, M75kg, M90+kg</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250904120000 +0000" stop="20250904180000 +0000" channel="4441nukka1tzmpjy2e7me70fm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6bstrt8o3ozajo3pspwda33eg_image-header_pEs_1756727992000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Box, Box - Italia</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250904124500 +0000" stop="20250904164500 +0000" channel="3f9a3k23g17tdi3wn99p05wdk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dvfynglrbh8s6l85dczzzdgfw_image-header_pEs_1752351088000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 12 - Laredo - Los Corrales de Buelna</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250904131500 +0000" stop="20250904191500 +0000" channel="2s0qriau9yb770scblew6x0un">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bjfo3zldfaax8n5kgmjoiy30_image-header_pEs_1748277614000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Paddock Abierto - GP Monster Energy de Catalunya</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250904140000 +0000" stop="20250904200000 +0000" channel="7towyghnov9w9kvoz3yz5nhlj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jg40pfwdlmdm1vrhfjywzv0do_image-header_pEs_1756719589000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">McCormack vs. Parra - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
