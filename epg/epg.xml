@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Sep 06 00:30:20 2025">
+<tv date="Sat Sep 06 06:30:14 2025">
   <channel id="esp-e200916335c0ch20036">
     <display-name>esp-e200916335c0ch20036</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1171,6 +1171,22 @@
   <channel id="4jgfcc6g2nixx7zbsr4e0ayok">
     <display-name>4jgfcc6g2nixx7zbsr4e0ayok</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13234o11rjw1di7ty8dodch6_image-header_pEs_1751566340000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="20mmxdd8tfkhrk30123tva8an">
+    <display-name>20mmxdd8tfkhrk30123tva8an</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3z8qukr127kux1x6j0a7t252_image-header_pEs_1757064580000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cp964zy7yk6rx6mayig8ie3zp">
+    <display-name>cp964zy7yk6rx6mayig8ie3zp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8zf69e0baj063igtjzxxn4va1_image-header_pEs_1757084495000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c54ie0r9o0vdcxqaxz0q9qzy">
+    <display-name>c54ie0r9o0vdcxqaxz0q9qzy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3suwwtnvulztm9m71951xt5oo_image-header_pEs_1757064312000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cpuutpdsczmk2cmncsb4cpnn0">
+    <display-name>cpuutpdsczmk2cmncsb4cpnn0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5e15zlarqwubn51d65ru1wlsd_image-header_pEs_1757064842000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250902090000 +0000" stop="20250902120000 +0000" channel="esp-e200916335c0ch20036">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -2929,5 +2945,29 @@
     <title lang="es">Texans @ Rams</title>
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250907083000 +0000" stop="20250907143000 +0000" channel="20mmxdd8tfkhrk30123tva8an">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3z8qukr127kux1x6j0a7t252_image-header_pEs_1757064580000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 2 - Red Bull Ring</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250907093500 +0000" stop="20250907153500 +0000" channel="cp964zy7yk6rx6mayig8ie3zp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8zf69e0baj063igtjzxxn4va1_image-header_pEs_1757084495000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 2 - Red Bull Ring</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250907111000 +0000" stop="20250907171000 +0000" channel="c54ie0r9o0vdcxqaxz0q9qzy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3suwwtnvulztm9m71951xt5oo_image-header_pEs_1757064312000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 2 - Red Bull Ring</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250907140500 +0000" stop="20250907200500 +0000" channel="cpuutpdsczmk2cmncsb4cpnn0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5e15zlarqwubn51d65ru1wlsd_image-header_pEs_1757064842000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 3 - Red Bull Ring</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
