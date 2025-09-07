@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Sep 07 18:30:07 2025">
+<tv date="Mon Sep 08 00:30:02 2025">
   <channel id="esp-e200916492c0ch20036">
     <display-name>esp-e200916492c0ch20036</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -476,10 +476,6 @@
     <display-name>esp-e200896345c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_6_200896345_20250821-121915.jpeg"/>
   </channel>
-  <channel id="esp-e200923411c0ch20049">
-    <display-name>esp-e200923411c0ch20049</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
-  </channel>
   <channel id="esp-e200901571c0ch20023">
     <display-name>esp-e200901571c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
@@ -851,6 +847,26 @@
   <channel id="9a53r3flw1ofhv78f15zshku4">
     <display-name>9a53r3flw1ofhv78f15zshku4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mgcwgxssjsei1lko9tkdr615k_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4oyg51q95aj1j9uhfigdrl0r8">
+    <display-name>4oyg51q95aj1j9uhfigdrl0r8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jv31v4gzhivt1j60rzg5w2e2t_image-header_pEs_1757153216000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ctbtlbeypzwdcvsa6wr5sjyu6">
+    <display-name>ctbtlbeypzwdcvsa6wr5sjyu6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cigznwtyrh131x1tsh5t66mu5_image-header_pEs_1751566340000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cd73e9ja5f7uh3fxo80mydzin">
+    <display-name>cd73e9ja5f7uh3fxo80mydzin</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2c9sjwiq82hsss6hqd19yvqh9_image-header_pEs_1752352705000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ykb7nivhbtlkxlzr6vf6vnei">
+    <display-name>3ykb7nivhbtlkxlzr6vf6vnei</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1trvpc8g4en9u19we0tki094c8_image-header_pEs_1757068515000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="iyjk7xztnqro03d971rt3rfko0">
+    <display-name>iyjk7xztnqro03d971rt3rfko0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j285hlrp9ew4179v2wgl1fl9t_image-header_pEs_1754975812000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250904090000 +0000" stop="20250904120000 +0000" channel="esp-e200916492c0ch20036">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1566,12 +1582,6 @@
     <desc lang="es">Etapa 15 | Masculino | A Veiga/Vegadeo &gt; Monforte de Lemos</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20250907170000 +0000" stop="20250907213000 +0000" channel="esp-e200923411c0ch20049">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
-    <title lang="es">Liverpool</title>
-    <desc lang="es"/>
-    <category lang="es">Boxeo</category>
-  </programme>
   <programme start="20250907173000 +0000" stop="20250908013000 +0000" channel="esp-e200901571c0ch20023">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240305-141107.jpeg"/>
     <title lang="es">FIA WEC - Lone Star Le Mans</title>
@@ -2129,5 +2139,35 @@
     <title lang="es">Código F1 - Italia</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250908220000 +0000" stop="20250909020000 +0000" channel="4oyg51q95aj1j9uhfigdrl0r8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jv31v4gzhivt1j60rzg5w2e2t_image-header_pEs_1757153216000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Bears</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250909001500 +0000" stop="20250909041500 +0000" channel="ctbtlbeypzwdcvsa6wr5sjyu6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cigznwtyrh131x1tsh5t66mu5_image-header_pEs_1751566340000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Bears (en español)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250909123000 +0000" stop="20250909163000 +0000" channel="cd73e9ja5f7uh3fxo80mydzin">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2c9sjwiq82hsss6hqd19yvqh9_image-header_pEs_1752352705000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 16 - Poio - Mos Castro de Herville</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250909172500 +0000" stop="20250909232500 +0000" channel="3ykb7nivhbtlkxlzr6vf6vnei">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1trvpc8g4en9u19we0tki094c8_image-header_pEs_1757068515000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Campeonato Mundial de Boxeo Aficionado de 2025</title>
+    <desc lang="es">Más de 540 atletas están listos para luchar en el Campeonato Mundial de Boxeo que se celebra en Liverpool.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250909184500 +0000" stop="20250909211500 +0000" channel="iyjk7xztnqro03d971rt3rfko0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j285hlrp9ew4179v2wgl1fl9t_image-header_pEs_1754975812000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">York - Tamworth</title>
+    <desc lang="es"/>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
