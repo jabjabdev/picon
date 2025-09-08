@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Sep 08 18:36:37 2025">
+<tv date="Tue Sep 09 00:30:02 2025">
   <channel id="esp-e200901308c0ch20027">
     <display-name>esp-e200901308c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
@@ -559,14 +559,6 @@
   <channel id="109mm2zt7hd10brqd73reecbt">
     <display-name>109mm2zt7hd10brqd73reecbt</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/w2ms9qzl5a001kpw4e6pxgtx1_image-header_pEs_1757068578000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="25fpi54cibietvki2kf1jdn1n">
-    <display-name>25fpi54cibietvki2kf1jdn1n</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eaf9ia1i7bro19nn1r9c7m3jc_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9a53r3flw1ofhv78f15zshku4">
-    <display-name>9a53r3flw1ofhv78f15zshku4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mgcwgxssjsei1lko9tkdr615k_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="4oyg51q95aj1j9uhfigdrl0r8">
     <display-name>4oyg51q95aj1j9uhfigdrl0r8</display-name>
@@ -1223,6 +1215,18 @@
   <channel id="esp-e200942732c0ch20049">
     <display-name>esp-e200942732c0ch20049</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
+  </channel>
+  <channel id="4w58d17ek1ad32r6lqdlymhmz">
+    <display-name>4w58d17ek1ad32r6lqdlymhmz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dxm3noryzwuo5javd7k93g2_image-header_pEs_1752353467000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ok53xifhb3dzsqsmpe47vv2s">
+    <display-name>ok53xifhb3dzsqsmpe47vv2s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/91elqoozgbd7kn0hyhfwufu86_image-header_pEs_1756415612000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5n40ge9pqqdeb6kka9mpjmnj4">
+    <display-name>5n40ge9pqqdeb6kka9mpjmnj4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tfhepyxqlodn1itadtt3llgf6_image-header_pEs_1757068452000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250905081500 +0000" stop="20250905091500 +0000" channel="esp-e200901308c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141251.jpeg"/>
@@ -2063,18 +2067,6 @@
     <title lang="es">Campeonato Mundial de Boxeo Aficionado de 2025</title>
     <desc lang="es">Más de 540 atletas están listos para luchar en el Campeonato Mundial de Boxeo que se celebra en Liverpool.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20250908183000 +0000" stop="20250909003000 +0000" channel="25fpi54cibietvki2kf1jdn1n">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eaf9ia1i7bro19nn1r9c7m3jc_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - Cataluña</title>
-    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250908190000 +0000" stop="20250909010000 +0000" channel="9a53r3flw1ofhv78f15zshku4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mgcwgxssjsei1lko9tkdr615k_image-header_pEs_1742206662000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código F1 - Italia</title>
-    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20250909001500 +0000" stop="20250909041500 +0000" channel="4oyg51q95aj1j9uhfigdrl0r8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jv31v4gzhivt1j60rzg5w2e2t_image-header_pEs_1757153216000/fill/none/top/none/85/600/360/webp/image"/>
@@ -3058,6 +3050,24 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
     <title lang="es">Liverpool</title>
     <desc lang="es"/>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250910123000 +0000" stop="20250910163000 +0000" channel="4w58d17ek1ad32r6lqdlymhmz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dxm3noryzwuo5javd7k93g2_image-header_pEs_1752353467000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Etapa 17 - O Barco de Valdeorras - Alto de el Morredero/Ponferrada</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20250910164500 +0000" stop="20250910181500 +0000" channel="ok53xifhb3dzsqsmpe47vv2s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/91elqoozgbd7kn0hyhfwufu86_image-header_pEs_1756415612000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Aalborg Håndbold - One Veszprém HC</title>
+    <desc lang="es">Vive el encuentro de EHF Champions League entre Veszprém KC y Aalborg.</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20250910170000 +0000" stop="20250910230000 +0000" channel="5n40ge9pqqdeb6kka9mpjmnj4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tfhepyxqlodn1itadtt3llgf6_image-header_pEs_1757068452000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Campeonato Mundial de Boxeo Aficionado de 2025</title>
+    <desc lang="es">Más de 540 atletas están listos para luchar en el Campeonato Mundial de Boxeo que se celebra en Liverpool.</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
