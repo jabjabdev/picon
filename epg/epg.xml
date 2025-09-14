@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Sep 14 18:30:08 2025">
+<tv date="Mon Sep 15 00:30:03 2025">
   <channel id="esp-e200916716c0ch20045">
     <display-name>esp-e200916716c0ch20045</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20045_3_200916716_20250829-183432.jpeg"/>
@@ -1103,6 +1103,30 @@
   <channel id="5sk409wfp1frebrjntn2k1q1g">
     <display-name>5sk409wfp1frebrjntn2k1q1g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9vzkj9j3qisk1ad8ttwfqe59y_image-header_pEs_1757492573000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="27xm4bdrshsv09lhdnn3m2as5">
+    <display-name>27xm4bdrshsv09lhdnn3m2as5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wdf95swezn614twik7hvatps_image-header_pEs_1751566341000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4qvln0ce8pqfrwedahiigl12a">
+    <display-name>4qvln0ce8pqfrwedahiigl12a</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3n42h7l30e5wojnp450azslma_image-header_pEs_1756821690000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5v71wgumpzgps5pqti4v3d15g">
+    <display-name>5v71wgumpzgps5pqti4v3d15g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hsxc4gb02bp61oler89iv6o9b_image-header_pEs_1751566341000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c0uvvid0hjljw4xbm1rj6ms19">
+    <display-name>c0uvvid0hjljw4xbm1rj6ms19</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/119irsg66gd691eixeqw9xye5b_image-header_pEs_1751566341000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9b7deif41ugkbb8llatg9jqq5">
+    <display-name>9b7deif41ugkbb8llatg9jqq5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dlzcmrbd3lfk13icgsoni4n68_image-header_pEs_1755619897000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5czcqdye5zanznzn01czgy48w">
+    <display-name>5czcqdye5zanznzn01czgy48w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6jbo7rhrspg61omeh87k20eff_image-header_pEs_1757337136000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="esp-e200916716c0ch20045">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20045_3_200916716_20250829-183432.jpeg"/>
@@ -2758,6 +2782,42 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9vzkj9j3qisk1ad8ttwfqe59y_image-header_pEs_1757492573000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Buccaneers @ Texans</title>
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250915230000 +0000" stop="20250916030000 +0000" channel="27xm4bdrshsv09lhdnn3m2as5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wdf95swezn614twik7hvatps_image-header_pEs_1751566341000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Buccaneers @ Texans (In Spanish)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250915230000 +0000" stop="20250916030000 +0000" channel="4qvln0ce8pqfrwedahiigl12a">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3n42h7l30e5wojnp450azslma_image-header_pEs_1756821690000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Buccaneers @ Texans (en castellano)</title>
+    <desc lang="es">Vive la semana 2 de la temporada NFL con el duelo entre los Tampa Bay Buccaneers y los Houston Texans.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250916020000 +0000" stop="20250916060000 +0000" channel="5v71wgumpzgps5pqti4v3d15g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hsxc4gb02bp61oler89iv6o9b_image-header_pEs_1751566341000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chargers @ Raiders</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250916020000 +0000" stop="20250916060000 +0000" channel="c0uvvid0hjljw4xbm1rj6ms19">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/119irsg66gd691eixeqw9xye5b_image-header_pEs_1751566341000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chargers @ Raiders (In Spanish)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250916103000 +0000" stop="20250916163000 +0000" channel="9b7deif41ugkbb8llatg9jqq5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dlzcmrbd3lfk13icgsoni4n68_image-header_pEs_1755619897000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20250916190000 +0000" stop="20250916230000 +0000" channel="5czcqdye5zanznzn01czgy48w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6jbo7rhrspg61omeh87k20eff_image-header_pEs_1757337136000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código NFL - Semana 2</title>
+    <desc lang="es"/>
     <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
