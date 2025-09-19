@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Sep 19 00:30:21 2025">
+<tv date="Fri Sep 19 06:30:10 2025">
   <channel id="esp-e200917036c0ch20045">
     <display-name>esp-e200917036c0ch20045</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -499,6 +499,10 @@
   <channel id="73frmmm6f5g2lydb48izy3zb8">
     <display-name>73frmmm6f5g2lydb48izy3zb8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3v1yua0xgdb8dl1j00xi0b1op_image-header_pEs_1757599789000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ezzx9gmrzj106lrgfn7u76h5d">
+    <display-name>ezzx9gmrzj106lrgfn7u76h5d</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16nd1xk7a21vn11vkwncksngnw_image-header_pEs_1755779858000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20250915090000 +0000" stop="20250915110000 +0000" channel="esp-e200917036c0ch20045">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
@@ -1249,5 +1253,11 @@
     <title lang="es">Día 2 - Sesión 1</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20250920000000 +0000" stop="20250920060000 +0000" channel="ezzx9gmrzj106lrgfn7u76h5d">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16nd1xk7a21vn11vkwncksngnw_image-header_pEs_1755779858000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Moore vs. Savage</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
