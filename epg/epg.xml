@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Sep 20 12:30:15 2025">
+<tv date="Sat Sep 20 18:30:11 2025">
   <channel id="1ufmynp5xzmmafk9yu64pec64">
     <display-name>1ufmynp5xzmmafk9yu64pec64</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/300/180/webp/image"/>
@@ -71,10 +71,6 @@
   <channel id="1aw2hetyr0m0bzwsffxlhpei50">
     <display-name>1aw2hetyr0m0bzwsffxlhpei50</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/pbvnmqji8lp712bfll6lnitvw_image-header_pEs_1755747960000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cpn1m124mmqx8l058kbmgjy4v">
-    <display-name>cpn1m124mmqx8l058kbmgjy4v</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9n2183tpjtc5hib4gin8nogmx_image-header_pEs_1757671887000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2r1nubz3av1q64vamilfyjjx8">
     <display-name>2r1nubz3av1q64vamilfyjjx8</display-name>
@@ -218,7 +214,7 @@
   </channel>
   <channel id="1rkw8p7ml4bud1kg8fan0qhnck">
     <display-name>1rkw8p7ml4bud1kg8fan0qhnck</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/97nqoe8mnxu9js8uyuzvbujn3_image-header_pEs_1757342451000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5ab62jz27f0ndg93juynzpani_image-header_pEs_1757342451000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1ep3tyb9nkv5nmpipd4khp0oh0">
     <display-name>1ep3tyb9nkv5nmpipd4khp0oh0</display-name>
@@ -247,10 +243,6 @@
   <channel id="k9a6e6d9y28t0z8zetk6axvbx0">
     <display-name>k9a6e6d9y28t0z8zetk6axvbx0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7skyy6ol0m6x0khmabzuj53xt_image-header_pEs_1755785037000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="qa1i1ghqa6jg01bp0rh5k1v4h8">
-    <display-name>qa1i1ghqa6jg01bp0rh5k1v4h8</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ktrzh4vb4tjv1ptd12odr3n4c_image-header_pEs_1755751102000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7x3a9qbwwayw3nx9k9bb3iiav">
     <display-name>7x3a9qbwwayw3nx9k9bb3iiav</display-name>
@@ -828,12 +820,6 @@
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250920112500 +0000" stop="20250920172500 +0000" channel="cpn1m124mmqx8l058kbmgjy4v">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9n2183tpjtc5hib4gin8nogmx_image-header_pEs_1757671887000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - Spa - Trofeo Pirelli</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20250920120000 +0000" stop="20250920180000 +0000" channel="2r1nubz3av1q64vamilfyjjx8">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eldcmbpwejshz6b198l9g81va_image-header_pEs_1757972447000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Kaipa - Comeback</title>
@@ -1044,8 +1030,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20250920160000 +0000" stop="20250920183000 +0000" channel="1rkw8p7ml4bud1kg8fan0qhnck">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/97nqoe8mnxu9js8uyuzvbujn3_image-header_pEs_1757342451000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250920163000 +0000" stop="20250920193000 +0000" channel="1rkw8p7ml4bud1kg8fan0qhnck">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5ab62jz27f0ndg93juynzpani_image-header_pEs_1757342451000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Deportivo Alavés - Sevilla FC</title>
     <desc lang="es">Sevilla visita al Alavés en el Estadio de Mendizorroza para un emocionante enfrentamiento de LaLiga 25/26 el 20 de septiembre de 2025. Ambos equipos buscan asegurar puntos cruciales en esta batalla de Primera División. ¿Podrá el Alavés defender su territorio o el Sevilla se llevará una victoria a domicilio? ¡No te pierdas este apasionante duelo!</desc>
     <category lang="es">Fútbol</category>
@@ -1090,12 +1076,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7skyy6ol0m6x0khmabzuj53xt_image-header_pEs_1755785037000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FC Andorra - CD Mirandés</title>
     <desc lang="es">FC Andorra y Mirandés se enfrentarán en un emocionante partido de Segunda División el 21 de septiembre de 2025. En plena temporada LaLiga 2 25/26, ambos equipos buscan puntos cruciales en el Estadi Nacional. ¿Podrá FC Andorra defender su casa o Mirandés logrará una victoria como visitante? ¡No te pierdas este apasionante encuentro!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20250920163000 +0000" stop="20250920190000 +0000" channel="qa1i1ghqa6jg01bp0rh5k1v4h8">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ktrzh4vb4tjv1ptd12odr3n4c_image-header_pEs_1755751102000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rochdale - Southend</title>
-    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20250920163500 +0000" stop="20250920223500 +0000" channel="7x3a9qbwwayw3nx9k9bb3iiav">
