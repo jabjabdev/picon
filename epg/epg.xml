@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Sep 27 12:30:11 2025">
+<tv date="Sat Sep 27 18:30:45 2025">
   <channel id="1ufmynp5xzmmafk9yu64pec64">
     <display-name>1ufmynp5xzmmafk9yu64pec64</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/300/180/webp/image"/>
@@ -60,13 +60,9 @@
     <display-name>g686832edmpt01pk0v17ehrhv5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b4ize3vso0l91s61qrxqi4nd1_image-header_pEs_1756801454000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="art6qrhudeytddtdljqtgcf65">
-    <display-name>art6qrhudeytddtdljqtgcf65</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95oiabl2it64iz7gqfxcr0wpu_image-header_pEs_1758293914000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1lcfoxzjy1l5o1cs1fdml2dqfj">
     <display-name>1lcfoxzjy1l5o1cs1fdml2dqfj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c8pn6oxflel9lht2uq15p6kgi_image-header_pEs_1757351769000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4mdjyeuivh3z9zglzsa59nt7t_image-header_pEs_1757351769000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7v90gvy7f6v70hfwpag3lyuhq0">
     <display-name>7v90gvy7f6v70hfwpag3lyuhq0</display-name>
@@ -476,6 +472,18 @@
     <display-name>mwjx5mcmkds3012efva7chhelu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1c02n68e476iqxib269hna6j1_image-header_pEs_1758818760000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="203aw7km6zy040a6lakr2s640">
+    <display-name>203aw7km6zy040a6lakr2s640</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn6pu8j315jbeonb6naf6qr16_image-header_pEs_1757351769000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cbnpktutv50a9trrj6jh3tg96">
+    <display-name>cbnpktutv50a9trrj6jh3tg96</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6n4mlrg62xyqkagrlt7syxxds_image-header_pEs_1758272926000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4wopekfozj8snceybqoo2oq7n">
+    <display-name>4wopekfozj8snceybqoo2oq7n</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j8eiz9sgb1ok9j18cpqckllj_image-header_pEs_1758273716000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251025170000 +0000" stop="20251025230000 +0000" channel="1ufmynp5xzmmafk9yu64pec64">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Parker vs. Wardley</title>
@@ -566,14 +574,8 @@
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20250927120000 +0000" stop="20250927180000 +0000" channel="art6qrhudeytddtdljqtgcf65">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95oiabl2it64iz7gqfxcr0wpu_image-header_pEs_1758293914000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Khunsueklek vs. Siouey</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">MMA</category>
-  </programme>
-  <programme start="20250927130000 +0000" stop="20250927153000 +0000" channel="1lcfoxzjy1l5o1cs1fdml2dqfj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c8pn6oxflel9lht2uq15p6kgi_image-header_pEs_1757351769000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20250927141500 +0000" stop="20250927171500 +0000" channel="1lcfoxzjy1l5o1cs1fdml2dqfj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4mdjyeuivh3z9zglzsa59nt7t_image-header_pEs_1757351769000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atlético de Madrid - Real Madrid</title>
     <desc lang="es">Narrador: Miguel Ángel Román. Comentaristas: Iván Zamorano, Juanfran Torres y Edjogo. Equipo DAZN: Sergio Quirante, Ainhoa Pérez y Pablo Pinto. Real Madrid visita al Atlético de Madrid en un crucial encuentro de LaLiga 25/26 en el Riyadh Air Metropolitano el 27 de septiembre de 2025. Este derbi madrileño promete una intensa rivalidad y fútbol de alto nivel entre estos gigantes españoles. ¿Podrá el Atlético defender su territorio contra sus rivales de la ciudad? ¡No te pierdas este enfrentamiento imperdible!</desc>
     <category lang="es">Fútbol</category>
@@ -1189,5 +1191,23 @@
     <title lang="es">Juventus - Roma</title>
     <desc lang="es">Vive el encuentro de Serie A Women's Cup entre Juventus y Roma.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250927141500 +0000" stop="20250927164500 +0000" channel="203aw7km6zy040a6lakr2s640">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn6pu8j315jbeonb6naf6qr16_image-header_pEs_1757351769000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multicámara - Atlético de Madrid - Real Madrid</title>
+    <desc lang="es">Real Madrid viaja para enfrentar al Atlético de Madrid en un crucial partido de Primera División el 27 de septiembre de 2025. Esta intensa rivalidad promete acción mientras ambos equipos buscan destacar en la temporada 2025/2026 de LaLiga. ¿Podrá el Atlético frenar al Real, o los visitantes se llevarán la victoria? ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250927160000 +0000" stop="20250927190000 +0000" channel="cbnpktutv50a9trrj6jh3tg96">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6n4mlrg62xyqkagrlt7syxxds_image-header_pEs_1758272926000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Unicaja - Valencia Basket</title>
+    <desc lang="es">Málaga se enfrentará a Valencia en un emocionante choque de la Supercopa 2025 el 27 de septiembre. Ambos equipos darán lo mejor de sí en busca de la gloria temprana. ¿Veremos un partido de muchos puntos o una exhibición defensiva? ¡No te pierdas este espectáculo del baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20250927183000 +0000" stop="20250927220000 +0000" channel="4wopekfozj8snceybqoo2oq7n">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j8eiz9sgb1ok9j18cpqckllj_image-header_pEs_1758273716000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Madrid - La Laguna Tenerife</title>
+    <desc lang="es">Real Madrid se enfrenta a Tenerife en un emocionante duelo de la Supercopa 2025 el 27 de septiembre. Ambos equipos buscan una victoria crucial en este partido de alto riesgo. ¿Será decisiva la ventaja de jugar en casa para Real Madrid, o Tenerife dará la sorpresa? ¡No te pierdas este espectáculo de baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
