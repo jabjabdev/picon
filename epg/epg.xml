@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Sep 27 18:37:09 2025">
+<tv date="Sun Sep 28 00:30:08 2025">
   <channel id="1ufmynp5xzmmafk9yu64pec64">
     <display-name>1ufmynp5xzmmafk9yu64pec64</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/300/180/webp/image"/>
@@ -787,6 +787,50 @@
   <channel id="esp-e200932056c0ch20009">
     <display-name>esp-e200932056c0ch20009</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20009_0_200932056_20250917-123112.jpeg"/>
+  </channel>
+  <channel id="2a6b7lgkofq8ora2kio9h7g0x">
+    <display-name>2a6b7lgkofq8ora2kio9h7g0x</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ohzexj51dhyheyjy30t710my_image-header_pEs_1756829867000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="82dxw8qhinoi4hulykw55afis">
+    <display-name>82dxw8qhinoi4hulykw55afis</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9w8k63vnwndv1ddlqm0q8y8z9_image-header_pEs_1751568477000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d3bscg4ekik6ct7q6wjek8wqv">
+    <display-name>d3bscg4ekik6ct7q6wjek8wqv</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ai875uf0c8fp2ksagcipa9s1h_image-header_pEs_1758548641000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6pvd6tlrprfzviuezvwhkrd9f">
+    <display-name>6pvd6tlrprfzviuezvwhkrd9f</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/39ka3paxmz7i8wtee3wc4a94v_image-header_pEs_1758296313000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="142oyhux30uw015n4f4odajkfe">
+    <display-name>142oyhux30uw015n4f4odajkfe</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d2lhczr35ikb2iqdxqy9xubv_image-header_pEs_1756333256000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dev2ri0tp698donuk30rnhpo5">
+    <display-name>dev2ri0tp698donuk30rnhpo5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1asvu6ateawc11p6o97sjye6uh_image-header_pEs_1758999059000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="crt6poocgoaq01lmay8bahnbkk">
+    <display-name>crt6poocgoaq01lmay8bahnbkk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ag70l3tc35tww0n00qofc72g_image-header_pEs_1758888436000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1t1anq4spmo2p32ype4aq1z5b0">
+    <display-name>1t1anq4spmo2p32ype4aq1z5b0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aqsufh707n25w46k2er57m1it_image-header_pEs_1755785037000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d71ew2rgv9nf1xe9zyub2pj3u">
+    <display-name>d71ew2rgv9nf1xe9zyub2pj3u</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/go6z0mrqvvsg1vxdkle49dk0h_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="gkqt3j8nnkij0m22rec58uqvu0">
+    <display-name>gkqt3j8nnkij0m22rec58uqvu0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/26in0hpfb1peu8szp0fdgbv1o_image-header_pEs_1756334753000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="p2n2p8rfqyv40qymllqwhdov10">
+    <display-name>p2n2p8rfqyv40qymllqwhdov10</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/579lm5vgz13jyclj0ylpallx1_image-header_pEs_1756810677000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251025170000 +0000" stop="20251025230000 +0000" channel="1ufmynp5xzmmafk9yu64pec64">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1969,5 +2013,71 @@
     <title lang="es">WHOOP UCI Mountain Bike World Series - Lake Placid</title>
     <desc lang="es">Masculino Élite | Cross Country Carrera Corta</desc>
     <category lang="es">Mountain Bike</category>
+  </programme>
+  <programme start="20250928160000 +0000" stop="20250928183000 +0000" channel="2a6b7lgkofq8ora2kio9h7g0x">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ohzexj51dhyheyjy30t710my_image-header_pEs_1756829867000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lecce - Bologna</title>
+    <desc lang="es">Vive el encuentro de Serie A entre Bologna y Lecce.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929002000 +0000" stop="20250929042000 +0000" channel="82dxw8qhinoi4hulykw55afis">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9w8k63vnwndv1ddlqm0q8y8z9_image-header_pEs_1751568477000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Packers @ Cowboys</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250929002000 +0000" stop="20250929042000 +0000" channel="d3bscg4ekik6ct7q6wjek8wqv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ai875uf0c8fp2ksagcipa9s1h_image-header_pEs_1758548641000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Packers @ Cowboys (en castellano)</title>
+    <desc lang="es">Disfruta de la mejor NFL, con un SNF entre dos rivales de la NFC como son Green Bay Packers y Dallas Cowboys en la vuelta de Micah Parsonas a Dallas.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20250929130000 +0000" stop="20250929153000 +0000" channel="6pvd6tlrprfzviuezvwhkrd9f">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/39ka3paxmz7i8wtee3wc4a94v_image-header_pEs_1758296313000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Programa 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929163000 +0000" stop="20250929190000 +0000" channel="142oyhux30uw015n4f4odajkfe">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5d2lhczr35ikb2iqdxqy9xubv_image-header_pEs_1756333256000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Parma - Torino</title>
+    <desc lang="es">Parma se enfrentará al Torino en un emocionante duelo de la Serie A en el Ennio Tardini el 29 de septiembre de 2025. En plena temporada 25/26, ambos clubes buscan destacar. ¿Podrá Parma aprovechar su ventaja local para ganar, o el Torino arruinará la fiesta? ¡No te pierdas este partido lleno de emoción!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929180000 +0000" stop="20250930000000 +0000" channel="dev2ri0tp698donuk30rnhpo5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1asvu6ateawc11p6o97sjye6uh_image-header_pEs_1758999059000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inside The Ring - Episode 4</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20250929183000 +0000" stop="20250929210000 +0000" channel="crt6poocgoaq01lmay8bahnbkk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ag70l3tc35tww0n00qofc72g_image-header_pEs_1758888436000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Valencia CF - Real Oviedo + Poker FC</title>
+    <desc lang="es">Narradora: Andrea Segura. Comentaristas: Jaume Domenech y Alberto Bueno. Narrador en valenclà: Vicent Ortega. Equipo DAZN: Álex Silvestre. Real Oviedo viaja para enfrentarse al Valencia en un emocionante choque de Primera División. El Estadio de Mestalla es el escenario de este encuentro de LaLiga 25/26 el 28 de septiembre de 2025. ¿Podrá el Valencia defender su terreno o el Real Oviedo logrará una actuación estelar? ¡Prepárate para una noche de emoción futbolística!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929183000 +0000" stop="20250929210000 +0000" channel="1t1anq4spmo2p32ype4aq1z5b0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aqsufh707n25w46k2er57m1it_image-header_pEs_1755785037000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">CD Leganés - CD Castellón</title>
+    <desc lang="es">Leganés se enfrenta a Castellón en un emocionante choque de Segunda División en el Estadio Municipal de Butarque. Con la temporada 25/26 de LaLiga 2 en pleno apogeo, ambos equipos buscan ascender en la tabla. ¿Podrá Leganés defender su terreno o Castellón logrará una crucial victoria a domicilio? ¡Prepárate para un ambiente eléctrico!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929183000 +0000" stop="20250930003000 +0000" channel="d71ew2rgv9nf1xe9zyub2pj3u">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/go6z0mrqvvsg1vxdkle49dk0h_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Código MotoGP - Japón</title>
+    <desc lang="es">No te pierdas Código MotoGP. El programa que nos descubre todos los secretos y las imágenes inéditas de los Grandes Premios de MotoGP. Natacha Alfageme nos comparte todos los momentos 'behind the scenes' del circuito.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20250929184500 +0000" stop="20250929211500 +0000" channel="gkqt3j8nnkij0m22rec58uqvu0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/26in0hpfb1peu8szp0fdgbv1o_image-header_pEs_1756334753000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Genoa - Lazio</title>
+    <desc lang="es">El 29 de septiembre de 2025, Genoa recibe a Lazio en un emocionante duelo de Serie A en Luigi Ferraris. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan escalar posiciones. ¿Podrá Genoa defender su territorio o Lazio logrará una victoria crucial fuera de casa? ¡No te pierdas 90 minutos de pasión y destreza!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929213000 +0000" channel="p2n2p8rfqyv40qymllqwhdov10">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/579lm5vgz13jyclj0ylpallx1_image-header_pEs_1756810677000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Everton - West Ham</title>
+    <desc lang="es">Everton se enfrenta a West Ham United en un choque de Premier League. El Hill Dickinson Stadium acoge este emocionante partido el 29 de septiembre de 2025. Ambos equipos buscan destacar en la temporada 25/26. ¿Podrá Everton lograr una victoria en casa o West Ham arrebatará puntos cruciales como visitante? ¡Sintoniza para un encuentro apasionante!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
