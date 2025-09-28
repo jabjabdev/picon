@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Sep 28 00:36:32 2025">
+<tv date="Sun Sep 28 06:30:28 2025">
   <channel id="1ufmynp5xzmmafk9yu64pec64">
     <display-name>1ufmynp5xzmmafk9yu64pec64</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/300/180/webp/image"/>
@@ -243,10 +243,6 @@
   <channel id="79c8o3ix1br7u6bfnm98otpad">
     <display-name>79c8o3ix1br7u6bfnm98otpad</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5kvcw4jf6g861tsv0doglfvgf_image-header_pEs_1740483809000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8yeznoj3atw1yohyuebqmadii">
-    <display-name>8yeznoj3atw1yohyuebqmadii</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1iddo8oh0wsla1swvxau3x4h91_image-header_pEs_1757171386000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="85mbwd8fvvolyzex7zuq3jref">
     <display-name>85mbwd8fvvolyzex7zuq3jref</display-name>
@@ -832,6 +828,10 @@
     <display-name>p2n2p8rfqyv40qymllqwhdov10</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/579lm5vgz13jyclj0ylpallx1_image-header_pEs_1756810677000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="8yeznoj3atw1yohyuebqmadii">
+    <display-name>8yeznoj3atw1yohyuebqmadii</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/izwu6nzuizqu16iicvjzsif5l_image-header_pEs_1757171386000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251025170000 +0000" stop="20251025230000 +0000" channel="1ufmynp5xzmmafk9yu64pec64">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10qmu7bbglaxx1ewapov15u1m5_image-header_pEs_1757063011000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Parker vs. Wardley</title>
@@ -1197,12 +1197,6 @@
     <title lang="es">Domingo de carreras - GP Motul de Japón</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20250928010000 +0000" stop="20250928070000 +0000" channel="8yeznoj3atw1yohyuebqmadii">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1iddo8oh0wsla1swvxau3x4h91_image-header_pEs_1757171386000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Calvo vs. Meraz (en Español)</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20250928013000 +0000" stop="20250928073000 +0000" channel="85mbwd8fvvolyzex7zuq3jref">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c4e0ux9kbcozvk6m06qlcyo45_image-header_pEs_1745569973000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2079,5 +2073,11 @@
     <title lang="es">Everton - West Ham</title>
     <desc lang="es">Everton se enfrenta a West Ham United en un choque de Premier League. El Hill Dickinson Stadium acoge este emocionante partido el 29 de septiembre de 2025. Ambos equipos buscan destacar en la temporada 25/26. ¿Podrá Everton lograr una victoria en casa o West Ham arrebatará puntos cruciales como visitante? ¡Sintoniza para un encuentro apasionante!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20250928010000 +0000" stop="20250928060000 +0000" channel="8yeznoj3atw1yohyuebqmadii">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/izwu6nzuizqu16iicvjzsif5l_image-header_pEs_1757171386000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Calvo vs. Meraz (en Español)</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
