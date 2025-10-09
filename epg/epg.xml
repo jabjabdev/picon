@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Oct 09 00:30:14 2025">
+<tv date="Thu Oct 09 06:30:24 2025">
   <channel id="acvg1rzcngt4fcddgbgi00egx">
     <display-name>acvg1rzcngt4fcddgbgi00egx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/300/180/webp/image"/>
@@ -51,10 +51,6 @@
   <channel id="3cyc2q5he0n9xk9ploes4jpx2">
     <display-name>3cyc2q5he0n9xk9ploes4jpx2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/u0vb050taunk1qlscszcivocl_image-header_pEs_1759144087000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dz39ux3nnn87yl3n8nkz25jf">
-    <display-name>dz39ux3nnn87yl3n8nkz25jf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/104tjo99hatu31ngp4hif0hivp_image-header_pEs_1756980649000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5ps92hanzpv8vrz7vxef9xxqv">
     <display-name>5ps92hanzpv8vrz7vxef9xxqv</display-name>
@@ -224,6 +220,10 @@
     <display-name>1pdifrhknyyeu1018zi24sn8sd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8wp00t60zfl0yptcf3bqf7ne5_image-header_pEs_1759226771000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="dz39ux3nnn87yl3n8nkz25jf">
+    <display-name>dz39ux3nnn87yl3n8nkz25jf</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mnshxhhc3jpy12397kog1lkut_image-header_pEs_1756980649000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251011180000 +0000" stop="20251012000000 +0000" channel="acvg1rzcngt4fcddgbgi00egx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GLORY 104</title>
@@ -301,12 +301,6 @@
     <title lang="es">Ennis vs. Lima - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20251009020000 +0000" stop="20251009080000 +0000" channel="dz39ux3nnn87yl3n8nkz25jf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/104tjo99hatu31ngp4hif0hivp_image-header_pEs_1756980649000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Flames @ Oilers (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
   </programme>
   <programme start="20251009230000 +0000" stop="20251010050000 +0000" channel="5ps92hanzpv8vrz7vxef9xxqv">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/t1h2s97v3u011p69xjzhvo4s9_image-header_pEs_1756997370000/fill/none/top/none/85/600/360/webp/image"/>
@@ -559,5 +553,11 @@
     <title lang="es">Newcastle Eagles - London Lions</title>
     <desc lang="es">Disfruta el partido entre Newcastle Eagles y London Lions de la Super League Basketball.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251009020000 +0000" stop="20251009060000 +0000" channel="dz39ux3nnn87yl3n8nkz25jf">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mnshxhhc3jpy12397kog1lkut_image-header_pEs_1756980649000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Flames vs. Oilers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
