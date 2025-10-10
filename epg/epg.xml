@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 10 06:30:09 2025">
+<tv date="Fri Oct 10 12:30:07 2025">
   <channel id="acvg1rzcngt4fcddgbgi00egx">
     <display-name>acvg1rzcngt4fcddgbgi00egx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/300/180/webp/image"/>
@@ -383,6 +383,14 @@
   <channel id="7pvn5z08f3ejh20bfl0nrrnd1">
     <display-name>7pvn5z08f3ejh20bfl0nrrnd1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6s8yttbl9903bc6fbid93ej2_image-header_pEs_1760049764000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1pfh5s808uuyfaqig73lugh58">
+    <display-name>1pfh5s808uuyfaqig73lugh58</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0i1pe2vxz2s1g2cfw80pjob5_image-header_pEs_1760049764000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8ee4mib3wzjhezf3hcvff992t">
+    <display-name>8ee4mib3wzjhezf3hcvff992t</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2jak2b2ajnbf2dois20ozjh_image-header_pEs_1760087052000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251011180000 +0000" stop="20251012000000 +0000" channel="acvg1rzcngt4fcddgbgi00egx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/600/360/webp/image"/>
@@ -958,6 +966,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6s8yttbl9903bc6fbid93ej2_image-header_pEs_1760049764000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Northwestern @ Penn State</title>
     <desc lang="es">Watch all the action live on DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251011193000 +0000" stop="20251011233000 +0000" channel="1pfh5s808uuyfaqig73lugh58">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a0i1pe2vxz2s1g2cfw80pjob5_image-header_pEs_1760049764000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Indiana @ Oregon</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251011193000 +0000" stop="20251011233000 +0000" channel="8ee4mib3wzjhezf3hcvff992t">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1p2jak2b2ajnbf2dois20ozjh_image-header_pEs_1760087052000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">TCU @ Kansas State</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
