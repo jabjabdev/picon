@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Oct 10 00:30:20 2025">
+<tv date="Fri Oct 10 06:30:09 2025">
   <channel id="acvg1rzcngt4fcddgbgi00egx">
     <display-name>acvg1rzcngt4fcddgbgi00egx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/300/180/webp/image"/>
@@ -80,10 +80,6 @@
     <display-name>f02p0mondqihaca1qsvqsl0h</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o78agm3iuf1q15sdzcq82j044_image-header_pEs_1756982515000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="5ylzb62jzoepak5iftw5aaxbv">
-    <display-name>5ylzb62jzoepak5iftw5aaxbv</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13tsd3tbbeb6m122oj0mq5isbq_image-header_pEs_1756997676000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="c3etsk7vdk1sdakreyy68vac4">
     <display-name>c3etsk7vdk1sdakreyy68vac4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dd6dx8pz6ye218ivwmf0o5a27_image-header_pEs_1756997676000/fill/none/top/none/85/300/180/webp/image"/>
@@ -95,10 +91,6 @@
   <channel id="7sv1yt4fijljgbmxxkz3ud9xo">
     <display-name>7sv1yt4fijljgbmxxkz3ud9xo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xofqdet1gt8k1ipg89gum2p74_image-header_pEs_1756982369000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7yuw2ik9q7g0lqvg3j5pvyjt5">
-    <display-name>7yuw2ik9q7g0lqvg3j5pvyjt5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wjecnxapnitw1kj9hy0hpt7yy_image-header_pEs_1756981229000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="c457tw5gxqf3vaonosel7cpas">
     <display-name>c457tw5gxqf3vaonosel7cpas</display-name>
@@ -139,10 +131,6 @@
   <channel id="1idl6piflstuch9ekc4jgsy2w">
     <display-name>1idl6piflstuch9ekc4jgsy2w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/liq7z76929sx1ean7dfu2i3ia_image-header_pEs_1756980846000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3y95tgbdnhy1lne73tddd4jju">
-    <display-name>3y95tgbdnhy1lne73tddd4jju</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50gvbamixm9fzn2qoa767q4x_image-header_pEs_1756986725000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9vv75870g6vss66sjbd5x68gd">
     <display-name>9vv75870g6vss66sjbd5x68gd</display-name>
@@ -388,6 +376,14 @@
     <display-name>bvko5xmkocc03u6oy0j2xwuva</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10mdqkrywfmjv14l6bias4c9hv_image-header_pEs_1759745248000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1sorfl0zw6kmq63i9febp1pzs">
+    <display-name>1sorfl0zw6kmq63i9febp1pzs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bcvnfe0pi2i9w29hle8fuklez_image-header_pEs_1760049764000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7pvn5z08f3ejh20bfl0nrrnd1">
+    <display-name>7pvn5z08f3ejh20bfl0nrrnd1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6s8yttbl9903bc6fbid93ej2_image-header_pEs_1760049764000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251011180000 +0000" stop="20251012000000 +0000" channel="acvg1rzcngt4fcddgbgi00egx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GLORY 104</title>
@@ -508,12 +504,6 @@
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
-  <programme start="20251009233000 +0000" stop="20251010053000 +0000" channel="5ylzb62jzoepak5iftw5aaxbv">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13tsd3tbbeb6m122oj0mq5isbq_image-header_pEs_1756997676000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Devils @ Hurricanes (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
   <programme start="20251009233000 +0000" stop="20251010053000 +0000" channel="c3etsk7vdk1sdakreyy68vac4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dd6dx8pz6ye218ivwmf0o5a27_image-header_pEs_1756997676000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Devils vs. Hurricanes</title>
@@ -529,12 +519,6 @@
   <programme start="20251010000000 +0000" stop="20251010060000 +0000" channel="7sv1yt4fijljgbmxxkz3ud9xo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xofqdet1gt8k1ipg89gum2p74_image-header_pEs_1756982369000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Wild @ Blues (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20251010000000 +0000" stop="20251010060000 +0000" channel="7yuw2ik9q7g0lqvg3j5pvyjt5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wjecnxapnitw1kj9hy0hpt7yy_image-header_pEs_1756981229000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Blue Jackets @ Predators (Away Broadcast)</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
@@ -595,12 +579,6 @@
   <programme start="20251010020000 +0000" stop="20251010080000 +0000" channel="1idl6piflstuch9ekc4jgsy2w">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/liq7z76929sx1ean7dfu2i3ia_image-header_pEs_1756980846000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Flames @ Canucks (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20251010020000 +0000" stop="20251010080000 +0000" channel="3y95tgbdnhy1lne73tddd4jju">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50gvbamixm9fzn2qoa767q4x_image-header_pEs_1756986725000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Golden Knights @ Sharks (Away Broadcast)</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
@@ -969,5 +947,17 @@
     <title lang="es">Ennis vs. Lima - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251011160000 +0000" stop="20251011200000 +0000" channel="1sorfl0zw6kmq63i9febp1pzs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bcvnfe0pi2i9w29hle8fuklez_image-header_pEs_1760049764000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">UCF @ Cincinnati</title>
+    <desc lang="es">Watch all the action live on DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251011193000 +0000" stop="20251011233000 +0000" channel="7pvn5z08f3ejh20bfl0nrrnd1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c6s8yttbl9903bc6fbid93ej2_image-header_pEs_1760049764000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Northwestern @ Penn State</title>
+    <desc lang="es">Watch all the action live on DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
