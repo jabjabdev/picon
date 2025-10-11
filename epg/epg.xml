@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Oct 11 11:31:28 2025">
+<tv date="Sat Oct 11 11:35:54 2025">
   <channel id="acvg1rzcngt4fcddgbgi00egx">
     <display-name>acvg1rzcngt4fcddgbgi00egx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/300/180/webp/image"/>
@@ -792,10 +792,6 @@
     <display-name>esp-e200933063c0ch20057</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20057_2_200933063_20251007-192823.jpeg"/>
   </channel>
-  <channel id="esp-e200951866c0ch20059">
-    <display-name>esp-e200951866c0ch20059</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20059_3_200951866_20250924-125720.jpeg"/>
-  </channel>
   <channel id="esp-e200951869c0ch20062">
     <display-name>esp-e200951869c0ch20062</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_3_200951869_20250924-125843.jpeg"/>
@@ -807,6 +803,10 @@
   <channel id="esp-e200951868c0ch20061">
     <display-name>esp-e200951868c0ch20061</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20061_3_200951868_20250924-125814.jpeg"/>
+  </channel>
+  <channel id="esp-e200951866c0ch20059">
+    <display-name>esp-e200951866c0ch20059</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20059_3_200951866_20250924-125720.jpeg"/>
   </channel>
   <channel id="esp-e200937956c0ch20063">
     <display-name>esp-e200937956c0ch20063</display-name>
@@ -888,10 +888,6 @@
     <display-name>esp-e200933064c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200933064_20250929-103812.jpeg"/>
   </channel>
-  <channel id="esp-e200951885c0ch20034">
-    <display-name>esp-e200951885c0ch20034</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951885_20250924-140155.jpeg"/>
-  </channel>
   <channel id="esp-e200951883c0ch20032">
     <display-name>esp-e200951883c0ch20032</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951883_20250924-140044.jpeg"/>
@@ -903,6 +899,10 @@
   <channel id="esp-e200951884c0ch20033">
     <display-name>esp-e200951884c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200951884_20250924-140124.jpeg"/>
+  </channel>
+  <channel id="esp-e200951885c0ch20034">
+    <display-name>esp-e200951885c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951885_20250924-140155.jpeg"/>
   </channel>
   <channel id="esp-e200937960c0ch20010">
     <display-name>esp-e200937960c0ch20010</display-name>
@@ -964,6 +964,10 @@
     <display-name>esp-e200951893c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951893_20250924-140825.jpeg"/>
   </channel>
+  <channel id="esp-e200951895c0ch20032">
+    <display-name>esp-e200951895c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951895_20250924-140923.jpeg"/>
+  </channel>
   <channel id="esp-e200951897c0ch20034">
     <display-name>esp-e200951897c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951897_20250924-141012.jpeg"/>
@@ -976,10 +980,6 @@
     <display-name>esp-e200951894c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200951894_20250924-140857.jpeg"/>
   </channel>
-  <channel id="esp-e200951895c0ch20032">
-    <display-name>esp-e200951895c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951895_20250924-140923.jpeg"/>
-  </channel>
   <channel id="esp-e200949027c0ch20007">
     <display-name>esp-e200949027c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200949027_20250930-124753.jpeg"/>
@@ -987,10 +987,6 @@
   <channel id="esp-e200933065c0ch20002">
     <display-name>esp-e200933065c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_2_200933065_20250930-131853.jpeg"/>
-  </channel>
-  <channel id="esp-e200952026c0ch20031">
-    <display-name>esp-e200952026c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952026_20250924-141613.jpeg"/>
   </channel>
   <channel id="esp-e200952027c0ch20032">
     <display-name>esp-e200952027c0ch20032</display-name>
@@ -1004,13 +1000,13 @@
     <display-name>esp-e200952028c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952028_20250924-141703.jpeg"/>
   </channel>
+  <channel id="esp-e200952026c0ch20031">
+    <display-name>esp-e200952026c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952026_20250924-141613.jpeg"/>
+  </channel>
   <channel id="esp-e200966187c0ch20012">
     <display-name>esp-e200966187c0ch20012</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200966187_20250930-132758.jpeg"/>
-  </channel>
-  <channel id="esp-e200952034c0ch20033">
-    <display-name>esp-e200952034c0ch20033</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952034_20250924-141852.jpeg"/>
   </channel>
   <channel id="esp-e200952036c0ch20034">
     <display-name>esp-e200952036c0ch20034</display-name>
@@ -1023,6 +1019,10 @@
   <channel id="esp-e200952030c0ch20031">
     <display-name>esp-e200952030c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952030_20250924-141752.jpeg"/>
+  </channel>
+  <channel id="esp-e200952034c0ch20033">
+    <display-name>esp-e200952034c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952034_20250924-141852.jpeg"/>
   </channel>
   <channel id="esp-e200952035c0ch20033">
     <display-name>esp-e200952035c0ch20033</display-name>
@@ -1040,10 +1040,6 @@
     <display-name>esp-e200952031c0ch20031</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952031_20250924-142007.jpeg"/>
   </channel>
-  <channel id="esp-e200952038c0ch20031">
-    <display-name>esp-e200952038c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952038_20250924-142416.jpeg"/>
-  </channel>
   <channel id="esp-e200952040c0ch20033">
     <display-name>esp-e200952040c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952040_20250924-142517.jpeg"/>
@@ -1056,6 +1052,10 @@
     <display-name>esp-e200952039c0ch20032</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952039_20250924-142448.jpeg"/>
   </channel>
+  <channel id="esp-e200952038c0ch20031">
+    <display-name>esp-e200952038c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952038_20250924-142416.jpeg"/>
+  </channel>
   <channel id="esp-e200949028c0ch20007">
     <display-name>esp-e200949028c0ch20007</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200949028_20251001-124145.jpeg"/>
@@ -1063,10 +1063,6 @@
   <channel id="esp-e200911829c0ch20026">
     <display-name>esp-e200911829c0ch20026</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20026_0_200911829_20251001-114757.jpeg"/>
-  </channel>
-  <channel id="esp-e200952042c0ch20031">
-    <display-name>esp-e200952042c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952042_20250924-143221.jpeg"/>
   </channel>
   <channel id="esp-e200952044c0ch20033">
     <display-name>esp-e200952044c0ch20033</display-name>
@@ -1079,6 +1075,10 @@
   <channel id="esp-e200952045c0ch20034">
     <display-name>esp-e200952045c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200952045_20250924-143343.jpeg"/>
+  </channel>
+  <channel id="esp-e200952042c0ch20031">
+    <display-name>esp-e200952042c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952042_20250924-143221.jpeg"/>
   </channel>
   <channel id="esp-e200991252c0ch20028">
     <display-name>esp-e200991252c0ch20028</display-name>
@@ -1160,14 +1160,6 @@
     <display-name>esp-e200948500c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_0_200948500_20251001-131507.jpeg"/>
   </channel>
-  <channel id="esp-e200952055c0ch20032">
-    <display-name>esp-e200952055c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952055_20250924-144020.jpeg"/>
-  </channel>
-  <channel id="esp-e200952054c0ch20031">
-    <display-name>esp-e200952054c0ch20031</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952054_20250924-143946.jpeg"/>
-  </channel>
   <channel id="esp-e200952056c0ch20033">
     <display-name>esp-e200952056c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952056_20250924-144100.jpeg"/>
@@ -1175,6 +1167,14 @@
   <channel id="esp-e200952057c0ch20034">
     <display-name>esp-e200952057c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200952057_20250924-144139.jpeg"/>
+  </channel>
+  <channel id="esp-e200952055c0ch20032">
+    <display-name>esp-e200952055c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952055_20250924-144020.jpeg"/>
+  </channel>
+  <channel id="esp-e200952054c0ch20031">
+    <display-name>esp-e200952054c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952054_20250924-143946.jpeg"/>
   </channel>
   <programme start="20251011180000 +0000" stop="20251012000000 +0000" channel="acvg1rzcngt4fcddgbgi00egx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ktq9nvljvyogc7ygon8oisla_image-header_pEs_1758617752000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2082,7 +2082,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20251011055951 +0000" stop="20251011093254 +0000" channel="esp-e200955743c0ch20035">
+  <programme start="20251011055951 +0000" stop="20251011093654 +0000" channel="esp-e200955743c0ch20035">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_0_200955743_20251010-170530.jpeg"/>
     <title lang="es">Lyu Haotian - Mark Williams</title>
     <desc lang="es">Xi'an Grand Prix | Cuartos de final | Sesión 1</desc>
@@ -2364,12 +2364,6 @@
     <desc lang="es">Femenino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="esp-e200951866c0ch20059">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20059_3_200951866_20250924-125720.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 1 | Sesión matutina | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="esp-e200951869c0ch20062">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20062_3_200951869_20250924-125843.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2384,6 +2378,12 @@
   </programme>
   <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="esp-e200951868c0ch20061">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20061_3_200951868_20250924-125814.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 1 | Sesión matutina | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="esp-e200951866c0ch20059">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20059_3_200951866_20250924-125720.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | Día 1 | Sesión matutina | Clasificación</desc>
     <category lang="es">Snooker</category>
@@ -2508,12 +2508,6 @@
     <desc lang="es">Femenino</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="esp-e200951885c0ch20034">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951885_20250924-140155.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 2 | Sesión matutina | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="esp-e200951883c0ch20032">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951883_20250924-140044.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2528,6 +2522,12 @@
   </programme>
   <programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="esp-e200951884c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200951884_20250924-140124.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 2 | Sesión matutina | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="esp-e200951885c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951885_20250924-140155.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | Día 2 | Sesión matutina | Clasificación</desc>
     <category lang="es">Snooker</category>
@@ -2622,6 +2622,12 @@
     <desc lang="es">Open de Escocia | Día 2 | Sesión de tarde | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
+  <programme start="20251015180000 +0000" stop="20251015200000 +0000" channel="esp-e200951895c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951895_20250924-140923.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 2 | Sesión nocturna | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
   <programme start="20251015180000 +0000" stop="20251015200000 +0000" channel="esp-e200951897c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200951897_20250924-141012.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2640,12 +2646,6 @@
     <desc lang="es">Open de Escocia | Día 2 | Sesión nocturna | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20251015180000 +0000" stop="20251015200000 +0000" channel="esp-e200951895c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200951895_20250924-140923.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 2 | Sesión nocturna | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20251016050500 +0000" stop="20251016072000 +0000" channel="esp-e200949027c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200949027_20250930-124753.jpeg"/>
     <title lang="es">Tour De Guangxi - Etapa 3</title>
@@ -2657,12 +2657,6 @@
     <title lang="es">Tour de la Isla Chongming - Etapa 3</title>
     <desc lang="es">Femenino |</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20251016090000 +0000" stop="20251016110000 +0000" channel="esp-e200952026c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952026_20250924-141613.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 3 | Sesión matutina | Clasificación</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20251016090000 +0000" stop="20251016110000 +0000" channel="esp-e200952027c0ch20032">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952027_20250924-141639.jpeg"/>
@@ -2682,17 +2676,17 @@
     <desc lang="es">Open de Escocia | Día 3 | Sesión matutina | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
+  <programme start="20251016090000 +0000" stop="20251016110000 +0000" channel="esp-e200952026c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952026_20250924-141613.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 3 | Sesión matutina | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
   <programme start="20251016115000 +0000" stop="20251016142500 +0000" channel="esp-e200966187c0ch20012">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20012_0_200966187_20250930-132758.jpeg"/>
     <title lang="es">Vuelta a los Países Bajos - Etapa 2</title>
     <desc lang="es">Masculino | Etten-Leur (CRI, 15 km)</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20251016120000 +0000" stop="20251016140000 +0000" channel="esp-e200952034c0ch20033">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952034_20250924-141852.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 3 | Sesión de tarde | Clasificación</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20251016120000 +0000" stop="20251016140000 +0000" channel="esp-e200952036c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200952036_20250924-141942.jpeg"/>
@@ -2708,6 +2702,12 @@
   </programme>
   <programme start="20251016120000 +0000" stop="20251016140000 +0000" channel="esp-e200952030c0ch20031">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952030_20250924-141752.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 3 | Sesión de tarde | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251016120000 +0000" stop="20251016140000 +0000" channel="esp-e200952034c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952034_20250924-141852.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | Día 3 | Sesión de tarde | Clasificación</desc>
     <category lang="es">Snooker</category>
@@ -2736,12 +2736,6 @@
     <desc lang="es">Open de Escocia | Día 3 | Sesión de tarde | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20251016180000 +0000" stop="20251016200000 +0000" channel="esp-e200952038c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952038_20250924-142416.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 3 | Sesión nocturna | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20251016180000 +0000" stop="20251016200000 +0000" channel="esp-e200952040c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952040_20250924-142517.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2760,6 +2754,12 @@
     <desc lang="es">Open de Escocia | Día 3 | Sesión nocturna | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
+  <programme start="20251016180000 +0000" stop="20251016200000 +0000" channel="esp-e200952038c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952038_20250924-142416.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 3 | Sesión nocturna | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
   <programme start="20251017052000 +0000" stop="20251017072000 +0000" channel="esp-e200949028c0ch20007">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20007_0_200949028_20251001-124145.jpeg"/>
     <title lang="es">Tour De Guangxi - Etapa 4</title>
@@ -2771,12 +2771,6 @@
     <title lang="es">WorldSBK - España</title>
     <desc lang="es">Superbikes | Día 1 | Libres 1</desc>
     <category lang="es">Superbike</category>
-  </programme>
-  <programme start="20251017090000 +0000" stop="20251017110000 +0000" channel="esp-e200952042c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952042_20250924-143221.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 4 | Sesión matutina | Clasificación</desc>
-    <category lang="es">Snooker</category>
   </programme>
   <programme start="20251017090000 +0000" stop="20251017110000 +0000" channel="esp-e200952044c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952044_20250924-143320.jpeg"/>
@@ -2792,6 +2786,12 @@
   </programme>
   <programme start="20251017090000 +0000" stop="20251017110000 +0000" channel="esp-e200952045c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200952045_20250924-143343.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 4 | Sesión matutina | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251017090000 +0000" stop="20251017110000 +0000" channel="esp-e200952042c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952042_20250924-143221.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | Día 4 | Sesión matutina | Clasificación</desc>
     <category lang="es">Snooker</category>
@@ -2916,18 +2916,6 @@
     <desc lang="es">Mixto por Parejas | Programa Corto</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952055c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952055_20250924-144020.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 4 | Sesión nocturna | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
-  <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952054c0ch20031">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952054_20250924-143946.jpeg"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">Open de Escocia | Día 4 | Sesión nocturna | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952056c0ch20033">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20033_3_200952056_20250924-144100.jpeg"/>
     <title lang="es">Snooker</title>
@@ -2936,6 +2924,18 @@
   </programme>
   <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952057c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20034_3_200952057_20250924-144139.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 4 | Sesión nocturna | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952055c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20032_3_200952055_20250924-144020.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open de Escocia | Día 4 | Sesión nocturna | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251017180000 +0000" stop="20251017200000 +0000" channel="esp-e200952054c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20031_3_200952054_20250924-143946.jpeg"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Open de Escocia | Día 4 | Sesión nocturna | Clasificación</desc>
     <category lang="es">Snooker</category>
