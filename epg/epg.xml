@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 12 06:36:49 2025">
+<tv date="Sun Oct 12 09:04:07 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1308,6 +1308,14 @@
     <display-name>esp-e200961637c0ch20018</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200961637_20250926-125528.jpeg"/>
   </channel>
+  <channel id="1yjr32pn8594tzz2odss185vq">
+    <display-name>1yjr32pn8594tzz2odss185vq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q9k43houkm1716fqhuy2qlzgg_image-header_pEs_1757028205000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b3v3hm4i9jk6hlwl7jjae3o9p">
+    <display-name>b3v3hm4i9jk6hlwl7jjae3o9p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z2cis8vbiw9x1ktlb1olh2hmn_image-header_pEs_1757030835000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn 2</title>
@@ -2328,7 +2336,7 @@
     <desc lang="es">Xi'an Grand Prix | Semifinales | Sesión 1</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20251012062000 +0000" stop="20251012093000 +0000" channel="esp-e200986849c0ch20004">
+  <programme start="20251012062500 +0000" stop="20251012093000 +0000" channel="esp-e200986849c0ch20004">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20004_3_200986849_20251010-110855.jpeg"/>
     <title lang="es">   - Roc d'Azur</title>
     <desc lang="es"/>
@@ -3269,5 +3277,17 @@
     <title lang="es">UFC Fight Night - Reinier de Ridder - Brendan Allen</title>
     <desc lang="es">Velada Completa | Peso medio | Masculino</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20251013163000 +0000" stop="20251013223000 +0000" channel="1yjr32pn8594tzz2odss185vq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q9k43houkm1716fqhuy2qlzgg_image-header_pEs_1757028205000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Avalanche vs. Sabres</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251013170000 +0000" stop="20251013230000 +0000" channel="b3v3hm4i9jk6hlwl7jjae3o9p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z2cis8vbiw9x1ktlb1olh2hmn_image-header_pEs_1757030835000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Predators vs. Senators</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
