@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Oct 14 00:30:08 2025">
+<tv date="Tue Oct 14 06:36:47 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -740,10 +740,6 @@
     <display-name>aap3n4wv0bansazmv1ajkfnro</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xfez9d3dzagc15oa5wjnvyzon_image-header_pEs_1758877709000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="9fu8o5hqu1tllmi4ig4l4h4so">
-    <display-name>9fu8o5hqu1tllmi4ig4l4h4so</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g43agaurfb941qascfdw77tl1_image-header_pEs_1757030835000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cooydg9gipxijvx21yhpii32s">
     <display-name>cooydg9gipxijvx21yhpii32s</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ikv45fga7tln1ilor1y8r637a_image-header_pEs_1757030835000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1047,6 +1043,58 @@
   <channel id="1wwafg2mftu07dwjw235ylrtg">
     <display-name>1wwafg2mftu07dwjw235ylrtg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fp8rgyldifrz5xehuar8n4zd_image-header_pEs_1757623328000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200960555c0ch20035">
+    <display-name>esp-e200960555c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960555_20250925-093822.jpeg"/>
+  </channel>
+  <channel id="esp-e200960831c0ch20068">
+    <display-name>esp-e200960831c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960831_20250925-093904.jpeg"/>
+  </channel>
+  <channel id="esp-e200960658c0ch20036">
+    <display-name>esp-e200960658c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960658_20250925-093953.jpeg"/>
+  </channel>
+  <channel id="esp-e200960556c0ch20035">
+    <display-name>esp-e200960556c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960556_20250925-093932.jpeg"/>
+  </channel>
+  <channel id="esp-e200960832c0ch20069">
+    <display-name>esp-e200960832c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960832_20250925-094455.jpeg"/>
+  </channel>
+  <channel id="esp-e200960659c0ch20036">
+    <display-name>esp-e200960659c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960659_20250925-095031.jpeg"/>
+  </channel>
+  <channel id="esp-e200960557c0ch20035">
+    <display-name>esp-e200960557c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960557_20250925-095003.jpeg"/>
+  </channel>
+  <channel id="esp-e200960833c0ch20069">
+    <display-name>esp-e200960833c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960833_20250925-095056.jpeg"/>
+  </channel>
+  <channel id="esp-e200960834c0ch20069">
+    <display-name>esp-e200960834c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960834_20250925-095214.jpeg"/>
+  </channel>
+  <channel id="esp-e200960660c0ch20036">
+    <display-name>esp-e200960660c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960660_20250925-095149.jpeg"/>
+  </channel>
+  <channel id="esp-e200960558c0ch20035">
+    <display-name>esp-e200960558c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960558_20250925-095123.jpeg"/>
+  </channel>
+  <channel id="esp-e200960559c0ch20035">
+    <display-name>esp-e200960559c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960559_20250925-095305.jpeg"/>
+  </channel>
+  <channel id="esp-e200960835c0ch20069">
+    <display-name>esp-e200960835c0ch20069</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960835_20250925-095329.jpeg"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2158,12 +2206,6 @@
     <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20251013233000 +0000" stop="20251014053000 +0000" channel="9fu8o5hqu1tllmi4ig4l4h4so">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/g43agaurfb941qascfdw77tl1_image-header_pEs_1757030835000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Blues vs. Canucks (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
   <programme start="20251013233000 +0000" stop="20251014053000 +0000" channel="cooydg9gipxijvx21yhpii32s">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ikv45fga7tln1ilor1y8r637a_image-header_pEs_1757030835000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Blues vs. Canucks</title>
@@ -2619,5 +2661,83 @@
     <title lang="es">HC Eurofarm Pelister - Barça</title>
     <desc lang="es">Vive el encuentro de EHF Champions League entre Pelister y Barcelona.</desc>
     <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20251020090000 +0000" stop="20251020110000 +0000" channel="esp-e200960555c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960555_20250925-093822.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 4 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020090000 +0000" stop="20251020110000 +0000" channel="esp-e200960831c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960831_20250925-093904.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 4 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020120000 +0000" stop="20251020140000 +0000" channel="esp-e200960658c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960658_20250925-093953.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020120000 +0000" stop="20251020140000 +0000" channel="esp-e200960556c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960556_20250925-093932.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020120000 +0000" stop="20251020140000 +0000" channel="esp-e200960832c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960832_20250925-094455.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="esp-e200960659c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960659_20250925-095031.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="esp-e200960557c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960557_20250925-095003.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="esp-e200960833c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960833_20250925-095056.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 5 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020180000 +0000" stop="20251020200000 +0000" channel="esp-e200960834c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960834_20250925-095214.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 6 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020180000 +0000" stop="20251020200000 +0000" channel="esp-e200960660c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20036_3_200960660_20250925-095149.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 6 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020180000 +0000" stop="20251020200000 +0000" channel="esp-e200960558c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960558_20250925-095123.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 6 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020200000 +0000" stop="20251020220000 +0000" channel="esp-e200960559c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20035_3_200960559_20250925-095305.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 6 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251020200000 +0000" stop="20251020220000 +0000" channel="esp-e200960835c0ch20069">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20069_3_200960835_20250925-095329.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Open Irlanda del Norte | Sesión 6 | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
