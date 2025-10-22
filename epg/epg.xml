@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 22 00:30:09 2025">
+<tv date="Wed Oct 22 12:36:30 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -680,10 +680,6 @@
     <display-name>ugtgg8vm7ztf01i2oshkp5k0ow</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3w5j0mnepjkzo0qtgt1btpgyv_image-header_pEs_1760543303000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="anuqz5b3bb2gu2tks6ve98br4">
-    <display-name>anuqz5b3bb2gu2tks6ve98br4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndo28cz4006c109242xrmcc4e_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="dq1crpskwcjgw6babalar7tw4">
     <display-name>dq1crpskwcjgw6babalar7tw4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14vctpm55ovwy1ld414nqeq69d_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
@@ -715,10 +711,6 @@
   <channel id="uqypcrma819g0b16m0gudhxeq0">
     <display-name>uqypcrma819g0b16m0gudhxeq0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9icseiw42tcu8h8nfth7bfrjs_image-header_pEs_1760543303000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="5izu8w1zw0iubih4sjky0yxti">
-    <display-name>5izu8w1zw0iubih4sjky0yxti</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eka8zedllwh1m6i8vsg4znll_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="dsnjafthjdzihd538aht617h0">
     <display-name>dsnjafthjdzihd538aht617h0</display-name>
@@ -807,6 +799,14 @@
   <channel id="9gne7sih3nl4ibsvn2fwyd15u">
     <display-name>9gne7sih3nl4ibsvn2fwyd15u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/940gna5p0qliw8olr46bgivm_image-header_pEs_1756727992000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201022770c0ch20065">
+    <display-name>esp-e201022770c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_201022770_20251022-085903.jpeg"/>
+  </channel>
+  <channel id="esp-e201022829c0ch20065">
+    <display-name>esp-e201022829c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_0_201022829_20251022-085722.jpeg"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1828,12 +1828,6 @@
     <desc lang="es">Oklahoma City Thunder se prepara para enfrentar a Houston Rockets en un emocionante duelo de la NBA en el Paycom Center. La temporada 2025-26 se calienta el 21 de octubre cuando estos equipos compiten por el impulso inicial. ¿Será decisiva la ventaja de local del Thunder, o podrán los Rockets robar una victoria fuera de casa?</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20251021233000 +0000" stop="20251022053000 +0000" channel="anuqz5b3bb2gu2tks6ve98br4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndo28cz4006c109242xrmcc4e_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Panthers vs. Bruins (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
   <programme start="20251021233000 +0000" stop="20251022053000 +0000" channel="dq1crpskwcjgw6babalar7tw4">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14vctpm55ovwy1ld414nqeq69d_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Panthers vs. Bruins (US National Broadcast)</title>
@@ -1881,12 +1875,6 @@
     <title lang="es">Golden State Warriors @ Los Angeles Lakers</title>
     <desc lang="es">Los Golden State Warriors visitan a Los Angeles Lakers en el Crypto.com Arena en un emocionante enfrentamiento de la temporada NBA 25/26. Estos gigantes del baloncesto se enfrentan el 22 de octubre de 2025, prometiendo acción de alto vuelo y feroz competencia. ¿Podrán los Lakers defender su cancha contra el tiro preciso de los Warriors? ¡Consigue tus entradas para este clásico!</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20251022020000 +0000" stop="20251022080000 +0000" channel="5izu8w1zw0iubih4sjky0yxti">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7eka8zedllwh1m6i8vsg4znll_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Avalanche vs. Mammoth (Away Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
   </programme>
   <programme start="20251022020000 +0000" stop="20251022080000 +0000" channel="dsnjafthjdzihd538aht617h0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1juwojlhh8k9a12rzvu0rncouf_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2019,5 +2007,17 @@
     <title lang="es">Box, Box - México</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251023210000 +0000" stop="20251024000000 +0000" channel="esp-e201022770c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_2_201022770_20251022-085903.jpeg"/>
+    <title lang="es">Black Desert Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20251024210000 +0000" stop="20251025000000 +0000" channel="esp-e201022829c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20065_0_201022829_20251022-085722.jpeg"/>
+    <title lang="es">Black Desert Championship -</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
