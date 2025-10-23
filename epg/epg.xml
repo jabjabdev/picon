@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Oct 23 00:30:18 2025">
+<tv date="Thu Oct 23 12:30:10 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -524,17 +524,9 @@
     <display-name>dty728useuglx3kdwfy2tfzf8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wnsk3ml1ml1r1rsc23oufzgt2_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="354ky5zh1nomql3yxlyojvdww">
-    <display-name>354ky5zh1nomql3yxlyojvdww</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rgo1b2drtntj1wyc83rcs4mj8_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="dqf2fy23jik05jyiauwm6po1d">
     <display-name>dqf2fy23jik05jyiauwm6po1d</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3729z7esx1xz1k4srwbr6jqt3_image-header_pEs_1758223203000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dulkhouvjxmh4bg45m2kwh5hw">
-    <display-name>dulkhouvjxmh4bg45m2kwh5hw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4ptns0zqeao15dy0qy1emmiv_image-header_pEs_1760706914000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1w6ugr1db7ytppjec3l855w100">
     <display-name>1w6ugr1db7ytppjec3l855w100</display-name>
@@ -1602,22 +1594,10 @@
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
-  <programme start="20251023003000 +0000" stop="20251023063000 +0000" channel="354ky5zh1nomql3yxlyojvdww">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rgo1b2drtntj1wyc83rcs4mj8_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Canadiens vs. Flames (Canada National Broadcast)</title>
-    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
   <programme start="20251023003000 +0000" stop="20251023063000 +0000" channel="dqf2fy23jik05jyiauwm6po1d">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3729z7esx1xz1k4srwbr6jqt3_image-header_pEs_1758223203000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Canadiens vs. Flames (In French)</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
-    <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20251023003000 +0000" stop="20251023063000 +0000" channel="dulkhouvjxmh4bg45m2kwh5hw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4ptns0zqeao15dy0qy1emmiv_image-header_pEs_1760706914000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Canadiens vs. Flames (Canada National Broadcast)</title>
-    <desc lang="es">Los Montreal Canadiens visitan a los Calgary Flames en un emocionante partido de la NHL 2025/2026 en el Scotiabank Saddledome. ¿Podrán los Canadiens enfriar a los Flames en su hielo local? Fanáticos del hockey, este choque promete acción rápida y habilidades estelares. ¿Veremos un duelo de porteros o una explosión ofensiva?</desc>
     <category lang="es">Hockey</category>
   </programme>
   <programme start="20251023013000 +0000" stop="20251023050000 +0000" channel="1w6ugr1db7ytppjec3l855w100">
@@ -1962,7 +1942,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251024170000 +0000" stop="20251024230000 +0000" channel="2tcis79r61eoqecjbath7cbi3">
+  <programme start="20251024163500 +0000" stop="20251024223500 +0000" channel="2tcis79r61eoqecjbath7cbi3">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/34skl8mrojz1b6aj8inxp4t3l_image-header_pEs_1751016203000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ceremonia de Salida - RallyRACC Catalunya Costa Daurada</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
