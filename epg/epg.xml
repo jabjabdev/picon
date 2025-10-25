@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Oct 25 09:04:20 2025">
+<tv date="Sat Oct 25 12:30:19 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -483,10 +483,6 @@
   <channel id="x9y8jbqbcz6b10zcycwvc15f">
     <display-name>x9y8jbqbcz6b10zcycwvc15f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f2p5xccmkiw8arxifcefil692_image-header_pEs_1761231469000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dp9i7w2tbolnavlifi9np4k9a">
-    <display-name>dp9i7w2tbolnavlifi9np4k9a</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5iwmiemwcmz3fxmp3v9c9fwn3_image-header_pEs_1760611667000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="121c4wysnil8pfywlgws34y5d">
     <display-name>121c4wysnil8pfywlgws34y5d</display-name>
@@ -1416,7 +1412,7 @@
     <desc lang="es">Femenino | Rutina libre</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20251025100000 +0000" stop="20251025120000 +0000" channel="esp-e200937285c0ch20001">
+  <programme start="20251025101000 +0000" stop="20251025120000 +0000" channel="esp-e200937285c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20001_0_200937285_20251009-134003.jpeg"/>
     <title lang="es">Grand Prix - Klingenthal</title>
     <desc lang="es">HS 140 | Femenino</desc>
@@ -1829,12 +1825,6 @@
     <title lang="es">Día 3 - Sydney NSW</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20251025073000 +0000" stop="20251025133000 +0000" channel="dp9i7w2tbolnavlifi9np4k9a">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5iwmiemwcmz3fxmp3v9c9fwn3_image-header_pEs_1760611667000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí alpino femenino - Copa del mundo FIS - Sölden 2025</title>
-    <desc lang="es">Disfruta el esquí alpino de la copa del mundo de la FIS, en vivo desde Sölden</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251025081500 +0000" stop="20251025141500 +0000" channel="121c4wysnil8pfywlgws34y5d">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mtshnz0s93h3cpa25cbwg4z4_image-header_pEs_1759553576000/fill/none/top/none/85/600/360/webp/image"/>
