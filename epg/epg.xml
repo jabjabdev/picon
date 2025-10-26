@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Oct 26 00:30:15 2025">
+<tv date="Sun Oct 26 06:36:26 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -999,6 +999,42 @@
   <channel id="9ilrhl5r9n0mb2c4b46unra5k">
     <display-name>9ilrhl5r9n0mb2c4b46unra5k</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ox6a47ls33j818qoa5vzs9bdn_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200948613c0ch20027">
+    <display-name>esp-e200948613c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948613_20251002-100213.jpeg"/>
+  </channel>
+  <channel id="esp-e201021698c0ch20078">
+    <display-name>esp-e201021698c0ch20078</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_6_201021698_20251022-100402.jpeg"/>
+  </channel>
+  <channel id="esp-e200966718c0ch20002">
+    <display-name>esp-e200966718c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200966718_20250929-132403.jpeg"/>
+  </channel>
+  <channel id="esp-e200839223c0ch20020">
+    <display-name>esp-e200839223c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200839223_20251001-151010.jpeg"/>
+  </channel>
+  <channel id="esp-e200966719c0ch20002">
+    <display-name>esp-e200966719c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200966719_20250929-133002.jpeg"/>
+  </channel>
+  <channel id="esp-e200948638c0ch20027">
+    <display-name>esp-e200948638c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948638_20251002-100352.jpeg"/>
+  </channel>
+  <channel id="esp-e200948639c0ch20027">
+    <display-name>esp-e200948639c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948639_20251002-102714.jpeg"/>
+  </channel>
+  <channel id="esp-e200976714c0ch20018">
+    <display-name>esp-e200976714c0ch20018</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200976714_20251014-083026.jpeg"/>
+  </channel>
+  <channel id="esp-e200948640c0ch20028">
+    <display-name>esp-e200948640c0ch20028</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_3_200948640_20251002-102823.jpeg"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2499,5 +2535,59 @@
     <title lang="es">Código F1 - México</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251101002000 +0000" stop="20251101015700 +0000" channel="esp-e200948613c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948613_20251002-100213.jpeg"/>
+    <title lang="es">Grand Prix - Canadá </title>
+    <desc lang="es">Femenino | Programa corto</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20251101123000 +0000" stop="20251101150000 +0000" channel="esp-e201021698c0ch20078">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_6_201021698_20251022-100402.jpeg"/>
+    <title lang="es">Villarreal CF - Rayo Vallecano</title>
+    <desc lang="es">LaLiga 2025/26 | Jornada 11</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251101124200 +0000" stop="20251101135700 +0000" channel="esp-e200966718c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200966718_20250929-132403.jpeg"/>
+    <title lang="es">X2O Trofee - Oudenaarde</title>
+    <desc lang="es">Femenino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251101130000 +0000" stop="20251101153000 +0000" channel="esp-e200839223c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200839223_20251001-151010.jpeg"/>
+    <title lang="es">Global Champions Tour - Riad</title>
+    <desc lang="es">Saltos</desc>
+    <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20251101135700 +0000" stop="20251101152000 +0000" channel="esp-e200966719c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200966719_20250929-133002.jpeg"/>
+    <title lang="es">X2O Trofee - Oudenaarde</title>
+    <desc lang="es">Masculino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251101184100 +0000" stop="20251101202100 +0000" channel="esp-e200948638c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948638_20251002-100352.jpeg"/>
+    <title lang="es">Grand Prix - Canadá</title>
+    <desc lang="es">Danza sobre hielo | Programa corto | Mixto</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20251101202100 +0000" stop="20251101215700 +0000" channel="esp-e200948639c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948639_20251002-102714.jpeg"/>
+    <title lang="es">Grand Prix - Canadá</title>
+    <desc lang="es">Masculino | Programa corto</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20251101210000 +0000" stop="20251102020000 +0000" channel="esp-e200976714c0ch20018">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20018_6_200976714_20251014-083026.jpeg"/>
+    <title lang="es">UFC Fight Night - Steve García - David Onama</title>
+    <desc lang="es">Velada completa | Masculino | Peso pluma</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20251101225600 +0000" stop="20251102003600 +0000" channel="esp-e200948640c0ch20028">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20028_3_200948640_20251002-102823.jpeg"/>
+    <title lang="es">Grand Prix - Canadá</title>
+    <desc lang="es">Rutina libre | Mixto por parejas</desc>
+    <category lang="es">Patinaje</category>
   </programme>
 </tv>
