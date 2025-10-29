@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Oct 29 06:36:34 2025">
+<tv date="Wed Oct 29 09:04:03 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -539,6 +539,14 @@
   <channel id="esp-e200981681c0ch20038">
     <display-name>esp-e200981681c0ch20038</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20038_3_200981681_20251003-114714.jpeg"/>
+  </channel>
+  <channel id="cp3wpbsl51yudk9u5aa5ztocj">
+    <display-name>cp3wpbsl51yudk9u5aa5ztocj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eetfhyckxezmfhdboq5qvd83x_image-header_pEs_1759852702000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e66rq510uloou98znoiyam7ux">
+    <display-name>e66rq510uloou98znoiyam7ux</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4866cgz08zl9udyski8mpgx3c_image-header_pEs_1759852702000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1349,5 +1357,17 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Campeonato Internacional | 2ª ronda | Sesión 3</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20251030131000 +0000" stop="20251030191000 +0000" channel="cp3wpbsl51yudk9u5aa5ztocj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eetfhyckxezmfhdboq5qvd83x_image-header_pEs_1759852702000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ronda 1 - Riad</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Salto Ecuestre</category>
+  </programme>
+  <programme start="20251030160000 +0000" stop="20251030220000 +0000" channel="e66rq510uloou98znoiyam7ux">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4866cgz08zl9udyski8mpgx3c_image-header_pEs_1759852702000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ronda 2 - Riad</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Salto Ecuestre</category>
   </programme>
 </tv>
