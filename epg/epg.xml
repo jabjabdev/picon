@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 01 12:30:16 2025">
+<tv date="Sat Nov 01 18:30:14 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -27,10 +27,6 @@
   <channel id="esp-e200948613c0ch20027">
     <display-name>esp-e200948613c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20027_3_200948613_20251002-100213.jpeg"/>
-  </channel>
-  <channel id="esp-e201021698c0ch20078">
-    <display-name>esp-e201021698c0ch20078</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_6_201021698_20251022-100402.jpeg"/>
   </channel>
   <channel id="esp-e200966718c0ch20002">
     <display-name>esp-e200966718c0ch20002</display-name>
@@ -410,7 +406,7 @@
   </channel>
   <channel id="1tl9gsijll4lgiwpomd4giix60">
     <display-name>1tl9gsijll4lgiwpomd4giix60</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n3hvfsr4hjx8814kf7lorm2m_image-header_pEs_1731605972000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7633ec53oqvtco3ga5ov4yljn_image-header_pEs_1731605972000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1x96088qaj5l7l8zo1oyydnsp0">
     <display-name>1x96088qaj5l7l8zo1oyydnsp0</display-name>
@@ -483,10 +479,6 @@
   <channel id="1b5qq6gi3yrsf1oir9myzw1car">
     <display-name>1b5qq6gi3yrsf1oir9myzw1car</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2m6bsmw9wep87y8ztfqvuux9k_image-header_pEs_1761489753000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="6g232ye08oqntu2p9ekm3v3bm">
-    <display-name>6g232ye08oqntu2p9ekm3v3bm</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fcw7d9rndypy58wte44d8rjt_image-header_pEs_1736761445000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="f5979ujx6no92vftq9qsu1jbo">
     <display-name>f5979ujx6no92vftq9qsu1jbo</display-name>
@@ -912,6 +904,14 @@
     <display-name>awcxody4gs289f0y54gaf5oci</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1266o2klv1fw318vl8fsgj0jo2_image-header_pEs_1761453708000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="8cs2low1oe3jc2kepwj5pr9w3">
+    <display-name>8cs2low1oe3jc2kepwj5pr9w3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/64hjo8v3enov10ck9rk0ruqxt_image-header_pEs_1760524081000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4yzlmcbjp3ewucun9pgsepsa5">
+    <display-name>4yzlmcbjp3ewucun9pgsepsa5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qaa8i28mqopras7rgv74ij5n_image-header_pEs_1759963798000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Eubank Jr. vs. Benn 2</title>
@@ -954,19 +954,13 @@
     <desc lang="es">Femenino | Programa corto</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20251101123000 +0000" stop="20251101150000 +0000" channel="esp-e201021698c0ch20078">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20078_6_201021698_20251022-100402.jpeg"/>
-    <title lang="es">Villarreal CF - Rayo Vallecano</title>
-    <desc lang="es">LaLiga 2025/26 | Jornada 11</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20251101124200 +0000" stop="20251101135700 +0000" channel="esp-e200966718c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20002_3_200966718_20250929-132403.jpeg"/>
     <title lang="es">X2O Trofee - Oudenaarde</title>
     <desc lang="es">Femenino</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20251101130000 +0000" stop="20251101153000 +0000" channel="esp-e200839223c0ch20020">
+  <programme start="20251101155200 +0000" stop="20251101184500 +0000" channel="esp-e200839223c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/Specifique/Crop/16_9/20020_3_200839223_20251001-151010.jpeg"/>
     <title lang="es">Global Champions Tour - Riad</title>
     <desc lang="es">Saltos</desc>
@@ -1524,8 +1518,8 @@
     <desc lang="es">Heidenheim se enfrenta a Eintracht Frankfurt en un emocionante choque de Bundesliga en el Voith-Arena. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan dejar huella el 1 de noviembre. ¿Podrá Heidenheim aprovechar su ventaja local, o brillará la experiencia de Frankfurt? ¡No te pierdas este partido que podría cambiar la clasificación!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251101144500 +0000" stop="20251101171500 +0000" channel="1tl9gsijll4lgiwpomd4giix60">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n3hvfsr4hjx8814kf7lorm2m_image-header_pEs_1731605972000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251101151500 +0000" stop="20251101181500 +0000" channel="1tl9gsijll4lgiwpomd4giix60">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7633ec53oqvtco3ga5ov4yljn_image-header_pEs_1731605972000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atlético de Madrid - Sevilla FC</title>
     <desc lang="es">El Atlético de Madrid se prepara para enfrentar al Sevilla en un crucial encuentro de Primera División en el Riyadh Air Metropolitano. La temporada 2025/26 de LaLiga se calienta con este choque de gigantes españoles el 1 de noviembre de 2025. ¿Podrá el Atlético asegurar una victoria en casa, o el Sevilla robará puntos como visitante? ¡No te pierdas este emocionante espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
@@ -1637,12 +1631,6 @@
     <title lang="es">FC Como - Genoa</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20251101170000 +0000" stop="20251101230000 +0000" channel="6g232ye08oqntu2p9ekm3v3bm">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3fcw7d9rndypy58wte44d8rjt_image-header_pEs_1736761445000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Patinaje artístico y esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251101170000 +0000" stop="20251101230000 +0000" channel="f5979ujx6no92vftq9qsu1jbo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/z9hg40moz9mf1eolph9as1ju1_image-header_pEs_1761453708000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2279,5 +2267,17 @@
     <title lang="es">Red Wings vs. Ducks</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251102113000 +0000" stop="20251102150000 +0000" channel="8cs2low1oe3jc2kepwj5pr9w3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/64hjo8v3enov10ck9rk0ruqxt_image-header_pEs_1760524081000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Casademont Zaragoza - Real Madrid</title>
+    <desc lang="es">¡Vive la temporada 25/26 de Liga Endesa en DAZN!. Disfruta de la emoción de cada partido y no te pierdas el mejor baloncesto.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251102170000 +0000" stop="20251102193000 +0000" channel="4yzlmcbjp3ewucun9pgsepsa5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1qaa8i28mqopras7rgv74ij5n_image-header_pEs_1759963798000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Parma - Bologna</title>
+    <desc lang="es">Una nueva jornada de la Serie A echa a andar. ¡Disfruta del encuentro entre Parma - Bologna en DAZN!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
