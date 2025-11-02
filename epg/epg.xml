@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 02 12:30:10 2025">
+<tv date="Sun Nov 02 18:30:28 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -388,10 +388,6 @@
     <display-name>5157hjvq3jag0ccqrr8lrovsa0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dvgsq0xygwhllmhqr671lt29j_image-header_pEs_1751881566000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="akqo6w4q8cu1umtd5fxnf2osq">
-    <display-name>akqo6w4q8cu1umtd5fxnf2osq</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ccmwd5f3pm9sx4s3rzse5ank_image-header_pEs_1760620577000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1wgfpuruyyg8xxbxys9r7u02y0">
     <display-name>1wgfpuruyyg8xxbxys9r7u02y0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8aw0ii8rmfi4e262knpop12gv_image-header_pEs_1761655915000/fill/none/top/none/85/300/180/webp/image"/>
@@ -418,7 +414,7 @@
   </channel>
   <channel id="gtbfsjfc0eul01u48hontkt9v3">
     <display-name>gtbfsjfc0eul01u48hontkt9v3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4xeohqn4a7imjukyqnlr9c41x_image-header_pEs_1757527359000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eps6bb8z3qx9zucgbczp37kp4_image-header_pEs_1757527359000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1byem2q37idc8uf6ece7e3jof0">
     <display-name>1byem2q37idc8uf6ece7e3jof0</display-name>
@@ -434,7 +430,7 @@
   </channel>
   <channel id="ey0hzd1b50zkuth2q7gsbjzk5">
     <display-name>ey0hzd1b50zkuth2q7gsbjzk5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dm6kfe2e40v0sz52uyrfnhi40_image-header_pEs_1760524935000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29hy94bwpoaqsduv5ynxgf87_image-header_pEs_1760524935000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="wil4uhmwsiy501wkp1qnzrfz9a">
     <display-name>wil4uhmwsiy501wkp1qnzrfz9a</display-name>
@@ -651,6 +647,14 @@
   <channel id="6xu831lr3k293hmdrl6skji4r">
     <display-name>6xu831lr3k293hmdrl6skji4r</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/145cccx5qwircyn3l4oejsz17_image-header_pEs_1759963798000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9rwofupzur1mj0draaxkbkjj">
+    <display-name>9rwofupzur1mj0draaxkbkjj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/640h4o3lg456j338dan0lgrqn_image-header_pEs_1757527359000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9ejrtgc7mbfaq3trqqmyrfd24">
+    <display-name>9ejrtgc7mbfaq3trqqmyrfd24</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndqyy20148vy1wxrlymrgl4yh_image-header_pEs_1761576871000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1234,12 +1238,6 @@
     <desc lang="es">Disfruta de la Liga Hypermotion en DAZN: la emoción y la lucha por el ascenso, jornada a jornada.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251102154500 +0000" stop="20251102214500 +0000" channel="akqo6w4q8cu1umtd5fxnf2osq">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ccmwd5f3pm9sx4s3rzse5ank_image-header_pEs_1760620577000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Patinaje artístico</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20251102160000 +0000" stop="20251102193000 +0000" channel="1wgfpuruyyg8xxbxys9r7u02y0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8aw0ii8rmfi4e262knpop12gv_image-header_pEs_1761655915000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barça - UCAM Murcia</title>
@@ -1276,8 +1274,8 @@
     <desc lang="es">Wolfsburg se enfrenta a Hoffenheim en un emocionante choque de la Bundesliga en el Volkswagen Arena. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan escalar posiciones. ¿Será decisiva la ventaja local de Wolfsburg, o podrá Hoffenheim lograr una victoria crucial como visitante? ¡Sintoniza el 2 de noviembre para toda la emoción!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251102170000 +0000" stop="20251102193000 +0000" channel="gtbfsjfc0eul01u48hontkt9v3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4xeohqn4a7imjukyqnlr9c41x_image-header_pEs_1757527359000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251102173000 +0000" stop="20251102210000 +0000" channel="gtbfsjfc0eul01u48hontkt9v3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eps6bb8z3qx9zucgbczp37kp4_image-header_pEs_1757527359000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FC Barcelona - Elche CF</title>
     <desc lang="es">El FC Barcelona recibe a una de las revelaciones de la temporada en LALIGA EA SPORTS, el Elche CF: ¿conseguirán la sorpresa los pupilos de Éder Sarabia o continuarán los blaugranas en su pelea por el liderato? ¡Vívelo, en directo, en DAZN!</desc>
     <category lang="es">Fútbol</category>
@@ -1300,8 +1298,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251102173000 +0000" stop="20251102210000 +0000" channel="ey0hzd1b50zkuth2q7gsbjzk5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dm6kfe2e40v0sz52uyrfnhi40_image-header_pEs_1760524935000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251102180000 +0000" stop="20251102204500 +0000" channel="ey0hzd1b50zkuth2q7gsbjzk5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29hy94bwpoaqsduv5ynxgf87_image-header_pEs_1760524935000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Baskonia - La Laguna Tenerife</title>
     <desc lang="es">¡Vive la temporada 25/26 de Liga Endesa en DAZN!. Disfruta de la emoción de cada partido y no te pierdas el mejor baloncesto.</desc>
     <category lang="es">Baloncesto</category>
@@ -1629,5 +1627,17 @@
     <title lang="es">Lazio - Cagliari</title>
     <desc lang="es">Cagliari viaja para enfrentarse a Lazio en un emocionante encuentro de Serie A 25/26 en el Stadio Olimpico el 3 de noviembre de 2025. ¿Podrá Cagliari sorprender al equipo local? Con ambos equipos hambrientos de puntos, este partido promete emociones de principio a fin. ¿Veremos una lluvia de goles o un duelo táctico? ¡Sintoniza para la emoción!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251102173000 +0000" stop="20251102200000 +0000" channel="9rwofupzur1mj0draaxkbkjj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/640h4o3lg456j338dan0lgrqn_image-header_pEs_1757527359000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">FC Barcelona - Elche CF (Multicámara)</title>
+    <desc lang="es">Barcelona y Elche se enfrentarán en un emocionante encuentro de Primera División el 2 de noviembre de 2025. Este choque de LaLiga 2025/2026 promete emociones mientras ambos clubes buscan puntos cruciales. ¿Podrá el poder ofensivo del Barcelona superar la estrategia defensiva del Elche? ¡Sintoniza y sé testigo del drama!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251102180000 +0000" stop="20251102220000 +0000" channel="9ejrtgc7mbfaq3trqqmyrfd24">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ndqyy20148vy1wxrlymrgl4yh_image-header_pEs_1761576871000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DEN @ HOU, CAR @ GB, LAC @ TEN, CHI @ CIN</title>
+    <desc lang="es">Disfruta de toda la acción de cuatro partidos a la vez con el NFL Multiview en DAZN</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
