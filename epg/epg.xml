@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Nov 07 09:04:12 2025">
+<tv date="Fri Nov 07 12:30:14 2025">
   <channel id="80zr71sexxczb6w14yoe2l1s9">
     <display-name>80zr71sexxczb6w14yoe2l1s9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/300/180/webp/image"/>
@@ -631,6 +631,10 @@
   <channel id="c9z40xnbhxkxtc0xbnmjwsvfi">
     <display-name>c9z40xnbhxkxtc0xbnmjwsvfi</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8e8ourmpgh8u11k327ye7d9j4_image-header_pEs_1762267141000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="abq74om1pycj32bpebgazk49p">
+    <display-name>abq74om1pycj32bpebgazk49p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hy9une583fzzkypib56vlrb9_image-header_pEs_1759963798000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251115170000 +0000" stop="20251115230000 +0000" channel="80zr71sexxczb6w14yoe2l1s9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m8da1pp5nhku1lquwbcxz8iuw_image-header_pEs_1758616741000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1579,5 +1583,11 @@
     <title lang="es">Washington @ Wisconsin</title>
     <desc lang="es">Disfruta la acción de toda la temporada del fútbol americano de la NCAA</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251107194500 +0000" stop="20251107221500 +0000" channel="abq74om1pycj32bpebgazk49p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hy9une583fzzkypib56vlrb9_image-header_pEs_1759963798000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pisa - Cremonese</title>
+    <desc lang="es">El Pisa se prepara para enfrentar al Cremonese en un crucial partido de la Serie A 25/26 en el Arena Garibaldi el 7 de noviembre de 2025. Ambos equipos buscan escalar posiciones en esta jornada del viernes. ¿Podrá el Pisa aprovechar su localía o el Cremonese logrará una victoria clave fuera de casa? ¡No te pierdas esta noche de fútbol italiano de primer nivel!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
