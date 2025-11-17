@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 17 09:04:06 2025">
+<tv date="Mon Nov 17 12:30:07 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/300/180/webp/image"/>
@@ -603,6 +603,10 @@
   <channel id="7r4c7qhl6gsxhwd2l5ujjtqs0">
     <display-name>7r4c7qhl6gsxhwd2l5ujjtqs0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aclrkscztarw19jzulp1ust0p_image-header_pEs_1757337136000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ooj2pb51p93gaqkn8eajxqk5">
+    <display-name>3ooj2pb51p93gaqkn8eajxqk5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exr5al1t70xp18i3w7wn0ef16_image-header_pEs_1763374262000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251122160000 +0000" stop="20251122220000 +0000" channel="ep78i790i03o9ypi1epl2z2ra">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1246,7 +1250,7 @@
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
-  <programme start="20251117160000 +0000" stop="20251117220000 +0000" channel="ek48q3k5attehm0itmlso4okq">
+  <programme start="20251117140000 +0000" stop="20251117200000 +0000" channel="ek48q3k5attehm0itmlso4okq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oq0nh0mi2vxy1iozlainfem5n_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Taekwondo - Dia 3 (en Árabe)</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
@@ -1509,5 +1513,11 @@
     <title lang="es">Código NFL - Semana 11</title>
     <desc lang="es">Disfruta el decimoprimer episodio de Código NFL con Diego Campoy y no te pierdas las historias más relevantes de la semana.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251118180000 +0000" stop="20251119000000 +0000" channel="3ooj2pb51p93gaqkn8eajxqk5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exr5al1t70xp18i3w7wn0ef16_image-header_pEs_1763374262000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">The Ring IV - Grand Arrivals</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
