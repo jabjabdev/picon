@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Nov 17 12:30:07 2025">
+<tv date="Mon Nov 17 18:30:06 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/300/180/webp/image"/>
@@ -416,17 +416,9 @@
     <display-name>a82dalxl1j6bg1138u91n2696</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/138c06xe8kn6t1f62ozb4v0xs0_image-header_pEs_1762329444000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="8e4dkc8etf2wy5xdw1crlefzk">
-    <display-name>8e4dkc8etf2wy5xdw1crlefzk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7w0u5shv6wqu1k6hhlidkorcd_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9wi89a3pvu46nei25hfwwqcxy">
-    <display-name>9wi89a3pvu46nei25hfwwqcxy</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29l4hucbv5q1gubt02lo5vnd_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="8v27f0w4kzv4uxnof3u6td4bz">
     <display-name>8v27f0w4kzv4uxnof3u6td4bz</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/oohll8uaix7d1xcxcv5f8a8t5_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sdl0dckj3ku218rswaxm35vt0_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="ek48q3k5attehm0itmlso4okq">
     <display-name>ek48q3k5attehm0itmlso4okq</display-name>
@@ -1232,21 +1224,9 @@
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
-  <programme start="20251117152200 +0000" stop="20251117212200 +0000" channel="8e4dkc8etf2wy5xdw1crlefzk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7w0u5shv6wqu1k6hhlidkorcd_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esgrima - Día 1 - Sesión 2</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
-  </programme>
-  <programme start="20251117152200 +0000" stop="20251117212200 +0000" channel="9wi89a3pvu46nei25hfwwqcxy">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29l4hucbv5q1gubt02lo5vnd_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esgrima - Dia 1 (en Árabe)</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
-  </programme>
-  <programme start="20251117160000 +0000" stop="20251117220000 +0000" channel="8v27f0w4kzv4uxnof3u6td4bz">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/oohll8uaix7d1xcxcv5f8a8t5_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Taekwondo - Día 3 Sesión 2</title>
+  <programme start="20251117140000 +0000" stop="20251117200000 +0000" channel="8v27f0w4kzv4uxnof3u6td4bz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sdl0dckj3ku218rswaxm35vt0_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Taekwondo - Día 3 - Sesión 2</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
