@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 18 12:30:07 2025">
+<tv date="Tue Nov 18 18:30:06 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/300/180/webp/image"/>
@@ -119,14 +119,6 @@
   <channel id="5pyczxtbonzc6m2qd0yay3l6q">
     <display-name>5pyczxtbonzc6m2qd0yay3l6q</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7k8gjpi7d46oa4ck0uycx1k1l_image-header_pEs_1763235995000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3obm5xsqisd5e20vhp0leiius">
-    <display-name>3obm5xsqisd5e20vhp0leiius</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0imdqu9omi013sdmcm6050m6_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="ein4fjaxkbx2pqtf38aomutz2">
-    <display-name>ein4fjaxkbx2pqtf38aomutz2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/v8qbtqr37c0a1oqwnq8wzepy2_image-header_pEs_1762278656000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6ta9ol9ij6i53zzpuayjt83jc">
     <display-name>6ta9ol9ij6i53zzpuayjt83jc</display-name>
@@ -479,18 +471,6 @@
     <title lang="es">Día 1 (Mañana) - Test de pretemporada 2026</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20251118125200 +0000" stop="20251118185200 +0000" channel="3obm5xsqisd5e20vhp0leiius">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0imdqu9omi013sdmcm6050m6_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esgrima - Dia 2 (en Árabe)</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
-  </programme>
-  <programme start="20251118125200 +0000" stop="20251118185200 +0000" channel="ein4fjaxkbx2pqtf38aomutz2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/v8qbtqr37c0a1oqwnq8wzepy2_image-header_pEs_1762278656000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esgrima - Día 2 - Sesión 1</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
   </programme>
   <programme start="20251118132000 +0000" stop="20251118192000 +0000" channel="6ta9ol9ij6i53zzpuayjt83jc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7lg43ekxsmqsg9l5kam6bvkwl_image-header_pEs_1763236133000/fill/none/top/none/85/600/360/webp/image"/>
