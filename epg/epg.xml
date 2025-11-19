@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Nov 19 12:30:14 2025">
+<tv date="Wed Nov 19 18:30:08 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/300/180/webp/image"/>
@@ -275,6 +275,14 @@
   <channel id="e0g5m96lwk675zuwt7ywgu7w2">
     <display-name>e0g5m96lwk675zuwt7ywgu7w2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c68boxszc3t4oi6ugn5wyij2x_image-header_pEs_1760442571000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6vrprjzmaxymh33jjn2mzrn3b">
+    <display-name>6vrprjzmaxymh33jjn2mzrn3b</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jpwx34nh8uu11t09s2cnvs0ta_image-header_pEs_1763557718000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="btl6y4jy618o7jo0tjjg06209">
+    <display-name>btl6y4jy618o7jo0tjjg06209</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hx5ymf7vlir91bic54ed5jb0n_image-header_pEs_1762278655000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251122160000 +0000" stop="20251122220000 +0000" channel="ep78i790i03o9ypi1epl2z2ra">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/600/360/webp/image"/>
@@ -624,7 +632,7 @@
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
-  <programme start="20251120130000 +0000" stop="20251120190000 +0000" channel="ds391h8zp5lqudlfnyk7ozdvw">
+  <programme start="20251120112500 +0000" stop="20251120172500 +0000" channel="ds391h8zp5lqudlfnyk7ozdvw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/92lgi3p1d73be2kvz5d1fz057_image-header_pEs_1761034240000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera nocturna #6</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -666,13 +674,13 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
   </programme>
-  <programme start="20251120160900 +0000" stop="20251120220900 +0000" channel="50aakyshwyqen572of8tnzu6k">
+  <programme start="20251120160200 +0000" stop="20251120220200 +0000" channel="50aakyshwyqen572of8tnzu6k">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ryujjdcfbyx1d06ddqfpfo2t_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atletismo y Paratletismo - Dia 4 (en Árabe)</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
-  <programme start="20251120160900 +0000" stop="20251120220900 +0000" channel="98j75nmid5p6uxz9cgnktfx1j">
+  <programme start="20251120160200 +0000" stop="20251120220200 +0000" channel="98j75nmid5p6uxz9cgnktfx1j">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/149swpaudixd112qpghyulunze_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atletismo y Paratletismo- Día 4 Sesión 2</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
@@ -689,5 +697,17 @@
     <title lang="es">Praga - Super Cup - Semifinal</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Salto Ecuestre</category>
+  </programme>
+  <programme start="20251120045500 +0000" stop="20251120105500 +0000" channel="6vrprjzmaxymh33jjn2mzrn3b">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jpwx34nh8uu11t09s2cnvs0ta_image-header_pEs_1763557718000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carreras de camellos Final (en Árabe)</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Polideportivo</category>
+  </programme>
+  <programme start="20251120045500 +0000" stop="20251120105500 +0000" channel="btl6y4jy618o7jo0tjjg06209">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hx5ymf7vlir91bic54ed5jb0n_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carreras de camellos Final</title>
+    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
+    <category lang="es">Polideportivo</category>
   </programme>
 </tv>
