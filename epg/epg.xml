@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 20 12:30:09 2025">
+<tv date="Thu Nov 20 18:30:07 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yp2escpfsuq313o35c971sab0_image-header_pEs_1751993126000/fill/none/top/none/85/300/180/webp/image"/>
@@ -35,14 +35,6 @@
   <channel id="ej0y2rrwacgyz5188zw1h6unh">
     <display-name>ej0y2rrwacgyz5188zw1h6unh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/112u86kq79pn61lxtfr47nrlwf_image-header_pEs_1762278655000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="78uzx3esmu39r2u16mlhmbk85">
-    <display-name>78uzx3esmu39r2u16mlhmbk85</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dflf1afcd1231uxskfontllwn_image-header_pEs_1762278655000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="xo932q7s7ugy9cgsccd1js0b">
-    <display-name>xo932q7s7ugy9cgsccd1js0b</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b0mca9kjqjmo1c6i1xyodncgn_image-header_pEs_1762278655000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="ds391h8zp5lqudlfnyk7ozdvw">
     <display-name>ds391h8zp5lqudlfnyk7ozdvw</display-name>
@@ -339,18 +331,6 @@
   <programme start="20251120084600 +0000" stop="20251120144600 +0000" channel="ej0y2rrwacgyz5188zw1h6unh">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/112u86kq79pn61lxtfr47nrlwf_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Balonmano - Día 8</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
-  </programme>
-  <programme start="20251120122500 +0000" stop="20251120182500 +0000" channel="78uzx3esmu39r2u16mlhmbk85">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dflf1afcd1231uxskfontllwn_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carreras de camellos - Dia 3 (en Árabe)</title>
-    <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
-    <category lang="es">Polideportivo</category>
-  </programme>
-  <programme start="20251120122500 +0000" stop="20251120182500 +0000" channel="xo932q7s7ugy9cgsccd1js0b">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b0mca9kjqjmo1c6i1xyodncgn_image-header_pEs_1762278655000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carreras de camellos - Dia 2</title>
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
