@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Nov 21 12:30:12 2025">
+<tv date="Fri Nov 21 18:30:14 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wuor36zxff2k1jis2vi60xkzu_image-header_pEs_1763641525000/fill/none/top/none/85/300/180/webp/image"/>
@@ -192,10 +192,6 @@
     <display-name>ehgienemnsr1fz4brnthxzfbg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gh07s2aodjcf1a5po1uy8hf3a_image-header_pEs_1762278655000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="5cn10x5kvdms1jqsmfptazr9d">
-    <display-name>5cn10x5kvdms1jqsmfptazr9d</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jpw8g8mz89d2rnlxxrzzoc79_image-header_pEs_1734615061000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="cdbn4ybfk8m9cvc0a4wo025ih">
     <display-name>cdbn4ybfk8m9cvc0a4wo025ih</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7el31juhca206p9eaoss1akh3_image-header_pEs_1761034240000/fill/none/top/none/85/300/180/webp/image"/>
@@ -310,7 +306,7 @@
   </channel>
   <channel id="edc9pn2tn1mqp5fllne0daavd">
     <display-name>edc9pn2tn1mqp5fllne0daavd</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19nj9sn556wts1c236uqvkpy3m_image-header_pEs_1761836972000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19nj9sn556wts1c236uqvkpy3m_image-header_pEs_1763727710000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="f2ise65pwny8efvy4koyrdq01">
     <display-name>f2ise65pwny8efvy4koyrdq01</display-name>
@@ -916,12 +912,6 @@
     <desc lang="es">Disfruta toda la acción en directo por DAZN.</desc>
     <category lang="es">Polideportivo</category>
   </programme>
-  <programme start="20251121120000 +0000" stop="20251121180000 +0000" channel="5cn10x5kvdms1jqsmfptazr9d">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7jpw8g8mz89d2rnlxxrzzoc79_image-header_pEs_1734615061000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Patinaje artístico, saltos de esquí y esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20251121122500 +0000" stop="20251121182500 +0000" channel="cdbn4ybfk8m9cvc0a4wo025ih">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7el31juhca206p9eaoss1akh3_image-header_pEs_1761034240000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carreras nocturnas - Copa del presidente de los Emiratos Árabes Unidos</title>
@@ -1054,7 +1044,7 @@
     <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20251121230000 +0000" stop="20251122050000 +0000" channel="cln9mejjgk8eiv6lc5rfsayfk">
+  <programme start="20251122010000 +0000" stop="20251122070000 +0000" channel="cln9mejjgk8eiv6lc5rfsayfk">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71tvqmo86cyxxiccvjykijl3u_image-header_pEs_1761837722000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Malcolm Hill vs. Owen Gillis</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1090,9 +1080,9 @@
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
-  <programme start="20251122010000 +0000" stop="20251122070000 +0000" channel="edc9pn2tn1mqp5fllne0daavd">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19nj9sn556wts1c236uqvkpy3m_image-header_pEs_1761836972000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Davila vs. Ramirez</title>
+  <programme start="20251121223000 +0000" stop="20251122043000 +0000" channel="edc9pn2tn1mqp5fllne0daavd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19nj9sn556wts1c236uqvkpy3m_image-header_pEs_1763727710000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Davila vs. Mireles</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
@@ -1426,7 +1416,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
   </programme>
-  <programme start="20251122171500 +0000" stop="20251122231500 +0000" channel="3qhr4ohth0jxedwb2c37hlw8y">
+  <programme start="20251122160000 +0000" stop="20251122220000 +0000" channel="3qhr4ohth0jxedwb2c37hlw8y">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9o9wi44jsox9tmdprsrt4d4kw_image-header_pEs_1762329869000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">UFC Fight Night - Alek Topuria - Almakhan + Tsarukyan - Hooker</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
