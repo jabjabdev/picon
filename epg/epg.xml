@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 22 09:04:15 2025">
+<tv date="Sat Nov 22 12:30:18 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wuor36zxff2k1jis2vi60xkzu_image-header_pEs_1763641525000/fill/none/top/none/85/300/180/webp/image"/>
@@ -48,14 +48,6 @@
     <display-name>9ue9no3osl4i2zszh6w7pw47n</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ftdl5hoxp05216losbkmscg7_image-header_pEs_1760110954000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="1cnw6pjx9v07acbssgn1aipcw">
-    <display-name>1cnw6pjx9v07acbssgn1aipcw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17c2bkki6xbub1elrryqku8ta1_image-header_pEs_1763161023000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1sycvj7xp5qf0n9wqkdvxbkxd">
-    <display-name>1sycvj7xp5qf0n9wqkdvxbkxd</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k8otfufcc6yyw2dohzrh758l_image-header_pEs_1760611667000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="d76ku4u3970ovdaeyvga1z1o2">
     <display-name>d76ku4u3970ovdaeyvga1z1o2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy28wil6n6rwkkc06j9mnwgev_image-header_pEs_1763049744000/fill/none/top/none/85/300/180/webp/image"/>
@@ -63,10 +55,6 @@
   <channel id="5ad333wy5ba3h2bwfqlrf3em0">
     <display-name>5ad333wy5ba3h2bwfqlrf3em0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b6nigqdez7jvkq5zjcyuaamb_image-header_pEs_1763119503000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b8xfgx15z93hz9nrklcmcbddk">
-    <display-name>b8xfgx15z93hz9nrklcmcbddk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80wv2l2qp4cyifukt9bfvv3g6_image-header_pEs_1760620577000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1ih0s86275v9qjxcgdvillyh90">
     <display-name>1ih0s86275v9qjxcgdvillyh90</display-name>
@@ -656,6 +644,10 @@
     <display-name>3vhy8ho45e0uccohzrn3j4kfw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ed8agvk8nnpxlthl3cogspnix_image-header_pEs_1760141396000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="afyleo9zymt7idm60bm3ufy6q">
+    <display-name>afyleo9zymt7idm60bm3ufy6q</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2vzl8d2o0z1zfmgsp1hmldgm_image-header_pEs_1759963798000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251122200000 +0000" stop="20251123020000 +0000" channel="ep78i790i03o9ypi1epl2z2ra">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wuor36zxff2k1jis2vi60xkzu_image-header_pEs_1763641525000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ring IV - Noche de Campeones</title>
@@ -728,18 +720,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20251122090000 +0000" stop="20251122130000 +0000" channel="1cnw6pjx9v07acbssgn1aipcw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17c2bkki6xbub1elrryqku8ta1_image-header_pEs_1763161023000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Andorra Cycling Masters 2025</title>
-    <desc lang="es">Cuatro de los mejores ciclistas de la actualidad se juntan en Andorra para competir sin equipos, sin ayudas. Fente a frente. Disfruta del docu-show de lo que fue un evento espectacular. ¡No te lo pierdas!</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20251122091500 +0000" stop="20251122151500 +0000" channel="1sycvj7xp5qf0n9wqkdvxbkxd">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k8otfufcc6yyw2dohzrh758l_image-header_pEs_1760611667000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Campeonato mundial de esquí</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20251122093000 +0000" stop="20251122153000 +0000" channel="d76ku4u3970ovdaeyvga1z1o2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy28wil6n6rwkkc06j9mnwgev_image-header_pEs_1763049744000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">TC 2 - El Ardal - Carrera de Campeones</title>
@@ -751,12 +731,6 @@
     <title lang="es">Celebración de los hermanos Márquez en Cervera</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20251122103000 +0000" stop="20251122163000 +0000" channel="b8xfgx15z93hz9nrklcmcbddk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80wv2l2qp4cyifukt9bfvv3g6_image-header_pEs_1760620577000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Grand Prix de Patinaje Artístico</title>
-    <desc lang="es">Disfruta del patinaje artístico, en vivo desde Finlandia.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251122110000 +0000" stop="20251122133000 +0000" channel="1ih0s86275v9qjxcgdvillyh90">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9qsleebh07rh4pqhi4ivdvve1_image-header_pEs_1760025762000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1638,6 +1612,12 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ed8agvk8nnpxlthl3cogspnix_image-header_pEs_1760141396000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Fiorentina - Juventus</title>
     <desc lang="es">Fiorentina recibe a Juventus en un emocionante enfrentamiento de la Serie A en el Stadio Artemio Franchi. En plena temporada 25/26, estos gigantes italianos se enfrentan el 22 de noviembre de 2025. ¿Dará la ventaja de local a Fiorentina la victoria, o podrá Juventus asegurar un triunfo crucial como visitante? ¡No te pierdas este choque de tácticas y talento!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251123170000 +0000" stop="20251123193000 +0000" channel="afyleo9zymt7idm60bm3ufy6q">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b2vzl8d2o0z1zfmgsp1hmldgm_image-header_pEs_1759963798000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lazio - Lecce</title>
+    <desc lang="es">Lazio y Lecce se enfrentarán en un choque de Serie A en el Stadio Olimpico el 23 de noviembre de 2025. Con la temporada 25/26 en pleno apogeo, ambos equipos buscarán puntos cruciales. ¿Aprovechará Lazio su ventaja local o Lecce dará la sorpresa? ¡No te pierdas este emocionante espectáculo del fútbol italiano!</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
