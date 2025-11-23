@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 23 12:30:21 2025">
+<tv date="Sun Nov 23 18:30:27 2025">
   <channel id="8hr4ezeult55adt2ngt7ywnb1">
     <display-name>8hr4ezeult55adt2ngt7ywnb1</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/41l7dnqz1yt97l90xft2aohn3_image-header_pEs_1763489780000/fill/none/top/none/85/300/180/webp/image"/>
@@ -31,10 +31,6 @@
   <channel id="rnwx0sa1iqew01qthfj0536woa">
     <display-name>rnwx0sa1iqew01qthfj0536woa</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e70lnmosj5p8lo5x5btkcr7ld_image-header_pEs_1761741597000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="b1fhmi76niecvkeerkils55j9">
-    <display-name>b1fhmi76niecvkeerkils55j9</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pqvhqrhbhy7dq4a5uyysc5jp_image-header_pEs_1734615061000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="11sr5b1gsxwyxqssywkfucdzw0">
     <display-name>11sr5b1gsxwyxqssywkfucdzw0</display-name>
@@ -106,7 +102,7 @@
   </channel>
   <channel id="7q387it8pygg01ux2j8ovygun0">
     <display-name>7q387it8pygg01ux2j8ovygun0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yacmang3occ4ck9bmf593tdg_image-header_pEs_1762428134000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tp782zhzlupsvlxma1d67edl_image-header_pEs_1762428134000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="f725v2d2516d0uofzgj96eh3f0">
     <display-name>f725v2d2516d0uofzgj96eh3f0</display-name>
@@ -126,7 +122,7 @@
   </channel>
   <channel id="dcsb90gz9jhh0k4l0ubxye6da">
     <display-name>dcsb90gz9jhh0k4l0ubxye6da</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7pcyuax57dvtro65ky15uu4lt_image-header_pEs_1761753637000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ordq357y6i2bqtuikqowdbd2_image-header_pEs_1761753637000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1c57x47id4yc81qoe9rhqkv83u">
     <display-name>1c57x47id4yc81qoe9rhqkv83u</display-name>
@@ -316,6 +312,10 @@
     <display-name>7z6eapz2nwmisyaonaixs6pab</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byv4f3eb75sxkilns3h0t29ne_image-header_pEs_1759963797000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="25yr510q9pqqyg9ov1vdkvneq">
+    <display-name>25yr510q9pqqyg9ov1vdkvneq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ohl6jz6mlldd213pf6kmddol_image-header_pEs_1759487300000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251123094500 +0000" stop="20251123154500 +0000" channel="8hr4ezeult55adt2ngt7ywnb1">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/41l7dnqz1yt97l90xft2aohn3_image-header_pEs_1763489780000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Circuit Ricardo Tormo</title>
@@ -363,12 +363,6 @@
     <title lang="es">FC Como - AS Roma</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20251123115000 +0000" stop="20251123175000 +0000" channel="b1fhmi76niecvkeerkils55j9">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2pqvhqrhbhy7dq4a5uyysc5jp_image-header_pEs_1734615061000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Campeonato Mundial de esquí</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251123120000 +0000" stop="20251123143000 +0000" channel="11sr5b1gsxwyxqssywkfucdzw0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/azojoi3mzif0tr5641v4sjhea_image-header_pEs_1762173742000/fill/none/top/none/85/600/360/webp/image"/>
@@ -472,8 +466,8 @@
     <desc lang="es">St. Pauli se enfrenta a Union Berlin en un emocionante choque de la Bundesliga en el Millerntor-Stadion. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan puntos cruciales. ¿Será decisiva la ventaja local de St. Pauli o Union Berlin dará la sorpresa? El escenario está listo para una batalla intensa. ¡No te pierdas este espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251123170000 +0000" stop="20251123193000 +0000" channel="7q387it8pygg01ux2j8ovygun0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4yacmang3occ4ck9bmf593tdg_image-header_pEs_1762428134000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251123173000 +0000" stop="20251123203000 +0000" channel="7q387it8pygg01ux2j8ovygun0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tp782zhzlupsvlxma1d67edl_image-header_pEs_1762428134000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Getafe CF - Atlético de Madrid</title>
     <desc lang="es">Getafe se enfrenta al Atlético de Madrid en un emocionante choque de LaLiga 25/26. El Coliseum Alfonso Pérez es el escenario de este duelo de Primera División el 23 de noviembre de 2025. ¿Podrá Getafe mantener su terreno en casa o el Atlético demostrará su poderío? ¡No te pierdas este partido inolvidable!</desc>
     <category lang="es">Fútbol</category>
@@ -502,8 +496,8 @@
     <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20251123173000 +0000" stop="20251123210000 +0000" channel="dcsb90gz9jhh0k4l0ubxye6da">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7pcyuax57dvtro65ky15uu4lt_image-header_pEs_1761753637000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251123180000 +0000" stop="20251123204500 +0000" channel="dcsb90gz9jhh0k4l0ubxye6da">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4ordq357y6i2bqtuikqowdbd2_image-header_pEs_1761753637000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Dreamland Gran Canaria - Barça</title>
     <desc lang="es">¡Vive la temporada 25/26 de Liga Endesa en DAZN!. Disfruta de la emoción de cada partido y no te pierdas el mejor baloncesto.</desc>
     <category lang="es">Baloncesto</category>
@@ -788,6 +782,12 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byv4f3eb75sxkilns3h0t29ne_image-header_pEs_1759963797000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sassuolo - Pisa</title>
     <desc lang="es">Pisa viaja para enfrentar a Sassuolo en un emocionante encuentro de la Serie A el 24 de noviembre de 2025. El Mapei Stadium - Citta del Tricolore será escenario de este choque de la temporada 25/26. ¿Podrá Pisa sorprender al equipo local? ¿Quién saldrá victorioso? ¡Sintoniza para una noche de emoción futbolística!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251123173000 +0000" stop="20251123200000 +0000" channel="25yr510q9pqqyg9ov1vdkvneq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ohl6jz6mlldd213pf6kmddol_image-header_pEs_1759487300000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multicámara - Getafe CF - Atlético de Madrid</title>
+    <desc lang="es">Getafe se enfrenta al Atlético de Madrid en un emocionante choque de Primera División el 23 de noviembre de 2025. Ambos equipos buscan puntos cruciales en la temporada 2025/2026 de LaLiga. ¿Inclinará la balanza la ventaja local de Getafe, o prevalecerá el estelar plantel del Atlético? ¡No te pierdas este espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
