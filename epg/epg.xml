@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Nov 23 00:30:12 2025">
+<tv date="Sun Nov 23 06:30:09 2025">
   <channel id="ep78i790i03o9ypi1epl2z2ra">
     <display-name>ep78i790i03o9ypi1epl2z2ra</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wuor36zxff2k1jis2vi60xkzu_image-header_pEs_1763641525000/fill/none/top/none/85/300/180/webp/image"/>
@@ -715,6 +715,14 @@
   <channel id="irf80jv7xhv2x7dogp6fy04b">
     <display-name>irf80jv7xhv2x7dogp6fy04b</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o7outhnv7a4310mrwbxl6mgm2_image-header_pEs_1742206662000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="19qtsyabiz3hilp4kz1u8n9iw">
+    <display-name>19qtsyabiz3hilp4kz1u8n9iw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1eweulnyy6w6swu5fbbr7pao8_image-header_pEs_1759963798000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7z6eapz2nwmisyaonaixs6pab">
+    <display-name>7z6eapz2nwmisyaonaixs6pab</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byv4f3eb75sxkilns3h0t29ne_image-header_pEs_1759963797000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251122200000 +0000" stop="20251123020000 +0000" channel="ep78i790i03o9ypi1epl2z2ra">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wuor36zxff2k1jis2vi60xkzu_image-header_pEs_1763641525000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1789,5 +1797,17 @@
     <title lang="es">Código F1 - Las Vegas</title>
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto de Fórmula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251124173000 +0000" stop="20251124200000 +0000" channel="19qtsyabiz3hilp4kz1u8n9iw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1eweulnyy6w6swu5fbbr7pao8_image-header_pEs_1759963798000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Como</title>
+    <desc lang="es">Torino se enfrenta a Como en el Stadio Olimpico Grande Torino en un emocionante choque de Serie A 25/26. ¿Podrá Torino asegurar una victoria en casa, o Como dará la sorpresa? Este partido del 24 de noviembre promete acción intensa y podría agitar la clasificación de la liga. ¿Listos para la emoción futbolística?</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251124194500 +0000" stop="20251124221500 +0000" channel="7z6eapz2nwmisyaonaixs6pab">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/byv4f3eb75sxkilns3h0t29ne_image-header_pEs_1759963797000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sassuolo - Pisa</title>
+    <desc lang="es">Pisa viaja para enfrentar a Sassuolo en un emocionante encuentro de la Serie A el 24 de noviembre de 2025. El Mapei Stadium - Citta del Tricolore será escenario de este choque de la temporada 25/26. ¿Podrá Pisa sorprender al equipo local? ¿Quién saldrá victorioso? ¡Sintoniza para una noche de emoción futbolística!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
