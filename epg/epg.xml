@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Nov 25 12:30:03 2025">
+<tv date="Tue Nov 25 18:30:04 2025">
   <channel id="1etkttqzox1xrmyzm7bmhyhhw">
     <display-name>1etkttqzox1xrmyzm7bmhyhhw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9ytzcpm5sv0icj1lquj37a71t_image-header_pEs_1760196699000/fill/none/top/none/85/300/180/webp/image"/>
@@ -43,6 +43,10 @@
   <channel id="ekec8p2tiy9wyreje5kq6ta1g">
     <display-name>ekec8p2tiy9wyreje5kq6ta1g</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kmg73iwlngkbzekycxztrooe_image-header_pEs_1763575219000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3kduf1s1v59r8ecbq6cw18n1n">
+    <display-name>3kduf1s1v59r8ecbq6cw18n1n</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cdi6z7xu4b2azhr6x29xyddf_image-header_pEs_1751881506000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251125174500 +0000" stop="20251125191500 +0000" channel="1etkttqzox1xrmyzm7bmhyhhw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9ytzcpm5sv0icj1lquj37a71t_image-header_pEs_1760196699000/fill/none/top/none/85/600/360/webp/image"/>
@@ -109,5 +113,11 @@
     <title lang="es">Rally Saudi Arabia  - Stage 1</title>
     <desc lang="es">Watch the latest World Rally Championship action from the Rally Saudi Arabia.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20251126180000 +0000" stop="20251126203000 +0000" channel="3kduf1s1v59r8ecbq6cw18n1n">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cdi6z7xu4b2azhr6x29xyddf_image-header_pEs_1751881506000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AD Ceuta - UD Almería (reanudación)</title>
+    <desc lang="es">Disfruta la reanudación del partido entren AD Ceuta y UD Almería.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
