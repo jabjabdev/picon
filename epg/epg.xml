@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 27 12:30:13 2025">
+<tv date="Thu Nov 27 12:32:02 2025">
   <channel id="ctgxhzeqrpjkgn6rvmjifl8no">
     <display-name>ctgxhzeqrpjkgn6rvmjifl8no</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ps0dtthel1za1bsbgjesvsb34_image-header_pEs_1763582745000/fill/none/top/none/85/300/180/webp/image"/>
@@ -219,6 +219,10 @@
   <channel id="dle0qld7u0rddcyhcchq0jt0m">
     <display-name>dle0qld7u0rddcyhcchq0jt0m</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6yzliz4ftjk71s956iq2emsnt_image-header_pEs_1764237115000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="b2zrg3ad2p9iq7opdl720vy5i">
+    <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251127050800 +0000" stop="20251127110800 +0000" channel="ctgxhzeqrpjkgn6rvmjifl8no">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ps0dtthel1za1bsbgjesvsb34_image-header_pEs_1763582745000/fill/none/top/none/85/600/360/webp/image"/>
@@ -549,5 +553,11 @@
     <title lang="es">Wood vs. Warrington 2 - Launch Press Conference</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">GLORY COLLISION 8</title>
+    <desc lang="es">Veja toda a ação no DAZN</desc>
+    <category lang="es">Kickboxing</category>
   </programme>
 </tv>
