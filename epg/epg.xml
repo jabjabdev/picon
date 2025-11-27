@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Nov 27 12:32:02 2025">
+<tv date="Thu Nov 27 18:30:12 2025">
   <channel id="ctgxhzeqrpjkgn6rvmjifl8no">
     <display-name>ctgxhzeqrpjkgn6rvmjifl8no</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ps0dtthel1za1bsbgjesvsb34_image-header_pEs_1763582745000/fill/none/top/none/85/300/180/webp/image"/>
@@ -223,6 +223,14 @@
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1cnt1c5t5nauirohwptij2l6i">
+    <display-name>1cnt1c5t5nauirohwptij2l6i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mo7efmuqaoxe1ttj8b2z08pio_image-header_pEs_1764258839000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="251xmjqo6y1np6atdueboogw5">
+    <display-name>251xmjqo6y1np6atdueboogw5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rdml3bo2qzq9nxr0clk55099_image-header_pEs_1764242971000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251127050800 +0000" stop="20251127110800 +0000" channel="ctgxhzeqrpjkgn6rvmjifl8no">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ps0dtthel1za1bsbgjesvsb34_image-header_pEs_1763582745000/fill/none/top/none/85/600/360/webp/image"/>
@@ -559,5 +567,17 @@
     <title lang="es">GLORY COLLISION 8</title>
     <desc lang="es">Veja toda a ação no DAZN</desc>
     <category lang="es">Kickboxing</category>
+  </programme>
+  <programme start="20251128012000 +0000" stop="20251128052000 +0000" channel="1cnt1c5t5nauirohwptij2l6i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mo7efmuqaoxe1ttj8b2z08pio_image-header_pEs_1764258839000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bengals @ Ravens (Madden NFL Cast)</title>
+    <desc lang="es">Action from the 2025 Season on NFL Game Pass on DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251128150000 +0000" stop="20251128210000 +0000" channel="251xmjqo6y1np6atdueboogw5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rdml3bo2qzq9nxr0clk55099_image-header_pEs_1764242971000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ronda 3 - Milan</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
