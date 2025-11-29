@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Nov 29 00:30:25 2025">
+<tv date="Sat Nov 29 12:30:16 2025">
   <channel id="703u5l8om160yyms7x8bdxjo">
     <display-name>703u5l8om160yyms7x8bdxjo</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8qgg192bd26r1wcmc5bqrbdpx_image-header_pEs_1763564064000/fill/none/top/none/85/300/180/webp/image"/>
@@ -187,10 +187,6 @@
   <channel id="5z6weica9hx2ymucw9op6zfwb">
     <display-name>5z6weica9hx2ymucw9op6zfwb</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/581a48jq8ldhxbzrh1ffhhp1p_image-header_pEs_1760288123000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="dr754jj64d2ah1o0nibbibuu3">
-    <display-name>dr754jj64d2ah1o0nibbibuu3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71x738jsjlnknb9nv4jozeiib_image-header_pEs_1763640202000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3r0snywqzzlqm89vpoo8z41lt">
     <display-name>3r0snywqzzlqm89vpoo8z41lt</display-name>
@@ -937,12 +933,6 @@
     <title lang="es">ADL 500 Supercars Event</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20251129075000 +0000" stop="20251129135000 +0000" channel="dr754jj64d2ah1o0nibbibuu3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/71x738jsjlnknb9nv4jozeiib_image-header_pEs_1763640202000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Clasificación - Esquí de fondo clásico al sprint</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251129093000 +0000" stop="20251129153000 +0000" channel="3r0snywqzzlqm89vpoo8z41lt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/edov2g1y5dsxa38lgnwn2yuqf_image-header_pEs_1762685316000/fill/none/top/none/85/600/360/webp/image"/>
