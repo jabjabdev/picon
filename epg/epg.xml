@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Dec 01 12:30:07 2025">
+<tv date="Mon Dec 01 12:32:02 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -127,6 +127,10 @@
   <channel id="cphws2nerlsp68t3u92fy2vnw">
     <display-name>cphws2nerlsp68t3u92fy2vnw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/103hyvntdikrt51mv5ep0z041_image-header_pEs_1759963797000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
+    <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
@@ -319,5 +323,11 @@
     <title lang="es">Bologna - Cremonese</title>
     <desc lang="es">Disfruta en DAZN de una nueva jornada de la Serie A y vive con nosotros el partidazo entre Bologna - Cremonese. ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ring V - Night of the Samurai</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
