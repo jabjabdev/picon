@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 03 00:30:09 2025">
+<tv date="Wed Dec 03 06:30:21 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -211,6 +211,10 @@
   <channel id="scwsqb0vspz50d4hp099ghgla0">
     <display-name>scwsqb0vspz50d4hp099ghgla0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/clne8p0wxxsoytxa9zxxgm5ex_image-header_pEs_1761560447000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5m326brm5mwnfgfhogbxyvs9m">
+    <display-name>5m326brm5mwnfgfhogbxyvs9m</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tgux1ovn7yce1cwfwpo549ahh_image-header_pEs_1764319544000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
@@ -529,5 +533,11 @@
     <title lang="es">Lazio - AC Milan</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203060000 +0000" channel="5m326brm5mwnfgfhogbxyvs9m">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tgux1ovn7yce1cwfwpo549ahh_image-header_pEs_1764319544000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wild vs. Oilers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
