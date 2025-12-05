@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Dec 05 12:30:30 2025">
+<tv date="Fri Dec 05 18:30:10 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -35,10 +35,6 @@
   <channel id="94w05hl4xk7fwa3dqk2sqwn1l">
     <display-name>94w05hl4xk7fwa3dqk2sqwn1l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9boz530pdzntpnddsjiz19qka_image-header_pEs_1755625920000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4y84x87tbxdo7pk1fqik28626">
-    <display-name>4y84x87tbxdo7pk1fqik28626</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4qe19jltltnjmtd5hfjc6vswn_image-header_pEs_1764589281000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="48wrtir6a1h401pj7onl1b2hty">
     <display-name>48wrtir6a1h401pj7onl1b2hty</display-name>
@@ -384,6 +380,10 @@
     <display-name>1hzir5y8mqmtqeqbrzbijca0u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3h05or8tl0ibg64k3suatl7ny_image-header_pEs_1750354449000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="jkqj6oizf88shgd64a46drj1">
+    <display-name>jkqj6oizf88shgd64a46drj1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu9wckdx9wze2o0coklux6eoz_image-header_pEs_1763755096000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GLORY COLLISION 8</title>
@@ -437,12 +437,6 @@
     <title lang="es">Sorteo Mundial 2026</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20251205163000 +0000" stop="20251205223000 +0000" channel="4y84x87tbxdo7pk1fqik28626">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4qe19jltltnjmtd5hfjc6vswn_image-header_pEs_1764589281000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Wisla - Femenino HS 134</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251205173000 +0000" stop="20251205200000 +0000" channel="48wrtir6a1h401pj7onl1b2hty">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5621lx5fzf29c8jb0hnu2pxnr_image-header_pEs_1763144307000/fill/none/top/none/85/600/360/webp/image"/>
@@ -959,5 +953,11 @@
     <title lang="es">Día 1 - HOKA Chiang Mai Thailand by UTMB</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20251206194500 +0000" stop="20251206221500 +0000" channel="jkqj6oizf88shgd64a46drj1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cu9wckdx9wze2o0coklux6eoz_image-header_pEs_1763755096000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hellas Verona - Atalanta</title>
+    <desc lang="es">Atalanta visita el Stadio Marcantonio Bentegodi para enfrentar al Hellas Verona en un emocionante choque de Serie A. En plena temporada 25/26, ambos equipos buscan puntos cruciales. ¿Podrá Verona defender su territorio o Atalanta logrará una victoria como visitante el 6 de diciembre? El escenario está listo para una batalla intensa.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
