@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Dec 06 12:30:17 2025">
+<tv date="Sat Dec 06 18:30:15 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -106,7 +106,7 @@
   </channel>
   <channel id="lxqtmij54yec0wnbzkovhm7k90">
     <display-name>lxqtmij54yec0wnbzkovhm7k90</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ewqmd1lfyyc1zngxpwfu2lwbl_image-header_pEs_1763739349000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tjmzse6a4qtjnn6uiidvy6bj_image-header_pEs_1763739349000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="rqx565ba1efq017g91kbgma2tz">
     <display-name>rqx565ba1efq017g91kbgma2tz</display-name>
@@ -155,10 +155,6 @@
   <channel id="d5oi7czeqh08gif2zgmwrjzyq">
     <display-name>d5oi7czeqh08gif2zgmwrjzyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ud4sxmqdzj17ccto3nav8djb_image-header_pEs_1763727344000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="8j33zap3cdico5w02ohnnl6nu">
-    <display-name>8j33zap3cdico5w02ohnnl6nu</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aj5ru840ymagbomdo1rexa6ek_image-header_pEs_1763026207000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="juuov2k9nqmmhaqdz4qvxj0u">
     <display-name>juuov2k9nqmmhaqdz4qvxj0u</display-name>
@@ -716,8 +712,8 @@
     <desc lang="es">Köln se enfrenta a St. Pauli en un emocionante choque de la Bundesliga 2025/2026. El RheinEnergieStadion será sede de este encuentro el 6 de diciembre, prometiendo una atmósfera electrizante. ¿Podrá Köln defender su territorio o St. Pauli logrará una victoria crucial fuera de casa? ¡No te pierdas este espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251206144500 +0000" stop="20251206171500 +0000" channel="lxqtmij54yec0wnbzkovhm7k90">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ewqmd1lfyyc1zngxpwfu2lwbl_image-header_pEs_1763739349000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251206151500 +0000" stop="20251206181500 +0000" channel="lxqtmij54yec0wnbzkovhm7k90">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tjmzse6a4qtjnn6uiidvy6bj_image-header_pEs_1763739349000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Deportivo Alavés - Real Sociedad</title>
     <desc lang="es">¡Alavés contra Real Sociedad - Un partido imperdible! Dos equipos vascos se enfrentan en un emocionante duelo regional. La rivalidad y la pasión estarán a flor de piel en este encuentro que promete acción y goles. No te pierdas este clásico del fútbol español que mantendrá a los aficionados al borde de sus asientos.</desc>
     <category lang="es">Fútbol</category>
@@ -793,12 +789,6 @@
     <title lang="es">Día 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20251206163000 +0000" stop="20251206223000 +0000" channel="8j33zap3cdico5w02ohnnl6nu">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aj5ru840ymagbomdo1rexa6ek_image-header_pEs_1763026207000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí alpino - Masculino y femenino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251206170000 +0000" stop="20251206193000 +0000" channel="juuov2k9nqmmhaqdz4qvxj0u">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecj67y5nesdwgwkxxa1vda9ia_image-header_pEs_1763755096000/fill/none/top/none/85/600/360/webp/image"/>
