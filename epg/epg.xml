@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Dec 07 12:30:10 2025">
+<tv date="Sun Dec 07 18:30:09 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -88,10 +88,6 @@
     <display-name>pi6jazgeu6fk01qdy7pj72aqtj</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2c0eyln9nfqp02rfgi0i25hrj_image-header_pEs_1763561162000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="5mhc4epefk6n4qg76d0qdyjrk">
-    <display-name>5mhc4epefk6n4qg76d0qdyjrk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/abw3g6pbn96euu072lrg3dltv_image-header_pEs_1763725415000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="y7gsrvmmrwx90oh9t005b1c5y0">
     <display-name>y7gsrvmmrwx90oh9t005b1c5y0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bpcxmxfbpp6mli8p4zsa88g7u_image-header_pEs_1763712912000/fill/none/top/none/85/300/180/webp/image"/>
@@ -118,7 +114,7 @@
   </channel>
   <channel id="2jt87uo9tvmolqt77s3mqtuw">
     <display-name>2jt87uo9tvmolqt77s3mqtuw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4bdc8p3q9oy937lxdruyice8s_image-header_pEs_1764073798000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ryhx8v7e8yn69jevbllilrvx_image-header_pEs_1764073798000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="e5q1yl65aqwl2zib2ee6xgkr8">
     <display-name>e5q1yl65aqwl2zib2ee6xgkr8</display-name>
@@ -452,12 +448,6 @@
     <desc lang="es">El Crystal Palace visita al Fulham en un emocionante choque de Premier League en Craven Cottage. La temporada 2025/26 se calienta el 7 de diciembre cuando estos rivales londinenses se enfrentan. ¿Marcará la diferencia la ventaja local del Fulham, o podrá el Palace arrebatar una victoria en terreno enemigo? ¡No te pierdas este partido que podría sacudir la clasificación!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251207163000 +0000" stop="20251207223000 +0000" channel="5mhc4epefk6n4qg76d0qdyjrk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/abw3g6pbn96euu072lrg3dltv_image-header_pEs_1763725415000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Saltos de esquí y esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20251207170000 +0000" stop="20251207203000 +0000" channel="y7gsrvmmrwx90oh9t005b1c5y0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bpcxmxfbpp6mli8p4zsa88g7u_image-header_pEs_1763712912000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Surne Bilbao - Dreamland Gran Canaria</title>
@@ -494,8 +484,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251207173000 +0000" stop="20251207210000 +0000" channel="2jt87uo9tvmolqt77s3mqtuw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4bdc8p3q9oy937lxdruyice8s_image-header_pEs_1764073798000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251207180000 +0000" stop="20251207204500 +0000" channel="2jt87uo9tvmolqt77s3mqtuw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ryhx8v7e8yn69jevbllilrvx_image-header_pEs_1764073798000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Kosner Baskonia - Valencia Basket</title>
     <desc lang="es">Valencia se prepara para enfrentarse a Baskonia en un emocionante choque de la Liga ACB el 7 de diciembre de 2025. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan una victoria crucial. ¿Será decisiva la ventaja de jugar en casa para Valencia, o Baskonia logrará una actuación espectacular? ¡Aficionados al baloncesto, este partido promete pura emoción!</desc>
     <category lang="es">Baloncesto</category>
