@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 09 12:30:04 2025">
+<tv date="Tue Dec 09 18:30:03 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -15,10 +15,6 @@
   <channel id="arui06kswccnubikh9erfr68u">
     <display-name>arui06kswccnubikh9erfr68u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2beb6t30wf6k1fmqdmblpzgq4_image-header_pEs_1765121637000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="51s1i2jj2evw4mbttkpz6wgxa">
-    <display-name>51s1i2jj2evw4mbttkpz6wgxa</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djxdp7ir1mthkjlsg7dbeb76t_image-header_pEs_1764159412000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="4bad7qifr0nrw4tdmbccdmjti">
     <display-name>4bad7qifr0nrw4tdmbccdmjti</display-name>
@@ -100,6 +96,14 @@
     <display-name>cdb3tkiuk0fi7xz05cl1tch91</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5dimjne67f9fq9y6nvyoi23st_image-header_pEs_1765252305000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1fgwi5f2ku4j96uvptfc5r8fl">
+    <display-name>1fgwi5f2ku4j96uvptfc5r8fl</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vnhtz8njuf2mgib2mbgaohj1_image-header_pEs_1765297004000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="84tcivbo8vmyqbrf8x3lg7y4">
+    <display-name>84tcivbo8vmyqbrf8x3lg7y4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4lxruw7v6lsnrcn6kgt7epgy7_image-header_pEs_1765286581000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GLORY COLLISION 8</title>
@@ -123,12 +127,6 @@
     <title lang="es">Día 2 - Sudáfrica</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
-  </programme>
-  <programme start="20251209170000 +0000" stop="20251209230000 +0000" channel="51s1i2jj2evw4mbttkpz6wgxa">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/djxdp7ir1mthkjlsg7dbeb76t_image-header_pEs_1764159412000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">LALIGA FC 26 - Community Challenge</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">eSports</category>
   </programme>
   <programme start="20251209233000 +0000" stop="20251210030000 +0000" channel="4bad7qifr0nrw4tdmbccdmjti">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vwqrnkxxnt41ufvq48ow008u_image-header_pEs_1764963161000/fill/none/top/none/85/600/360/webp/image"/>
@@ -232,7 +230,7 @@
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251210210000 +0000" stop="20251211030000 +0000" channel="5pdhyaa46a3qdjqf5gc5pvqi6">
+  <programme start="20251210180000 +0000" stop="20251211000000 +0000" channel="5pdhyaa46a3qdjqf5gc5pvqi6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/m7abskyzv7m91v7lty0m6yqp7_image-header_pEs_1765197631000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Lopez vs. Stevenson - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -249,5 +247,17 @@
     <title lang="es">Día 3 - Sudáfrica</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20251210073000 +0000" stop="20251210133000 +0000" channel="1fgwi5f2ku4j96uvptfc5r8fl">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vnhtz8njuf2mgib2mbgaohj1_image-header_pEs_1765297004000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">eFootball Console - Fase de grupos</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20251210124500 +0000" stop="20251210184500 +0000" channel="84tcivbo8vmyqbrf8x3lg7y4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4lxruw7v6lsnrcn6kgt7epgy7_image-header_pEs_1765286581000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">eFootball Mobile - Fase de grupos</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
   </programme>
 </tv>
