@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Dec 10 18:30:02 2025">
+<tv date="Wed Dec 10 18:32:02 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -91,6 +91,10 @@
   <channel id="2iurh37vatl0pm7tv221qu0eg">
     <display-name>2iurh37vatl0pm7tv221qu0eg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cau5mwynyffi9ejucvyhdgi8d_image-header_pEs_1735314821000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="99ht362hx4a3ku6huc7tj6zqu">
+    <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
@@ -229,5 +233,11 @@
     <title lang="es">Ronda 1 - Parte 4 - Shoot Out</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RING 6 - Lopez vs. Stevenson</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
