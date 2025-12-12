@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Dec 12 12:30:07 2025">
+<tv date="Fri Dec 12 18:30:09 2025">
   <channel id="b2zrg3ad2p9iq7opdl720vy5i">
     <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
@@ -324,6 +324,10 @@
     <display-name>cp45g8ma3bip5pawrpcruinm6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/139pfuhn6osh1r0isnh42x9d9_image-header_pEs_1765524246000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="6fbrk6bt97ebgi5cc4rrx2nyx">
+    <display-name>6fbrk6bt97ebgi5cc4rrx2nyx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9iibunbfec1n0q3sceh9bbmna_image-header_pEs_1764674167000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">GLORY COLLISION 8</title>
@@ -474,7 +478,7 @@
     <desc lang="es"/>
     <category lang="es">Deportes de invierno</category>
   </programme>
-  <programme start="20251213092000 +0000" stop="20251213152000 +0000" channel="dzrg8no86km738qmu7k9yho9">
+  <programme start="20251213102000 +0000" stop="20251213162000 +0000" channel="dzrg8no86km738qmu7k9yho9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xs6kr7ontv1a1lsy28a05jw5m_image-header_pEs_1734615061000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Snowboard, biatlón, saltos de esquí y freestyle</title>
     <desc lang="es"/>
@@ -809,5 +813,11 @@
     <title lang="es">Conor Cooke vs. Anthony Holmes</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20251213160000 +0000" stop="20251213220000 +0000" channel="6fbrk6bt97ebgi5cc4rrx2nyx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9iibunbfec1n0q3sceh9bbmna_image-header_pEs_1764674167000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Glory 105 - Preliminares</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Kickboxing</category>
   </programme>
 </tv>
