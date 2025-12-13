@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Dec 13 18:30:13 2025">
-  <channel id="b2zrg3ad2p9iq7opdl720vy5i">
-    <display-name>b2zrg3ad2p9iq7opdl720vy5i</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
+<tv date="Sun Dec 14 00:30:11 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -176,10 +172,6 @@
     <display-name>3v6dpilhsy546k295r4ephqyq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cmfxevna1jfnyehgf2u1stac_image-header_pEs_1735314821000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="1al8m6m2v42pao3gnmm8kacpa0">
-    <display-name>1al8m6m2v42pao3gnmm8kacpa0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b8qacu0eyt7ikmc6uok085qu_image-header_pEs_1763649396000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="901utya6qodx5smpzd3rztx1d">
     <display-name>901utya6qodx5smpzd3rztx1d</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nriftaskve3y114docjwxe0yn_image-header_pEs_1765202348000/fill/none/top/none/85/300/180/webp/image"/>
@@ -227,10 +219,6 @@
   <channel id="aw70ac7rqxaids2mb4gn3tf06">
     <display-name>aw70ac7rqxaids2mb4gn3tf06</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/p86it2l1gmiq1nll7ywnzw68c_image-header_pEs_1765204514000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cp45g8ma3bip5pawrpcruinm6">
-    <display-name>cp45g8ma3bip5pawrpcruinm6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/139pfuhn6osh1r0isnh42x9d9_image-header_pEs_1765524246000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="6fbrk6bt97ebgi5cc4rrx2nyx">
     <display-name>6fbrk6bt97ebgi5cc4rrx2nyx</display-name>
@@ -536,12 +524,66 @@
     <display-name>5laa36kp5q6629w9k0jube0z5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bvoagh3fx77pnq2fk5qi49f8s_image-header_pEs_1764884061000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <programme start="20251213180000 +0000" stop="20251214000000 +0000" channel="b2zrg3ad2p9iq7opdl720vy5i">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2af56i6ivy1zy7wfvyz5g5r08_image-header_pEs_1764224262000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">GLORY COLLISION 8</title>
-    <desc lang="es">Veja toda a ação no DAZN</desc>
-    <category lang="es">Kickboxing</category>
-  </programme>
+  <channel id="21cfa16lewpme2pxuqu3o3cic">
+    <display-name>21cfa16lewpme2pxuqu3o3cic</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/163wdpk5jmkr313o1xol4rb64j_image-header_pEs_1764323179000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="41tmt5caoecamgpunexg09bft">
+    <display-name>41tmt5caoecamgpunexg09bft</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sb5c23dhxr78zx63i4kk10pk_image-header_pEs_1765225796000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="221d5hdnwzz8vh0ykq5fkax3o">
+    <display-name>221d5hdnwzz8vh0ykq5fkax3o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jao8qig2x4lz10445kbygo8ku_image-header_pEs_1763884301000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="22q6r400z6zyh89gnbqeye42c">
+    <display-name>22q6r400z6zyh89gnbqeye42c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/lhmpwjg2rhwd1kuj7q0atdljt_image-header_pEs_1763985796000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="23f924ycci1r887xelxajpfkk">
+    <display-name>23f924ycci1r887xelxajpfkk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3d7vvevyg1fe1obxhhirlg379_image-header_pEs_1763985796000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5rqqktrpecngm6s8g24mkk5qs">
+    <display-name>5rqqktrpecngm6s8g24mkk5qs</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x2uh4qb3xbas12gtj6kpknvbd_image-header_pEs_1751969214000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="92igrlexibayqsxlt67ahszbg">
+    <display-name>92igrlexibayqsxlt67ahszbg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pf9nn22v99mz1xkyu0asfen12_image-header_pEs_1751969214000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5hv8spl0mxhtvueqrjurzq3wy">
+    <display-name>5hv8spl0mxhtvueqrjurzq3wy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccn0rbruj8j0ckw6pviftivob_image-header_pEs_1763930432000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e1eun125wh557ixegaus6dje4">
+    <display-name>e1eun125wh557ixegaus6dje4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8e8g7l37w61w3nwfsp6o7qfc3_image-header_pEs_1765289701000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3n7f84298h6u2epomtocbnb2u">
+    <display-name>3n7f84298h6u2epomtocbnb2u</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80s8owy5ol7u9r5jphefdew3f_image-header_pEs_1761070288000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1d5g1facdk9oe1o1ah10fu4x21">
+    <display-name>1d5g1facdk9oe1o1ah10fu4x21</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e7z68d8cx8j96tty2zbng4q4_image-header_pEs_1764622901000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="175ws1eui81rxfhwfas2wmdvt">
+    <display-name>175ws1eui81rxfhwfas2wmdvt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ruo3bakpejw61q4br4k4ouef4_image-header_pEs_1760437439000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1e0a374aqmlny12jk89nd4s48l">
+    <display-name>1e0a374aqmlny12jk89nd4s48l</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/639om8lw1x62ja8e41mold4pn_image-header_pEs_1763995484000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3z3rkqsr7b2f0fbv61ldqp97i0">
+    <display-name>3z3rkqsr7b2f0fbv61ldqp97i0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5fe48chfuvie5z3yt79k5lw4g_image-header_pEs_1764078747000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="11njhctiuh82bdudf4mlftz8z0">
+    <display-name>11njhctiuh82bdudf4mlftz8z0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94eqtnwfr2oil4elnjpd5bl1m_image-header_pEs_1763999766000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ring V - Night of the Samurai</title>
@@ -800,12 +842,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20251213190000 +0000" stop="20251213223000 +0000" channel="1al8m6m2v42pao3gnmm8kacpa0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6b8qacu0eyt7ikmc6uok085qu_image-header_pEs_1763649396000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Dreamland Gran Canaria - Kosner Baskonia</title>
-    <desc lang="es">Baskonia viaja al Gran Canaria Arena para un emocionante choque de la Liga ACB. La temporada 25/26 se calienta cuando Gran Canaria defiende su cancha el 13 de diciembre de 2025. ¿Podrá Gran Canaria aprovechar su ventaja local para ganar, o Baskonia se robará el espectáculo? ¡Aficionados al baloncesto, este partido es imperdible!</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
   <programme start="20251213190000 +0000" stop="20251213223000 +0000" channel="901utya6qodx5smpzd3rztx1d">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nriftaskve3y114docjwxe0yn_image-header_pEs_1765202348000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Marquette @ Purdue</title>
@@ -877,12 +913,6 @@
     <title lang="es">Nebraska @ Illinois</title>
     <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20251213190000 +0000" stop="20251214010000 +0000" channel="cp45g8ma3bip5pawrpcruinm6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/139pfuhn6osh1r0isnh42x9d9_image-header_pEs_1765524246000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Conor Cooke vs. Anthony Holmes</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Bare Knuckle</category>
   </programme>
   <programme start="20251213160000 +0000" stop="20251213220000 +0000" channel="6fbrk6bt97ebgi5cc4rrx2nyx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9iibunbfec1n0q3sceh9bbmna_image-header_pEs_1764674167000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1339,5 +1369,95 @@
     <title lang="es">Packers @ Broncos (en castellano)</title>
     <desc lang="es">Disfruta del mejor fútbol americano con el duelo entre Green Bay Packers y Denver Broncos.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251214220000 +0000" stop="20251215040000 +0000" channel="21cfa16lewpme2pxuqu3o3cic">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/163wdpk5jmkr313o1xol4rb64j_image-header_pEs_1764323179000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Flyers vs. Hurricanes</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251214223000 +0000" stop="20251215020000 +0000" channel="41tmt5caoecamgpunexg09bft">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sb5c23dhxr78zx63i4kk10pk_image-header_pEs_1765225796000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Michigan State @ DePaul</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251214230000 +0000" stop="20251215050000 +0000" channel="221d5hdnwzz8vh0ykq5fkax3o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jao8qig2x4lz10445kbygo8ku_image-header_pEs_1763884301000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bruins vs. Wild</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251215000000 +0000" stop="20251215060000 +0000" channel="22q6r400z6zyh89gnbqeye42c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/lhmpwjg2rhwd1kuj7q0atdljt_image-header_pEs_1763985796000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Oilers vs. Canadiens</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251215010000 +0000" stop="20251215070000 +0000" channel="23f924ycci1r887xelxajpfkk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3d7vvevyg1fe1obxhhirlg379_image-header_pEs_1763985796000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sabres vs. Kraken</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20251215012000 +0000" stop="20251215052000 +0000" channel="5rqqktrpecngm6s8g24mkk5qs">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x2uh4qb3xbas12gtj6kpknvbd_image-header_pEs_1751969214000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Cowboys</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251215012000 +0000" stop="20251215052000 +0000" channel="92igrlexibayqsxlt67ahszbg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1pf9nn22v99mz1xkyu0asfen12_image-header_pEs_1751969214000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Cowboys (en español)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251215012000 +0000" stop="20251215052000 +0000" channel="5hv8spl0mxhtvueqrjurzq3wy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ccn0rbruj8j0ckw6pviftivob_image-header_pEs_1763930432000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Vikings @ Cowboys (en castellano)</title>
+    <desc lang="es">Vive el encuentro de NFL Domestic entre Dallas Cowboys - Domestic y Minnesota Vikings - Domestic.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251215103000 +0000" stop="20251215163000 +0000" channel="e1eun125wh557ixegaus6dje4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8e8g7l37w61w3nwfsp6o7qfc3_image-header_pEs_1765289701000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rocket League - Grupo B - Ronda 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20251215140000 +0000" stop="20251215163000 +0000" channel="3n7f84298h6u2epomtocbnb2u">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80s8owy5ol7u9r5jphefdew3f_image-header_pEs_1761070288000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Programa 14</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251215170000 +0000" stop="20251215193000 +0000" channel="1d5g1facdk9oe1o1ah10fu4x21">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3e7z68d8cx8j96tty2zbng4q4_image-header_pEs_1764622901000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Union Berlin - Eintracht Frankfurt</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251216010000 +0000" channel="175ws1eui81rxfhwfas2wmdvt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ruo3bakpejw61q4br4k4ouef4_image-header_pEs_1760437439000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inside The Ring - Dec. 15</title>
+    <desc lang="es">Únete a Max Kellerman, Mike Coppinger y LeSean McCoy cada semana para conocer las últimas noticias, entrevistas exclusivas y reacciones en profundidad a los resultados más recientes.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251215193000 +0000" stop="20251215220000 +0000" channel="1e0a374aqmlny12jk89nd4s48l">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/639om8lw1x62ja8e41mold4pn_image-header_pEs_1763995484000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">CD Castellón - CD Mirandés</title>
+    <desc lang="es">Castellón se enfrenta a Mirandés en un emocionante choque de Segunda División en el Estadio Municipal Castalia. Con la temporada 25/26 de LaLiga 2 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Quién saldrá victorioso en este enfrentamiento del 14 de diciembre? ¡Sintoniza para una noche de emoción futbolística!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251215194500 +0000" stop="20251215221500 +0000" channel="3z3rkqsr7b2f0fbv61ldqp97i0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5fe48chfuvie5z3yt79k5lw4g_image-header_pEs_1764078747000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AS Roma - Como</title>
+    <desc lang="es">Como visita al Roma en el icónico Stadio Olimpico en un emocionante choque de la Serie A 25/26. El enfrentamiento del 15 de diciembre promete acción intensa mientras ambos equipos buscan escalar posiciones. ¿Podrá Roma defender su territorio o Como dará la sorpresa? ¡El mundo del fútbol espera ansioso este apasionante duelo!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251215200000 +0000" stop="20251215223000 +0000" channel="11njhctiuh82bdudf4mlftz8z0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/94eqtnwfr2oil4elnjpd5bl1m_image-header_pEs_1763999766000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester United - Bournemouth</title>
+    <desc lang="es">El AFC Bournemouth viaja para enfrentar al Manchester United en Old Trafford en un choque de la Premier League 25/26. El partido del 13 de diciembre promete acción intensa mientras ambos equipos luchan por puntos cruciales. ¿Podrá Bournemouth sorprender a los Red Devils en su campo? ¡Sintonice para un emocionante espectáculo futbolístico!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
