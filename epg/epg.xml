@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 16 12:30:04 2025">
+<tv date="Tue Dec 16 18:30:03 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -11,10 +11,6 @@
   <channel id="5nkkkepzx0ktyk9a1bnl72hlu">
     <display-name>5nkkkepzx0ktyk9a1bnl72hlu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/adoz3ex3qc7ks8trcobplqyk0_image-header_pEs_1765289532000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="f3c4fvt30indvrxtt62zx2bjq">
-    <display-name>f3c4fvt30indvrxtt62zx2bjq</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90njbcu7opdueyxmb1eezp5ev_image-header_pEs_1763027690000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="aaxg15b07l46sntt4d7vq41ec">
     <display-name>aaxg15b07l46sntt4d7vq41ec</display-name>
@@ -113,12 +109,6 @@
     <title lang="es">Rocket League - Grupo B - Ronda 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
-  </programme>
-  <programme start="20251216163000 +0000" stop="20251216223000 +0000" channel="f3c4fvt30indvrxtt62zx2bjq">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/90njbcu7opdueyxmb1eezp5ev_image-header_pEs_1763027690000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251216194500 +0000" stop="20251216221500 +0000" channel="aaxg15b07l46sntt4d7vq41ec">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/12ha5o0xtjjog169kq3z9mtl63_image-header_pEs_1765374902000/fill/none/top/none/85/600/360/webp/image"/>
