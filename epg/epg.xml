@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 16 00:30:11 2025">
+<tv date="Tue Dec 16 06:30:02 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -159,6 +159,10 @@
   <channel id="544b0ezjix8i0b5859yam9pa2">
     <display-name>544b0ezjix8i0b5859yam9pa2</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dx1zvjguo77o1s88fu56gtn5c_image-header_pEs_1761928343000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2d30q2xgh1mksact6ddgtzfh0">
+    <display-name>2d30q2xgh1mksact6ddgtzfh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rdobeseflzjr12dlsyk96xhy7_image-header_pEs_1763985796000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
@@ -399,5 +403,11 @@
     <title lang="es">Visioli vs. Howarth</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251217030000 +0000" stop="20251217090000 +0000" channel="2d30q2xgh1mksact6ddgtzfh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/rdobeseflzjr12dlsyk96xhy7_image-header_pEs_1763985796000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Avalanche vs. Kraken</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
