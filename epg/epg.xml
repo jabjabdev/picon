@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Dec 19 12:30:10 2025">
+<tv date="Fri Dec 19 18:30:11 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -15,10 +15,6 @@
   <channel id="5m1wjxpppkn41f4fev9hg7q4b">
     <display-name>5m1wjxpppkn41f4fev9hg7q4b</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2esemxyaa6rhkb5cqr9k34grz_image-header_pEs_1765289701000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e6cu5ug015exi3i6tw1ixuoqz">
-    <display-name>e6cu5ug015exi3i6tw1ixuoqz</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wlb1uwzpqrgy1q9vdxpp3ydz3_image-header_pEs_1765963555000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="ccnb0teu33250qegoyycgdyhm0">
     <display-name>ccnb0teu33250qegoyycgdyhm0</display-name>
@@ -355,12 +351,6 @@
     <title lang="es">Rocket League - Semifinales &amp; Final</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
-  </programme>
-  <programme start="20251219170000 +0000" stop="20251219230000 +0000" channel="e6cu5ug015exi3i6tw1ixuoqz">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1wlb1uwzpqrgy1q9vdxpp3ydz3_image-header_pEs_1765963555000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Richards vs. Azeez - Weigh-In</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20251219173000 +0000" stop="20251219200000 +0000" channel="ccnb0teu33250qegoyycgdyhm0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bf3n294yko8a7eatedbzkmxan_image-header_pEs_1763146638000/fill/none/top/none/85/600/360/webp/image"/>
