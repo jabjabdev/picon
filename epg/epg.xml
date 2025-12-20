@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Dec 20 12:30:12 2025">
+<tv date="Sat Dec 20 18:30:13 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -106,7 +106,7 @@
   </channel>
   <channel id="xjz45bdhwdp00y96vamsng52c0">
     <display-name>xjz45bdhwdp00y96vamsng52c0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0e3td96oqidpt7oq30tdnvcu_image-header_pEs_1764605267000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6z2rjhncnt7l4yckhd4jii4d3_image-header_pEs_1764605267000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="x80nvyqyia710srvs2zakwlj20">
     <display-name>x80nvyqyia710srvs2zakwlj20</display-name>
@@ -115,10 +115,6 @@
   <channel id="1dkrkl6opz3ah1j7dhpc0ptlba">
     <display-name>1dkrkl6opz3ah1j7dhpc0ptlba</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ado0975jusgv3905ae9hx92c6_image-header_pEs_1764345540000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3ba214ksaw5xjirrsbonqhg0d">
-    <display-name>3ba214ksaw5xjirrsbonqhg0d</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ubtrvrymcvx16cscpcr1f137_image-header_pEs_1765966227000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="dylrwjdar3aibjypacife124p">
     <display-name>dylrwjdar3aibjypacife124p</display-name>
@@ -704,8 +700,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">MMA</category>
   </programme>
-  <programme start="20251220170000 +0000" stop="20251220193000 +0000" channel="xjz45bdhwdp00y96vamsng52c0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d0e3td96oqidpt7oq30tdnvcu_image-header_pEs_1764605267000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251220173000 +0000" stop="20251220203000 +0000" channel="xjz45bdhwdp00y96vamsng52c0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6z2rjhncnt7l4yckhd4jii4d3_image-header_pEs_1764605267000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">CA Osasuna - Deportivo Alavés</title>
     <desc lang="es">Narración y comentarios: Andrea Segura, Miguel Quintana, Álex De Llano. Narración en euskera: Eñaut Zuazo. Equipo DAZN: Ainhoa Pérez | Disfruta del encuentro de LALIGA EA SPORTS entre CA Osasuna y Deportivo Alavés.</desc>
     <category lang="es">Fútbol</category>
@@ -721,12 +717,6 @@
     <title lang="es">Lazio - Cremonese</title>
     <desc lang="es">El Lazio recibe al Cremonese en el Stadio Olimpico en un crucial enfrentamiento de la Serie A 25/26. Con ambos equipos ansiosos por sumar puntos, ¿quién saldrá victorioso en este duelo de diciembre? ¿Podrá el equipo local aprovechar su ventaja de casa, o los visitantes darán la sorpresa? ¡Sintoniza para un partido emocionante!</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20251220170000 +0000" stop="20251220230000 +0000" channel="3ba214ksaw5xjirrsbonqhg0d">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ubtrvrymcvx16cscpcr1f137_image-header_pEs_1765966227000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Richards vs. Azeez - Preliminares</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20251220170000 +0000" stop="20251220203000 +0000" channel="dylrwjdar3aibjypacife124p">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/oe8z87o0u6rj19mqka5dxb9go_image-header_pEs_1765451843000/fill/none/top/none/85/600/360/webp/image"/>
