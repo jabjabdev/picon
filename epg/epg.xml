@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Dec 20 00:30:23 2025">
+<tv date="Sat Dec 20 09:04:11 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -99,14 +99,6 @@
   <channel id="bt7lssrbw3o9zze411r0qghl4">
     <display-name>bt7lssrbw3o9zze411r0qghl4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/citd3vgwa28il7somz59sultd_image-header_pEs_1765457241000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1woa199bvabq333pamex4gnco">
-    <display-name>1woa199bvabq333pamex4gnco</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ifn04h2dcv763tbyng9qysgf_image-header_pEs_1764330241000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="f0ekt46qsggxnyuwj5n8pore2">
-    <display-name>f0ekt46qsggxnyuwj5n8pore2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e602o8wweougewa8rqx8ql8g4_image-header_pEs_1764329301000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2p6f5hjdvx8zxbbd83pupm74">
     <display-name>2p6f5hjdvx8zxbbd83pupm74</display-name>
@@ -644,6 +636,10 @@
     <display-name>3x8qt62c2kx1hx33dpuvsefdy</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vha8r1580yiv1ufsf25ug4h6k_image-header_pEs_1765451843000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="medw0rnzmkuiosd579rhfojz">
+    <display-name>medw0rnzmkuiosd579rhfojz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/20psvbrm8yuorkibc0x59zokd_image-header_pEs_1763513032000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Ring V - Night of the Samurai</title>
@@ -793,18 +789,6 @@
     <title lang="es">Clasificación - Sharjah</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Powerboat Racing</category>
-  </programme>
-  <programme start="20251220072000 +0000" stop="20251220132000 +0000" channel="1woa199bvabq333pamex4gnco">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6ifn04h2dcv763tbyng9qysgf_image-header_pEs_1764330241000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Eslalom femenino - Copa mundial Audi FIS de Esquí Alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
-  <programme start="20251220072000 +0000" stop="20251220132000 +0000" channel="f0ekt46qsggxnyuwj5n8pore2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e602o8wweougewa8rqx8ql8g4_image-header_pEs_1764329301000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Combinada nórdica - Mundial Viesmann FIS 2025</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20251220083000 +0000" stop="20251220143000 +0000" channel="2p6f5hjdvx8zxbbd83pupm74">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/egzxgcot7026i5nee2i4nw0an_image-header_pEs_1763685476000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1609,5 +1593,11 @@
     <title lang="es">UConn @ DePaul</title>
     <desc lang="es">DePaul visita a UConn en un emocionante enfrentamiento de baloncesto de la NCAA División I el 21 de diciembre de 2025. Con la conferencia Big East en pleno apogeo, ambos equipos buscan una victoria crucial. ¿Será la ventaja de local de UConn el factor decisivo, o podrá DePaul lograr una sorpresa? ¡No te pierdas esta acción de baloncesto de alto vuelo!</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251221180000 +0000" stop="20251221220000 +0000" channel="medw0rnzmkuiosd579rhfojz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/20psvbrm8yuorkibc0x59zokd_image-header_pEs_1763513032000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bengals @ Dolphins (en castellano)</title>
+    <desc lang="es">Vive el encuentro de NFL Domestic entre Cincinnati Bengals - Domestic y Miami Dolphins - Domestic.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
