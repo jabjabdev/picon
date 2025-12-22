@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Dec 22 00:30:05 2025">
+<tv date="Mon Dec 22 09:04:02 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -379,6 +379,10 @@
   <channel id="eanuch12ckweq2x60tj5z15dq">
     <display-name>eanuch12ckweq2x60tj5z15dq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1gj4qxpf39r1m109ijdw1q8qtc_image-header_pEs_1766005434000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7zir6mpdn0k5qhpap3jq9jb00">
+    <display-name>7zir6mpdn0k5qhpap3jq9jb00</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4l2vvld8e8r1anpkdh9mtoum_image-header_pEs_1765992655000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
@@ -949,5 +953,11 @@
     <title lang="es">UC-Riverside @ UCLA</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251223093000 +0000" stop="20251223153000 +0000" channel="7zir6mpdn0k5qhpap3jq9jb00">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a4l2vvld8e8r1anpkdh9mtoum_image-header_pEs_1765992655000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">The Ring V - Grand Arrivals</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
