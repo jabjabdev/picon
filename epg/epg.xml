@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 23 18:30:04 2025">
+<tv date="Wed Dec 24 00:30:03 2025">
   <channel id="1tfzj0nr23f1mzu8dbz7vkf5f">
     <display-name>1tfzj0nr23f1mzu8dbz7vkf5f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/300/180/webp/image"/>
@@ -95,6 +95,30 @@
   <channel id="8sarkvcttpfystc827jhb2tz4">
     <display-name>8sarkvcttpfystc827jhb2tz4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/tfu8pt40o1pm1xxgb8s90hafl_image-header_pEs_1765992770000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="97bl5n0y04i5ms185zng7dweb">
+    <display-name>97bl5n0y04i5ms185zng7dweb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i8bpnqp78a7213athyz3gvzba_image-header_pEs_1765992854000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3ssg84drxuxs0ttvqztj7rh5w">
+    <display-name>3ssg84drxuxs0ttvqztj7rh5w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/274fhi7fq4h4rbpxw8fbm8doi_image-header_pEs_1761034241000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="rvld91pxlp5h0vyewz2170mx80">
+    <display-name>rvld91pxlp5h0vyewz2170mx80</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn8jweq696o98ht8cz2x0mp1l_image-header_pEs_1762970900000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="75pjlr3s66z62e54vbp6y8r9w">
+    <display-name>75pjlr3s66z62e54vbp6y8r9w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mf52n4cthby81uwdg49emoet5_image-header_pEs_1751971159000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1ws746pk7pwnak73u4i9mdu2k0">
+    <display-name>1ws746pk7pwnak73u4i9mdu2k0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/idweuj3gwopvqu761m65amta_image-header_pEs_1762970900000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="78h3v40hxq0ur3rlbje9te904">
+    <display-name>78h3v40hxq0ur3rlbje9te904</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18hnio4s3sf651msi5lwjiqnkr_image-header_pEs_1751971159000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20251227170000 +0000" stop="20251227230000 +0000" channel="1tfzj0nr23f1mzu8dbz7vkf5f">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hzmxjnhxdvy214r8kgp80jz49_image-header_pEs_1762437998000/fill/none/top/none/85/600/360/webp/image"/>
@@ -239,5 +263,41 @@
     <title lang="es">The Ring V - Open Workout</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251225100000 +0000" stop="20251225160000 +0000" channel="97bl5n0y04i5ms185zng7dweb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/i8bpnqp78a7213athyz3gvzba_image-header_pEs_1765992854000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">The Ring V - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20251225130000 +0000" stop="20251225190000 +0000" channel="3ssg84drxuxs0ttvqztj7rh5w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/274fhi7fq4h4rbpxw8fbm8doi_image-header_pEs_1761034241000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera nocturna #12 - Riyadh Racing Season</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Carreras de caballos</category>
+  </programme>
+  <programme start="20251225170000 +0000" stop="20251225203000 +0000" channel="rvld91pxlp5h0vyewz2170mx80">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bn8jweq696o98ht8cz2x0mp1l_image-header_pEs_1762970900000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cleveland Cavaliers @ New York Knicks</title>
+    <desc lang="es">Los New York Knicks se enfrentarán a los Cleveland Cavaliers en un emocionante partido de la temporada NBA 25/26. El Madison Square Garden albergará este choque navideño el 25 de diciembre de 2025. ¿Podrán los Knicks defender su cancha contra el desafío de los Cavaliers? ¡Prepara tu espíritu festivo y sintoniza para disfrutar de una acción de baloncesto navideña!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251225180000 +0000" stop="20251225220000 +0000" channel="75pjlr3s66z62e54vbp6y8r9w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mf52n4cthby81uwdg49emoet5_image-header_pEs_1751971159000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cowboys @ Commanders (también disponible en español)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20251225193000 +0000" stop="20251225230000 +0000" channel="1ws746pk7pwnak73u4i9mdu2k0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/idweuj3gwopvqu761m65amta_image-header_pEs_1762970900000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">San Antonio Spurs @ Oklahoma City Thunder</title>
+    <desc lang="es">Los San Antonio Spurs visitan a los Oklahoma City Thunder en un enfrentamiento navideño de la temporada NBA 25/26. Este partido, que se desarrollará en el Paycom Center, promete emoción baloncestística festiva. ¿Podrán los Spurs desenvolver una victoria a domicilio, o defenderán los Thunder su cancha? ¡Sintoniza para ver esta acción festiva!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20251225213000 +0000" stop="20251226013000 +0000" channel="78h3v40hxq0ur3rlbje9te904">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18hnio4s3sf651msi5lwjiqnkr_image-header_pEs_1751971159000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lions @ Vikings (también disponible en español)</title>
+    <desc lang="es">Acción de la temporada 2025 de la NFL en Game Pass por DAZN.</desc>
+    <category lang="es">Fútbol Americano</category>
   </programme>
 </tv>
