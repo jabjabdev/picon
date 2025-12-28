@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Dec 28 12:30:08 2025">
+<tv date="Sun Dec 28 18:30:07 2025">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -19,10 +19,6 @@
   <channel id="h743s71qdxu7yafx1ikickw3">
     <display-name>h743s71qdxu7yafx1ikickw3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1y5ou32chshy3sz3w2mobtqxn_image-header_pEs_1764607120000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="3em4ighh3rg0akew9kqenxvp6">
-    <display-name>3em4ighh3rg0akew9kqenxvp6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/em7869bm1bijf6f52bfmtxf1u_image-header_pEs_1765475347000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1deh7zirnn75opdncsjxy8l0q0">
     <display-name>1deh7zirnn75opdncsjxy8l0q0</display-name>
@@ -62,7 +58,7 @@
   </channel>
   <channel id="35p8xnfqs8t0yuph54hp1yiop">
     <display-name>35p8xnfqs8t0yuph54hp1yiop</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aewrgwlg1teyy3ftwupjn3hce_image-header_pEs_1763729088000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e14x33zel06q0lqb6cgho97ct_image-header_pEs_1763729088000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3fu55fkjghq3o3telzlmadail">
     <display-name>3fu55fkjghq3o3telzlmadail</display-name>
@@ -302,12 +298,6 @@
     <desc lang="es">La Laguna Tenerife recibe a Dreamland Gran Canaria en la jornada 12 de la Liga Endesa. Disfruta en DAZN del derbi insular</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20251228130000 +0000" stop="20251228190000 +0000" channel="3em4ighh3rg0akew9kqenxvp6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/em7869bm1bijf6f52bfmtxf1u_image-header_pEs_1765475347000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Copa Mundial - Esquí de fondo</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20251228140000 +0000" stop="20251228163000 +0000" channel="1deh7zirnn75opdncsjxy8l0q0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vbp8zqe1dz7kn0j25h98grbb_image-header_pEs_1764608691000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Cremonese - Napoli</title>
@@ -362,8 +352,8 @@
     <desc lang="es">El Sassuolo visita al Bologna en el Renato Dall'Ara para un enfrentamiento de la Serie A 25/26 el 28 de diciembre de 2025. Ambos equipos buscan ascender en la tabla en este choque local. ¿Podrá el Bologna defender su territorio o el Sassuolo logrará una victoria fuera de casa? ¡Sintoniza para disfrutar del fútbol italiano!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20251228173000 +0000" stop="20251228210000 +0000" channel="35p8xnfqs8t0yuph54hp1yiop">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aewrgwlg1teyy3ftwupjn3hce_image-header_pEs_1763729088000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20251228180000 +0000" stop="20251228204500 +0000" channel="35p8xnfqs8t0yuph54hp1yiop">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e14x33zel06q0lqb6cgho97ct_image-header_pEs_1763729088000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Madrid - Unicaja Málaga</title>
     <desc lang="es">El Real Madrid recibe en el Palacio de los Deportes al Unicaja Málaga en la Liga Endesa. Sigue el partido en directo en DAZN</desc>
     <category lang="es">Baloncesto</category>
