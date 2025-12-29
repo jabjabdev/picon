@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Dec 29 12:30:06 2025">
+<tv date="Mon Dec 29 18:30:07 2025">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -235,6 +235,10 @@
   <channel id="1kjstlp99zfjn1jngsuwny4ast">
     <display-name>1kjstlp99zfjn1jngsuwny4ast</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13rk7tuajreacs80b26he1lw0_image-header_pEs_1764698075000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4c9l8ooga7bum7su830k01yrd">
+    <display-name>4c9l8ooga7bum7su830k01yrd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qy4nsjws2rhm128he7eg7b3em_image-header_pEs_1767027322000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -589,5 +593,11 @@
     <title lang="es">Manchester United - Wolverhampton</title>
     <desc lang="es">El Manchester United se enfrenta al Wolverhampton Wanderers en un emocionante choque de la Premier League en Old Trafford. En plena temporada 25/26, ambos equipos buscan puntos cruciales. ¿Será decisiva la ventaja local del Man United, o los Wolves darán la sorpresa? ¡Sintoniza el 30 de diciembre para un partido lleno de emoción!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251230200000 +0000" stop="20251231020000 +0000" channel="4c9l8ooga7bum7su830k01yrd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qy4nsjws2rhm128he7eg7b3em_image-header_pEs_1767027322000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Serrano vs. Tellez - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
