@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Dec 30 12:30:06 2025">
+<tv date="Tue Dec 30 18:30:06 2025">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -187,6 +187,10 @@
   <channel id="coj6lvoqituc9z9oyevvhtdse">
     <display-name>coj6lvoqituc9z9oyevvhtdse</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10sjzm2uez7c519lgqg563b10b_image-header_pEs_1755633751000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="98vjd5q91mi1cl2iidble1uhp">
+    <display-name>98vjd5q91mi1cl2iidble1uhp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5x8icescimhpw1r3slirmm64_image-header_pEs_1758276724000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -469,5 +473,11 @@
     <title lang="es">Multi-Match Live</title>
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20251230200000 +0000" stop="20251230233000 +0000" channel="98vjd5q91mi1cl2iidble1uhp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5x8icescimhpw1r3slirmm64_image-header_pEs_1758276724000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">UCAM Murcia - Real Madrid</title>
+    <desc lang="es">UCAM Murcia recibe al Real Madrid en su partido de la jornada 13 de la Liga Endesa. Sigue el partido en directo en DAZN</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
