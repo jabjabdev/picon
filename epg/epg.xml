@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jan 04 12:30:09 2026">
+<tv date="Sun Jan 04 18:30:08 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -34,7 +34,7 @@
   </channel>
   <channel id="b9doa4t86bxe01ivy2r1h4wqtc">
     <display-name>b9doa4t86bxe01ivy2r1h4wqtc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8nmw3rssysvfy0oq9awfkj9lb_image-header_pEs_1764955949000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50uditm4bf4yakq0sy121lzy9_image-header_pEs_1764955949000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="nqrkj0asafaq01o0lx2bpc9s7x">
     <display-name>nqrkj0asafaq01o0lx2bpc9s7x</display-name>
@@ -74,7 +74,7 @@
   </channel>
   <channel id="40djeli2nvs801dja2sskmldbk">
     <display-name>40djeli2nvs801dja2sskmldbk</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jmetmglvg7knjb5mabg0ozcl_image-header_pEs_1765384252000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25toidku4u3ict2vwnnb3u75x_image-header_pEs_1765384252000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1udwaoi1yightmla9qe0wlyhn0">
     <display-name>1udwaoi1yightmla9qe0wlyhn0</display-name>
@@ -86,7 +86,7 @@
   </channel>
   <channel id="e0p8z7l6i223aaupm647aqnzv">
     <display-name>e0p8z7l6i223aaupm647aqnzv</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dt9v90a9yf52m74ul60j9jrbi_image-header_pEs_1766418727000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7agubyfsa6ym6vqowhv1an0u4_image-header_pEs_1766418727000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5vexjmups68p5hqsalrg5oz4n">
     <display-name>5vexjmups68p5hqsalrg5oz4n</display-name>
@@ -300,8 +300,8 @@
     <desc lang="es">La Fiorentina recibe a la Cremonese en la jornada 18 de la Serie A. Disfruta del partido en DAZN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260104141500 +0000" stop="20260104164500 +0000" channel="b9doa4t86bxe01ivy2r1h4wqtc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8nmw3rssysvfy0oq9awfkj9lb_image-header_pEs_1764955949000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260104151500 +0000" stop="20260104181500 +0000" channel="b9doa4t86bxe01ivy2r1h4wqtc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/50uditm4bf4yakq0sy121lzy9_image-header_pEs_1764955949000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Madrid - Real Betis</title>
     <desc lang="es">Narrador: Miguel Angel Román. Comentaristas: Guti y Capi. Equipo DAZN: Sergio Quirante. Disfruta en DAZN de una nueva jornada de LALIGA EA SPORTS y vive con nosotros el partidazo entre Real Madrid y Real Betis ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
@@ -360,8 +360,8 @@
     <desc lang="es">Vive el encuentro de Super League Basketball entre Sheffield Sharks y Surrey 89ers.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260104170000 +0000" stop="20260104193000 +0000" channel="40djeli2nvs801dja2sskmldbk">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4jmetmglvg7knjb5mabg0ozcl_image-header_pEs_1765384252000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260104173000 +0000" stop="20260104203000 +0000" channel="40djeli2nvs801dja2sskmldbk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25toidku4u3ict2vwnnb3u75x_image-header_pEs_1765384252000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Deportivo Alavés - Real Oviedo</title>
     <desc lang="es">Narrador: Alex Guti. Comentaristas: Gaizka Toquero y Rodrigo Marciel. Narrador en euskera: Eñaut Zuazo. Equipo DAZN: Ainhoa Pérez. Disfruta en DAZN de una nueva jornada de LALIGA EA SPORTS y vive con nosotros el partidazo entre Deportivo Alavés - Real Oviedo.  ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
@@ -378,8 +378,8 @@
     <desc lang="es">El 4 de enero de 2026, Hellas Verona recibe a Torino en un emocionante partido de Serie A en el Stadio Marcantonio Bentegodi. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan puntos vitales. ¿Podrá Hellas Verona defender su territorio o Torino logrará una victoria crucial como visitante? ¡No te pierdas este encuentro inolvidable!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260104170000 +0000" stop="20260104193000 +0000" channel="e0p8z7l6i223aaupm647aqnzv">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dt9v90a9yf52m74ul60j9jrbi_image-header_pEs_1766418727000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260104161500 +0000" stop="20260104230000 +0000" channel="e0p8z7l6i223aaupm647aqnzv">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7agubyfsa6ym6vqowhv1an0u4_image-header_pEs_1766418727000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Kings World Cup Nations - Día 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
