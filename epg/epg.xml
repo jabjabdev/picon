@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 08 12:30:06 2026">
+<tv date="Thu Jan 08 18:30:06 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="9gm2jupjzlikfuxw3rfmzjpuu">
-    <display-name>9gm2jupjzlikfuxw3rfmzjpuu</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17iaw94nx1x26xih54h9bkr07_image-header_pEs_1767094979000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="24xys9hmegulba28w1e4l8dof">
     <display-name>24xys9hmegulba28w1e4l8dof</display-name>
@@ -141,12 +137,6 @@
     <title lang="es">RING 6 - Lopez vs. Stevenson</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20260108125500 +0000" stop="20260108185500 +0000" channel="9gm2jupjzlikfuxw3rfmzjpuu">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17iaw94nx1x26xih54h9bkr07_image-header_pEs_1767094979000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Oberhof - Masculino Sprint</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260108130000 +0000" stop="20260108190000 +0000" channel="24xys9hmegulba28w1e4l8dof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rgnlp9oxqpj13ehzlx994mih_image-header_pEs_1767353316000/fill/none/top/none/85/600/360/webp/image"/>
