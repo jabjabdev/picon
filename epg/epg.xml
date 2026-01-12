@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 12 12:30:06 2026">
+<tv date="Mon Jan 12 18:30:05 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -147,6 +147,10 @@
   <channel id="cvqzqxc8p5w5wu226yaiuvp0d">
     <display-name>cvqzqxc8p5w5wu226yaiuvp0d</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4l3vgkax85lga3qdwwn5lw4kn_image-header_pEs_1767696427000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5p0xvss4v1kox3lf2r7buh362">
+    <display-name>5p0xvss4v1kox3lf2r7buh362</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mni6f7u30l081oviw8he1arxo_image-header_pEs_1768231563000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -369,5 +373,11 @@
     <title lang="es">Kings World Cup Nations - Cuartos de final</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260113130000 +0000" stop="20260113190000 +0000" channel="5p0xvss4v1kox3lf2r7buh362">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1mni6f7u30l081oviw8he1arxo_image-header_pEs_1768231563000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Dickens vs. Cacace - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
