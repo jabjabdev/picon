@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Tue Jan 13 12:30:05 2026">
+<tv date="Tue Jan 13 18:30:04 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="bgq213m395kta8f1uiphw3nsf">
-    <display-name>bgq213m395kta8f1uiphw3nsf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4lh2t1rolhxinthlgtrk4pqaq_image-header_pEs_1766938770000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="eh9gvjxr0n86w07y0jj7dtqtw">
     <display-name>eh9gvjxr0n86w07y0jj7dtqtw</display-name>
@@ -173,12 +169,6 @@
     <title lang="es">RING 6 - Lopez vs. Stevenson</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20260113163000 +0000" stop="20260113223000 +0000" channel="bgq213m395kta8f1uiphw3nsf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4lh2t1rolhxinthlgtrk4pqaq_image-header_pEs_1766938770000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260113173000 +0000" stop="20260113200000 +0000" channel="eh9gvjxr0n86w07y0jj7dtqtw">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3tx4owr6hx9ff14h2n5sv0u4b_image-header_pEs_1766500949000/fill/none/top/none/85/600/360/webp/image"/>
