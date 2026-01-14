@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 14 12:30:04 2026">
+<tv date="Wed Jan 14 18:30:04 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -7,10 +7,6 @@
   <channel id="ajis4mo9wnrbg9vfczm232gha">
     <display-name>ajis4mo9wnrbg9vfczm232gha</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9dxu4egs8au0webi7gcpzz8gc_image-header_pEs_1768218481000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="93oek1z6bpolvczh0ehtjqhl6">
-    <display-name>93oek1z6bpolvczh0ehtjqhl6</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8lsfsbj6nl8hkq8nzlyc1nbo3_image-header_pEs_1766933593000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="vxota6zp5oej0jqwjos7vt9pf0">
     <display-name>vxota6zp5oej0jqwjos7vt9pf0</display-name>
@@ -139,12 +135,6 @@
     <title lang="es">One Point Slam</title>
     <desc lang="es">Disfruta de Eurosport 1 a través de DAZN.</desc>
     <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20260114131500 +0000" stop="20260114191500 +0000" channel="93oek1z6bpolvczh0ehtjqhl6">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8lsfsbj6nl8hkq8nzlyc1nbo3_image-header_pEs_1766933593000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Biatlón - Ruhpolding</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260114173000 +0000" stop="20260114200000 +0000" channel="vxota6zp5oej0jqwjos7vt9pf0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/849l9ml3tmbow726n6ivrfare_image-header_pEs_1761842863000/fill/none/top/none/85/600/360/webp/image"/>
@@ -284,7 +274,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de invierno</category>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115190000 +0000" channel="a933gqicflnsit9wy1cp2tyhz">
+  <programme start="20260115121000 +0000" stop="20260115181000 +0000" channel="a933gqicflnsit9wy1cp2tyhz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bg19vynqy4q74dysfz2rq60ef_image-header_pEs_1761034241000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera nocturna #14</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
