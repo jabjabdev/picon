@@ -1,12 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 15 12:30:04 2026">
+<tv date="Thu Jan 15 18:30:04 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="jy6ixfpaz0wsvcmtm3fl2l72">
-    <display-name>jy6ixfpaz0wsvcmtm3fl2l72</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sbelax99wk9dpmcmz52u7i4y_image-header_pEs_1766940744000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="a933gqicflnsit9wy1cp2tyhz">
     <display-name>a933gqicflnsit9wy1cp2tyhz</display-name>
@@ -116,17 +112,15 @@
     <display-name>bgaad3wqv0e0dxsdtiucur0w0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qg3ecpjzdzub1ct4izuda7jdt_image-header_pEs_1767709085000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1h4usryahne8qsygf6u35shfx">
+    <display-name>1h4usryahne8qsygf6u35shfx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/do2d21lppv123priimn7xmsl_image-header_pEs_1768497306000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RING 6 - Lopez vs. Stevenson</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20260115120000 +0000" stop="20260115180000 +0000" channel="jy6ixfpaz0wsvcmtm3fl2l72">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sbelax99wk9dpmcmz52u7i4y_image-header_pEs_1766940744000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí de montaña</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260115121000 +0000" stop="20260115181000 +0000" channel="a933gqicflnsit9wy1cp2tyhz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bg19vynqy4q74dysfz2rq60ef_image-header_pEs_1761034241000/fill/none/top/none/85/600/360/webp/image"/>
@@ -289,5 +283,11 @@
     <title lang="es">Rocha vs. Curiel 2 - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260116030000 +0000" stop="20260116090000 +0000" channel="1h4usryahne8qsygf6u35shfx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/do2d21lppv123priimn7xmsl_image-header_pEs_1768497306000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Presentación Red Bull Racing Formula One Team 2026</title>
+    <desc lang="es">Disfruta de toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
