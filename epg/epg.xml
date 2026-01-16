@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 16 00:30:23 2026">
+<tv date="Fri Jan 16 09:04:09 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -71,10 +71,6 @@
   <channel id="66zepgzg0kurxtzirr0y716hg">
     <display-name>66zepgzg0kurxtzirr0y716hg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/lysq4m5bp0lb1ahli955ofz6y_image-header_pEs_1767713832000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="2rfojqzf6rqpodrfai53ajg5s">
-    <display-name>2rfojqzf6rqpodrfai53ajg5s</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ylgmt1ud5df6o62a3q3r9nj_image-header_pEs_1766934930000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="5a7vjmu7zavelqmzth80y94rx">
     <display-name>5a7vjmu7zavelqmzth80y94rx</display-name>
@@ -531,12 +527,6 @@
     <title lang="es">Maple Leafs @ Golden Knights</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20260116065500 +0000" stop="20260116125500 +0000" channel="2rfojqzf6rqpodrfai53ajg5s">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8ylgmt1ud5df6o62a3q3r9nj_image-header_pEs_1766934930000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Saltos de esquí</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260116120000 +0000" stop="20260116180000 +0000" channel="5a7vjmu7zavelqmzth80y94rx">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/69vqen84vdjx9rtqg6u35u9js_image-header_pEs_1766936000000/fill/none/top/none/85/600/360/webp/image"/>
