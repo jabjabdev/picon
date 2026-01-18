@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jan 18 12:30:43 2026">
+<tv date="Sun Jan 18 18:30:07 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -48,10 +48,6 @@
     <display-name>12axzhze949o1w8npej7wo9ul0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vn2sspfbugnbnyear3kh2emd_image-header_pEs_1765644064000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="63a0ece9xx26m34c5k142f45g">
-    <display-name>63a0ece9xx26m34c5k142f45g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2at6bvw5jjfadu7acqbzpzep_image-header_pEs_1768469476000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="110o1ajc0wcxajbwv6n3ofkgb0">
     <display-name>110o1ajc0wcxajbwv6n3ofkgb0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xzk6eakjh9h4miag89wruhy3_image-header_pEs_1766933926000/fill/none/top/none/85/300/180/webp/image"/>
@@ -70,7 +66,7 @@
   </channel>
   <channel id="d5u6gp5ursgi01m9ua66lxpubr">
     <display-name>d5u6gp5ursgi01m9ua66lxpubr</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/24bsjbgj8gttqvp7n1mz07l41_image-header_pEs_1766573463000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bprg79ycmitfu01puoagzc95g_image-header_pEs_1766573463000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1bubakttndxhg1awgdazn6h2pk">
     <display-name>1bubakttndxhg1awgdazn6h2pk</display-name>
@@ -118,7 +114,7 @@
   </channel>
   <channel id="3isfi2k6gp7dx91elsznu52wi">
     <display-name>3isfi2k6gp7dx91elsznu52wi</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6luocyc7l484wn24m0nwfjm1l_image-header_pEs_1768583137000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anj9jrgze63ls8dqdzzh0oo49_image-header_pEs_1768583137000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="hc9jw9plgw4q0axj6n7ondz220">
     <display-name>hc9jw9plgw4q0axj6n7ondz220</display-name>
@@ -272,6 +268,10 @@
     <display-name>a9hc626zotvn799fzhty2xj28</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cydd6ke3rmq3rlp2yazax0f1w_image-header_pEs_1736086217000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="gw58ycaxj6e7rrhuey80zs92">
+    <display-name>gw58ycaxj6e7rrhuey80zs92</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jh5amv2qc46f11qi9166rxqtw_image-header_pEs_1762454381000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RING 6 - Lopez vs. Stevenson</title>
@@ -344,12 +344,6 @@
     <desc lang="es">Mirandés se enfrenta a FC Andorra en un crucial partido de Segunda División en el Estadio Municipal de Anduva. Con la temporada 25/26 de LaLiga 2 en pleno apogeo, ambos clubes buscan puntos vitales. ¿Dará la ventaja de local a Mirandés la victoria, o podrá FC Andorra lograr un triunfo a domicilio? ¡Sintoniza el 18 de enero de 2026 para toda la emoción!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260118130500 +0000" stop="20260118190500 +0000" channel="63a0ece9xx26m34c5k142f45g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2at6bvw5jjfadu7acqbzpzep_image-header_pEs_1768469476000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Luge</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260118140000 +0000" stop="20260118163000 +0000" channel="110o1ajc0wcxajbwv6n3ofkgb0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xzk6eakjh9h4miag89wruhy3_image-header_pEs_1766933926000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Wolverhampton - Newcastle United</title>
@@ -374,8 +368,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260118144500 +0000" stop="20260118171500 +0000" channel="d5u6gp5ursgi01m9ua66lxpubr">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/24bsjbgj8gttqvp7n1mz07l41_image-header_pEs_1766573463000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260118151500 +0000" stop="20260118181500 +0000" channel="d5u6gp5ursgi01m9ua66lxpubr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bprg79ycmitfu01puoagzc95g_image-header_pEs_1766573463000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atlético de Madrid - Deportivo Alavés</title>
     <desc lang="es">El Atlético de Madrid se prepara para enfrentarse al Alavés en un emocionante choque de Primera División en el Riyadh Air Metropolitano. Con la temporada 25/26 de LaLiga en pleno apogeo, ambos equipos buscan puntos cruciales el 18 de enero de 2026. ¿Podrá el Atlético defender su terreno o el Alavés dará la sorpresa? ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
@@ -446,8 +440,8 @@
     <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260118173000 +0000" stop="20260118210000 +0000" channel="3isfi2k6gp7dx91elsznu52wi">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6luocyc7l484wn24m0nwfjm1l_image-header_pEs_1768583137000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260118180000 +0000" stop="20260118210000 +0000" channel="3isfi2k6gp7dx91elsznu52wi">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anj9jrgze63ls8dqdzzh0oo49_image-header_pEs_1768583137000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Madrid - Valencia Basket + La Prórroga</title>
     <desc lang="es">Real Madrid viaja para enfrentar a Valencia en un crucial partido de la Liga ACB el 18 de enero de 2026. En plena temporada 25/26, ambos equipos buscan destacar. ¿Defenderá Valencia su cancha o Real Madrid logrará una victoria clave? ¡No te pierdas este espectáculo de baloncesto!</desc>
     <category lang="es">Baloncesto</category>
@@ -679,5 +673,11 @@
     <title lang="es">Día 1 (Eurosport 2)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260119183000 +0000" stop="20260120003000 +0000" channel="gw58ycaxj6e7rrhuey80zs92">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jh5amv2qc46f11qi9166rxqtw_image-header_pEs_1762454381000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sabres vs. Hurricanes</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
