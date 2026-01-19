@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 19 12:30:40 2026">
+<tv date="Mon Jan 19 12:32:02 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -155,6 +155,10 @@
   <channel id="417mxpo186af3mo1n3uixeclh">
     <display-name>417mxpo186af3mo1n3uixeclh</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/454qw0ktppnvy64slvbgkx0wl_image-header_pEs_1736597574000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="acqc33evjt1snjmph0lf9um77">
+    <display-name>acqc33evjt1snjmph0lf9um77</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -389,5 +393,11 @@
     <title lang="es">Bellucci - Ruud</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Barrios vs. Garcia</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
