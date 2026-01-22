@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 22 12:30:41 2026">
+<tv date="Thu Jan 22 18:30:06 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -15,10 +15,6 @@
   <channel id="aw4ta1tfx24g54s3mwlpjlw1e">
     <display-name>aw4ta1tfx24g54s3mwlpjlw1e</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b6o5gjoe8y0g1a3f0a8x9m4ot_image-header_pEs_1768251267000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="789qh73n0oi7l49t6f44u2e5l">
-    <display-name>789qh73n0oi7l49t6f44u2e5l</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3mm9fczorodmthyumvhal4mwt_image-header_pEs_1768469963000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="795xwbndvax00bnusv9fv9bt30">
     <display-name>795xwbndvax00bnusv9fv9bt30</display-name>
@@ -203,12 +199,6 @@
     <title lang="es">Rallye Monte-Carlo - Stage 1</title>
     <desc lang="es">Watch the latest World Rally Championship action from Monte-Carlo.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20260122170000 +0000" stop="20260122230000 +0000" channel="789qh73n0oi7l49t6f44u2e5l">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3mm9fczorodmthyumvhal4mwt_image-header_pEs_1768469963000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Biatlón - Nove Mesto</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260122170000 +0000" stop="20260122193000 +0000" channel="795xwbndvax00bnusv9fv9bt30">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2wqfkit513xvsckpm5ulp3dt3_image-header_pEs_1768387128000/fill/none/top/none/85/600/360/webp/image"/>
