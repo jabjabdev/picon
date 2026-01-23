@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 23 12:30:46 2026">
+<tv date="Fri Jan 23 18:30:10 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -32,10 +32,6 @@
     <display-name>a1cxmf5jrxuzbwnxdwxwwk4rs</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/93k0kykil4le85xp1md6bb82d_image-header_pEs_1767343190000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="2qwng2kherc2cpp5p8y319xho">
-    <display-name>2qwng2kherc2cpp5p8y319xho</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c475yggnw7fsp3loslpazqa0x_image-header_pEs_1767349868000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1itsrs3rogcneh2cj291arvpc">
     <display-name>1itsrs3rogcneh2cj291arvpc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67lt3r3bwbap1b8rurohuovto_image-header_pEs_1768255904000/fill/none/top/none/85/300/180/webp/image"/>
@@ -43,10 +39,6 @@
   <channel id="8n6icdpl2buynpy1pom90bqk3">
     <display-name>8n6icdpl2buynpy1pom90bqk3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kqas9fjtasjp1uhvdgbtowrs7_image-header_pEs_1768256326000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="csts48f27nnnnxc8oovqonrqj">
-    <display-name>csts48f27nnnnxc8oovqonrqj</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95aljnv7fyjnnhvsjui0zk524_image-header_pEs_1767376238000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="864fj06kkphnjwnvazghwae5m">
     <display-name>864fj06kkphnjwnvazghwae5m</display-name>
@@ -444,12 +436,6 @@
     <desc lang="es">Disfruta de la mejor acción en DAZN.</desc>
     <category lang="es">Carreras de caballos</category>
   </programme>
-  <programme start="20260123123000 +0000" stop="20260123183000 +0000" channel="2qwng2kherc2cpp5p8y319xho">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c475yggnw7fsp3loslpazqa0x_image-header_pEs_1767349868000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí freestyle</title>
-    <desc lang="es">Disfruta de Eurosport 2 en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260123141600 +0000" stop="20260123201600 +0000" channel="1itsrs3rogcneh2cj291arvpc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67lt3r3bwbap1b8rurohuovto_image-header_pEs_1768255904000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rallye Monte-Carlo - Stage 7</title>
@@ -461,12 +447,6 @@
     <title lang="es">Rally Monte-Carlo - Stage 8</title>
     <desc lang="es">Watch the latest World Rally Championship action from Monte-Carlo.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20260123160000 +0000" stop="20260123220000 +0000" channel="csts48f27nnnnxc8oovqonrqj">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/95aljnv7fyjnnhvsjui0zk524_image-header_pEs_1767376238000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Luge</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260123170000 +0000" stop="20260123230000 +0000" channel="864fj06kkphnjwnvazghwae5m">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/j1w0pzv2xcd11rhzzi0aiifqj_image-header_pEs_1768256658000/fill/none/top/none/85/600/360/webp/image"/>
