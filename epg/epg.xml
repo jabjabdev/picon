@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Jan 25 12:30:25 2026">
+<tv date="Sun Jan 25 18:30:05 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -68,10 +68,6 @@
     <display-name>1smcuw6l2snmx1xnquhtnkayb0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ensr1caqq9aosk94rwgz7phe9_image-header_pEs_1767628994000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="8br2wx99bvvys8iajh4wartld">
-    <display-name>8br2wx99bvvys8iajh4wartld</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/az916wqplxmdd9up08g29lsdu_image-header_pEs_1767694770000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="ee6mx5i5llzj0pahvnkp6jdd50">
     <display-name>ee6mx5i5llzj0pahvnkp6jdd50</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/656kxo8cjxq7qil5m4v63l0eu_image-header_pEs_1767628341000/fill/none/top/none/85/300/180/webp/image"/>
@@ -86,15 +82,11 @@
   </channel>
   <channel id="1q9yv44xha6zx1wia3jyxk5er2">
     <display-name>1q9yv44xha6zx1wia3jyxk5er2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b42pjynjn3jrwxyhdgmajfz6k_image-header_pEs_1767802848000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2wnapgoqiotfv35b1ypux1xuz_image-header_pEs_1767802848000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="3t1gzt64izd2chehn7eogzoau">
     <display-name>3t1gzt64izd2chehn7eogzoau</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6rl6xg0pzzx3exyq1j77z5tt6_image-header_pEs_1767800955000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="4v0iqrsb51q9013o4jinl7tcw1">
-    <display-name>4v0iqrsb51q9013o4jinl7tcw1</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9kur07y3je12jjivj0frljhtr_image-header_pEs_1764630072000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="ep7dzm3z4tfgwvyyw1kyxvxuc">
     <display-name>ep7dzm3z4tfgwvyyw1kyxvxuc</display-name>
@@ -386,12 +378,6 @@
     <desc lang="es">Genoa se enfrenta a Bologna en un duelo de Serie A en Luigi Ferraris el 25 de enero de 2026. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan puntos cruciales. ¿Será decisiva la ventaja local de Genoa, o podrá Bologna lograr una victoria fuera de casa? ¡Prepárense para un emocionante encuentro!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260125140000 +0000" stop="20260125200000 +0000" channel="8br2wx99bvvys8iajh4wartld">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/az916wqplxmdd9up08g29lsdu_image-header_pEs_1767694770000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Biathlon - Nove Mesto World Cup</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260125140000 +0000" stop="20260125163000 +0000" channel="ee6mx5i5llzj0pahvnkp6jdd50">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/656kxo8cjxq7qil5m4v63l0eu_image-header_pEs_1767628341000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Atalanta - Parma</title>
@@ -410,10 +396,10 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260125141500 +0000" stop="20260125164500 +0000" channel="1q9yv44xha6zx1wia3jyxk5er2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b42pjynjn3jrwxyhdgmajfz6k_image-header_pEs_1767802848000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260125151500 +0000" stop="20260125181500 +0000" channel="1q9yv44xha6zx1wia3jyxk5er2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2wnapgoqiotfv35b1ypux1xuz_image-header_pEs_1767802848000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FC Barcelona - Real Oviedo</title>
-    <desc lang="es">El FC Barcelona se enfrentará al Real Oviedo en un emocionante partido de LaLiga 25/26 en el Camp Nou. Este encuentro del 25 de enero promete ser una prueba de habilidad y estrategia, con ambos equipos luchando por puntos cruciales. ¿Podrá el equipo culé aprovechar su ventaja local o sorprenderá el Real Oviedo? ¡No te pierdas este espectáculo futbolístico inolvidable!</desc>
+    <desc lang="es">Narración y comentarios: Pablo Pinto, M.A. Román, Eneko Fernández, Rafinha, Rafa Escrig. Narración en catatán: Carles Fite y Albert Morén. El FC Barcelona se enfrentará al Real Oviedo en un emocionante partido de LaLiga 25/26 en el Camp Nou. Este encuentro del 25 de enero promete ser una prueba de habilidad y estrategia, con ambos equipos luchando por puntos cruciales. ¿Podrá el equipo culé aprovechar su ventaja local o sorprenderá el Real Oviedo? ¡No te pierdas este espectáculo futbolístico inolvidable!</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260125141500 +0000" stop="20260125201500 +0000" channel="3t1gzt64izd2chehn7eogzoau">
@@ -421,12 +407,6 @@
     <title lang="es">Ciclocross - Copa del mundo en Hoogerheide</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclocrós</category>
-  </programme>
-  <programme start="20260125141500 +0000" stop="20260125164500 +0000" channel="4v0iqrsb51q9013o4jinl7tcw1">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9kur07y3je12jjivj0frljhtr_image-header_pEs_1764630072000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Eintracht Frankfurt - Hoffenheim</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260125143000 +0000" stop="20260125170000 +0000" channel="ep7dzm3z4tfgwvyyw1kyxvxuc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4zsjut3n2oiycuskvaw4k4xok_image-header_pEs_1766998863000/fill/none/top/none/85/600/360/webp/image"/>
