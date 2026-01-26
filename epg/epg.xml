@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Jan 26 12:30:22 2026">
+<tv date="Mon Jan 26 18:30:05 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -135,6 +135,10 @@
   <channel id="baj9xj7dut47yum3368xy42m6">
     <display-name>baj9xj7dut47yum3368xy42m6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/lfnc29x8od46nepq5284bncu_image-header_pEs_1769419814000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bbbjw5t4t6vbezdl7pe1yj504">
+    <display-name>bbbjw5t4t6vbezdl7pe1yj504</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qx1k2dn103191o45euse092nv_image-header_pEs_1769367337000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -339,5 +343,11 @@
     <title lang="es">Día 9 - Ben Shelton - Casper Ruud</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260127194500 +0000" stop="20260127221500 +0000" channel="bbbjw5t4t6vbezdl7pe1yj504">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qx1k2dn103191o45euse092nv_image-header_pEs_1769367337000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Dagenham &amp; Redbridge - Eastbourne Borough</title>
+    <desc lang="es">Sigue toda la acción de la National League South en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
