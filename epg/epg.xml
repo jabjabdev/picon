@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Jan 28 12:30:28 2026">
+<tv date="Wed Jan 28 18:30:05 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -67,10 +67,6 @@
   <channel id="e53b5ms1hebgsrrrwp8wk0t8d">
     <display-name>e53b5ms1hebgsrrrwp8wk0t8d</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9tx38znic0cggthyifujozhq6_image-header_pEs_1761648520000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="7tdbwpg4my4726v7muo2ygy8g">
-    <display-name>7tdbwpg4my4726v7muo2ygy8g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9pxopkj7r90tpdj3dqvcwbrpm_image-header_pEs_1767094979000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7a6uqvc9vjh1r7smtq86fiuxt">
     <display-name>7a6uqvc9vjh1r7smtq86fiuxt</display-name>
@@ -155,6 +151,10 @@
   <channel id="1o1qf6886tegubld3tsaeafka0">
     <display-name>1o1qf6886tegubld3tsaeafka0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/54utdu4e8gztgc9672pgnaxpu_image-header_pEs_1769436257000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1id3362htgzlj4mvxh5e16ana">
+    <display-name>1id3362htgzlj4mvxh5e16ana</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ea8vuy4fhs75110yi9t48cd47_image-header_pEs_1768919400000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -257,12 +257,6 @@
     <title lang="es">Mallorca Challenge - Trofeo Calvià Palmanova</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260128163000 +0000" stop="20260128223000 +0000" channel="7tdbwpg4my4726v7muo2ygy8g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9pxopkj7r90tpdj3dqvcwbrpm_image-header_pEs_1767094979000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260128170000 +0000" stop="20260128230000 +0000" channel="7a6uqvc9vjh1r7smtq86fiuxt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/etjpkk09jiyegc4b222o9pliv_image-header_pEs_1737365436000/fill/none/top/none/85/600/360/webp/image"/>
@@ -389,5 +383,11 @@
     <title lang="es">Cuartos de final - Juventus - Napoli</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260130020000 +0000" channel="1id3362htgzlj4mvxh5e16ana">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ea8vuy4fhs75110yi9t48cd47_image-header_pEs_1768919400000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lopez vs. Stevenson - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
