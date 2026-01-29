@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Jan 29 21:48:08 2026">
+<tv date="Fri Jan 30 00:36:36 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -122,11 +122,11 @@
   </channel>
   <channel id="pv9yzqi1fy22a9tnpko5o1t5">
     <display-name>pv9yzqi1fy22a9tnpko5o1t5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32xdt47ymaawhjetwbk7qiicb_image-header_pEs_1769607700000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32xdt47ymaawhjetwbk7qiicb_image-header_pEs_1769607937000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="e79aif64gadpcyuro75v04dmc">
     <display-name>e79aif64gadpcyuro75v04dmc</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecorbw7wbl2ozvbutybx874tv_image-header_pEs_1769607937000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecorbw7wbl2ozvbutybx874tv_image-header_pEs_1769607700000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="a2w2cve74z6r1fyrgtj3zpb0o">
     <display-name>a2w2cve74z6r1fyrgtj3zpb0o</display-name>
@@ -488,6 +488,10 @@
     <display-name>esp-e201097746c0ch20008</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
+  <channel id="1n4ir7oh8j92gxhd8eop6v4z80">
+    <display-name>1n4ir7oh8j92gxhd8eop6v4z80</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cio2ing4ueawz4e31nakr2jgb_image-header_pEs_1767175008000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RING 6 - Lopez vs. Stevenson</title>
@@ -668,16 +672,16 @@
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
-  <programme start="20260130033000 +0000" stop="20260130093000 +0000" channel="pv9yzqi1fy22a9tnpko5o1t5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32xdt47ymaawhjetwbk7qiicb_image-header_pEs_1769607700000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Semifinal - Novak Djokovic - Jannik Sinner</title>
-    <desc lang="es">Disfruta la primera semifinal del Australian Open entre Novak Djokovic y Jannik Sinner.</desc>
+  <programme start="20260130031500 +0000" stop="20260130091500 +0000" channel="pv9yzqi1fy22a9tnpko5o1t5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/32xdt47ymaawhjetwbk7qiicb_image-header_pEs_1769607937000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinal - Carlos Alcaraz - Alexander Zverev</title>
+    <desc lang="es">Disfruta la primera semifinal del Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260130081500 +0000" stop="20260130141500 +0000" channel="e79aif64gadpcyuro75v04dmc">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecorbw7wbl2ozvbutybx874tv_image-header_pEs_1769607937000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Semifinal - Carlos Alcaraz - Alexander Zverev</title>
-    <desc lang="es">Disfruta la segunda semifinal del Australian Open entre Carlos Alcaraz y Alexander Zverev</desc>
+  <programme start="20260130080000 +0000" stop="20260130140000 +0000" channel="e79aif64gadpcyuro75v04dmc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ecorbw7wbl2ozvbutybx874tv_image-header_pEs_1769607700000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Semifinal - Novak Djokovic - Jannik Sinner</title>
+    <desc lang="es">Disfruta la segunda semifinal del Australian Open.</desc>
     <category lang="es">Tenis</category>
   </programme>
   <programme start="20260130084500 +0000" stop="20260130144500 +0000" channel="a2w2cve74z6r1fyrgtj3zpb0o">
@@ -1219,5 +1223,11 @@
     <title lang="es">Australian Open</title>
     <desc lang="es">| |</desc>
     <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260131000000 +0000" stop="20260131033000 +0000" channel="1n4ir7oh8j92gxhd8eop6v4z80">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cio2ing4ueawz4e31nakr2jgb_image-header_pEs_1767175008000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Los Angeles Lakers @ Washington Wizards</title>
+    <desc lang="es">Los Washington Wizards se enfrentan a Los Angeles Lakers en un emocionante partido de la temporada NBA 25/26 en el Capital One Arena el 31 de enero de 2026. ¿Podrán los Wizards defender su cancha contra los estelares Lakers? ¡Aficionados al baloncesto, prepárense para una noche electrizante de acción!</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
