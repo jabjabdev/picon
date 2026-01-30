@@ -1,13 +1,773 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 30 21:07:43 2026">
+<tv date="Fri Jan 30 21:10:51 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3vwen7mlaa2m3ua8o5jp5g5ek">
+    <display-name>3vwen7mlaa2m3ua8o5jp5g5ek</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sn1hr2qchfs0v25dl6b27yli_image-header_pEs_1768325469000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1h288i2rueapd1yob0t8o099r0">
+    <display-name>1h288i2rueapd1yob0t8o099r0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4suxba0bi5fxhi4zfw56u80xo_image-header_pEs_1767799668000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="etk78ufd093mvrse91d01tm38">
+    <display-name>etk78ufd093mvrse91d01tm38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umedrt0wf7wjo1xwqz3kyap7_image-header_pEs_1766577651000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1f7vzjb35bwmu1xjnpdlpzcu42">
+    <display-name>1f7vzjb35bwmu1xjnpdlpzcu42</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d76uv4hsukzc9t3qjbhhf1cug_image-header_pEs_1756977961000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1wlydkmw0uk9h1egqlb6flh8oy">
+    <display-name>1wlydkmw0uk9h1egqlb6flh8oy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67a4wr2syi75mql7f0all0f5j_image-header_pEs_1756898724000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="50vs40v3hn05012lrbjwwuiu8z">
+    <display-name>50vs40v3hn05012lrbjwwuiu8z</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ct93c39frf8xcsd4200lradz_image-header_pEs_1756896076000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6aic7xegkkjzit5meq63h6ojd">
+    <display-name>6aic7xegkkjzit5meq63h6ojd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebcck3qfm1wg1b63v9i785o44_image-header_pEs_1768493263000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="xk3hspeejcmh01fc2kn6a66jl2">
+    <display-name>xk3hspeejcmh01fc2kn6a66jl2</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7fxj1odrwl8edbr0m7503kmmx_image-header_pEs_1768903958000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8fbwuo3sxyurm6ksaoc9ss8li">
+    <display-name>8fbwuo3sxyurm6ksaoc9ss8li</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/147a8o398kpsh193l0aqxbteip_image-header_pEs_1769773055000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="t98aophltds201nqokw0fokf15">
+    <display-name>t98aophltds201nqokw0fokf15</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6m90r57f89bsr6cbi8aka3e0z_image-header_pEs_1767794764000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1n4ir7oh8j92gxhd8eop6v4z80">
+    <display-name>1n4ir7oh8j92gxhd8eop6v4z80</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cio2ing4ueawz4e31nakr2jgb_image-header_pEs_1767175008000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ekcznrmgr2c0w1vxb1u0tr9v1">
+    <display-name>ekcznrmgr2c0w1vxb1u0tr9v1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6wyyert6nimq15lmdqt34qdpj_image-header_pEs_1769442728000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7cdtxkc17b43pawast1g5da2w">
+    <display-name>7cdtxkc17b43pawast1g5da2w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dj21cntd11snt4gis9t1n1gr4_image-header_pEs_1769795769000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2hfaypucek39ni5vbnnr5cszi">
+    <display-name>2hfaypucek39ni5vbnnr5cszi</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/atdvmk905wz11nr7kqtu2q55a_image-header_pEs_1768391027000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c46c4s4ayqw9k0lm41m9nkydw">
+    <display-name>c46c4s4ayqw9k0lm41m9nkydw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qqiokay7agdd1d6mmoew2san1_image-header_pEs_1766274394000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1q5z4g887z1jl1eva9jodmu689">
+    <display-name>1q5z4g887z1jl1eva9jodmu689</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/45jxli5uc0n3mpvdyl7xplro3_image-header_pEs_1767175172000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4a6fdldjvcnkrng7v1xyukce7">
+    <display-name>4a6fdldjvcnkrng7v1xyukce7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5g79s1k6tzr7hzlcvmk8669t1_image-header_pEs_1769796005000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6e2zufm38u8gcveqb80gjiphc">
+    <display-name>6e2zufm38u8gcveqb80gjiphc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/810fexlmmijh9pqhr6luld6ko_image-header_pEs_1769696892000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="canrc64f0h8yz2p1q6wa5nsnd">
+    <display-name>canrc64f0h8yz2p1q6wa5nsnd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bxcr6cd7x2c9gz4irbc554yy1_image-header_pEs_1767968460000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="414pacm03alxy6c8rcyconcm4">
+    <display-name>414pacm03alxy6c8rcyconcm4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61te9w4nv796qqgzp0qaf8c70_image-header_pEs_1736983430000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="77utc7hsetgx07hscb8zfaqdt0">
+    <display-name>77utc7hsetgx07hscb8zfaqdt0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/52nyje9gssz5qlk1oqnxd58m7_image-header_pEs_1755614168000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="85f10h2ywy9c0167jfrjedyicb">
+    <display-name>85f10h2ywy9c0167jfrjedyicb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9glblrtiig2ldq4lapdqoly6i_image-header_pEs_1767634752000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="xbcqz8krqwwi0xqorlez2qtod0">
+    <display-name>xbcqz8krqwwi0xqorlez2qtod0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/elyy69r0baxcpk2tfs9fjy17b_image-header_pEs_1767771009000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7sv0ll9wgrh7viy9154ygmvlz">
+    <display-name>7sv0ll9wgrh7viy9154ygmvlz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8jn2vlnsdu96714juwuytribv_image-header_pEs_1767960717000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1rw98qzbcureg1imgsewezfla0">
+    <display-name>1rw98qzbcureg1imgsewezfla0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2pe811hfom832hzix2k2w9z2_image-header_pEs_1766567691000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dezafava85b0i3otp8km72g8o">
+    <display-name>dezafava85b0i3otp8km72g8o</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anszrb7xq3ga4yz3ah1xmybq0_image-header_pEs_1750353330000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e3sf9eeeibpvmy9riiwdyq6v5">
+    <display-name>e3sf9eeeibpvmy9riiwdyq6v5</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7n10p3wg0ex85rnnb4crfo2n6_image-header_pEs_1761034241000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1to6xkjzdf4071vmse7up2vt8i">
+    <display-name>1to6xkjzdf4071vmse7up2vt8i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ffipxfc4g396r3kh545kxaxy_image-header_pEs_1768904246000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="egs5ficat2y8k3vjtsiqo6ofm">
+    <display-name>egs5ficat2y8k3vjtsiqo6ofm</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xudn4ycdzdvs0e85lacmy8w_image-header_pEs_1767962349000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="19puni2howgmonyt2mi1wgfem0">
+    <display-name>19puni2howgmonyt2mi1wgfem0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6aj9t1c7oetyzqgrruq1vh1y5_image-header_pEs_1767976189000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8smmf5taeo8lzifpktdrel7em">
+    <display-name>8smmf5taeo8lzifpktdrel7em</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8oo6v6ealzyzm9kq3yhi2iflh_image-header_pEs_1769432649000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eqrwci52oedqmjevxdoz80sus">
+    <display-name>eqrwci52oedqmjevxdoz80sus</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bw1e7hkjovyg94bjn91y0poks_image-header_pEs_1767797126000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5sxvah87qaujabxvdfsaynrjy">
+    <display-name>5sxvah87qaujabxvdfsaynrjy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5s1ppequtrvjcwwswjzr982m8_image-header_pEs_1767799966000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="erk6terb8zyabi551pisqtnh0">
+    <display-name>erk6terb8zyabi551pisqtnh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6c3pog6ugjl2yecihtswp0ly_image-header_pEs_1767796712000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eryaudkr50cz25pcdgb4bvr4k">
+    <display-name>eryaudkr50cz25pcdgb4bvr4k</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dwj0uqs81jgz0e6l075fi3gdk_image-header_pEs_1767797483000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ess18xzk8in35aws8a2xj9wyc">
+    <display-name>ess18xzk8in35aws8a2xj9wyc</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1zv06sa067avqzk1ugjojajdo_image-header_pEs_1767794739000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="et5zgeu6v608mkb29c8oxmoes">
+    <display-name>et5zgeu6v608mkb29c8oxmoes</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bvz6fj6skn30vtan6ki4m9z6d_image-header_pEs_1767795309000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1380rsyd7lybu6mcce4sd1iri0">
+    <display-name>1380rsyd7lybu6mcce4sd1iri0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xk8xzv71p6gugzpbpwk8t2da_image-header_pEs_1767638516000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1rt1ors1amdysef6vbi0df2100">
+    <display-name>1rt1ors1amdysef6vbi0df2100</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1om7se4d27la8pnqasmrjfvv_image-header_pEs_1730596942000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="zsd0aa8bhmz90sm15q9lkj0700">
+    <display-name>zsd0aa8bhmz90sm15q9lkj0700</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eaq5qjp9gil2y5ccsraexuemr_image-header_pEs_1767638806000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1q5aj9bn117dx1sre0ipj2p6ui">
+    <display-name>1q5aj9bn117dx1sre0ipj2p6ui</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yu8lwdkoalzh1rg410mks9w4o_image-header_pEs_1767786731000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4pr95y2q5ddf0gxru3f6qpn4n0">
+    <display-name>4pr95y2q5ddf0gxru3f6qpn4n0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17lis49l63ipr1756xy8mu4eji_image-header_pEs_1767687947000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="a802vls5x6wo0z16h8jccvnig0">
+    <display-name>a802vls5x6wo0z16h8jccvnig0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oa6nszk1flvazy56qvvb380z_image-header_pEs_1768472591000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e85fvxm3a6p601tsqnrx14obru">
+    <display-name>e85fvxm3a6p601tsqnrx14obru</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nyrga4r432b41q0axsv4vgm9s_image-header_pEs_1767703783000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="eq9ngv5z8md4t4p7tzgorotg4">
+    <display-name>eq9ngv5z8md4t4p7tzgorotg4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b61gmaenglz0l5vs0pasfrdc1_image-header_pEs_1739818982000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="evy8hmgb4vta03z10amox8ss20">
+    <display-name>evy8hmgb4vta03z10amox8ss20</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ceaney2p3ol710a4yyrkkok7f_image-header_pEs_1767694991000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="y3hjvmegqbga080mixq7l36ob0">
+    <display-name>y3hjvmegqbga080mixq7l36ob0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aohutdco4sivzsgxmiowyz6y_image-header_pEs_1767719072000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="161ldtq7fncup1p5atal8fx5as">
+    <display-name>161ldtq7fncup1p5atal8fx5as</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sd1w3dk4tq2tltrqmobosltw_image-header_pEs_1767978730000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6a2xovba7s4n01aw34v9seglbn">
+    <display-name>6a2xovba7s4n01aw34v9seglbn</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/92xgrfw0ysii5exzkme1je52b_image-header_pEs_1754589277000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="96l7gmqr28qs01p6kg9it3i4yr">
+    <display-name>96l7gmqr28qs01p6kg9it3i4yr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14cpw4q995014zzrlqjqv1q8k_image-header_pEs_1751881373000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1dc90qvyteuqe1fgd45l06svrb">
+    <display-name>1dc90qvyteuqe1fgd45l06svrb</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/58gdf4i9jdrekvq33jqgd8o7u_image-header_pEs_1768652256000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1fivrcxpnji6e1r48xykqnyplm">
+    <display-name>1fivrcxpnji6e1r48xykqnyplm</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76yybz9hjc86kj7cwmomavblw_image-header_pEs_1768904648000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1etybshnfusye4ngx7mf0mlpo0">
+    <display-name>1etybshnfusye4ngx7mf0mlpo0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bqv7olfh7elylohpabxsmeqru_image-header_pEs_1766165771000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="59d4thycuper0ytememwpwpkr0">
+    <display-name>59d4thycuper0ytememwpwpkr0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42xylmtby53kure82i2jcsmdi_image-header_pEs_1758277061000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7egtasizlv5rjdfxsqdvtl0y0">
+    <display-name>7egtasizlv5rjdfxsqdvtl0y0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1br8eqdnro9et15psx4pbwbzez_image-header_pEs_1769526963000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8lvmqhjq7olo77jyz5wfq2o4x">
+    <display-name>8lvmqhjq7olo77jyz5wfq2o4x</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/725w4k7373p1r1xs8lke6sd0_image-header_pEs_1768577661000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1152nfk3pyqs5te4v4xb3z5ul0">
+    <display-name>1152nfk3pyqs5te4v4xb3z5ul0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2bdehs4fhohds7o1jdjj2z2t_image-header_pEs_1769452929000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="etyn5m15kd2zgzy4vbyyrbfh0">
+    <display-name>etyn5m15kd2zgzy4vbyyrbfh0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/64a5krp6k2zg19ba0g7c11lxl_image-header_pEs_1764533273000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="11it1wdt4ma4z1r8uts03sa1eo">
+    <display-name>11it1wdt4ma4z1r8uts03sa1eo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/erfoekhjthwz1z87i5njzgg5l_image-header_pEs_1751881261000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c4uaicllteut6m2zuw087a6fo">
+    <display-name>c4uaicllteut6m2zuw087a6fo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d9jemoert5nf11vfju9ow2da0_image-header_pEs_1766670321000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="oozexgcs21a8074o005rq4qur0">
+    <display-name>oozexgcs21a8074o005rq4qur0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6w0ziv8hu5w0ysc8p16lbt37c_image-header_pEs_1768993332000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="14nrulftebc3n6mhx9hjyqrdj">
+    <display-name>14nrulftebc3n6mhx9hjyqrdj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wrm8wcbb8ffo1mpbt9alapmsd_image-header_pEs_1768577661000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4q95i3ijut1c372t0usz05kms">
+    <display-name>4q95i3ijut1c372t0usz05kms</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/myfeee4qs2sc119frj2dobc8v_image-header_pEs_1769088020000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c5hupguv6438xf7a05q0vn1g4">
+    <display-name>c5hupguv6438xf7a05q0vn1g4</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ms26ce5v5spo14r2owumdsgd8_image-header_pEs_1766418078000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="avmscuu4w22w7pfvh06yc37vt">
+    <display-name>avmscuu4w22w7pfvh06yc37vt</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/913w5ourgp9kagbv7s9jw99ye_image-header_pEs_1767962814000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="mg393bqq6td00pjtmvv21aviu0">
+    <display-name>mg393bqq6td00pjtmvv21aviu0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2izabcfip5rame53mkskjhubz_image-header_pEs_1758277035000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="85dx642bcw9bw1glsvc24y4m8">
+    <display-name>85dx642bcw9bw1glsvc24y4m8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t1yvc5vmxagi145o42zapqbs6_image-header_pEs_1763378604000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5v2gfr1xsnv5y9oxq132zelit">
+    <display-name>5v2gfr1xsnv5y9oxq132zelit</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ykf0k0xkjn8r1degs9nrhjd5f_image-header_pEs_1768391027000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1vlap1cwq8n9zhxt5g0ydz0zn0">
+    <display-name>1vlap1cwq8n9zhxt5g0ydz0zn0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ih2o9icw46luumbdy0kxps2g_image-header_pEs_1766567698000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4ijuv87c1n7fglig2ofyskl93">
+    <display-name>4ijuv87c1n7fglig2ofyskl93</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/49d8l323bixxijdu5o2qb32tp_image-header_pEs_1768493410000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="16ozb8z9p0gmn1t6d4own58qss">
+    <display-name>16ozb8z9p0gmn1t6d4own58qss</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e6870xfjbl0bcjr7adfiy4kkk_image-header_pEs_1737632680000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1xach83lu2pn91cabp2asxoafx">
+    <display-name>1xach83lu2pn91cabp2asxoafx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78v6daoxt6krzqwfw0iohx61o_image-header_pEs_1758276734000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1thxiqepg5xtp1nx087q50bqz7">
+    <display-name>1thxiqepg5xtp1nx087q50bqz7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/efo8vwbps0kbty0ktajvzy64v_image-header_pEs_1751881074000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c63p309z56hzd1dnwycy0qbro">
+    <display-name>c63p309z56hzd1dnwycy0qbro</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rca4w2lt6mm16fvq20k2n2j2_image-header_pEs_1767078984000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c6puagml4dymh2vx23591hatw">
+    <display-name>c6puagml4dymh2vx23591hatw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/idpz0xd72q741g2a7j8zd88nd_image-header_pEs_1766698907000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c7blz314hzqsiex4ioen6bsb8">
+    <display-name>c7blz314hzqsiex4ioen6bsb8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14xgykgq8wvj1mw23lno79hfn_image-header_pEs_1762000721000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barrios vs. Garcia</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130221500 +0000" channel="3vwen7mlaa2m3ua8o5jp5g5ek">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sn1hr2qchfs0v25dl6b27yli_image-header_pEs_1768325469000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130221000 +0000" channel="1h288i2rueapd1yob0t8o099r0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4suxba0bi5fxhi4zfw56u80xo_image-header_pEs_1767799668000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Sociedad B - UD Las Palmas</title>
+    <desc lang="es">Real Sociedad II se enfrenta a Las Palmas en un crucial partido de Segunda División en el Reale Arena el 1 de febrero de 2026. Con la temporada LaLiga 2 25/26 en pleno apogeo, ambos clubes buscan escalar posiciones. ¿Podrá Real Sociedad II aprovechar su ventaja local? ¡No te pierdas una noche de emoción futbolística española!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130220000 +0000" channel="etk78ufd093mvrse91d01tm38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7umedrt0wf7wjo1xwqz3kyap7_image-header_pEs_1766577651000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Köln - Wolfsburg</title>
+    <desc lang="es">Köln se enfrenta a Wolfsburg en un crucial partido de la Bundesliga en el RheinEnergieStadion el 31 de enero de 2026. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan escalar posiciones. ¿Podrá Köln defender su territorio o Wolfsburg logrará una victoria vital fuera de casa? ¡No te pierdas este encuentro que podría cambiar la clasificación!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130223000 +0000" channel="1f7vzjb35bwmu1xjnpdlpzcu42">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d76uv4hsukzc9t3qjbhhf1cug_image-header_pEs_1756977961000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Manchester Basketball - Bristol Flyers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Bristol Flyers y Manchester Basketball.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130223000 +0000" channel="1wlydkmw0uk9h1egqlb6flh8oy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67a4wr2syi75mql7f0all0f5j_image-header_pEs_1756898724000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Caledonia Gladiators - Cheshire Phoenix</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Cheshire Phoenix y Caledonia Gladiators.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130223000 +0000" channel="50vs40v3hn05012lrbjwwuiu8z">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2ct93c39frf8xcsd4200lradz_image-header_pEs_1756896076000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Leicester Riders - Surrey 89ers</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre Surrey 89ers y Leicester Riders.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260130194500 +0000" stop="20260130221500 +0000" channel="6aic7xegkkjzit5meq63h6ojd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebcck3qfm1wg1b63v9i785o44_image-header_pEs_1768493263000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lazio - Genoa</title>
+    <desc lang="es">El Genoa visita al Lazio en un emocionante choque de la Serie A en el Stadio Olimpico el 1 de febrero de 2026. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Podrá el Lazio defender su territorio o el Genoa dará la sorpresa? ¡No te pierdas este electrizante enfrentamiento!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130230000 +0000" channel="xk3hspeejcmh01fc2kn6a66jl2">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7fxj1odrwl8edbr0m7503kmmx_image-header_pEs_1768903958000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RCD Espanyol - Deportivo Alavés</title>
+    <desc lang="es">Narración y comentarios: Fran Guillén, Sandra Riquelme, Quique De Lucas, Cristina Bea. Narración en catalán: Gerard Guardi. Narración en Euskera: Eñaut Zuazo. Disfruta del encuentro entre RCD Espanyol y Deportivo Alavés en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="8fbwuo3sxyurm6ksaoc9ss8li">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/147a8o398kpsh193l0aqxbteip_image-header_pEs_1769773055000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Teofimo vs. Stevenson - Pesaje</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130223000 +0000" channel="t98aophltds201nqokw0fokf15">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6m90r57f89bsr6cbi8aka3e0z_image-header_pEs_1767794764000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Olympique Marseille - Paris FC</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131000000 +0000" stop="20260131033000 +0000" channel="1n4ir7oh8j92gxhd8eop6v4z80">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cio2ing4ueawz4e31nakr2jgb_image-header_pEs_1767175008000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Los Angeles Lakers @ Washington Wizards</title>
+    <desc lang="es">Los Washington Wizards se enfrentan a Los Angeles Lakers en un emocionante partido de la temporada NBA 25/26 en el Capital One Arena el 31 de enero de 2026. ¿Podrán los Wizards defender su cancha contra los estelares Lakers? ¡Aficionados al baloncesto, prepárense para una noche electrizante de acción!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131003000 +0000" stop="20260131063000 +0000" channel="ekcznrmgr2c0w1vxb1u0tr9v1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6wyyert6nimq15lmdqt34qdpj_image-header_pEs_1769442728000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ring Magazine Awards</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260131010000 +0000" stop="20260131070000 +0000" channel="7cdtxkc17b43pawast1g5da2w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dj21cntd11snt4gis9t1n1gr4_image-header_pEs_1769795769000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final dobles femenino - Danilina &amp; Krunic - Mertens &amp; Zhang</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260131010000 +0000" stop="20260131043000 +0000" channel="2hfaypucek39ni5vbnnr5cszi">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/atdvmk905wz11nr7kqtu2q55a_image-header_pEs_1768391027000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Michigan @ Michigan State</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131013000 +0000" stop="20260131073000 +0000" channel="c46c4s4ayqw9k0lm41m9nkydw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qqiokay7agdd1d6mmoew2san1_image-header_pEs_1766274394000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Blue Jackets vs. Blackhawks</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131063000 +0000" channel="1q5z4g887z1jl1eva9jodmu689">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/45jxli5uc0n3mpvdyl7xplro3_image-header_pEs_1767175172000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Detroit Pistons @ Golden State Warriors</title>
+    <desc lang="es">Los Golden State Warriors se enfrentan a los Detroit Pistons en un emocionante choque de la NBA en el Chase Center. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan destacar. ¿Será decisiva la ventaja de local de los Warriors, o los Pistons darán la sorpresa? ¡Aficionados del baloncesto, prepárense para un duelo electrizante!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131033000 +0000" stop="20260131093000 +0000" channel="4a6fdldjvcnkrng7v1xyukce7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5g79s1k6tzr7hzlcvmk8669t1_image-header_pEs_1769796005000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final dobles masculino - Kubler &amp; Polmans - Harrison &amp; Skupski</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260131083000 +0000" stop="20260131143000 +0000" channel="6e2zufm38u8gcveqb80gjiphc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/810fexlmmijh9pqhr6luld6ko_image-header_pEs_1769696892000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final - Aryna Sabalenka - Yelena Rybákina</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260131090500 +0000" stop="20260131150500 +0000" channel="canrc64f0h8yz2p1q6wa5nsnd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bxcr6cd7x2c9gz4irbc554yy1_image-header_pEs_1767968460000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Combinada nórdica</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de invierno</category>
+  </programme>
+  <programme start="20260131100000 +0000" stop="20260131120000 +0000" channel="414pacm03alxy6c8rcyconcm4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/61te9w4nv796qqgzp0qaf8c70_image-header_pEs_1736983430000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Día 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Pádel</category>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131133000 +0000" channel="77utc7hsetgx07hscb8zfaqdt0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/52nyje9gssz5qlk1oqnxd58m7_image-header_pEs_1755614168000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Atlético de Madrid - Granada CF</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131133000 +0000" channel="85f10h2ywy9c0167jfrjedyicb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9glblrtiig2ldq4lapdqoly6i_image-header_pEs_1767634752000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Levante UD - Madrid CFF</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131133000 +0000" channel="xbcqz8krqwwi0xqorlez2qtod0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/elyy69r0baxcpk2tfs9fjy17b_image-header_pEs_1767771009000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bayer Leverkusen - Nürnberg</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131114500 +0000" stop="20260131154500 +0000" channel="7sv0ll9wgrh7viy9154ygmvlz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8jn2vlnsdu96714juwuytribv_image-header_pEs_1767960717000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AlUla Tour - Etapa 5 - AlUla Old Town - Skyviews of Harrat Uwayrid</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260131120000 +0000" stop="20260131143000 +0000" channel="1rw98qzbcureg1imgsewezfla0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2pe811hfom832hzix2k2w9z2_image-header_pEs_1766567691000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bochum - Schalke 04</title>
+    <desc lang="es">Bochum se enfrenta a Schalke 04 en un emocionante choque de la 2. Bundesliga en el Vonovia Ruhrstadion. Este encuentro del 31 de enero promete acción intensa mientras ambos equipos buscan escalar posiciones en la temporada 25/26. ¿Podrá Bochum defender su terreno o Schalke 04 logrará una crucial victoria como visitante? ¡No te pierdas este enfrentamiento del fútbol alemán!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131120000 +0000" stop="20260131180000 +0000" channel="dezafava85b0i3otp8km72g8o">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/anszrb7xq3ga4yz3ah1xmybq0_image-header_pEs_1750353330000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chalarm vs. Kaipa</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">MMA</category>
+  </programme>
+  <programme start="20260131121000 +0000" stop="20260131181000 +0000" channel="e3sf9eeeibpvmy9riiwdyq6v5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7n10p3wg0ex85rnnb4crfo2n6_image-header_pEs_1761034241000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Noche de Carreras - Copa de Japón</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Carreras de caballos</category>
+  </programme>
+  <programme start="20260131123000 +0000" stop="20260131150000 +0000" channel="1to6xkjzdf4071vmse7up2vt8i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ffipxfc4g396r3kh545kxaxy_image-header_pEs_1768904246000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Real Oviedo - Girona FC</title>
+    <desc lang="es">Real Oviedo se enfrenta a Girona en un emocionante choque de Primera División en el Carlos Tartiere. La temporada LaLiga 25/26 se calienta con este duelo el 31 de enero de 2026. ¿Podrá Real Oviedo defender su terreno o Girona logrará una victoria crucial fuera de casa? ¡No te pierdas esta acción de fútbol español de primer nivel!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131131500 +0000" stop="20260131191500 +0000" channel="egs5ficat2y8k3vjtsiqo6ofm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xudn4ycdzdvs0e85lacmy8w_image-header_pEs_1767962349000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Estoril</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260131140000 +0000" stop="20260131163000 +0000" channel="19puni2howgmonyt2mi1wgfem0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6aj9t1c7oetyzqgrruq1vh1y5_image-header_pEs_1767976189000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pisa - Sassuolo</title>
+    <desc lang="es">El Pisa se enfrenta al Sassuolo en un emocionante choque de la Serie A. El Arena Garibaldi albergará este apasionante encuentro el 1 de febrero de 2026, mientras ambos equipos buscan dejar huella en la temporada 25/26. ¿Podrá el Pisa defender su territorio o el Sassuolo logrará una valiosa victoria a domicilio? ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131140000 +0000" stop="20260131200000 +0000" channel="8smmf5taeo8lzifpktdrel7em">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8oo6v6ealzyzm9kq3yhi2iflh_image-header_pEs_1769432649000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Campeonato Mundial de Ciclocross - Femenino</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclocrós</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="eqrwci52oedqmjevxdoz80sus">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bw1e7hkjovyg94bjn91y0poks_image-header_pEs_1767797126000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eintracht Frankfurt - Bayer Leverskusen</title>
+    <desc lang="es">El ​Eintracht Frankfurt recibe al Bayer Leverskusen en la jornada 20 de la Bundesliga. Disfruta del partido en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="5sxvah87qaujabxvdfsaynrjy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5s1ppequtrvjcwwswjzr982m8_image-header_pEs_1767799966000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multigol - Jornada 20</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="erk6terb8zyabi551pisqtnh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6c3pog6ugjl2yecihtswp0ly_image-header_pEs_1767796712000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">RB Leipzig - Mainz 05</title>
+    <desc lang="es">El ​RB Leipzig recibe al Mainz 05 en la jornada 20 de la Bundesliga. Disfruta del partido en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="eryaudkr50cz25pcdgb4bvr4k">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dwj0uqs81jgz0e6l075fi3gdk_image-header_pEs_1767797483000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Werder Bremen - Borussia Mönchengladbach</title>
+    <desc lang="es">El Werder Bremen recibe al Borussia Mönchengladbach en la jornada 20 de la Bundesliga. Disfruta del partido en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="ess18xzk8in35aws8a2xj9wyc">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1zv06sa067avqzk1ugjojajdo_image-header_pEs_1767794739000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Augsburg - St. Pauli</title>
+    <desc lang="es">El Augsburg recibe al St. Pauli en la jornada 20 de la Bundesliga. Disfruta del partido en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131143000 +0000" stop="20260131170000 +0000" channel="et5zgeu6v608mkb29c8oxmoes">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bvz6fj6skn30vtan6ki4m9z6d_image-header_pEs_1767795309000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hoffenheim - Union Berlin</title>
+    <desc lang="es">El ​Hoffenheim recibe al Union Berlin en la jornada 20 de la Bundesliga. Disfruta del partido en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="1380rsyd7lybu6mcce4sd1iri0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xk8xzv71p6gugzpbpwk8t2da_image-header_pEs_1767638516000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Leeds United - Arsenal</title>
+    <desc lang="es">Arsenal viaja a Elland Road para enfrentarse al Leeds United en la Premier League. La temporada 25/26 se intensifica con este partido el 31 de enero de 2026. ¿Defenderá Leeds su terreno o Arsenal logrará una victoria fuera de casa? ¡Sintoniza este encuentro que podría agitar la clasificación de la liga!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="1rt1ors1amdysef6vbi0df2100">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d1om7se4d27la8pnqasmrjfvv_image-header_pEs_1730596942000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wolverhampton - Bournemouth</title>
+    <desc lang="es">AFC Bournemouth visita a Wolverhampton Wolves en Molineux Stadium en un partido de Premier League 25/26 el 31 de enero de 2026. ¿Podrán los Wolves defender su territorio contra el ataque de los Cherries? Este encuentro podría alterar la clasificación. ¿Quién aprovechará la oportunidad? ¡Sintoniza para ver una emocionante acción futbolística!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="zsd0aa8bhmz90sm15q9lkj0700">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eaq5qjp9gil2y5ccsraexuemr_image-header_pEs_1767638806000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Brighton &amp; Hove Albion - Everton</title>
+    <desc lang="es">Brighton &amp; Hove Albion recibe a Everton en el American Express Community Stadium para un enfrentamiento de Premier League el 31 de enero de 2026. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan puntos cruciales. ¿Será decisiva la ventaja local de Brighton, o Everton dará la sorpresa? ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="1q5aj9bn117dx1sre0ipj2p6ui">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/yu8lwdkoalzh1rg410mks9w4o_image-header_pEs_1767786731000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hartlepool - Aldershot</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="4pr95y2q5ddf0gxru3f6qpn4n0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17lis49l63ipr1756xy8mu4eji_image-header_pEs_1767687947000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carlisle - Altrincham</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="a802vls5x6wo0z16h8jccvnig0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1oa6nszk1flvazy56qvvb380z_image-header_pEs_1768472591000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Solihull Moors - York</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="e85fvxm3a6p601tsqnrx14obru">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nyrga4r432b41q0axsv4vgm9s_image-header_pEs_1767703783000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sutton - Brackley</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="eq9ngv5z8md4t4p7tzgorotg4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b61gmaenglz0l5vs0pasfrdc1_image-header_pEs_1739818982000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cercle Brugge - Royal Antwerp</title>
+    <desc lang="es">Cercle Brugge se enfrenta a Antwerp en un duelo de First Division A en el Jan Breydel Stadium. Con la temporada 2025/2026 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Podrá Cercle Brugge defender su territorio o Antwerp logrará una victoria como visitante? ¡Sintoniza el 31 de enero de 2026 para toda la emoción!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="evy8hmgb4vta03z10amox8ss20">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ceaney2p3ol710a4yyrkkok7f_image-header_pEs_1767694991000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Boreham Wood - Boston</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131173000 +0000" channel="y3hjvmegqbga080mixq7l36ob0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1aohutdco4sivzsgxmiowyz6y_image-header_pEs_1767719072000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Braintree - Eastleigh</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131151500 +0000" stop="20260131174500 +0000" channel="161ldtq7fncup1p5atal8fx5as">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sd1w3dk4tq2tltrqmobosltw_image-header_pEs_1767978730000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Athletic Club - RCD Espanyol</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131151500 +0000" stop="20260131174500 +0000" channel="6a2xovba7s4n01aw34v9seglbn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/92xgrfw0ysii5exzkme1je52b_image-header_pEs_1754589277000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Burgos CF - CD Leganés</title>
+    <desc lang="es">Burgos se enfrentará a Leganés en un emocionante choque de Segunda División. El Municipal El Plantio acogerá este apasionante encuentro el 1 de febrero de 2026, como parte de la temporada LaLiga 2 25/26. ¿Podrá Burgos asegurar una victoria en casa, o Leganés se llevará una valiosa victoria a domicilio? ¡Sintoniza para una noche de drama futbolístico español!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131151500 +0000" stop="20260131174500 +0000" channel="96l7gmqr28qs01p6kg9it3i4yr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14cpw4q995014zzrlqjqv1q8k_image-header_pEs_1751881373000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Albacete Balompié - Real Zaragoza</title>
+    <desc lang="es">Albacete se enfrenta a Real Zaragoza en un crucial partido de Segunda División en el Carlos Belmonte. En plena temporada 25/26 de LaLiga 2, ambos clubes buscan mejorar su posición. ¿Será decisiva la ventaja local de Albacete o logrará Zaragoza una victoria crucial como visitante? ¡No te pierdas este emocionante encuentro!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131160000 +0000" stop="20260131183000 +0000" channel="1dc90qvyteuqe1fgd45l06svrb">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/58gdf4i9jdrekvq33jqgd8o7u_image-header_pEs_1768652256000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Alhama CF ElPozo - DUX Logroño</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131193000 +0000" channel="1fivrcxpnji6e1r48xykqnyplm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76yybz9hjc86kj7cwmomavblw_image-header_pEs_1768904648000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Levante UD - Atlético de Madrid</title>
+    <desc lang="es">Levante se enfrenta al Atlético de Madrid en un choque de LaLiga 25/26 en el Ciutat de Valencia el 31 de enero de 2026. ¿Podrá el equipo local mantener su posición frente a los formidables visitantes? Este partido podría agitar la clasificación. ¡Sintoniza para una emocionante noche de fútbol español!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131193000 +0000" channel="1etybshnfusye4ngx7mf0mlpo0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bqv7olfh7elylohpabxsmeqru_image-header_pEs_1766165771000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Napoli - Fiorentina</title>
+    <desc lang="es">Napoli se enfrenta a Fiorentina en un emocionante duelo de Serie A en el Stadio Diego Armando Maradona. La temporada 25/26 se calienta el 1 de febrero de 2026, con estos gigantes italianos chocando. ¿Podrá Napoli defender su terreno o Fiorentina logrará una victoria a domicilio? ¡Prepárense para un festín futbolístico!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131203000 +0000" channel="59d4thycuper0ytememwpwpkr0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42xylmtby53kure82i2jcsmdi_image-header_pEs_1758277061000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Coviran Granada - Río Breogán</title>
+    <desc lang="es">Granada se enfrenta a Breogán en un emocionante partido de la Liga Endesa en el Palacio Municipal de Deportes. ¿Podrá Granada defender su cancha contra el equipo visitante? Este encuentro promete acción intensa mientras ambos equipos luchan por una victoria crucial. ¿Quién saldrá victorioso? ¡No te lo pierdas!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131230000 +0000" channel="7egtasizlv5rjdfxsqdvtl0y0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1br8eqdnro9et15psx4pbwbzez_image-header_pEs_1769526963000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Murtazaliev vs. Kelly - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131203000 +0000" channel="8lvmqhjq7olo77jyz5wfq2o4x">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/725w4k7373p1r1xs8lke6sd0_image-header_pEs_1768577661000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cincinnati @ Houston</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131173000 +0000" stop="20260131200000 +0000" channel="1152nfk3pyqs5te4v4xb3z5ul0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d2bdehs4fhohds7o1jdjj2z2t_image-header_pEs_1769452929000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelsea - West Ham United</title>
+    <desc lang="es">Chelsea se enfrenta a West Ham United en un duelo de Premier League en Stamford Bridge. En plena temporada 25/26, este derbi londinense promete acción intensa el 31 de enero. ¿Podrá Chelsea defender su terreno o West Ham logrará una victoria crucial como visitante? ¡No te pierdas este partido que podría influir en la clasificación!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131173000 +0000" stop="20260131200000 +0000" channel="etyn5m15kd2zgzy4vbyyrbfh0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/64a5krp6k2zg19ba0g7c11lxl_image-header_pEs_1764533273000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hamburger SV - Bayern München</title>
+    <desc lang="es">Hamburger SV se enfrenta a Bayern München en un emocionante choque de la Bundesliga en el Volksparkstadion. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan puntos. ¿Podrá Hamburger SV defender su terreno contra los gigantes bávaros? Este partido promete acción intensa y posibles sorpresas. ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131173000 +0000" stop="20260131200000 +0000" channel="11it1wdt4ma4z1r8uts03sa1eo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/erfoekhjthwz1z87i5njzgg5l_image-header_pEs_1751881261000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cultural y Deportiva Leonesa - RC Deportivo</title>
+    <desc lang="es">El Deportivo de La Coruña visita al Cultural Leonesa en un crucial encuentro de Segunda División el 1 de febrero de 2026. El Estadio Reino de Leon albergará este emocionante duelo de LaLiga 2 25/26. ¿Podrá Cultural Leonesa defender su terreno contra el visitante Deportivo? ¡Sintoniza para una noche apasionante de fútbol español!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131173000 +0000" stop="20260131233000 +0000" channel="c4uaicllteut6m2zuw087a6fo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d9jemoert5nf11vfju9ow2da0_image-header_pEs_1766670321000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kings vs. Flyers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131213000 +0000" channel="oozexgcs21a8074o005rq4qur0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6w0ziv8hu5w0ysc8p16lbt37c_image-header_pEs_1768993332000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">MoraBanc Andorra - Dreamland Gran Canaria</title>
+    <desc lang="es">Andorra se prepara para enfrentarse a Gran Canaria en un emocionante choque de la Liga ACB. El Poliesportiu d'Andorra acogerá este apasionante encuentro el 31 de enero de 2026, como parte de la temporada 25/26. ¿Podrá Andorra defender su cancha contra los visitantes? ¡No te pierdas este duelo de baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131213000 +0000" channel="14nrulftebc3n6mhx9hjyqrdj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wrm8wcbb8ffo1mpbt9alapmsd_image-header_pEs_1768577661000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">DePaul @ Xavier</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260201000000 +0000" channel="4q95i3ijut1c372t0usz05kms">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/myfeee4qs2sc119frj2dobc8v_image-header_pEs_1769088020000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bank vs. Scull</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260201000000 +0000" channel="c5hupguv6438xf7a05q0vn1g4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ms26ce5v5spo14r2owumdsgd8_image-header_pEs_1766418078000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Avalanche vs. Red Wings</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260131184500 +0000" stop="20260201004500 +0000" channel="avmscuu4w22w7pfvh06yc37vt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/913w5ourgp9kagbv7s9jw99ye_image-header_pEs_1767962814000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ronda 3 - Miami</title>
+    <desc lang="es">Miami acoge la tercera prueba del Mundial de Fórmula E en una carrera que promete adrenalina y emoción en otra apasionante temporada con Pepe Martí como representante español. Disfruta en DAZN del gran espectáculo de la mejor competición de monoplazas eléctricos.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260131190000 +0000" stop="20260131223000 +0000" channel="mg393bqq6td00pjtmvv21aviu0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2izabcfip5rame53mkskjhubz_image-header_pEs_1758277035000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Surne Bilbao - Joventut Badalona</title>
+    <desc lang="es">Bilbao se enfrenta a Joventut en un emocionante choque de Liga ACB en el Bilbao Arena el 31 de enero de 2026. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan destacar. ¿Será decisiva la ventaja de jugar en casa para Bilbao, o podrá Joventut robar una victoria como visitante? ¡Aficionados al baloncesto, este partido les mantendrá en vilo!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131190000 +0000" stop="20260201010000 +0000" channel="85dx642bcw9bw1glsvc24y4m8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1t1yvc5vmxagi145o42zapqbs6_image-header_pEs_1763378604000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Murtazaliev vs. Kelly</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260131190000 +0000" stop="20260131223000 +0000" channel="5v2gfr1xsnv5y9oxq132zelit">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ykf0k0xkjn8r1degs9nrhjd5f_image-header_pEs_1768391027000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ohio State @ Wisconsin</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131193000 +0000" stop="20260131220000 +0000" channel="1vlap1cwq8n9zhxt5g0ydz0zn0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ih2o9icw46luumbdy0kxps2g_image-header_pEs_1766567698000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kaiserslautern - Elversberg</title>
+    <desc lang="es">El Kaiserslautern se prepara para enfrentar al Elversberg en un emocionante encuentro de la 2. Bundesliga en el Fritz-Walter-Stadion. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan sumar puntos. ¿Podrá el Kaiserslautern defender su terreno o el Elversberg dará la sorpresa? ¡Prepárense para una noche de fútbol alemán llena de drama!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131194500 +0000" stop="20260131221500 +0000" channel="4ijuv87c1n7fglig2ofyskl93">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/49d8l323bixxijdu5o2qb32tp_image-header_pEs_1768493410000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cagliari - Hellas Verona</title>
+    <desc lang="es">El Hellas Verona visita el Unipol Domus para enfrentarse al Cagliari en la Serie A el 1 de febrero de 2026. Ambos equipos buscan mejorar su posición en la temporada 25/26. ¿Surgirán héroes inesperados o momentos decisivos? ¡No te pierdas 90 minutos de emocionante fútbol italiano!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131223000 +0000" channel="16ozb8z9p0gmn1t6d4own58qss">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e6870xfjbl0bcjr7adfiy4kkk_image-header_pEs_1737632680000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Liverpool - Newcastle United</title>
+    <desc lang="es">Liverpool se enfrenta a Newcastle United en un partido de la Premier League en Anfield el 31 de enero de 2026. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Será decisiva la ventaja local de Liverpool, o Newcastle dará la sorpresa? ¡No te pierdas esta emocionante noche de fútbol!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131233000 +0000" channel="1xach83lu2pn91cabp2asxoafx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/78v6daoxt6krzqwfw0iohx61o_image-header_pEs_1758276734000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bàsquet Girona - Recoletas Salud San Pablo Burgos</title>
+    <desc lang="es">Girona se enfrenta a CB San Pablo Burgos en un emocionante partido de Liga ACB 25/26 en el Pavello Girona Fontajau el 31 de enero de 2026. Cuando estos gigantes del baloncesto choquen, ¿quién dominará la cancha? ¿Podrá Girona defender su territorio o Burgos logrará una victoria como visitante? ¡Prepárate para un enfrentamiento inolvidable!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131223000 +0000" channel="1thxiqepg5xtp1nx087q50bqz7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/efo8vwbps0kbty0ktajvzy64v_image-header_pEs_1751881074000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Córdoba CF - Real Valladolid</title>
+    <desc lang="es">El Real Valladolid visita al Córdoba en un crucial encuentro de Segunda División el 1 de febrero de 2026. El Estadio Nuevo Arcángel será escenario de este duelo de LaLiga 2 25/26. ¿Podrá el Córdoba defender su territorio o el Real Valladolid logrará una victoria vital fuera de casa? ¡No te pierdas esta noche de drama futbolístico español!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260131203000 +0000" stop="20260201023000 +0000" channel="c63p309z56hzd1dnwycy0qbro">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rca4w2lt6mm16fvq20k2n2j2_image-header_pEs_1767078984000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rangers vs. Penguins</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260131210000 +0000" stop="20260201030000 +0000" channel="c6puagml4dymh2vx23591hatw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/idpz0xd72q741g2a7j8zd88nd_image-header_pEs_1766698907000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jets vs. Panthers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260131210000 +0000" stop="20260201030000 +0000" channel="c7blz314hzqsiex4ioen6bsb8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14xgykgq8wvj1mw23lno79hfn_image-header_pEs_1762000721000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sharks vs. Flames</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
