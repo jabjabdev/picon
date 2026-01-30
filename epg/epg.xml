@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 30 17:03:47 2026">
+<tv date="Fri Jan 30 17:07:19 2026">
   <channel id="e79aif64gadpcyuro75v04dmc">
     <display-name>e79aif64gadpcyuro75v04dmc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k5m2qjw5bchx333hsx5d90e_image-header_pEs_1769768582000/fill/none/top/none/85/300/180/webp/image"/>
@@ -728,6 +728,10 @@
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="4ijuv87c1n7fglig2ofyskl93">
+    <display-name>4ijuv87c1n7fglig2ofyskl93</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/49d8l323bixxijdu5o2qb32tp_image-header_pEs_1768493410000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260130080000 +0000" stop="20260130124500 +0000" channel="e79aif64gadpcyuro75v04dmc">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6k5m2qjw5bchx333hsx5d90e_image-header_pEs_1769768582000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Semifinal - Novak Djokovic - Jannik Sinner</title>
@@ -1154,7 +1158,7 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20260131190000 +0000" stop="20260201010000 +0000" channel="4q95i3ijut1c372t0usz05kms">
+  <programme start="20260131180000 +0000" stop="20260201000000 +0000" channel="4q95i3ijut1c372t0usz05kms">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/myfeee4qs2sc119frj2dobc8v_image-header_pEs_1769088020000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Bank vs. Scull</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1819,5 +1823,11 @@
     <title lang="es">Barrios vs. Garcia</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260131194500 +0000" stop="20260131221500 +0000" channel="4ijuv87c1n7fglig2ofyskl93">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/49d8l323bixxijdu5o2qb32tp_image-header_pEs_1768493410000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Cagliari - Hellas Verona</title>
+    <desc lang="es">El Hellas Verona visita el Unipol Domus para enfrentarse al Cagliari en la Serie A el 1 de febrero de 2026. Ambos equipos buscan mejorar su posición en la temporada 25/26. ¿Surgirán héroes inesperados o momentos decisivos? ¡No te pierdas 90 minutos de emocionante fútbol italiano!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
