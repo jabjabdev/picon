@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Jan 30 06:36:46 2026">
+<tv date="Fri Jan 30 09:35:45 2026">
   <channel id="99ht362hx4a3ku6huc7tj6zqu">
     <display-name>99ht362hx4a3ku6huc7tj6zqu</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/300/180/webp/image"/>
@@ -319,10 +319,6 @@
   <channel id="esp-e201205996c0ch20002">
     <display-name>esp-e201205996c0ch20002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495483/20002/6/1/31495483_16:9.jpg?date=20260129104913"/>
-  </channel>
-  <channel id="esp-e201206090c0ch20005">
-    <display-name>esp-e201206090c0ch20005</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495522/20005/6/1/31495522_16:9.jpg?date=20260129134550"/>
   </channel>
   <channel id="esp-e201119528c0ch20001">
     <display-name>esp-e201119528c0ch20001</display-name>
@@ -751,6 +747,10 @@
   <channel id="esp-e201126384c0ch20028">
     <display-name>esp-e201126384c0ch20028</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31442154/20028/6/1/31442154_16:9.jpg?date=20260126180210"/>
+  </channel>
+  <channel id="7cdtxkc17b43pawast1g5da2w">
+    <display-name>7cdtxkc17b43pawast1g5da2w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dj21cntd11snt4gis9t1n1gr4_image-header_pEs_1737733052000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260201010000 +0000" stop="20260201070000 +0000" channel="99ht362hx4a3ku6huc7tj6zqu">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mzmbg1r0u1ke15ioo2p5iy90k_image-header_pEs_1764606984000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1232,25 +1232,19 @@
     <desc lang="es">Femenino | Dobles | Semifinales | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260130073000 +0000" stop="20260130100000 +0000" channel="esp-e201206090c0ch20005">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495522/20005/6/1/31495522_16:9.jpg?date=20260129134550"/>
-    <title lang="es">C. Doig / D. Kisimov - M. Ceban / K. Filaretov</title>
-    <desc lang="es">Dobles | Júnior masculino | Australian Open | Semifinales</desc>
-    <category lang="es">Tenis</category>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="esp-e201119528c0ch20001">
+  <programme start="20260130080500 +0000" stop="20260130083500 +0000" channel="esp-e201119528c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31465769/20001/6/1/31465769_16:9.jpg?date=20260121061112"/>
     <title lang="es">Australian Open Courtside</title>
     <desc lang="es">Día 13</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260130083000 +0000" stop="20260130113000 +0000" channel="esp-e201096115c0ch20001">
+  <programme start="20260130090500 +0000" stop="20260130120500 +0000" channel="esp-e201096115c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31465770/20001/6/1/31465770_16:9.jpg?date=20260129140424"/>
     <title lang="es">Novak Djokovic - Jannik Sinner</title>
     <desc lang="es">Individuales | Masculino | Open de Australia | Semifinales</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260130083000 +0000" stop="20260130113000 +0000" channel="esp-e201203036c0ch20024">
+  <programme start="20260130093000 +0000" stop="20260130123000 +0000" channel="esp-e201203036c0ch20024">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31492995/20024/6/1/31492995_16:9.jpg?date=20260129123013"/>
     <title lang="es">Novak Djokovic - Jannik Sinner - Animación</title>
     <desc lang="es">Individuales | Masculino | Open de Australia | Semifinales</desc>
@@ -1879,5 +1873,11 @@
     <title lang="es">UFC 325 - Alexander Volkanovski - Diego Lopes 2</title>
     <desc lang="es">Velada Completa | Peso pluma</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20260131010000 +0000" stop="20260131070000 +0000" channel="7cdtxkc17b43pawast1g5da2w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dj21cntd11snt4gis9t1n1gr4_image-header_pEs_1737733052000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final dobles femenino</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Tenis</category>
   </programme>
 </tv>
