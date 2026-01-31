@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Jan 31 12:30:15 2026">
+<tv date="Sat Jan 31 18:30:15 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -206,7 +206,7 @@
   </channel>
   <channel id="1fivrcxpnji6e1r48xykqnyplm">
     <display-name>1fivrcxpnji6e1r48xykqnyplm</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76yybz9hjc86kj7cwmomavblw_image-header_pEs_1768904648000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emygi1pvavefubdmlrh60huad_image-header_pEs_1768904648000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1etybshnfusye4ngx7mf0mlpo0">
     <display-name>1etybshnfusye4ngx7mf0mlpo0</display-name>
@@ -940,6 +940,10 @@
     <display-name>bt67xkp2bvj4xrt3o7baic3e8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cb5o4l82zec720co9kd7thdw9_image-header_pEs_1758276868000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="5uhz096l1q9ohqt8ahcj6cxfr">
+    <display-name>5uhz096l1q9ohqt8ahcj6cxfr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exmope9nazjwdbabnl4xk3tpe_image-header_pEs_1768904648000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barrios vs. Garcia</title>
@@ -1246,8 +1250,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260131170000 +0000" stop="20260131193000 +0000" channel="1fivrcxpnji6e1r48xykqnyplm">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/76yybz9hjc86kj7cwmomavblw_image-header_pEs_1768904648000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260131173000 +0000" stop="20260131203000 +0000" channel="1fivrcxpnji6e1r48xykqnyplm">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/emygi1pvavefubdmlrh60huad_image-header_pEs_1768904648000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Levante UD - Atlético de Madrid</title>
     <desc lang="es">Levante se enfrenta al Atlético de Madrid en un choque de LaLiga 25/26 en el Ciutat de Valencia el 31 de enero de 2026. ¿Podrá el equipo local mantener su posición frente a los formidables visitantes? Este partido podría agitar la clasificación. ¡Sintoniza para una emocionante noche de fútbol español!</desc>
     <category lang="es">Fútbol</category>
@@ -2349,5 +2353,11 @@
     <title lang="es">BAXI Manresa - Unicaja Málaga</title>
     <desc lang="es">Manresa se enfrenta a Málaga en un emocionante duelo de la Liga ACB 25/26 en el Pavello Nou Congost el 1 de febrero de 2026. Ambos equipos buscan ascender en la clasificación en este crucial encuentro. ¿Podrá Manresa defender su cancha o Málaga logrará una valiosa victoria como visitante? ¡No te pierdas este espectáculo de baloncesto!</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260131173000 +0000" stop="20260131200000 +0000" channel="5uhz096l1q9ohqt8ahcj6cxfr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/exmope9nazjwdbabnl4xk3tpe_image-header_pEs_1768904648000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multicamera - Levante UD - Atlético de Madrid</title>
+    <desc lang="es">Levante se enfrenta al Atlético de Madrid en un choque de Primera División el 31 de enero de 2026. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan puntos cruciales. ¿Podrá Levante sorprender a los visitantes, o brillará la experiencia del Atlético? ¡Sintoniza para un emocionante espectáculo del fútbol español!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
