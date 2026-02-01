@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Feb 01 06:30:10 2026">
+<tv date="Sun Feb 01 12:30:07 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -595,10 +595,6 @@
   <channel id="c8mvkswbqrj8827dlwitxbsmn">
     <display-name>c8mvkswbqrj8827dlwitxbsmn</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2s9oy1txs957blj5cn5pgmvqv_image-header_pEs_1737039119000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="axlkhsuldqywt4ezf064vm45q">
-    <display-name>axlkhsuldqywt4ezf064vm45q</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bedwfyn7l5ptw1in5dnj41mu8_image-header_pEs_1767973540000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1ausr0ebskt4a50k04fwn4evj0">
     <display-name>1ausr0ebskt4a50k04fwn4evj0</display-name>
@@ -1882,12 +1878,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Pádel</category>
   </programme>
-  <programme start="20260201090500 +0000" stop="20260201150500 +0000" channel="axlkhsuldqywt4ezf064vm45q">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bedwfyn7l5ptw1in5dnj41mu8_image-header_pEs_1767973540000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Combinada nórdica</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260201110000 +0000" stop="20260201143000 +0000" channel="1ausr0ebskt4a50k04fwn4evj0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cb5o4l82zec720co9kd7thdw9_image-header_pEs_1758276868000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">BAXI Manresa - Unicaja Málaga</title>
@@ -2224,13 +2214,13 @@
     <desc lang="es">Masculino | Individuales | Final | Australian Open</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260201083000 +0000" stop="20260201123000 +0000" channel="esp-e201096127c0ch20001">
+  <programme start="20260201084058 +0000" stop="20260201124058 +0000" channel="esp-e201096127c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31465782/20001/6/1/31465782_16:9.jpg?date=20260130173537"/>
     <title lang="es">Carlos Alcaraz - Novak Djokovic</title>
     <desc lang="es">Masculino | Individuales | Final</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260201083500 +0000" stop="20260201102800 +0000" channel="esp-e201161115c0ch20027">
+  <programme start="20260201090000 +0000" stop="20260201103000 +0000" channel="esp-e201161115c0ch20027">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31475049/20027/6/1/31475049_16:9.jpg"/>
     <title lang="es">Copa del Mundo - Boí Taüll</title>
     <desc lang="es">Relevos | Mixtos</desc>
