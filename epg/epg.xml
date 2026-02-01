@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 02 00:52:17 2026">
+<tv date="Mon Feb 02 00:53:37 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -711,6 +711,50 @@
   <channel id="esp-e201155667c0ch20022">
     <display-name>esp-e201155667c0ch20022</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474575/20022/6/1/31474575_16:9.jpg?date=20260129121209"/>
+  </channel>
+  <channel id="esp-e201192202c0ch20043">
+    <display-name>esp-e201192202c0ch20043</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192204c0ch20045">
+    <display-name>esp-e201192204c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192203c0ch20044">
+    <display-name>esp-e201192203c0ch20044</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192206c0ch20042">
+    <display-name>esp-e201192206c0ch20042</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192205c0ch20046">
+    <display-name>esp-e201192205c0ch20046</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192209c0ch20045">
+    <display-name>esp-e201192209c0ch20045</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192208c0ch20044">
+    <display-name>esp-e201192208c0ch20044</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192211c0ch20042">
+    <display-name>esp-e201192211c0ch20042</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192207c0ch20043">
+    <display-name>esp-e201192207c0ch20043</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201192210c0ch20046">
+    <display-name>esp-e201192210c0ch20046</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+  </channel>
+  <channel id="esp-e201155668c0ch20022">
+    <display-name>esp-e201155668c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474576/20022/6/1/31474576_16:9.jpg?date=20260130130650"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1778,6 +1822,72 @@
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474575/20022/6/1/31474575_16:9.jpg?date=20260129121209"/>
     <title lang="es">Campeonato de Europa - Konya</title>
     <desc lang="es">Día 2</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260203050000 +0000" stop="20260203080000 +0000" channel="esp-e201192202c0ch20043">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203050000 +0000" stop="20260203080000 +0000" channel="esp-e201192204c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203050000 +0000" stop="20260203080000 +0000" channel="esp-e201192203c0ch20044">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203050000 +0000" stop="20260203080000 +0000" channel="esp-e201192206c0ch20042">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203050000 +0000" stop="20260203080000 +0000" channel="esp-e201192205c0ch20046">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203110000 +0000" stop="20260203140000 +0000" channel="esp-e201192209c0ch20045">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203110000 +0000" stop="20260203140000 +0000" channel="esp-e201192208c0ch20044">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203110000 +0000" stop="20260203140000 +0000" channel="esp-e201192211c0ch20042">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203110000 +0000" stop="20260203140000 +0000" channel="esp-e201192207c0ch20043">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203110000 +0000" stop="20260203140000 +0000" channel="esp-e201192210c0ch20046">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Grand Prix | 1ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260203152000 +0000" stop="20260203182500 +0000" channel="esp-e201155668c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474576/20022/6/1/31474576_16:9.jpg?date=20260130130650"/>
+    <title lang="es">Campeonato de Europa - Konya</title>
+    <desc lang="es">Día 3</desc>
     <category lang="es">Ciclismo</category>
   </programme>
 </tv>
