@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Feb 01 00:30:15 2026">
+<tv date="Sun Feb 01 06:30:10 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -816,10 +816,6 @@
     <display-name>esp-e201096126c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
   </channel>
-  <channel id="esp-e201203043c0ch20024">
-    <display-name>esp-e201203043c0ch20024</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-  </channel>
   <channel id="esp-e201119530c0ch20001">
     <display-name>esp-e201119530c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31465781/20001/6/1/31465781_16:9.jpg?date=20260121061212"/>
@@ -987,6 +983,10 @@
   <channel id="txl4tauvyots09mjkhvmfe1ig0">
     <display-name>txl4tauvyots09mjkhvmfe1ig0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ip3u0xroccasfrymr4tkueba_image-header_pEs_1767978536000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201155667c0ch20022">
+    <display-name>esp-e201155667c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474575/20022/6/1/31474575_16:9.jpg?date=20260129121209"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2212,12 +2212,6 @@
     <desc lang="es">| |</desc>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260201033000 +0000" stop="20260201060000 +0000" channel="esp-e201203043c0ch20024">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240327-103957.jpeg"/>
-    <title lang="es">Tenis</title>
-    <desc lang="es">| | | Australian Open</desc>
-    <category lang="es">Tenis</category>
-  </programme>
   <programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="esp-e201119530c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31465781/20001/6/1/31465781_16:9.jpg?date=20260121061212"/>
     <title lang="es">Australian Open Courtside</title>
@@ -2469,5 +2463,11 @@
     <title lang="es">Sunderland - Burnley</title>
     <desc lang="es">Sunderland se enfrenta a Burnley en un choque de Premier League en el Stadium of Light el 2 de febrero de 2026. Ambos equipos buscan asegurar puntos vitales en la temporada 25/26. ¿Podrá Sunderland aprovechar su ventaja local, o Burnley logrará una victoria como visitante? ¡Prepárense para un intenso enfrentamiento futbolístico!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260202152000 +0000" stop="20260202190500 +0000" channel="esp-e201155667c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474575/20022/6/1/31474575_16:9.jpg?date=20260129121209"/>
+    <title lang="es">Campeonato de Europa - Konya</title>
+    <desc lang="es">Día 2</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
