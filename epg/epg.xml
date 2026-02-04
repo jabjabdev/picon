@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Feb 04 12:30:08 2026">
+<tv date="Wed Feb 04 18:30:08 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -103,10 +103,6 @@
   <channel id="4w6vzb5js2c9vh199ty5prrcb">
     <display-name>4w6vzb5js2c9vh199ty5prrcb</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3rklnqpdcc4munql5bjah6wqi_image-header_pEs_1769436767000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="10q60cb7exl7v19c7ngopn5i00">
-    <display-name>10q60cb7exl7v19c7ngopn5i00</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9kur07y3je12jjivj0frljhtr_image-header_pEs_1764630072000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="f4mdwa7jfhqt6se1bq7fe6z1u">
     <display-name>f4mdwa7jfhqt6se1bq7fe6z1u</display-name>
@@ -468,6 +464,10 @@
     <display-name>esp-e201203540c0ch20050</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31493169/20050/6/1/31493169_16:9.jpg?date=20260201105909"/>
   </channel>
+  <channel id="ee6khh5a1b9i1if1q2iwoju6t">
+    <display-name>ee6khh5a1b9i1if1q2iwoju6t</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3xopeedpnn8jbnpi7adj3j3m8_image-header_pEs_1764531580000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barrios vs. Garcia</title>
@@ -576,7 +576,7 @@
     <desc lang="es">Masculino</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260204143000 +0000" stop="20260204160000 +0000" channel="esp-e201160721c0ch20048">
+  <programme start="20260204144500 +0000" stop="20260204161500 +0000" channel="esp-e201160721c0ch20048">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474947/20048/6/1/31474947_16:9.jpg?date=20260130132159"/>
     <title lang="es">Vuelta a la Comunidad Valenciana - Etapa 1</title>
     <desc lang="es">Masculino</desc>
@@ -623,12 +623,6 @@
     <title lang="es">Volta a la Comunitat Valenciana - Etapa 1 - Segorbe - Torreblanca</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260204170000 +0000" stop="20260204193000 +0000" channel="10q60cb7exl7v19c7ngopn5i00">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9kur07y3je12jjivj0frljhtr_image-header_pEs_1764630072000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Eintracht Frankfurt - Hoffenheim</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260204180000 +0000" stop="20260205000000 +0000" channel="f4mdwa7jfhqt6se1bq7fe6z1u">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a2buzfczrjwriqv8evxr7gms8_image-header_pEs_1769266656000/fill/none/top/none/85/600/360/webp/image"/>
@@ -804,7 +798,7 @@
     <desc lang="es"/>
     <category lang="es">Juegos Olímpicos</category>
   </programme>
-  <programme start="20260204170000 +0000" stop="20260204230000 +0000" channel="1tamc2ivbpot51mz9lyy1g599j">
+  <programme start="20260204173000 +0000" stop="20260204233000 +0000" channel="1tamc2ivbpot51mz9lyy1g599j">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jg2ouylvwjxw1kvxotnhlwci3_image-header_pEs_1770116289000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1169,5 +1163,11 @@
     <title lang="es">Albert Ramírez - Lerrone Richards</title>
     <desc lang="es">Masculino | Peso Semipesado | Campeonato Mundial WBA</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260206194500 +0000" stop="20260206221500 +0000" channel="ee6khh5a1b9i1if1q2iwoju6t">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3xopeedpnn8jbnpi7adj3j3m8_image-header_pEs_1764531580000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hellas Verona - Pisa</title>
+    <desc lang="es">Hellas Verona se enfrenta a Pisa en un duelo de Serie A en el Stadio Marcantonio Bentegodi el 8 de febrero de 2026. Con la temporada 25/26 en pleno apogeo, ¿qué equipo aprovechará esta oportunidad para subir en la tabla? ¿Podrá el local usar su terreno a su favor? ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
