@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 05 12:30:10 2026">
+<tv date="Thu Feb 05 18:30:10 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -99,10 +99,6 @@
   <channel id="esp-e201154300c0ch15002">
     <display-name>esp-e201154300c0ch15002</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/202013/6/202013_16:9.jpg?date=20260130152826"/>
-  </channel>
-  <channel id="b2eucq8ljbd5eob4a0mpfpqmw">
-    <display-name>b2eucq8ljbd5eob4a0mpfpqmw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y0v50a3y5d2j1u6nu1uvmhez3_image-header_pEs_1770117453000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="dabrpwvsuzqoene7qmgna5xgy">
     <display-name>dabrpwvsuzqoene7qmgna5xgy</display-name>
@@ -720,6 +716,14 @@
     <display-name>esp-e201194045c0ch20100</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31488495/20100/6/1/31488495_16:9.jpg?date=20260201110456"/>
   </channel>
+  <channel id="b77ir1edqbhbvhhl3lqf6ttf3">
+    <display-name>b77ir1edqbhbvhhl3lqf6ttf3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4wcqvbdelb071df8s73k7ffes_image-header_pEs_1770297554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201214873c0ch20051">
+    <display-name>esp-e201214873c0ch20051</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
+  </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barrios vs. Garcia</title>
@@ -869,12 +873,6 @@
     <title lang="es">Programas Eurosport</title>
     <desc lang="es"/>
     <category lang="es">Juegos Olímpicos</category>
-  </programme>
-  <programme start="20260205130000 +0000" stop="20260205190000 +0000" channel="b2eucq8ljbd5eob4a0mpfpqmw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y0v50a3y5d2j1u6nu1uvmhez3_image-header_pEs_1770117453000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Ball vs. Figueroa - Rueda de prensa</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20260205233000 +0000" stop="20260206030000 +0000" channel="dabrpwvsuzqoene7qmgna5xgy">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jg9tl9za0b8l1mid44kk8qmlp_image-header_pEs_1769191943000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1799,5 +1797,17 @@
     <title lang="es">Phoenix Open - Día 2</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260207160000 +0000" stop="20260207220000 +0000" channel="b77ir1edqbhbvhhl3lqf6ttf3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4wcqvbdelb071df8s73k7ffes_image-header_pEs_1770297554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Ball vs. Figueroa - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260205233000 +0000" stop="20260206043000 +0000" channel="esp-e201214873c0ch20051">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240508-132236.jpeg"/>
+    <title lang="es">Boxeo</title>
+    <desc lang="es">Masculino | HEAVYWEIGHT</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
