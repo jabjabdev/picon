@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 06 12:30:14 2026">
+<tv date="Fri Feb 06 18:30:15 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -968,6 +968,10 @@
     <display-name>1n1c9duebeeuv161dmfbsf3tkz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/448xhaz71lyftu6cg44v2lukf_image-header_pEs_1770367099000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1ng4i0gebfbt9z2wrax9odq2h">
+    <display-name>1ng4i0gebfbt9z2wrax9odq2h</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2fyk35tvxmj856gzuw50m34om_image-header_pEs_1758276977000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barrios vs. Garcia</title>
@@ -1718,7 +1722,7 @@
     <desc lang="es">World Grand Prix | Cuartos de final</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260206130000 +0000" stop="20260206151000 +0000" channel="esp-e201160652c0ch20047">
+  <programme start="20260206131000 +0000" stop="20260206151000 +0000" channel="esp-e201160652c0ch20047">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31474895/20047/6/1/31474895_16:9.jpg?date=20260201142750"/>
     <title lang="es">Estrella de Bessèges - Etapa 3</title>
     <desc lang="es">Masculino | Bessèges &gt; Bessèges (162,3 km)</desc>
@@ -2036,7 +2040,7 @@
     <desc lang="es">El Bayern München se enfrenta al Hoffenheim en un emocionante duelo de la Bundesliga 2025/2026. El Allianz Arena acogerá este encuentro el 8 de febrero de 2026. ¿Podrá el Hoffenheim desafiar al poderoso Bayern en su campo? ¡Aficionados, prepárense para un choque que podría cambiar la clasificación!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260208164500 +0000" stop="20260208224500 +0000" channel="8jvdr0g1lhh8voiraeasu0knr">
+  <programme start="20260208161500 +0000" stop="20260208221500 +0000" channel="8jvdr0g1lhh8voiraeasu0knr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/25kdenqlyskq9axkavyip1bp3_image-header_pEs_1769532823000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 2 - Hockey sobre hielo y Big Air</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -2419,5 +2423,11 @@
     <title lang="es">Red Bull Hardline Tasmania</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes Extremos</category>
+  </programme>
+  <programme start="20260208110000 +0000" stop="20260208143000 +0000" channel="1ng4i0gebfbt9z2wrax9odq2h">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2fyk35tvxmj856gzuw50m34om_image-header_pEs_1758276977000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Joventut Badalona - Valencia Basket</title>
+    <desc lang="es">Joventut se enfrenta a Valencia en un crucial partido de la Liga ACB 25/26. El Palau Municipal d'Esports de Badalona vibrará el 8 de febrero de 2026 cuando estos gigantes del baloncesto choquen. ¿Podrá Joventut defender su cancha o Valencia logrará una victoria clave como visitante? ¡No te pierdas este emocionante encuentro!</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
