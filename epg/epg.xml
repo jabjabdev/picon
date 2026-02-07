@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 07 12:30:16 2026">
+<tv date="Sat Feb 07 18:30:13 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -27,10 +27,6 @@
   <channel id="n1wp3idmkkdk010uwbiywu4sj6">
     <display-name>n1wp3idmkkdk010uwbiywu4sj6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6y00xj1s1ps6evu1653h0452o_image-header_pEs_1768366123000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1lftgc7hud3i030rm0v86fyzy0">
-    <display-name>1lftgc7hud3i030rm0v86fyzy0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9uf0go0tfb5ujjy77oys3n3d_image-header_pEs_1769431060000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1sz90saujoi6juwlvu4pwto520">
     <display-name>1sz90saujoi6juwlvu4pwto520</display-name>
@@ -100,14 +96,6 @@
     <display-name>191v00c1u0mt31aebdhsh6mt7b</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vaw1ah7ip4tt1m4q2645u4t10_image-header_pEs_1769230542000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="1iuhkvp7kpqan1wtcck0sj3m45">
-    <display-name>1iuhkvp7kpqan1wtcck0sj3m45</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b39vw7uvx56w1qo92lheeq94v_image-header_pEs_1769609403000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1jgy6v3yq783b1mqxghr65zf6g">
-    <display-name>1jgy6v3yq783b1mqxghr65zf6g</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/107kmu6wvkvvk1pfnjnjjb8hht_image-header_pEs_1769246796000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1m50v4vmfmmj2d75zoznhlluk0">
     <display-name>1m50v4vmfmmj2d75zoznhlluk0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8sz2nju8tv41d20zq7zy6mp6_image-header_pEs_1769263722000/fill/none/top/none/85/300/180/webp/image"/>
@@ -115,10 +103,6 @@
   <channel id="1rj3q2c9psoxk1jmly0fpyd9z6">
     <display-name>1rj3q2c9psoxk1jmly0fpyd9z6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2lf8ju4fx1i190r9g8v0rkr2_image-header_pEs_1769328961000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1ulekl9v6c6pr15pverfbz4cly">
-    <display-name>1ulekl9v6c6pr15pverfbz4cly</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15g96rdn2xzd41u31dof6mal2y_image-header_pEs_1769607461000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1wbok01yaqw3yzmd5w3j8t3o50">
     <display-name>1wbok01yaqw3yzmd5w3j8t3o50</display-name>
@@ -151,10 +135,6 @@
   <channel id="2zps7r1wky0v7j8egsvhnzmct">
     <display-name>2zps7r1wky0v7j8egsvhnzmct</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eh7fedzi76agqz51zm406e0ed_image-header_pEs_1769532276000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="y79xwqkfa5yc01g2nedlt1d2as">
-    <display-name>y79xwqkfa5yc01g2nedlt1d2as</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/710foh0dwgdyhzd8mermse3re_image-header_pEs_1768924754000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="xz28wanhqwwy054xz1uscw00s0">
     <display-name>xz28wanhqwwy054xz1uscw00s0</display-name>
@@ -1034,12 +1014,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260207123000 +0000" stop="20260207150000 +0000" channel="1lftgc7hud3i030rm0v86fyzy0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9uf0go0tfb5ujjy77oys3n3d_image-header_pEs_1769431060000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Rayo Vallecano - Real Oviedo</title>
-    <desc lang="es">Narración: Alex Guti, Eneko Fernández, Rodrigo Marcial y Javi Valle | Rayo Vallecano se prepara para enfrentarse al Real Oviedo en un emocionante choque de Primera División. El Estadio de Vallecas será sede de este partido de LaLiga 25/26 el 7 de febrero de 2026. ¿Podrá el Rayo Vallecano aprovechar su ventaja local para asegurar la victoria, o el Real Oviedo sorprenderá a los anfitriones? ¡Prepárate para una acción trepidante del fútbol español!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20260207123000 +0000" stop="20260207150000 +0000" channel="1sz90saujoi6juwlvu4pwto520">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e2cmmqa8gbownk8wpqdh9kxvd_image-header_pEs_1768211031000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Manchester United - Tottenham</title>
@@ -1142,18 +1116,6 @@
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260207150000 +0000" stop="20260207173000 +0000" channel="1iuhkvp7kpqan1wtcck0sj3m45">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1b39vw7uvx56w1qo92lheeq94v_image-header_pEs_1769609403000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Gateshead - Braintree</title>
-    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260207150000 +0000" stop="20260207173000 +0000" channel="1jgy6v3yq783b1mqxghr65zf6g">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/107kmu6wvkvvk1pfnjnjjb8hht_image-header_pEs_1769246796000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Brackley - Solihull Moors</title>
-    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20260207150000 +0000" stop="20260207173000 +0000" channel="1m50v4vmfmmj2d75zoznhlluk0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8sz2nju8tv41d20zq7zy6mp6_image-header_pEs_1769263722000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Boston - Sutton</title>
@@ -1163,12 +1125,6 @@
   <programme start="20260207150000 +0000" stop="20260207173000 +0000" channel="1rj3q2c9psoxk1jmly0fpyd9z6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2lf8ju4fx1i190r9g8v0rkr2_image-header_pEs_1769328961000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Morecambe - Truro</title>
-    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260207150000 +0000" stop="20260207173000 +0000" channel="1ulekl9v6c6pr15pverfbz4cly">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/15g96rdn2xzd41u31dof6mal2y_image-header_pEs_1769607461000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Woking - Boreham Wood</title>
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
@@ -1219,12 +1175,6 @@
     <title lang="es">Día 1 - Saltos de esquí, patinaje artístico y hockey sobre hielo</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de invierno</category>
-  </programme>
-  <programme start="20260207170000 +0000" stop="20260207193000 +0000" channel="y79xwqkfa5yc01g2nedlt1d2as">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/710foh0dwgdyhzd8mermse3re_image-header_pEs_1768924754000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Sevilla FC - Girona FC</title>
-    <desc lang="es">Narración: Alberto Montoya, Nico Pareja, David Fer y Fran Campos / Català: Carles Fité | El Sevilla se enfrenta al Girona en un emocionante choque de Primera División en el Ramón Sanchez Pizjuán. En plena temporada 25/26 de LaLiga, ambos clubes buscan puntos cruciales el 7 de febrero de 2026. ¿Podrá el Sevilla defender su terreno o eñ Girona logrará una victoria a domicilio? ¡No te pierdas este espectáculo futbolístico!</desc>
-    <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260207170000 +0000" stop="20260207193000 +0000" channel="xz28wanhqwwy054xz1uscw00s0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/467ap04x0binvrkh12ei25upb_image-header_pEs_1764532044000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1802,7 +1752,7 @@
     <desc lang="es">Barcelona y Girona se enfrentarán en un emocionante duelo de la Liga ACB en el Palau Blaugrana. En plena temporada 25/26, estos gigantes españoles lucharán por puntos cruciales el 8 de febrero de 2026. ¿Podrá Girona sorprender a los favoritos locales? ¡No te pierdas este espectáculo de baloncesto!</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260208173000 +0000" stop="20260208200000 +0000" channel="pccjlkg5g38m019g6dltrc75x2">
+  <programme start="20260208190000 +0000" stop="20260208213000 +0000" channel="pccjlkg5g38m019g6dltrc75x2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d6sbo64kdavhhw4i1ibnkrvh0_image-header_pEs_1751881017000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Sporting - SD Huesca</title>
     <desc lang="es">El Sporting de Gijón se enfrenta al Huesca en un crucial partido de Segunda División en El Molinón el 8 de febrero de 2026. Ambos equipos buscan destacar en la temporada LaLiga 2 25/26. ¿Podrá el Sporting defender su terreno o el Huesca logrará una victoria vital fuera de casa? ¡Prepárate para un emocionante encuentro!</desc>
@@ -2036,13 +1986,13 @@
     <desc lang="es">Masculino | individual | 1ª manga</desc>
     <category lang="es">Luge</category>
   </programme>
-  <programme start="20260207163000 +0000" stop="20260207233000 +0000" channel="esp-e201194270c0ch20103">
+  <programme start="20260207170000 +0000" stop="20260207233000 +0000" channel="esp-e201194270c0ch20103">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31488515/20103/6/1/31488515_16:9.jpg?date=20260201151632"/>
     <title lang="es">Phoenix Open - Día 3</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260207163000 +0000" stop="20260207233000 +0000" channel="esp-e201194269c0ch20102">
+  <programme start="20260207170000 +0000" stop="20260207233000 +0000" channel="esp-e201194269c0ch20102">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31488518/20102/6/1/31488518_16:9.jpg?date=20260201151716"/>
     <title lang="es">Phoenix Open - Día 3</title>
     <desc lang="es">PGA Tour | Grupo destacado</desc>
@@ -2066,7 +2016,7 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260207172500 +0000" stop="20260207195000 +0000" channel="esp-e201000217c0ch20020">
+  <programme start="20260207173000 +0000" stop="20260207195500 +0000" channel="esp-e201000217c0ch20020">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/15011312/20020/6/1/15011312_16:9.jpg?date=20260129103954"/>
     <title lang="es">Saltos de Esquí</title>
     <desc lang="es">Femenino | Trampolín normal</desc>
