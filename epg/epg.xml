@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Feb 08 12:30:14 2026">
+<tv date="Sun Feb 08 18:30:10 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -116,10 +116,6 @@
     <display-name>1pj1eiu58bc006f4yl5qlr89g0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4gw949dv722djinoq330taff_image-header_pEs_1769083610000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="qvq3cl43yhjq0188quw5o6rngh">
-    <display-name>qvq3cl43yhjq0188quw5o6rngh</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/148gbabeq0z8898b7l38elr1k_image-header_pEs_1768237662000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="w5pjqk8kfidt01o5zz3uedv2od">
     <display-name>w5pjqk8kfidt01o5zz3uedv2od</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c3cmj5y2bt4m2naeq22kpcsth_image-header_pEs_1768403478000/fill/none/top/none/85/300/180/webp/image"/>
@@ -162,7 +158,7 @@
   </channel>
   <channel id="7fos6ppi972130ebg4xo6x4p5">
     <display-name>7fos6ppi972130ebg4xo6x4p5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wsts2mpqncjg6ixwd70wzavt_image-header_pEs_1769699612000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vq2klzg5f2xqb6iz9k8ssgx7_image-header_pEs_1769699612000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="pccjlkg5g38m019g6dltrc75x2">
     <display-name>pccjlkg5g38m019g6dltrc75x2</display-name>
@@ -610,7 +606,7 @@
   </channel>
   <channel id="y79xwqkfa5yc01g2nedlt1d2as">
     <display-name>y79xwqkfa5yc01g2nedlt1d2as</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/710foh0dwgdyhzd8mermse3re_image-header_pEs_1768924754000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3j96dlnxtvgp0jjar8w6mzu0n_image-header_pEs_1768924754000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="z0s78lp0wmo101u6u9i3ft42ex">
     <display-name>z0s78lp0wmo101u6u9i3ft42ex</display-name>
@@ -990,12 +986,6 @@
     <desc lang="es">El Deportivo de La Coruña se enfrenta al Albacete en un crucial choque de Segunda División en Riazor. En plena temporada 25/26 de LaLiga 2, ambos equipos buscan escalar posiciones. ¿Quién tomará ventaja en este encuentro del 8 de febrero? Prepárate para una noche de emoción en el fútbol español.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260208151500 +0000" stop="20260208174500 +0000" channel="qvq3cl43yhjq0188quw5o6rngh">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/148gbabeq0z8898b7l38elr1k_image-header_pEs_1768237662000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">AD Ceuta FC - Córdoba CF</title>
-    <desc lang="es">Córdoba viaja para enfrentarse a Ceuta en un crucial choque de Segunda División en el Estadio Municipal Alfonso Murube. Con la temporada 25/26 de LaLiga 2 en pleno apogeo, ambos clubes buscan puntos vitales. ¿Podrá Ceuta defender su terreno o Córdoba logrará una victoria a domicilio? ¡Sintoniza el 8 de febrero para ver toda la emoción!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20260208160000 +0000" stop="20260208193000 +0000" channel="w5pjqk8kfidt01o5zz3uedv2od">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c3cmj5y2bt4m2naeq22kpcsth_image-header_pEs_1768403478000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Real Madrid - Coviran Granada</title>
@@ -1056,8 +1046,8 @@
     <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260208173000 +0000" stop="20260208210000 +0000" channel="7fos6ppi972130ebg4xo6x4p5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wsts2mpqncjg6ixwd70wzavt_image-header_pEs_1769699612000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260208180000 +0000" stop="20260208210000 +0000" channel="7fos6ppi972130ebg4xo6x4p5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4vq2klzg5f2xqb6iz9k8ssgx7_image-header_pEs_1769699612000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Barça - Bàsquet Girona + La Prórroga</title>
     <desc lang="es">Barcelona y Girona se enfrentarán en un emocionante duelo de la Liga ACB en el Palau Blaugrana. En plena temporada 25/26, estos gigantes españoles lucharán por puntos cruciales el 8 de febrero de 2026. ¿Podrá Girona sorprender a los favoritos locales? ¡No te pierdas este espectáculo de baloncesto!</desc>
     <category lang="es">Baloncesto</category>
@@ -1650,13 +1640,13 @@
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260208163000 +0000" stop="20260208230000 +0000" channel="esp-e201194272c0ch20102">
+  <programme start="20260208164500 +0000" stop="20260208230000 +0000" channel="esp-e201194272c0ch20102">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">Phoenix Open -</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260208163000 +0000" stop="20260208230000 +0000" channel="esp-e201194273c0ch20103">
+  <programme start="20260208170000 +0000" stop="20260208230000 +0000" channel="esp-e201194273c0ch20103">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240311-131113.jpeg"/>
     <title lang="es">Phoenix Open -</title>
     <desc lang="es">PGA Tour</desc>
@@ -1728,8 +1718,8 @@
     <desc lang="es">Día 2 | Milano-Cortina 2026</desc>
     <category lang="es">Juegos Olímpicos</category>
   </programme>
-  <programme start="20260208144500 +0000" stop="20260208171500 +0000" channel="y79xwqkfa5yc01g2nedlt1d2as">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/710foh0dwgdyhzd8mermse3re_image-header_pEs_1768924754000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260208151500 +0000" stop="20260208181500 +0000" channel="y79xwqkfa5yc01g2nedlt1d2as">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3j96dlnxtvgp0jjar8w6mzu0n_image-header_pEs_1768924754000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sevilla FC - Girona FC</title>
     <desc lang="es">Narración: Alberto Montoya, Nico Pareja, David Fer y Fran Campos / Català: Carles Fité | El Sevilla se enfrenta al Girona en un emocionante choque de Primera División en el Ramón Sanchez Pizjuán. En plena temporada 25/26 de LaLiga, ambos clubes buscan puntos cruciales el 7 de febrero de 2026. ¿Podrá el Sevilla defender su terreno o eñ Girona logrará una victoria a domicilio? ¡No te pierdas este espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
