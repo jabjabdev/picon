@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Feb 08 00:30:15 2026">
+<tv date="Sun Feb 08 06:30:23 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1083,6 +1083,98 @@
   <channel id="8i97rmykdtyn018eelaq00k23r">
     <display-name>8i97rmykdtyn018eelaq00k23r</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7sm85n3p3fvsv2rtnrqnjzt3e_image-header_pEs_1728858597000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e200993457c0ch20009">
+    <display-name>esp-e200993457c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418613/20009/6/1/31418613_16:9.jpg?date=20260207185555"/>
+  </channel>
+  <channel id="esp-e200993456c0ch20008">
+    <display-name>esp-e200993456c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418612/20008/6/1/31418612_16:9.jpg?date=20260207185501"/>
+  </channel>
+  <channel id="esp-e200993454c0ch20006">
+    <display-name>esp-e200993454c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418609/20006/6/1/31418609_16:9.jpg?date=20260207185332"/>
+  </channel>
+  <channel id="esp-e200993455c0ch20007">
+    <display-name>esp-e200993455c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418610/20007/6/1/31418610_16:9.jpg?date=20260207185414"/>
+  </channel>
+  <channel id="esp-e200994464c0ch20001">
+    <display-name>esp-e200994464c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31410781/20001/6/1/31410781_16:9.jpg?date=20260207185238"/>
+  </channel>
+  <channel id="esp-e201154305c0ch15002">
+    <display-name>esp-e201154305c0ch15002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497402/15002/6/1/31497402_16:9.jpg?date=20260203124823"/>
+  </channel>
+  <channel id="esp-e201001291c0ch20014">
+    <display-name>esp-e201001291c0ch20014</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419713/20014/6/1/31419713_16:9.jpg?date=20260207185724"/>
+  </channel>
+  <channel id="esp-e201007213c0ch20011">
+    <display-name>esp-e201007213c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31416276/20011/6/1/31416276_16:9.png?date=20260207121846"/>
+  </channel>
+  <channel id="esp-e201005804c0ch20016">
+    <display-name>esp-e201005804c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31416269/20016/6/1/31416269_16:9.jpg?date=20260207190049"/>
+  </channel>
+  <channel id="esp-e200994465c0ch20001">
+    <display-name>esp-e200994465c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31410782/20001/6/1/31410782_16:9.jpg?date=20260207212902"/>
+  </channel>
+  <channel id="esp-e201001292c0ch20014">
+    <display-name>esp-e201001292c0ch20014</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419714/20014/6/1/31419714_16:9.jpg?date=20260207190346"/>
+  </channel>
+  <channel id="esp-e201176222c0ch20016">
+    <display-name>esp-e201176222c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477885/20016/6/1/31477885_16:9.jpg?date=20260207123744"/>
+  </channel>
+  <channel id="esp-e200981396c0ch20024">
+    <display-name>esp-e200981396c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418883/20024/6/1/31418883_16:9.jpg?date=20260207190713"/>
+  </channel>
+  <channel id="esp-e201102430c0ch20020">
+    <display-name>esp-e201102430c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31409462/20020/6/1/31409462_16:9.jpg?date=20260207190811"/>
+  </channel>
+  <channel id="esp-e200993495c0ch20009">
+    <display-name>esp-e200993495c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418614/20009/6/1/31418614_16:9.png?date=20260207194821"/>
+  </channel>
+  <channel id="esp-e200993494c0ch20007">
+    <display-name>esp-e200993494c0ch20007</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418611/20007/6/1/31418611_16:9.png?date=20260207194742"/>
+  </channel>
+  <channel id="esp-e201176223c0ch20016">
+    <display-name>esp-e201176223c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477886/20016/6/1/31477886_16:9.jpg?date=20260207125057"/>
+  </channel>
+  <channel id="esp-e201000219c0ch20020">
+    <display-name>esp-e201000219c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/20461156/20020/6/1/20461156_16:9.jpg?date=20260207191408"/>
+  </channel>
+  <channel id="esp-e200999021c0ch20010">
+    <display-name>esp-e200999021c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418751/20010/6/1/31418751_16:9.jpg?date=20260207191649"/>
+  </channel>
+  <channel id="esp-e200985800c0ch20023">
+    <display-name>esp-e200985800c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31426722/20023/6/1/31426722_16:9.jpg?date=20260207191744"/>
+  </channel>
+  <channel id="esp-e201001293c0ch20014">
+    <display-name>esp-e201001293c0ch20014</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419718/20014/6/1/31419718_16:9.jpg?date=20260207192030"/>
+  </channel>
+  <channel id="esp-e201001294c0ch20015">
+    <display-name>esp-e201001294c0ch20015</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419715/20015/6/1/31419715_16:9.jpg?date=20260207121204"/>
+  </channel>
+  <channel id="esp-e201188348c0ch20035">
+    <display-name>esp-e201188348c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31485564/20035/6/1/31485564_16:9.jpg?date=20260129111847"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2709,5 +2801,143 @@
     <title lang="es">West Ham United - Manchester United</title>
     <desc lang="es">West Ham United recibe al Manchester United en un enfrentamiento de Premier League en el London Stadium el 11 de febrero de 2026. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan escalar posiciones. ¿Defenderán los Hammers su territorio o lograrán los Red Devils una victoria crucial fuera de casa? ¡No te pierdas esta emocionante noche de fútbol!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209110700 +0000" channel="esp-e200993457c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418613/20009/6/1/31418613_16:9.jpg?date=20260207185555"/>
+    <title lang="es">Curling - República Checa - Estonia</title>
+    <desc lang="es">Mixto | Dobles | Fase de grupos</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209110700 +0000" channel="esp-e200993456c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418612/20008/6/1/31418612_16:9.jpg?date=20260207185501"/>
+    <title lang="es">Curling - Noruega - Corea del Sur</title>
+    <desc lang="es">Mixto | Dobles | Fase de grupos</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209110700 +0000" channel="esp-e200993454c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418609/20006/6/1/31418609_16:9.jpg?date=20260207185332"/>
+    <title lang="es">Curling - Suiza - Canadá</title>
+    <desc lang="es">Mixto | Dobles | Fase de grupos</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209110700 +0000" channel="esp-e200993455c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418610/20007/6/1/31418610_16:9.jpg?date=20260207185414"/>
+    <title lang="es">Curling - Italia - Estados Unidos</title>
+    <desc lang="es">Mixto | Dobles | Fase de grupos</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209112000 +0000" channel="esp-e200994464c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31410781/20001/6/1/31410781_16:9.jpg?date=20260207185238"/>
+    <title lang="es">Esquí Alpino</title>
+    <desc lang="es">Descenso combinado | Masculino por equipos</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260209090500 +0000" stop="20260209224500 +0000" channel="esp-e201154305c0ch15002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497402/15002/6/1/31497402_16:9.jpg?date=20260203124823"/>
+    <title lang="es">Juegos Olímpicos de Invierno - Día 3 - Versión Multipantalla</title>
+    <desc lang="es">Milano Cortina 2026</desc>
+    <category lang="es">Juegos Olímpicos</category>
+  </programme>
+  <programme start="20260209105500 +0000" stop="20260209134000 +0000" channel="esp-e201001291c0ch20014">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419713/20014/6/1/31419713_16:9.jpg?date=20260207185724"/>
+    <title lang="es">Hockey sobre hielo - Japón - Italia</title>
+    <desc lang="es">Femenino | Fase de grupos</desc>
+    <category lang="es">Hockey Hielo</category>
+  </programme>
+  <programme start="20260209111500 +0000" stop="20260209131000 +0000" channel="esp-e201007213c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31416276/20011/6/1/31416276_16:9.png?date=20260207121846"/>
+    <title lang="es">Esquí freestyle</title>
+    <desc lang="es">Femenino | Slopestyle | Final</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260209115500 +0000" stop="20260209125200 +0000" channel="esp-e201005804c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31416269/20016/6/1/31416269_16:9.jpg?date=20260207190049"/>
+    <title lang="es">Luge</title>
+    <desc lang="es">Femenino | Dobles | Entrenamiento</desc>
+    <category lang="es">Luge</category>
+  </programme>
+  <programme start="20260209123000 +0000" stop="20260209142500 +0000" channel="esp-e200994465c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31410782/20001/6/1/31410782_16:9.jpg?date=20260207212902"/>
+    <title lang="es">Esquí Alpino</title>
+    <desc lang="es">Eslalon Combinado | Masculino por equipos</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260209152500 +0000" stop="20260209181000 +0000" channel="esp-e201001292c0ch20014">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419714/20014/6/1/31419714_16:9.jpg?date=20260207190346"/>
+    <title lang="es">Hockey sobre hielo - Alemania - Francia</title>
+    <desc lang="es">Femenino | Fase de grupos</desc>
+    <category lang="es">Hockey Hielo</category>
+  </programme>
+  <programme start="20260209155500 +0000" stop="20260209165000 +0000" channel="esp-e201176222c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477885/20016/6/1/31477885_16:9.jpg?date=20260207123744"/>
+    <title lang="es">Luge</title>
+    <desc lang="es">Femenino | Individual | 1ª manga</desc>
+    <category lang="es">Luge</category>
+  </programme>
+  <programme start="20260209161500 +0000" stop="20260209175800 +0000" channel="esp-e200981396c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418883/20024/6/1/31418883_16:9.jpg?date=20260207190713"/>
+    <title lang="es">Patinaje de Velocidad</title>
+    <desc lang="es">Femenino | 1.000 m</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260209165500 +0000" stop="20260209174000 +0000" channel="esp-e201102430c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31409462/20020/6/1/31409462_16:9.jpg?date=20260207190811"/>
+    <title lang="es">Saltos de Esquí</title>
+    <desc lang="es">Masculino | Trampolín normal | Ronda de prueba</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209190700 +0000" channel="esp-e200993495c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418614/20009/6/1/31418614_16:9.png?date=20260207194821"/>
+    <title lang="es">Curling</title>
+    <desc lang="es">Dobles | Mixto | Semifinales</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209190700 +0000" channel="esp-e200993494c0ch20007">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418611/20007/6/1/31418611_16:9.png?date=20260207194742"/>
+    <title lang="es">Curling</title>
+    <desc lang="es">Dobles | Mixto | Semifinales</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260209172800 +0000" stop="20260209182500 +0000" channel="esp-e201176223c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477886/20016/6/1/31477886_16:9.jpg?date=20260207125057"/>
+    <title lang="es">Luge</title>
+    <desc lang="es">Femenino | Individual | 2ª manga</desc>
+    <category lang="es">Luge</category>
+  </programme>
+  <programme start="20260209174000 +0000" stop="20260209200500 +0000" channel="esp-e201000219c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/20461156/20020/6/1/20461156_16:9.jpg?date=20260207191408"/>
+    <title lang="es">Saltos de Esquí</title>
+    <desc lang="es">Masculino | Trampolín normal</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260209180500 +0000" stop="20260209220000 +0000" channel="esp-e200999021c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31418751/20010/6/1/31418751_16:9.jpg?date=20260207191649"/>
+    <title lang="es">Patinaje artístico</title>
+    <desc lang="es">Mixto | Danza sobre hielo | Danza rítmica</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260209181500 +0000" stop="20260209195000 +0000" channel="esp-e200985800c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31426722/20023/6/1/31426722_16:9.jpg?date=20260207191744"/>
+    <title lang="es">Snowboard</title>
+    <desc lang="es">Femenino | Big Air | Final</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20260209192500 +0000" stop="20260209221000 +0000" channel="esp-e201001293c0ch20014">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419718/20014/6/1/31419718_16:9.jpg?date=20260207192030"/>
+    <title lang="es">Hockey sobre hielo - Suiza - Estados Unidos</title>
+    <desc lang="es">Femenino | Fase de grupos</desc>
+    <category lang="es">Hockey Hielo</category>
+  </programme>
+  <programme start="20260209200000 +0000" stop="20260209224200 +0000" channel="esp-e201001294c0ch20015">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419715/20015/6/1/31419715_16:9.jpg?date=20260207121204"/>
+    <title lang="es">Hockey sobre hielo - Canadá - República Checa</title>
+    <desc lang="es">Femenino | Fase de grupos</desc>
+    <category lang="es">Hockey Hielo</category>
+  </programme>
+  <programme start="20260209220000 +0000" stop="20260209222300 +0000" channel="esp-e201188348c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31485564/20035/6/1/31485564_16:9.jpg?date=20260129111847"/>
+    <title lang="es">Un día en los Juegos Olímpicos</title>
+    <desc lang="es">Día 3 | Milano-Cortina 2026</desc>
+    <category lang="es">Juegos Olímpicos</category>
   </programme>
 </tv>
