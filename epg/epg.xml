@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 10 00:30:09 2026">
+<tv date="Tue Feb 10 00:30:13 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -691,6 +691,10 @@
   <channel id="13dh6kg7yf44ord8np7fhcl8v0">
     <display-name>13dh6kg7yf44ord8np7fhcl8v0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/67mr5rdi9pzculfuntyuovhh0_image-header_pEs_1733847429000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201001592c0ch20013">
+    <display-name>esp-e201001592c0ch20013</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419711/20014/6/1/31419711_16:9.jpg?date=20260208132152"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1729,5 +1733,11 @@
     <title lang="es">Brentford - Arsenal</title>
     <desc lang="es">Brentford se enfrenta a Arsenal en un duelo de Premier League en el Brentford Community Stadium. La temporada 25/26 se calienta cuando estos rivales londinenses chocan el 11 de febrero de 2026. ¿Podrá la ventaja local de Brentford darles la victoria, o será el poder ofensivo de Arsenal demasiado? ¡Sintoniza este espectáculo capitalino!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260210185500 +0000" stop="20260210214000 +0000" channel="esp-e201001592c0ch20013">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31419711/20014/6/1/31419711_16:9.jpg?date=20260208132152"/>
+    <title lang="es">Hockey sobre hielo - Canadá - Estados Unidos</title>
+    <desc lang="es">Femenino | Fase de grupos</desc>
+    <category lang="es">Hockey Hielo</category>
   </programme>
 </tv>
