@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 09 12:30:07 2026">
+<tv date="Mon Feb 09 18:30:08 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -631,6 +631,14 @@
   <channel id="7v0m41dqon8kzk7fyaj2nuae9">
     <display-name>7v0m41dqon8kzk7fyaj2nuae9</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/upicrfm66lgk1436wyo7oc7ak_image-header_pEs_1770635712000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6mi53bp6dj3hf47gi9imh6qfr">
+    <display-name>6mi53bp6dj3hf47gi9imh6qfr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vuqvhlw925k41mcwq3hqyu783_image-header_pEs_1770114734000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ifet8wxaj1we0eg47upoq9fbp0">
+    <display-name>ifet8wxaj1we0eg47upoq9fbp0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/errk1zj4fltmct9kkybochl5s_image-header_pEs_1770398155000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1274,7 +1282,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">eSports</category>
   </programme>
-  <programme start="20260211145500 +0000" stop="20260211205500 +0000" channel="82g9lisleacn6kywaxlpx65jy">
+  <programme start="20260211150000 +0000" stop="20260211210000 +0000" channel="82g9lisleacn6kywaxlpx65jy">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9ae4rrxb12dexlh4ebm8tevm5_image-header_pEs_1764344276000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 1 - Tarde - Test de Baréin 2026</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1578,6 +1586,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/upicrfm66lgk1436wyo7oc7ak_image-header_pEs_1770635712000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Super8 - Jornada 23</title>
     <desc lang="es">Sergio Quirante, junto a Javi Valle, te llevan de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260211020000 +0000" stop="20260211053000 +0000" channel="6mi53bp6dj3hf47gi9imh6qfr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1vuqvhlw925k41mcwq3hqyu783_image-header_pEs_1770114734000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Iowa State @ TCU</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260211193000 +0000" stop="20260211220000 +0000" channel="ifet8wxaj1we0eg47upoq9fbp0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/errk1zj4fltmct9kkybochl5s_image-header_pEs_1770398155000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Union Saint-Gilloise - Sporting Charleroi</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
