@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 10 12:30:02 2026">
+<tv date="Tue Feb 10 12:30:08 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -639,6 +639,10 @@
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1uahkx3mhizx61fq147u9owcv1">
+    <display-name>1uahkx3mhizx61fq147u9owcv1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jas8q1tjncki17ah124u7444w_image-header_pEs_1757337136000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1599,5 +1603,11 @@
     <title lang="es">Chisora vs. Wilder</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260210200000 +0000" stop="20260211000000 +0000" channel="1uahkx3mhizx61fq147u9owcv1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jas8q1tjncki17ah124u7444w_image-header_pEs_1757337136000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Especial Super Bowl</title>
+    <desc lang="es">Disfruta en DAZN del último Código NFL de la temporada.</desc>
+    <category lang="es">Producciones DAZN</category>
   </programme>
 </tv>
