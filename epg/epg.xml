@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 12 12:30:15 2026">
+<tv date="Thu Feb 12 18:30:17 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -831,6 +831,46 @@
   <channel id="esp-e201188352c0ch20035">
     <display-name>esp-e201188352c0ch20035</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31485568/20035/6/1/31485568_16:9.jpg?date=20260209095637"/>
+  </channel>
+  <channel id="1kut8dk3bxwgj6aat3s8fcdl1">
+    <display-name>1kut8dk3bxwgj6aat3s8fcdl1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tv5qn5jdppsf1j14k39lam3td_image-header_pEs_1770114253000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9ermomm3qwj1zzkeipxn1jra7">
+    <display-name>9ermomm3qwj1zzkeipxn1jra7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qh4zf6v6mfcs11eru32jqgwgy_image-header_pEs_1770113141000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3c68tkm1uxlh2jchsq5h6tx51">
+    <display-name>3c68tkm1uxlh2jchsq5h6tx51</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qembgenna5fb12zf4ule1wmpw_image-header_pEs_1770113312000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e75b9a4vul0a1ah0zp9r8ios6">
+    <display-name>e75b9a4vul0a1ah0zp9r8ios6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3sdqtplb74ufolpp7p7pl2ft5_image-header_pEs_1770826421000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="6mglbga4y855mxrkc5v8tal7j">
+    <display-name>6mglbga4y855mxrkc5v8tal7j</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ot085tr6oqkq1uics0rvga7hw_image-header_pEs_1770113434000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="biwqtc2agce9v4bbbyl0ya2cz">
+    <display-name>biwqtc2agce9v4bbbyl0ya2cz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19p8hbtqzu7831glel7epwa25r_image-header_pEs_1770113559000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="39tukc9srltvdgpjw4bxfb4f7">
+    <display-name>39tukc9srltvdgpjw4bxfb4f7</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/47y85ctfmu3z1c7lzlkotobg5_image-header_pEs_1770126315000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cyfqds2imuc51gfy5tmd3wv53">
+    <display-name>cyfqds2imuc51gfy5tmd3wv53</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hzjfu4xqjpxh14oh2sla5cic1_image-header_pEs_1770120807000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="7ug2yfu0brw5d61gmsnxr6ihy">
+    <display-name>7ug2yfu0brw5d61gmsnxr6ihy</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uvgyp38b2il712kub2po0tb7o_image-header_pEs_1770123211000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="14m3r4hsrxd8h163s2ur7wbmnx">
+    <display-name>14m3r4hsrxd8h163s2ur7wbmnx</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mz19q544wwk4z07t5awktf71_image-header_pEs_1770826421000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260222000000 +0000" stop="20260222060000 +0000" channel="acqc33evjt1snjmph0lf9um77">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2079,5 +2119,65 @@
     <title lang="es">A Day At The Olympics</title>
     <desc lang="es">Día 7 | Milano-Cortina 2026</desc>
     <category lang="es">Juegos Olímpicos</category>
+  </programme>
+  <programme start="20260213090700 +0000" stop="20260213150700 +0000" channel="1kut8dk3bxwgj6aat3s8fcdl1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1tv5qn5jdppsf1j14k39lam3td_image-header_pEs_1770114253000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 2</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213100800 +0000" stop="20260213160800 +0000" channel="9ermomm3qwj1zzkeipxn1jra7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qh4zf6v6mfcs11eru32jqgwgy_image-header_pEs_1770113141000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 3</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213111600 +0000" stop="20260213171600 +0000" channel="3c68tkm1uxlh2jchsq5h6tx51">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/qembgenna5fb12zf4ule1wmpw_image-header_pEs_1770113312000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 4</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213123000 +0000" stop="20260213124500 +0000" channel="e75b9a4vul0a1ah0zp9r8ios6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3sdqtplb74ufolpp7p7pl2ft5_image-header_pEs_1770826421000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Weissenhaus - Día 1</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20260213144000 +0000" stop="20260213204000 +0000" channel="6mglbga4y855mxrkc5v8tal7j">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ot085tr6oqkq1uics0rvga7hw_image-header_pEs_1770113434000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 5</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213154100 +0000" stop="20260213214100 +0000" channel="biwqtc2agce9v4bbbyl0ya2cz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/19p8hbtqzu7831glel7epwa25r_image-header_pEs_1770113559000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 6</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213164900 +0000" stop="20260213224900 +0000" channel="39tukc9srltvdgpjw4bxfb4f7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/47y85ctfmu3z1c7lzlkotobg5_image-header_pEs_1770126315000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 7</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260213180500 +0000" stop="20260214000500 +0000" channel="cyfqds2imuc51gfy5tmd3wv53">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hzjfu4xqjpxh14oh2sla5cic1_image-header_pEs_1770120807000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 8</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260214091000 +0000" stop="20260214151000 +0000" channel="7ug2yfu0brw5d61gmsnxr6ihy">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/uvgyp38b2il712kub2po0tb7o_image-header_pEs_1770123211000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rally Sweden - Stage 9</title>
+    <desc lang="es">Watch the latest World Rally Championship action from the Rally Sweden.</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260214133000 +0000" stop="20260214134500 +0000" channel="14m3r4hsrxd8h163s2ur7wbmnx">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/mz19q544wwk4z07t5awktf71_image-header_pEs_1770826421000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Weissenhaus - Día 2</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
   </programme>
 </tv>
