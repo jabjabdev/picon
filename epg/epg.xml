@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 16 12:30:05 2026">
+<tv date="Mon Feb 16 18:30:05 2026">
   <channel id="acqc33evjt1snjmph0lf9um77">
     <display-name>acqc33evjt1snjmph0lf9um77</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1uj1ra0ri98zg1tf6qkk49rwst_image-header_pEs_1768245513000/fill/none/top/none/85/300/180/webp/image"/>
@@ -427,10 +427,6 @@
   <channel id="esp-e201218637c0ch20024">
     <display-name>esp-e201218637c0ch20024</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31518304/20024/6/1/31518304_16:9.jpg?date=20260213141140"/>
-  </channel>
-  <channel id="y0mdbyloxc7501rdpzfinegwn0">
-    <display-name>y0mdbyloxc7501rdpzfinegwn0</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ap35rn6p2kcygxyyhr1moz66_image-header_pEs_1767770740000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="30v65luwiusnfqh9wjj7etdau">
     <display-name>30v65luwiusnfqh9wjj7etdau</display-name>
@@ -1690,12 +1686,6 @@
     <desc lang="es">Masculino | 500m</desc>
     <category lang="es">Patinaje</category>
   </programme>
-  <programme start="20260216170000 +0000" stop="20260216193000 +0000" channel="y0mdbyloxc7501rdpzfinegwn0">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ap35rn6p2kcygxyyhr1moz66_image-header_pEs_1767770740000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Werder Bremen - Bayern München</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20260216175500 +0000" stop="20260216235500 +0000" channel="30v65luwiusnfqh9wjj7etdau">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/l7jpp9ixeavaufus3hqeljxv_image-header_pEs_1770206289000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 10 - Bobsleigh</title>
@@ -2176,7 +2166,7 @@
     <desc lang="es">Masculino | Doble | 2ª manga</desc>
     <category lang="es">Bobsleigh</category>
   </programme>
-  <programme start="20260216115000 +0000" stop="20260216142000 +0000" channel="esp-e200994470c0ch20001">
+  <programme start="20260216120000 +0000" stop="20260216142000 +0000" channel="esp-e200994470c0ch20001">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31410793/20001/6/1/31410793_16:9.jpg?date=20260211134415"/>
     <title lang="es">Esquí Alpino</title>
     <desc lang="es">Masculino | Eslalon | 2ª manga</desc>
