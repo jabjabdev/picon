@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 20 18:30:14 2026">
+<tv date="Fri Feb 20 18:30:34 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -34,7 +34,7 @@
   </channel>
   <channel id="6vckgl8v0ceh2qs1c8m2l6ww7">
     <display-name>6vckgl8v0ceh2qs1c8m2l6ww7</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73d4z986ohtuu6fjccx6x15w8_image-header_pEs_1770294386000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2e3qfpnyudqeox154t45fj7b7_image-header_pEs_1770294386000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="7dfa5tobzfez018427qjmahbr0">
     <display-name>7dfa5tobzfez018427qjmahbr0</display-name>
@@ -912,6 +912,14 @@
     <display-name>8lxuwinlt9hjkcfyqfm6fkpe6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1utmzgq7c1ihwqewofjh3ig17_image-header_pEs_1770293782000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1dyq9oehbkrog1lq8dgkvwnc21">
+    <display-name>1dyq9oehbkrog1lq8dgkvwnc21</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8t2e5tl377kwhdwnqb547jb60_image-header_pEs_1762769023000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="2p6df7g2c24w0i0yind7iihsl0">
+    <display-name>2p6df7g2c24w0i0yind7iihsl0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9d6ytjt4dqrc16ge2t101smcx_image-header_pEs_1770029552000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -960,8 +968,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20260220171500 +0000" stop="20260220231500 +0000" channel="6vckgl8v0ceh2qs1c8m2l6ww7">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/73d4z986ohtuu6fjccx6x15w8_image-header_pEs_1770294386000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260220164500 +0000" stop="20260220224500 +0000" channel="6vckgl8v0ceh2qs1c8m2l6ww7">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2e3qfpnyudqeox154t45fj7b7_image-header_pEs_1770294386000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 14 - Hockey sobre hielo y esquí acrobático</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de invierno</category>
@@ -2279,5 +2287,17 @@
     <title lang="es">Día 14 - Bobsleigh</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de invierno</category>
+  </programme>
+  <programme start="20260221113000 +0000" stop="20260221140000 +0000" channel="1dyq9oehbkrog1lq8dgkvwnc21">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8t2e5tl377kwhdwnqb547jb60_image-header_pEs_1762769023000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Genoa - FC Como</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260222143000 +0000" stop="20260222170000 +0000" channel="2p6df7g2c24w0i0yind7iihsl0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9d6ytjt4dqrc16ge2t101smcx_image-header_pEs_1770029552000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inter - AS Roma</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
