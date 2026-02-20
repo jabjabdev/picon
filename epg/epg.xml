@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 21 00:30:14 2026">
+<tv date="Sat Feb 21 00:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -959,6 +959,34 @@
   <channel id="9ibj9fv8ikutodtn4w0oh9oed">
     <display-name>9ibj9fv8ikutodtn4w0oh9oed</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8r5huzqby2qs0rt27yx2afibg_image-header_pEs_1767960459000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1pfhu0h4wirp81a0pkt7quk5sz">
+    <display-name>1pfhu0h4wirp81a0pkt7quk5sz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cjenhmz5kwgrx4e423huwoer7_image-header_pEs_1767770746000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1ukir7hj59ayrsunh56omo7gy0">
+    <display-name>1ukir7hj59ayrsunh56omo7gy0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/631r0vcwzdga7hoiwczy2pm4e_image-header_pEs_1768926499000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8cctygsty6xhlue0r1aaeq24b">
+    <display-name>8cctygsty6xhlue0r1aaeq24b</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/145wh2c6eg0d01potztuumtqfb_image-header_pEs_1765451847000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3i4jscb8jf4096361uw2ngq0r">
+    <display-name>3i4jscb8jf4096361uw2ngq0r</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x9r0uoqce5wj1cjvlv5qhu2eh_image-header_pEs_1770636736000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1izzi7lbsz8l91oz16ya45nr5i">
+    <display-name>1izzi7lbsz8l91oz16ya45nr5i</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sw1zxylkg2zkehs21mo1e0c6_image-header_pEs_1768908371000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c17b75ohld8uby57i4hb3cbv8">
+    <display-name>c17b75ohld8uby57i4hb3cbv8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1seipjfuts93n18hos10kzue2d_image-header_pEs_1770506374000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1p07djzbr7oph7zz8m7ypvunx0">
+    <display-name>1p07djzbr7oph7zz8m7ypvunx0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c49ytaahkbedm80qubvjsrtsk_image-header_pEs_1770987098000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2398,6 +2426,48 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8r5huzqby2qs0rt27yx2afibg_image-header_pEs_1767960459000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">La Dazoneta - Programa 20</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223193000 +0000" channel="1pfhu0h4wirp81a0pkt7quk5sz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cjenhmz5kwgrx4e423huwoer7_image-header_pEs_1767770746000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Eintracht Frankfurt - SC Freiburg</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223173000 +0000" stop="20260223200000 +0000" channel="1ukir7hj59ayrsunh56omo7gy0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/631r0vcwzdga7hoiwczy2pm4e_image-header_pEs_1768926499000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fiorentina - Pisa</title>
+    <desc lang="es">Fiorentina se enfrenta a Pisa en un emocionante choque de Serie A en el Stadio Artemio Franchi. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan puntos vitales. ¿Será decisiva la ventaja local de Fiorentina, o Pisa dará la sorpresa? ¡Prepárate para un partido lleno de acción el 22 de febrero de 2026!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260224010000 +0000" channel="8cctygsty6xhlue0r1aaeq24b">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/145wh2c6eg0d01potztuumtqfb_image-header_pEs_1765451847000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Inside The Ring - Feb 23</title>
+    <desc lang="es">Únete a Max Kellerman, Mike Coppinger y LeSean McCoy cada semana para conocer las últimas noticias, entrevistas exclusivas y reacciones en profundidad a los resultados más recientes.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260223213000 +0000" channel="3i4jscb8jf4096361uw2ngq0r">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/x9r0uoqce5wj1cjvlv5qhu2eh_image-header_pEs_1770636736000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Super8 - Jornada 25</title>
+    <desc lang="es"/>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223194500 +0000" stop="20260223221500 +0000" channel="1izzi7lbsz8l91oz16ya45nr5i">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5sw1zxylkg2zkehs21mo1e0c6_image-header_pEs_1768908371000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bologna - Udinese</title>
+    <desc lang="es">Bologna se enfrenta a Udinese en un crucial partido de la Serie A 25/26 en el Renato Dall'Ara el 22 de febrero de 2026. ¿Podrá Bologna defender su terreno o Udinese conseguirá una valiosa victoria a domicilio? Con ambos equipos hambrientos de puntos, este encuentro promete ser emocionante. ¡No parpadees o podrías perderte el momento decisivo!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223194500 +0000" stop="20260223221500 +0000" channel="c17b75ohld8uby57i4hb3cbv8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1seipjfuts93n18hos10kzue2d_image-header_pEs_1770506374000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chelmsford City - Hemel Hempstead</title>
+    <desc lang="es">Sigue toda la acción de la National League South en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260223200000 +0000" stop="20260223223000 +0000" channel="1p07djzbr7oph7zz8m7ypvunx0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c49ytaahkbedm80qubvjsrtsk_image-header_pEs_1770987098000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Everton - Manchester United + Poker FC</title>
+    <desc lang="es">Everton se prepara para enfrentar al Manchester United en un enfrentamiento de Premier League en el Hill Dickinson Stadium. La temporada 25/26 se calienta cuando estos dos clubes chocan el 23 de febrero de 2026. ¿Podrá Everton defender su terreno contra los Red Devils? ¡Prepárate para una noche de fútbol de primera categoría!</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
