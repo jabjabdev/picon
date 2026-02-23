@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 23 18:30:02 2026">
+<tv date="Mon Feb 23 18:30:08 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -355,6 +355,10 @@
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="xwa8w7rcl3gh10sufvd6ftn04">
+    <display-name>xwa8w7rcl3gh10sufvd6ftn04</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16dd7lg7us8021ownqi9diqflj_image-header_pEs_1771862360000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -889,5 +893,11 @@
     <title lang="es">Wardley vs. Dubois</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260225090000 +0000" stop="20260225150000 +0000" channel="xwa8w7rcl3gh10sufvd6ftn04">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16dd7lg7us8021ownqi9diqflj_image-header_pEs_1771862360000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jaque Márquez</title>
+    <desc lang="es">Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez, donde el “rey” es Marc Márquez. Cada piloto se convierte en una pieza clave del tablero, aportando su estilo, estrategia y talento para entrar en la lucha por poner en jaque al rey. Disponible a partir del 25 de febrero.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
