@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Feb 23 12:30:05 2026">
+<tv date="Mon Feb 23 18:30:02 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -352,6 +352,10 @@
     <display-name>esp-e201211463c0ch20037</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497742/20037/6/1/31497742_16:9.jpg?date=20260219151224"/>
   </channel>
+  <channel id="1qetkj44fjb3q115tf9b53jidz">
+    <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -652,7 +656,7 @@
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260223130000 +0000" stop="20260223150000 +0000" channel="esp-e201211438c0ch20037">
+  <programme start="20260223131940 +0000" stop="20260223151940 +0000" channel="esp-e201211438c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497734/20037/6/1/31497734_16:9.jpg?date=20260218190905"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
@@ -670,25 +674,25 @@
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="esp-e201211441c0ch20038">
+  <programme start="20260223153503 +0000" stop="20260223173503 +0000" channel="esp-e201211441c0ch20038">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497752/20038/6/1/31497752_16:9.jpg?date=20260219145900"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="esp-e201211439c0ch20037">
+  <programme start="20260223163138 +0000" stop="20260223183138 +0000" channel="esp-e201211439c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497735/20037/6/1/31497735_16:9.jpg?date=20260219145834"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="esp-e201211437c0ch20070">
+  <programme start="20260223153503 +0000" stop="20260223173503 +0000" channel="esp-e201211437c0ch20070">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497744/20070/6/1/31497744_16:9.jpg?date=20260219145845"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="esp-e201211443c0ch20039">
+  <programme start="20260223162104 +0000" stop="20260223182104 +0000" channel="esp-e201211443c0ch20039">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497758/20039/6/1/31497758_16:9.jpg?date=20260219145824"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
@@ -879,5 +883,11 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 1ª ronda</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wardley vs. Dubois</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
