@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Feb 24 00:30:10 2026">
+<tv date="Tue Feb 24 06:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -423,6 +423,74 @@
   <channel id="192yypqvhgmqs1sy3getido4yi">
     <display-name>192yypqvhgmqs1sy3getido4yi</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16ro6l0vsyhlq1pm732h2tzhe8_image-header_pEs_1770218519000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201211604c0ch20037">
+    <display-name>esp-e201211604c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497772/20037/6/1/31497772_16:9.jpg?date=20260219155117"/>
+  </channel>
+  <channel id="esp-e201211603c0ch20036">
+    <display-name>esp-e201211603c0ch20036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497771/20036/6/1/31497771_16:9.jpg?date=20260219155236"/>
+  </channel>
+  <channel id="esp-e201224916c0ch20008">
+    <display-name>esp-e201224916c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522697/20008/6/1/31522697_16:9.jpg?date=20260222184954"/>
+  </channel>
+  <channel id="esp-e201211607c0ch20037">
+    <display-name>esp-e201211607c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497773/20037/6/1/31497773_16:9.jpg?date=20260219155129"/>
+  </channel>
+  <channel id="esp-e201211609c0ch20038">
+    <display-name>esp-e201211609c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497781/20038/6/1/31497781_16:9.jpg?date=20260219155401"/>
+  </channel>
+  <channel id="esp-e201211611c0ch20039">
+    <display-name>esp-e201211611c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497784/20039/6/1/31497784_16:9.jpg?date=20260219155032"/>
+  </channel>
+  <channel id="esp-e201211605c0ch20070">
+    <display-name>esp-e201211605c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497777/20070/6/1/31497777_16:9.jpg?date=20260219155250"/>
+  </channel>
+  <channel id="esp-e201211610c0ch20038">
+    <display-name>esp-e201211610c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497783/20038/6/1/31497783_16:9.jpg?date=20260219155412"/>
+  </channel>
+  <channel id="esp-e201211606c0ch20070">
+    <display-name>esp-e201211606c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497778/20070/6/1/31497778_16:9.jpg?date=20260219155304"/>
+  </channel>
+  <channel id="esp-e201211608c0ch20037">
+    <display-name>esp-e201211608c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497774/20037/6/1/31497774_16:9.jpg?date=20260219155144"/>
+  </channel>
+  <channel id="esp-e201211612c0ch20039">
+    <display-name>esp-e201211612c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497785/20039/6/1/31497785_16:9.jpg?date=20260219155047"/>
+  </channel>
+  <channel id="esp-e201211613c0ch20070">
+    <display-name>esp-e201211613c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497779/20070/6/1/31497779_16:9.jpg?date=20260219155315"/>
+  </channel>
+  <channel id="esp-e201211618c0ch20039">
+    <display-name>esp-e201211618c0ch20039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497786/20039/6/1/31497786_16:9.jpg?date=20260219155100"/>
+  </channel>
+  <channel id="esp-e201211615c0ch20037">
+    <display-name>esp-e201211615c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497775/20037/6/1/31497775_16:9.jpg?date=20260219155204"/>
+  </channel>
+  <channel id="esp-e201211617c0ch20038">
+    <display-name>esp-e201211617c0ch20038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497782/20038/6/1/31497782_16:9.jpg?date=20260219155424"/>
+  </channel>
+  <channel id="esp-e201211616c0ch20037">
+    <display-name>esp-e201211616c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497776/20037/6/1/31497776_16:9.jpg?date=20260219155218"/>
+  </channel>
+  <channel id="esp-e201211614c0ch20070">
+    <display-name>esp-e201211614c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497780/20070/6/1/31497780_16:9.jpg?date=20260219155350"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1059,5 +1127,107 @@
     <title lang="es">2026 NFL Scouting Combine - Defensive Linemen &amp; Linebackers</title>
     <desc lang="es">Acción de la temporada 2026 de la NFL en Game Pass por DAZN.</desc>
     <category lang="es">Fútbol Americano</category>
+  </programme>
+  <programme start="20260225100000 +0000" stop="20260225120000 +0000" channel="esp-e201211604c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497772/20037/6/1/31497772_16:9.jpg?date=20260219155117"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225100000 +0000" stop="20260225120000 +0000" channel="esp-e201211603c0ch20036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497771/20036/6/1/31497771_16:9.jpg?date=20260219155236"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225124000 +0000" stop="20260225142000 +0000" channel="esp-e201224916c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522697/20008/6/1/31522697_16:9.jpg?date=20260222184954"/>
+    <title lang="es">Tour de Cerdeña - Etapa 1</title>
+    <desc lang="es">Castelsardo &gt; Bosa (189,8km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260225130000 +0000" stop="20260225150000 +0000" channel="esp-e201211607c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497773/20037/6/1/31497773_16:9.jpg?date=20260219155129"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225130000 +0000" stop="20260225150000 +0000" channel="esp-e201211609c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497781/20038/6/1/31497781_16:9.jpg?date=20260219155401"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225130000 +0000" stop="20260225150000 +0000" channel="esp-e201211611c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497784/20039/6/1/31497784_16:9.jpg?date=20260219155032"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225130000 +0000" stop="20260225150000 +0000" channel="esp-e201211605c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497777/20070/6/1/31497777_16:9.jpg?date=20260219155250"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="esp-e201211610c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497783/20038/6/1/31497783_16:9.jpg?date=20260219155412"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="esp-e201211606c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497778/20070/6/1/31497778_16:9.jpg?date=20260219155304"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="esp-e201211608c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497774/20037/6/1/31497774_16:9.jpg?date=20260219155144"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="esp-e201211612c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497785/20039/6/1/31497785_16:9.jpg?date=20260219155047"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="esp-e201211613c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497779/20070/6/1/31497779_16:9.jpg?date=20260219155315"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="esp-e201211618c0ch20039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497786/20039/6/1/31497786_16:9.jpg?date=20260219155100"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="esp-e201211615c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497775/20037/6/1/31497775_16:9.jpg?date=20260219155204"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="esp-e201211617c0ch20038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497782/20038/6/1/31497782_16:9.jpg?date=20260219155424"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="esp-e201211616c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497776/20037/6/1/31497776_16:9.jpg?date=20260219155218"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="esp-e201211614c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31497780/20070/6/1/31497780_16:9.jpg?date=20260219155350"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | 2ª ronda</desc>
+    <category lang="es">Snooker</category>
   </programme>
 </tv>
