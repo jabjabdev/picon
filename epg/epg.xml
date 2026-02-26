@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 26 00:30:25 2026">
+<tv date="Thu Feb 26 06:30:15 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -631,6 +631,66 @@
   <channel id="derq8vqdrzpa958oofxi7mihg">
     <display-name>derq8vqdrzpa958oofxi7mihg</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/151s80g3euapz1a6gchpp6a14k_image-header_pEs_1767608185000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201176439c0ch20020">
+    <display-name>esp-e201176439c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477895/20020/6/1/31477895_16:9.jpg?date=20260219161251"/>
+  </channel>
+  <channel id="esp-e201196537c0ch20002">
+    <display-name>esp-e201196537c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31489436/20002/6/1/31489436_16:9.jpg?date=20260219161549"/>
+  </channel>
+  <channel id="esp-e201205257c0ch20009">
+    <display-name>esp-e201205257c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31494198/20009/6/1/31494198_16:9.jpg?date=20260219161704"/>
+  </channel>
+  <channel id="esp-e201206609c0ch20065">
+    <display-name>esp-e201206609c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495589/20065/6/1/31495589_16:9.jpg?date=20260219144316"/>
+  </channel>
+  <channel id="esp-e201212181c0ch20070">
+    <display-name>esp-e201212181c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498311/20070/6/1/31498311_16:9.jpg?date=20260219175544"/>
+  </channel>
+  <channel id="esp-e201206611c0ch20067">
+    <display-name>esp-e201206611c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495600/20067/6/1/31495600_16:9.jpg?date=20260219144353"/>
+  </channel>
+  <channel id="esp-e201205290c0ch20011">
+    <display-name>esp-e201205290c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31494204/20011/6/1/31494204_16:9.jpg?date=20260219161816"/>
+  </channel>
+  <channel id="esp-e201206610c0ch20066">
+    <display-name>esp-e201206610c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495594/20066/6/1/31495594_16:9.jpg?date=20260219144421"/>
+  </channel>
+  <channel id="esp-e201224918c0ch20008">
+    <display-name>esp-e201224918c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522699/20008/6/1/31522699_16:9.jpg?date=20260224081119"/>
+  </channel>
+  <channel id="esp-e201206612c0ch20068">
+    <display-name>esp-e201206612c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495596/20068/6/1/31495596_16:9.jpg?date=20260224083612"/>
+  </channel>
+  <channel id="esp-e201176440c0ch20020">
+    <display-name>esp-e201176440c0ch20020</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477896/20020/6/1/31477896_16:9.jpg?date=20260219161515"/>
+  </channel>
+  <channel id="esp-e201212182c0ch20070">
+    <display-name>esp-e201212182c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498312/20070/6/1/31498312_16:9.jpg?date=20260219175609"/>
+  </channel>
+  <channel id="esp-e201212184c0ch20037">
+    <display-name>esp-e201212184c0ch20037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498314/20037/6/1/31498314_16:9.jpg?date=20260219175513"/>
+  </channel>
+  <channel id="esp-e201212183c0ch20070">
+    <display-name>esp-e201212183c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498313/20070/6/1/31498313_16:9.jpg?date=20260219175627"/>
+  </channel>
+  <channel id="esp-e201206536c0ch20064">
+    <display-name>esp-e201206536c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495585/20064/6/1/31495585_16:9.jpg?date=20260219144807"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1579,5 +1639,95 @@
     <title lang="es">Oilers vs. Sharks</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260227085000 +0000" stop="20260227094500 +0000" channel="esp-e201176439c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477895/20020/6/1/31477895_16:9.jpg?date=20260219161251"/>
+    <title lang="es">Copa del Mundo - Bad Mitterndorf</title>
+    <desc lang="es">Masculino | HS235</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260227094500 +0000" stop="20260227120000 +0000" channel="esp-e201196537c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31489436/20002/6/1/31489436_16:9.jpg?date=20260219161549"/>
+    <title lang="es">Copa del Mundo - Soldeu</title>
+    <desc lang="es">Femenino | Descenso</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260227105000 +0000" stop="20260227123000 +0000" channel="esp-e201205257c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31494198/20009/6/1/31494198_16:9.jpg?date=20260219161704"/>
+    <title lang="es">Copa del Mundo - Kopaonik</title>
+    <desc lang="es">Masculino y femenino | Esquícross</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260227114500 +0000" stop="20260227230000 +0000" channel="esp-e201206609c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495589/20065/6/1/31495589_16:9.jpg?date=20260219144316"/>
+    <title lang="es">Palm Beach Classic - Día 2</title>
+    <desc lang="es">PGA Tour | Señal principal</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260227120000 +0000" stop="20260227150000 +0000" channel="esp-e201212181c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498311/20070/6/1/31498311_16:9.jpg?date=20260219175544"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260227121500 +0000" stop="20260227230000 +0000" channel="esp-e201206611c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495600/20067/6/1/31495600_16:9.jpg?date=20260219144353"/>
+    <title lang="es">Palm Beach Classic - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Hole'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260227122500 +0000" stop="20260227134000 +0000" channel="esp-e201205290c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31494204/20011/6/1/31494204_16:9.jpg?date=20260219161816"/>
+    <title lang="es">Copa del Mundo - Bad Mitterndorf</title>
+    <desc lang="es">Masculino | HS235 | Clasificación</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260227123000 +0000" stop="20260227230000 +0000" channel="esp-e201206610c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495594/20066/6/1/31495594_16:9.jpg?date=20260219144421"/>
+    <title lang="es">Palm Beach Classic - Día 2</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260227124000 +0000" stop="20260227142000 +0000" channel="esp-e201224918c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522699/20008/6/1/31522699_16:9.jpg?date=20260224081119"/>
+    <title lang="es">Tour de Cerdeña - Etapa 3</title>
+    <desc lang="es">Masculino | Cagliari &gt; Tortoli (168.1km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260227124500 +0000" stop="20260227230000 +0000" channel="esp-e201206612c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495596/20068/6/1/31495596_16:9.jpg?date=20260224083612"/>
+    <title lang="es">Palm Beach Classic - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260227145000 +0000" stop="20260227152000 +0000" channel="esp-e201176440c0ch20020">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477896/20020/6/1/31477896_16:9.jpg?date=20260219161515"/>
+    <title lang="es">Copa del Mundo - Bad Mitterndorf</title>
+    <desc lang="es">Masculino | 7,5km Compact</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227180000 +0000" channel="esp-e201212182c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498312/20070/6/1/31498312_16:9.jpg?date=20260219175609"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227220000 +0000" channel="esp-e201212184c0ch20037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498314/20037/6/1/31498314_16:9.jpg?date=20260219175513"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227220000 +0000" channel="esp-e201212183c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498313/20070/6/1/31498313_16:9.jpg?date=20260219175627"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Abierto de Gales | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227230000 +0000" channel="esp-e201206536c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495585/20064/6/1/31495585_16:9.jpg?date=20260219144807"/>
+    <title lang="es">Palm Beach Classic - Día 2 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
