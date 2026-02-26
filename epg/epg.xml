@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Feb 26 12:30:14 2026">
+<tv date="Thu Feb 26 18:30:15 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -548,6 +548,14 @@
     <display-name>176vrexgu4ma0bxe0bujzdmea</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xfe579d76lh71jbgzrds1hrsj_image-header_pEs_1772102902000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="1nqwfz1tug39h19f7uda6rurbg">
+    <display-name>1nqwfz1tug39h19f7uda6rurbg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c08tz7syt0i9e4clcic9xf61n_image-header_pEs_1770288067000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c7y7eeygqeo6j9rbdxp4sk822">
+    <display-name>c7y7eeygqeo6j9rbdxp4sk822</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dlkebaiuxngy1sce99oys8jts_image-header_pEs_1772106723000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -866,13 +874,13 @@
     <desc lang="es">Abierto de Gales | 3ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="esp-e201212126c0ch20037">
+  <programme start="20260226150502 +0000" stop="20260226170502 +0000" channel="esp-e201212126c0ch20037">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498289/20037/6/1/31498289_16:9.jpg?date=20260219155644"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 3ª ronda</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="esp-e201212124c0ch20070">
+  <programme start="20260226151102 +0000" stop="20260226171102 +0000" channel="esp-e201212124c0ch20070">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498285/20070/6/1/31498285_16:9.jpg?date=20260219161103"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | 3ª ronda</desc>
@@ -962,15 +970,15 @@
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
   </programme>
-  <programme start="20260228053000 +0000" stop="20260228113000 +0000" channel="a8t0o5nbzl5qt5wozuwb9o3sq">
+  <programme start="20260228052500 +0000" stop="20260228112500 +0000" channel="a8t0o5nbzl5qt5wozuwb9o3sq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d7kawuobrqf1oxo5k6ax43o2g_image-header_pEs_1771842808000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Sábado al sprint - GP PT de Tailandia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260228105500 +0000" stop="20260228165500 +0000" channel="16y445wwpunwd17nwo7gh19qt2">
+  <programme start="20260228104000 +0000" stop="20260228164000 +0000" channel="16y445wwpunwd17nwo7gh19qt2">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f1jymikxjx8osou5gtta1pzq7_image-header_pEs_1771265760000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - Jarama (E4)</title>
+    <title lang="es">Carrera 1 - Jarama (E4) + (E3)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
@@ -1016,9 +1024,9 @@
     <desc lang="es">Como se enfrenta a Lecce en un choque de la Serie A en el Stadio Giuseppe Sinigaglia. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan puntos. ¿Marcará la diferencia la ventaja local de Como, o podrá Lecce lograr una actuación sólida? El escenario está listo para una batalla intrigante. ¡No te pierdas toda la acción futbolística!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260228140000 +0000" stop="20260228200000 +0000" channel="1s8v0uyhzfr6p1xobjl5hrquwl">
+  <programme start="20260228135500 +0000" stop="20260228195500 +0000" channel="1s8v0uyhzfr6p1xobjl5hrquwl">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3r4l9gz455rwt49whxqs3kckf_image-header_pEs_1771267000000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - Jarama (E4)</title>
+    <title lang="es">Carrera 2 - Jarama (E4) + (E3)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
@@ -1367,6 +1375,18 @@
   <programme start="20260227000000 +0000" stop="20260227060000 +0000" channel="176vrexgu4ma0bxe0bujzdmea">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/xfe579d76lh71jbgzrds1hrsj_image-header_pEs_1772102902000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Navarrete vs. Nunez - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260227194500 +0000" stop="20260227221500 +0000" channel="1nqwfz1tug39h19f7uda6rurbg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c08tz7syt0i9e4clcic9xf61n_image-header_pEs_1770288067000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Parma - Cagliari</title>
+    <desc lang="es">Parma se enfrenta a Cagliari en un crucial partido de la Serie A 25/26 en el Ennio Tardini el 1 de marzo de 2026. Ambos equipos buscan mejorar su posición en la tabla. ¿Quién aprovechará la oportunidad para ascender? ¿Influirá la ventaja local en el resultado? ¡No te pierdas 90 minutos de emocionante fútbol italiano!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260228020000 +0000" channel="c7y7eeygqeo6j9rbdxp4sk822">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dlkebaiuxngy1sce99oys8jts_image-header_pEs_1772106723000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Navarrete vs. Nunez - Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
