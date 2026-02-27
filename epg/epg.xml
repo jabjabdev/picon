@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Feb 27 12:30:18 2026">
+<tv date="Fri Feb 27 18:30:13 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -250,7 +250,7 @@
   </channel>
   <channel id="1dldwbxm4oaez1rjjl2fumcsnn">
     <display-name>1dldwbxm4oaez1rjjl2fumcsnn</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sgwm2gd0o42v6dup7yp905xh_image-header_pEs_1771856960000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sgwm2gd0o42v6dup7yp905xh_image-header_pEs_1772103608000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="9juy9y6hlhep8u4n8oaf2jaxy">
     <display-name>9juy9y6hlhep8u4n8oaf2jaxy</display-name>
@@ -728,6 +728,22 @@
     <display-name>194ljfp5cnerw1rp78r9i5y8tz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5cry2x9syitpy5fhrsg32htn_image-header_pEs_1772188478000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="9f29rsdmj51i1s0v8i3d9b6cq">
+    <display-name>9f29rsdmj51i1s0v8i3d9b6cq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e072xx4lbo76v6zvztguaqid5_image-header_pEs_1770288483000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201237636c0ch20016">
+    <display-name>esp-e201237636c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527269/20016/6/1/31527269_16:9.jpg?date=20260227113727"/>
+  </channel>
+  <channel id="esp-e201237637c0ch20017">
+    <display-name>esp-e201237637c0ch20017</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527270/20017/6/1/31527270_16:9.jpg?date=20260227113745"/>
+  </channel>
+  <channel id="esp-e201237638c0ch20016">
+    <display-name>esp-e201237638c0ch20016</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527268/20016/6/1/31527268_16:9.jpg?date=20260227113805"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -1100,13 +1116,13 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20260228161000 +0000" stop="20260228221000 +0000" channel="1dldwbxm4oaez1rjjl2fumcsnn">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sgwm2gd0o42v6dup7yp905xh_image-header_pEs_1771856960000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260228163500 +0000" stop="20260228223500 +0000" channel="1dldwbxm4oaez1rjjl2fumcsnn">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9sgwm2gd0o42v6dup7yp905xh_image-header_pEs_1772103608000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 1 - Jarama</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260228164000 +0000" stop="20260228224000 +0000" channel="9juy9y6hlhep8u4n8oaf2jaxy">
+  <programme start="20260228163000 +0000" stop="20260228223000 +0000" channel="9juy9y6hlhep8u4n8oaf2jaxy">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nyh9zk1lkuxh19jhn32rqon0a_image-header_pEs_1772013678000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Cooper vs. Ursu - Preliminares</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1310,7 +1326,7 @@
     <desc lang="es">Masculino | 7,5km Compact</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20260227150000 +0000" stop="20260227180000 +0000" channel="esp-e201212182c0ch20070">
+  <programme start="20260227155302 +0000" stop="20260227185302 +0000" channel="esp-e201212182c0ch20070">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498312/20070/6/1/31498312_16:9.jpg?date=20260219175609"/>
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | Cuartos de final</desc>
@@ -1814,10 +1830,34 @@
     <desc lang="es">Edición 2026</desc>
     <category lang="es">Atletismo</category>
   </programme>
-  <programme start="20260228132000 +0000" stop="20260228192000 +0000" channel="194ljfp5cnerw1rp78r9i5y8tz">
+  <programme start="20260228134000 +0000" stop="20260228194000 +0000" channel="194ljfp5cnerw1rp78r9i5y8tz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5cry2x9syitpy5fhrsg32htn_image-header_pEs_1772188478000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 1 - Jarama</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260228140000 +0000" stop="20260228163000 +0000" channel="9f29rsdmj51i1s0v8i3d9b6cq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e072xx4lbo76v6zvztguaqid5_image-header_pEs_1770288483000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Como - Lecce</title>
+    <desc lang="es">Como se enfrenta a Lecce en un choque de la Serie A en el Stadio Giuseppe Sinigaglia. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan puntos. ¿Marcará la diferencia la ventaja local de Como, o podrá Lecce lograr una actuación sólida? El escenario está listo para una batalla intrigante. ¡No te pierdas toda la acción futbolística!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260228163000 +0000" stop="20260228181000 +0000" channel="esp-e201237636c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527269/20016/6/1/31527269_16:9.jpg?date=20260227113727"/>
+    <title lang="es">Snow League - Aspen</title>
+    <desc lang="es">Parte 1</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20260228185000 +0000" stop="20260228195000 +0000" channel="esp-e201237637c0ch20017">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527270/20017/6/1/31527270_16:9.jpg?date=20260227113745"/>
+    <title lang="es">Snow League - Aspen</title>
+    <desc lang="es">Parte 2</desc>
+    <category lang="es">Snowboard</category>
+  </programme>
+  <programme start="20260228201000 +0000" stop="20260228220000 +0000" channel="esp-e201237638c0ch20016">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527268/20016/6/1/31527268_16:9.jpg?date=20260227113805"/>
+    <title lang="es">Snow League - Aspen</title>
+    <desc lang="es">Parte 3</desc>
+    <category lang="es">Snowboard</category>
   </programme>
 </tv>
