@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 28 18:30:12 2026">
+<tv date="Sat Feb 28 18:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -739,6 +739,10 @@
   <channel id="esp-e201212285c0ch20070">
     <display-name>esp-e201212285c0ch20070</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498322/20070/6/1/31498322_16:9.jpg?date=20260227102643"/>
+  </channel>
+  <channel id="1mb9mr7pfdi9p1mrjnuklz3vj3">
+    <display-name>1mb9mr7pfdi9p1mrjnuklz3vj3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/athvh5bdrc4wjlcyb4hklz0cl_image-header_pEs_1770283888000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1849,5 +1853,11 @@
     <title lang="es">Snooker</title>
     <desc lang="es">Abierto de Gales | Final</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260302173000 +0000" stop="20260302200000 +0000" channel="1mb9mr7pfdi9p1mrjnuklz3vj3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/athvh5bdrc4wjlcyb4hklz0cl_image-header_pEs_1770283888000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Pisa - Bologna</title>
+    <desc lang="es">Pisa se enfrentará a Bologna en un crucial partido de la Serie A 25/26 en el Arena Garibaldi el 1 de marzo de 2026. Con ambos equipos luchando por su posición en la tabla, este encuentro podría tener importantes implicaciones para sus objetivos de temporada. ¿Quién saldrá victorioso? ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
