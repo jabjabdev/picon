@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 28 12:30:15 2026">
+<tv date="Sat Feb 28 18:30:12 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -19,10 +19,6 @@
   <channel id="6a5u29gqz5gio615uty8mulwd">
     <display-name>6a5u29gqz5gio615uty8mulwd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k8nhx03cbuc5fuy3lop578mu_image-header_pEs_1771934355000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="gu6oymqvfsch1y1iai7fy0eq2">
-    <display-name>gu6oymqvfsch1y1iai7fy0eq2</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vlf7bg6vy7x295u16705801j_image-header_pEs_1771266695000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="af60nvftldv0zv2kt19yjs8lr">
     <display-name>af60nvftldv0zv2kt19yjs8lr</display-name>
@@ -67,10 +63,6 @@
   <channel id="l178xz57e0f6jla7scv04k4">
     <display-name>l178xz57e0f6jla7scv04k4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/c98dl2keamy0jagspthu0xa40_image-header_pEs_1764533399000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1ls2j3t1yto2c12fuw3hwlzn0c">
-    <display-name>1ls2j3t1yto2c12fuw3hwlzn0c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dqjdqjukgpgowes4crw4w1go2_image-header_pEs_1771267108000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="jj87doc8eyln0wp99r4mof3mv0">
     <display-name>jj87doc8eyln0wp99r4mof3mv0</display-name>
@@ -130,7 +122,7 @@
   </channel>
   <channel id="ge8039acpj8t01otd6aekp6rl5">
     <display-name>ge8039acpj8t01otd6aekp6rl5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy4pbns4uq2scthk3t3bazutr_image-header_pEs_1770646951000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8j6unb0fr5s7us754kz70vcox_image-header_pEs_1770646951000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="r2gsbzfaow540168udwm7z5wut">
     <display-name>r2gsbzfaow540168udwm7z5wut</display-name>
@@ -556,10 +548,6 @@
     <display-name>esp-e201203443c0ch20005</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31493122/20005/6/1/31493122_16:9.jpg?date=20260226155509"/>
   </channel>
-  <channel id="esp-e201236575c0ch20016">
-    <display-name>esp-e201236575c0ch20016</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-  </channel>
   <channel id="esp-e201206537c0ch20064">
     <display-name>esp-e201206537c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495586/20064/6/1/31495586_16:9.jpg?date=20260219150203"/>
@@ -782,12 +770,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260228114500 +0000" stop="20260228174500 +0000" channel="gu6oymqvfsch1y1iai7fy0eq2">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vlf7bg6vy7x295u16705801j_image-header_pEs_1771266695000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 1 - Jarama (Eurocup 3)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
   <programme start="20260228120000 +0000" stop="20260228180000 +0000" channel="af60nvftldv0zv2kt19yjs8lr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cj3a5mwjb1iygga1fwmc8lekq_image-header_pEs_1750353330000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rajadamnern World Series Muay Thai</title>
@@ -853,12 +835,6 @@
     <title lang="es">Werder Bremen - Heidenheim</title>
     <desc lang="es">Heidenheim viaja para enfrentarse a Werder Bremen en un crucial encuentro de la Bundesliga en el Weserstadion. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan puntos vitales. ¿Podrán los visitantes dar la sorpresa, o será decisiva la ventaja local de Bremen? ¡Sintoniza el 28 de febrero para toda la emoción!</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260228144000 +0000" stop="20260228204000 +0000" channel="1ls2j3t1yto2c12fuw3hwlzn0c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dqjdqjukgpgowes4crw4w1go2_image-header_pEs_1771267108000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Carrera 2 - Jarama (Eurocup 3)</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20260228150000 +0000" stop="20260228173000 +0000" channel="jj87doc8eyln0wp99r4mof3mv0">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8uh1ftffseoy6kyczspiod2ka_image-header_pEs_1770639922000/fill/none/top/none/85/600/360/webp/image"/>
@@ -944,8 +920,8 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20260228170000 +0000" stop="20260228193000 +0000" channel="ge8039acpj8t01otd6aekp6rl5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cy4pbns4uq2scthk3t3bazutr_image-header_pEs_1770646951000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260228173000 +0000" stop="20260228203000 +0000" channel="ge8039acpj8t01otd6aekp6rl5">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8j6unb0fr5s7us754kz70vcox_image-header_pEs_1770646951000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RCD Mallorca - Real Sociedad</title>
     <desc lang="es">Narración y comentarios: Julio Suárez, Miguel Quintana y Ainhoa Pérez | Narración en català: Toni Munar. Narración euskera: Pedro Bezanilla. La Real Sociedad visita a Mallorca en un crucial encuentro de LaLiga 25/26 en el Estadio Son Moix el 28 de febrero de 2026. Con ambos equipos luchando por su posición en la tabla, ¿quién aprovechará la oportunidad para sumar puntos vitales? ¿Podrá Mallorca aprovechar su ventaja local o Real Sociedad saldrá victorioso? ¡No te pierdas este emocionante espectáculo!</desc>
     <category lang="es">Fútbol</category>
@@ -1585,12 +1561,6 @@
     <title lang="es">Omloop Nieuwsblad</title>
     <desc lang="es">Femenino | Gante &gt; Ninove (137.6 km)</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260228163000 +0000" stop="20260228181000 +0000" channel="esp-e201236575c0ch20016">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-    <title lang="es">Aspen - Halfpipe</title>
-    <desc lang="es">SNOW LEAGUE</desc>
-    <category lang="es">Esquí</category>
   </programme>
   <programme start="20260228180000 +0000" stop="20260228230000 +0000" channel="esp-e201206537c0ch20064">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31495586/20064/6/1/31495586_16:9.jpg?date=20260219150203"/>
