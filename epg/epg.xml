@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Feb 28 18:30:16 2026">
+<tv date="Sun Mar 01 00:30:12 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -267,10 +267,6 @@
   <channel id="dizkb9wa5ii66b9l4j19pg45w">
     <display-name>dizkb9wa5ii66b9l4j19pg45w</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/82x5gd2ll0lc1vvg92igaq3w2_image-header_pEs_1770699943000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="cokujith1kyhico97y6jiuocr">
-    <display-name>cokujith1kyhico97y6jiuocr</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16zpwqm66ozmd141adjwi99w0l_image-header_pEs_1772022671000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="d32oll1okt1qfwerv22bd81ui">
     <display-name>d32oll1okt1qfwerv22bd81ui</display-name>
@@ -556,14 +552,6 @@
     <display-name>esp-e201212283c0ch20070</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31498320/20070/6/1/31498320_16:9.jpg?date=20260225082900"/>
   </channel>
-  <channel id="esp-e201236576c0ch20017">
-    <display-name>esp-e201236576c0ch20017</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-  </channel>
-  <channel id="esp-e201236577c0ch20016">
-    <display-name>esp-e201236577c0ch20016</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-  </channel>
   <channel id="esp-e201225812c0ch20050">
     <display-name>esp-e201225812c0ch20050</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522888/20050/6/1/31522888_16:9.jpg?date=20260226082430"/>
@@ -743,6 +731,22 @@
   <channel id="1mb9mr7pfdi9p1mrjnuklz3vj3">
     <display-name>1mb9mr7pfdi9p1mrjnuklz3vj3</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/athvh5bdrc4wjlcyb4hklz0cl_image-header_pEs_1770283888000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dp1jbdftn3isojoljg1449bf8">
+    <display-name>dp1jbdftn3isojoljg1449bf8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1y41fclq7ot1u32vij5kx13u_image-header_pEs_1770745267000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="3fsy56u9juj801uu9ih3azpsop">
+    <display-name>3fsy56u9juj801uu9ih3azpsop</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17qnu6xiyxisdpm4v17rk2ynu_image-header_pEs_1771349978000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dpn2alq38jvl39jah6qybxn2s">
+    <display-name>dpn2alq38jvl39jah6qybxn2s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/pjcd8g7prhl1ko796fsp73gt_image-header_pEs_1770745267000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dqty7fde0dlf9nbcic9r3nx1w">
+    <display-name>dqty7fde0dlf9nbcic9r3nx1w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6u7nrm88pwxt12j5g9jiz9ts0_image-header_pEs_1762365165000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1145,12 +1149,6 @@
     <title lang="es">Devils vs. Blues</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20260228222000 +0000" stop="20260301042000 +0000" channel="cokujith1kyhico97y6jiuocr">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16zpwqm66ozmd141adjwi99w0l_image-header_pEs_1772022671000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Navarrete vs. Nunez - Preliminares</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Boxeo</category>
   </programme>
   <programme start="20260228223000 +0000" stop="20260301020000 +0000" channel="d32oll1okt1qfwerv22bd81ui">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hvtavxq44nyf1rugmzbd5800r_image-header_pEs_1770898900000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1578,18 +1576,6 @@
     <desc lang="es">Abierto de Gales | Semifinales</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260228185000 +0000" stop="20260228195000 +0000" channel="esp-e201236576c0ch20017">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-    <title lang="es">Aspen - Halfpipe</title>
-    <desc lang="es">SNOW LEAGUE</desc>
-    <category lang="es">Esquí</category>
-  </programme>
-  <programme start="20260228201000 +0000" stop="20260228220000 +0000" channel="esp-e201236577c0ch20016">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240402-121018.jpeg"/>
-    <title lang="es">Aspen - Halfpipe</title>
-    <desc lang="es">SNOW LEAGUE</desc>
-    <category lang="es">Esquí</category>
-  </programme>
   <programme start="20260228230000 +0000" stop="20260301040000 +0000" channel="esp-e201225812c0ch20050">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522888/20050/6/1/31522888_16:9.jpg?date=20260226082430"/>
     <title lang="es">UFC Fight Night - Brandon Moreno - Lone'er Kavanagh</title>
@@ -1859,5 +1845,29 @@
     <title lang="es">Pisa - Bologna</title>
     <desc lang="es">Pisa se enfrentará a Bologna en un crucial partido de la Serie A 25/26 en el Arena Garibaldi el 1 de marzo de 2026. Con ambos equipos luchando por su posición en la tabla, este encuentro podría tener importantes implicaciones para sus objetivos de temporada. ¿Quién saldrá victorioso? ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260303060000 +0000" channel="dp1jbdftn3isojoljg1449bf8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b1y41fclq7ot1u32vij5kx13u_image-header_pEs_1770745267000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Blue Jackets vs. Rangers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260303003000 +0000" stop="20260303040000 +0000" channel="3fsy56u9juj801uu9ih3azpsop">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/17qnu6xiyxisdpm4v17rk2ynu_image-header_pEs_1771349978000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Boston Celtics @ Milwaukee Bucks</title>
+    <desc lang="es">Los Milwaukee Bucks y Boston Celtics se enfrentarán en un crucial partido de la NBA en el Fiserv Forum. En plena temporada 25/26, estos gigantes del baloncesto darán lo mejor de sí el 3 de marzo de 2026. ¿Veremos una lluvia de triples o una clase magistral defensiva? ¡Prepara tus aperitivos y disfruta de la magia del baloncesto!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260303003000 +0000" stop="20260303063000 +0000" channel="dpn2alq38jvl39jah6qybxn2s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/pjcd8g7prhl1ko796fsp73gt_image-header_pEs_1770745267000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Flyers vs. Maple Leafs</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260303030000 +0000" stop="20260303090000 +0000" channel="dqty7fde0dlf9nbcic9r3nx1w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6u7nrm88pwxt12j5g9jiz9ts0_image-header_pEs_1762365165000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Stars vs. Canucks</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
