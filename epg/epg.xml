@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Mar 01 00:30:16 2026">
+<tv date="Sun Mar 01 06:30:11 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -823,6 +823,18 @@
   <channel id="2p8q74xj8u510bi6vicr9fxd80">
     <display-name>2p8q74xj8u510bi6vicr9fxd80</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8zbk1w4yj0pjrcjjoq3skmu8t_image-header_pEs_1770828082000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cset73zq6vn1unbw1q7gzp96">
+    <display-name>cset73zq6vn1unbw1q7gzp96</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bk6qwhpisgni9owdjt8ten4hu_image-header_pEs_1770290889000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201186475c0ch20030">
+    <display-name>esp-e201186475c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484486/20030/6/1/31484486_16:9.jpg?date=20260227103211"/>
+  </channel>
+  <channel id="esp-e201186425c0ch20030">
+    <display-name>esp-e201186425c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484475/20030/6/1/31484475_16:9.jpg?date=20260227103258"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2059,5 +2071,23 @@
     <title lang="es">Wolverhampton - Liverpool</title>
     <desc lang="es">Wolverhampton Wanderers se enfrenta a Liverpool en un partido de Premier League 25/26 en el Molineux Stadium el 3 de marzo de 2026. ¿Podrán los Wolves defender su territorio contra el poderío ofensivo de los Reds? Este encuentro podría alterar la clasificación. ¿Qué equipo aprovechará la oportunidad? ¡No te pierdas este espectáculo futbolístico!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260301170000 +0000" stop="20260301193000 +0000" channel="cset73zq6vn1unbw1q7gzp96">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bk6qwhpisgni9owdjt8ten4hu_image-header_pEs_1770290889000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Torino - Lazio</title>
+    <desc lang="es">Lazio visita a Torino en un emocionante enfrentamiento de Serie A en el Stadio Olimpico Grande Torino el 1 de marzo de 2026. Con la temporada 25/26 en pleno apogeo, ambos clubes buscan puntos cruciales. ¿Inclinará la balanza la ventaja local de Torino, o podrá Lazio llevarse la victoria? ¡No te pierdas este apasionante partido!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260302095000 +0000" stop="20260302114000 +0000" channel="esp-e201186475c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484486/20030/6/1/31484486_16:9.jpg?date=20260227103211"/>
+    <title lang="es">Campeonato del Mundo - Arber</title>
+    <desc lang="es">Mixto | Juvenil | Relevos</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260302133500 +0000" stop="20260302153000 +0000" channel="esp-e201186425c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484475/20030/6/1/31484475_16:9.jpg?date=20260227103258"/>
+    <title lang="es">Campeonato del Mundo - Arber</title>
+    <desc lang="es">Mixto | Juvenil | Relevos</desc>
+    <category lang="es">Triatlón</category>
   </programme>
 </tv>
