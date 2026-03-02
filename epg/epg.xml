@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 02 12:30:09 2026">
+<tv date="Mon Mar 02 18:30:09 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -11,10 +11,6 @@
   <channel id="7rshfvyaksskwed021udt4gev">
     <display-name>7rshfvyaksskwed021udt4gev</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/40g42a3mvp7lju27qh8xl2lhn_image-header_pEs_1767960459000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1xtq97llioj5y1xfo8tug715j3">
-    <display-name>1xtq97llioj5y1xfo8tug715j3</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42ra912pl57uq48ji45k6ntw0_image-header_pEs_1771498296000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2dm9js5wunyk01f0i0h89edli6">
     <display-name>2dm9js5wunyk01f0i0h89edli6</display-name>
@@ -377,12 +373,6 @@
     <title lang="es">La Dazoneta - programa 21</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302183000 +0000" channel="1xtq97llioj5y1xfo8tug715j3">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/42ra912pl57uq48ji45k6ntw0_image-header_pEs_1771498296000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Le Samyn Femenina</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
   </programme>
   <programme start="20260302173000 +0000" stop="20260302200000 +0000" channel="2dm9js5wunyk01f0i0h89edli6">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/athvh5bdrc4wjlcyb4hklz0cl_image-header_pEs_1770283888000/fill/none/top/none/85/600/360/webp/image"/>
