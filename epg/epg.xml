@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 03 00:30:10 2026">
+<tv date="Tue Mar 03 06:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -403,6 +403,22 @@
   <channel id="1w8td1nwwj9mj159mhmz3gz6n7">
     <display-name>1w8td1nwwj9mj159mhmz3gz6n7</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/abjtg7gkham8cln0mrpq7inxh_image-header_pEs_1770891573000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201186472c0ch20030">
+    <display-name>esp-e201186472c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484488/20030/6/1/31484488_16:9.jpg?date=20260227115152"/>
+  </channel>
+  <channel id="esp-e201221246c0ch20003">
+    <display-name>esp-e201221246c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520103/20003/6/1/31520103_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201186422c0ch20030">
+    <display-name>esp-e201186422c0ch20030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484477/20030/6/1/31484477_16:9.jpg?date=20260227115327"/>
+  </channel>
+  <channel id="esp-e201220093c0ch20071">
+    <display-name>esp-e201220093c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519324/20071/6/1/31519324_16:9.jpg?date=20260225114915"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1009,5 +1025,29 @@
     <title lang="es">Tottenham - Crystal Palace</title>
     <desc lang="es">El Tottenham Hotspur recibe al Crystal Palace en el Tottenham Hotspur Stadium en un emocionante choque de la Premier League 25/26. Los rivales londinenses se enfrentan el 5 de marzo de 2026, ambos en busca de puntos cruciales. ¿Mantendrán los Spurs su ventaja local o logrará el Palace una victoria a domicilio? ¡No te pierdas una noche inolvidable de fútbol!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260304092000 +0000" stop="20260304110500 +0000" channel="esp-e201186472c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484488/20030/6/1/31484488_16:9.jpg?date=20260227115152"/>
+    <title lang="es">Campeonato del Mundo - Arber</title>
+    <desc lang="es">Femenino | Juvenil | Sprint</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260304100000 +0000" stop="20260304110000 +0000" channel="esp-e201221246c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520103/20003/6/1/31520103_16:9.jpg"/>
+    <title lang="es">Campeonato de Europa - Monte Shahdagh</title>
+    <desc lang="es">Esprint</desc>
+    <category lang="es">Esquí de Travesía</category>
+  </programme>
+  <programme start="20260304132000 +0000" stop="20260304150500 +0000" channel="esp-e201186422c0ch20030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31484477/20030/6/1/31484477_16:9.jpg?date=20260227115327"/>
+    <title lang="es">Campeonato del Mundo - Arber</title>
+    <desc lang="es">Femenino | Júnior | Sprint</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260304163000 +0000" stop="20260304180000 +0000" channel="esp-e201220093c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519324/20071/6/1/31519324_16:9.jpg?date=20260225114915"/>
+    <title lang="es">Arnold Palmer Invitational</title>
+    <desc lang="es">PGA Tour | On the Range</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
