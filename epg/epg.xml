@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 03 12:30:06 2026">
+<tv date="Tue Mar 03 18:30:08 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -287,6 +287,26 @@
   <channel id="esp-e201220093c0ch20071">
     <display-name>esp-e201220093c0ch20071</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519324/20071/6/1/31519324_16:9.jpg?date=20260225114915"/>
+  </channel>
+  <channel id="1bjukymkjgbxp14wg7vvitn485">
+    <display-name>1bjukymkjgbxp14wg7vvitn485</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a0l80rgpaqid13bzf6u16rkdg_image-header_pEs_1772558868000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="bu25oo4obx8k1heql9qc9vrtd">
+    <display-name>bu25oo4obx8k1heql9qc9vrtd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ivrtmfcbq83m17y2e03ewiea0_image-header_pEs_1772551228000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4h5ujbgahcdutv4o1xp0zm40c">
+    <display-name>4h5ujbgahcdutv4o1xp0zm40c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jirab9hl1uvb1i7kr9q49l5kd_image-header_pEs_1772551364000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4ux6uzkbm1qptx09vld2zy43l">
+    <display-name>4ux6uzkbm1qptx09vld2zy43l</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xjyst9vzuyal1fjcvy4j4bbqr_image-header_pEs_1772556861000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5mazk2am6djp1x94mrzj3mlwo">
+    <display-name>5mazk2am6djp1x94mrzj3mlwo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sgp8gp3qep6a1jcnk56axjjtg_image-header_pEs_1772556224000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -719,5 +739,35 @@
     <title lang="es">Arnold Palmer Invitational</title>
     <desc lang="es">PGA Tour | On the Range</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260304130000 +0000" stop="20260304190000 +0000" channel="1bjukymkjgbxp14wg7vvitn485">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a0l80rgpaqid13bzf6u16rkdg_image-header_pEs_1772558868000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Collins vs. Lorente 2 - Launch Press Conference</title>
+    <desc lang="es">Enjoy the start of the build up to an explosive featherweight rematch.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260304203000 +0000" stop="20260305000000 +0000" channel="bu25oo4obx8k1heql9qc9vrtd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ivrtmfcbq83m17y2e03ewiea0_image-header_pEs_1772551228000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Indiana vs. Nebraska</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260304230000 +0000" stop="20260305023000 +0000" channel="4h5ujbgahcdutv4o1xp0zm40c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jirab9hl1uvb1i7kr9q49l5kd_image-header_pEs_1772551364000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wisconsin vs. Illinois</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260305013000 +0000" stop="20260305050000 +0000" channel="4ux6uzkbm1qptx09vld2zy43l">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1xjyst9vzuyal1fjcvy4j4bbqr_image-header_pEs_1772556861000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Purdue - Oregon</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305203000 +0000" channel="5mazk2am6djp1x94mrzj3mlwo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1sgp8gp3qep6a1jcnk56axjjtg_image-header_pEs_1772556224000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">USC - Washington</title>
+    <desc lang="es">Disfruta la acción de toda de la NCAA</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
