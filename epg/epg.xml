@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 04 00:30:30 2026">
+<tv date="Wed Mar 04 06:30:15 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -403,6 +403,54 @@
   <channel id="f5lplqp49otqgm3n7fbj0zcic">
     <display-name>f5lplqp49otqgm3n7fbj0zcic</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2gs1p2jc4dw4w2bgoowktaeoh_image-header_pEs_1772111552000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201221247c0ch20003">
+    <display-name>esp-e201221247c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520104/20003/6/1/31520104_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201220013c0ch20065">
+    <display-name>esp-e201220013c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519310/20065/6/1/31519310_16:9.jpg?date=20260219151235"/>
+  </channel>
+  <channel id="esp-e201213835c0ch20006">
+    <display-name>esp-e201213835c0ch20006</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514056/20006/6/1/31514056_16:9.jpg?date=20260302145242"/>
+  </channel>
+  <channel id="esp-e201220015c0ch20067">
+    <display-name>esp-e201220015c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519312/20067/6/1/31519312_16:9.jpg?date=20260219151322"/>
+  </channel>
+  <channel id="esp-e201220073c0ch20071">
+    <display-name>esp-e201220073c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519320/20071/6/1/31519320_16:9.jpg?date=20260225115644"/>
+  </channel>
+  <channel id="esp-e201180058c0ch20022">
+    <display-name>esp-e201180058c0ch20022</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477938/20022/6/1/31477938_16:9.jpg?date=20260227121446"/>
+  </channel>
+  <channel id="esp-e201220014c0ch20066">
+    <display-name>esp-e201220014c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519311/20066/6/1/31519311_16:9.jpg?date=20260219151349"/>
+  </channel>
+  <channel id="esp-e201179889c0ch20023">
+    <display-name>esp-e201179889c0ch20023</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477925/20023/6/1/31477925_16:9.jpg?date=20260227121246"/>
+  </channel>
+  <channel id="esp-e201180089c0ch20025">
+    <display-name>esp-e201180089c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477955/20025/6/1/31477955_16:9.jpg?date=20260227121048"/>
+  </channel>
+  <channel id="esp-e201180088c0ch20024">
+    <display-name>esp-e201180088c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477945/20024/6/1/31477945_16:9.jpg?date=20260227121205"/>
+  </channel>
+  <channel id="esp-e201220250c0ch20009">
+    <display-name>esp-e201220250c0ch20009</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519569/20009/6/1/31519569_16:9.jpg?date=20260227122158"/>
+  </channel>
+  <channel id="esp-e201219973c0ch20064">
+    <display-name>esp-e201219973c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519300/20064/6/1/31519300_16:9.jpg?date=20260219151419"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1009,5 +1057,77 @@
     <title lang="es">RAAL La Louvière - Royal Antwerp</title>
     <desc lang="es">RAAL La Louvière se enfrenta a Antwerp en un emocionante choque de First Division A. La temporada 2025/2026 se calienta con este partido en el Easi Arena el 6 de marzo de 2026. ¿Podrá RAAL La Louvière defender su cancha o Antwerp logrará una victoria crucial como visitante? ¡Prepárate para una noche inolvidable de fútbol!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="esp-e201221247c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520104/20003/6/1/31520104_16:9.jpg"/>
+    <title lang="es">Campeonato de Europa - Monte Shahdagh</title>
+    <desc lang="es">Mixto | Relevos</desc>
+    <category lang="es">Esquí de Travesía</category>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305230000 +0000" channel="esp-e201220013c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519310/20065/6/1/31519310_16:9.jpg?date=20260219151235"/>
+    <title lang="es">Arnold Palmer Invitational - Día 1</title>
+    <desc lang="es">PGA Tour | Señal principal</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260305140500 +0000" stop="20260305154500 +0000" channel="esp-e201213835c0ch20006">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514056/20006/6/1/31514056_16:9.jpg?date=20260302145242"/>
+    <title lang="es">Copa del Mundo - Lahti</title>
+    <desc lang="es">Femenino | HS130 | Día 1</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260305144500 +0000" stop="20260305230000 +0000" channel="esp-e201220015c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519312/20067/6/1/31519312_16:9.jpg?date=20260219151322"/>
+    <title lang="es">Arnold Palmer Invitational - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Hole'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305180000 +0000" channel="esp-e201220073c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519320/20071/6/1/31519320_16:9.jpg?date=20260225115644"/>
+    <title lang="es">Open de Puerto Rico - Día 1 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260305150500 +0000" stop="20260305155500 +0000" channel="esp-e201180058c0ch20022">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477938/20022/6/1/31477938_16:9.jpg?date=20260227121446"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Femenino | Individual | Entrenamiento</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260305151500 +0000" stop="20260305230000 +0000" channel="esp-e201220014c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519311/20066/6/1/31519311_16:9.jpg?date=20260219151349"/>
+    <title lang="es">Arnold Palmer Invitational - Día 1</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260305155000 +0000" stop="20260305175000 +0000" channel="esp-e201179889c0ch20023">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477925/20023/6/1/31477925_16:9.jpg?date=20260227121246"/>
+    <title lang="es">Copa del Mundo - Kontiolahti</title>
+    <desc lang="es">Femenino | Individual</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260305155500 +0000" stop="20260305175500 +0000" channel="esp-e201180089c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477955/20025/6/1/31477955_16:9.jpg?date=20260227121048"/>
+    <title lang="es">Copa del Mundo - Kontiolahti (Multicámara)</title>
+    <desc lang="es">Femenino | Individual</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260305155500 +0000" stop="20260305175500 +0000" channel="esp-e201180088c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31477945/20024/6/1/31477945_16:9.jpg?date=20260227121205"/>
+    <title lang="es">Copa del Mundo - Kontiolahti (Campo de tiro)</title>
+    <desc lang="es">Femenino | Individual</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260305175000 +0000" stop="20260305212000 +0000" channel="esp-e201220250c0ch20009">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519569/20009/6/1/31519569_16:9.jpg?date=20260227122158"/>
+    <title lang="es">Campeonato del Mundo - Heerenveen</title>
+    <desc lang="es">Día 1</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305230000 +0000" channel="esp-e201219973c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31519300/20064/6/1/31519300_16:9.jpg?date=20260219151419"/>
+    <title lang="es">Arnold Palmer Invitational - Día 1 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
