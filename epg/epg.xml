@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 04 12:30:08 2026">
+<tv date="Wed Mar 04 18:30:07 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -8,13 +8,9 @@
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="x02mernmw9tr1sbu1b670vy8c">
-    <display-name>x02mernmw9tr1sbu1b670vy8c</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38scne9kd8ntm3dauv5v7wqbc_image-header_pEs_1772052617000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1tce33qagttby113qvd2c8wgxt">
     <display-name>1tce33qagttby113qvd2c8wgxt</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9uf0go0tfb5ujjy77oys3n3d_image-header_pEs_1769431060000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wx6cv3e50u0kv2dpf3grqxy4_image-header_pEs_1769431060000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="2qvri6t1xf940g6fvmaf8xomc0">
     <display-name>2qvri6t1xf940g6fvmaf8xomc0</display-name>
@@ -312,16 +308,10 @@
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20260304133000 +0000" stop="20260304173000 +0000" channel="x02mernmw9tr1sbu1b670vy8c">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/38scne9kd8ntm3dauv5v7wqbc_image-header_pEs_1772052617000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Trofeo Laigueglia</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260304173000 +0000" stop="20260304200000 +0000" channel="1tce33qagttby113qvd2c8wgxt">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/b9uf0go0tfb5ujjy77oys3n3d_image-header_pEs_1769431060000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260304180000 +0000" stop="20260304210000 +0000" channel="1tce33qagttby113qvd2c8wgxt">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7wx6cv3e50u0kv2dpf3grqxy4_image-header_pEs_1769431060000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rayo Vallecano - Real Oviedo</title>
-    <desc lang="es">Narración: Alex Guti, Eneko Fernández, Rodrigo Marcial y Javi Valle | Rayo Vallecano se prepara para enfrentarse al Real Oviedo en un emocionante choque de Primera División. El Estadio de Vallecas será sede de este partido de LaLiga 25/26 el 7 de febrero de 2026. ¿Podrá el Rayo Vallecano aprovechar su ventaja local para asegurar la victoria, o el Real Oviedo sorprenderá a los anfitriones? ¡Prepárate para una acción trepidante del fútbol español!</desc>
+    <desc lang="es">Narración: Alex Guti, David Fer, Sandra Riquelme y Javi Valle | El Rayo Vallecano se prepara para enfrentarse al Real Oviedo en un emocionante choque de Primera División el 4 de marzo de 2026. ¿Podrá el Rayo Vallecano aprovechar su ventaja local para asegurar la victoria o el Real Oviedo sorprenderá a los anfitriones?</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260304193000 +0000" stop="20260304220000 +0000" channel="2qvri6t1xf940g6fvmaf8xomc0">
@@ -504,7 +494,7 @@
     <desc lang="es">PGA Tour | On the Range</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304190000 +0000" channel="1bjukymkjgbxp14wg7vvitn485">
+  <programme start="20260304143000 +0000" stop="20260304203000 +0000" channel="1bjukymkjgbxp14wg7vvitn485">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1a0l80rgpaqid13bzf6u16rkdg_image-header_pEs_1772558868000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Collins vs. Lorente 2 - Launch Press Conference</title>
     <desc lang="es">Enjoy the start of the build up to an explosive featherweight rematch.</desc>
