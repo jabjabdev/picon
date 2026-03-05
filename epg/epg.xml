@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 05 00:30:17 2026">
+<tv date="Thu Mar 05 06:30:08 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -511,6 +511,10 @@
   <channel id="ba0y7qe78d111lmt4w07rqjf8">
     <display-name>ba0y7qe78d111lmt4w07rqjf8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3kbvvhsw1fikrz6rjlpwlfcqn_image-header_pEs_1772382867000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1j6x82fnu9dc71gglp8biey82h">
+    <display-name>1j6x82fnu9dc71gglp8biey82h</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eugdgnjgtcsx4rfjzcw61g3ho_image-header_pEs_1747334007000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1279,5 +1283,11 @@
     <title lang="es">Carrera - F3 - Qatar Airways GP de Australia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260306181500 +0000" stop="20260307001500 +0000" channel="1j6x82fnu9dc71gglp8biey82h">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eugdgnjgtcsx4rfjzcw61g3ho_image-header_pEs_1747334007000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">ANZCO Foods IRONMAN New Zealand</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Triatlón</category>
   </programme>
 </tv>
