@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Mar 08 00:30:13 2026">
+<tv date="Sun Mar 08 06:30:13 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -911,6 +911,22 @@
   <channel id="tblugnvri68k01pqdm1fihahkk">
     <display-name>tblugnvri68k01pqdm1fihahkk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jcdnzzfo8iv11jdjgq88qqiy1_image-header_pEs_1772533784000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="c4vk9m4olg8ag30lm6jwirv3">
+    <display-name>c4vk9m4olg8ag30lm6jwirv3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wfrlb1vaehnf1j2wpv1mq04dz_image-header_pEs_1770731980000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201218844c0ch20003">
+    <display-name>esp-e201218844c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31518732/20003/6/1/31518732_16:9.jpg?date=20260305120047"/>
+  </channel>
+  <channel id="esp-e201213578c0ch20005">
+    <display-name>esp-e201213578c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514036/20005/6/1/31514036_16:9.jpg?date=20260306114624"/>
+  </channel>
+  <channel id="esp-e201223925c0ch20019">
+    <display-name>esp-e201223925c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522279/20019/6/1/31522279_16:9.jpg"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1926,7 +1942,7 @@
     <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto en Formula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260308015000 +0000" stop="20260308040000 +0000" channel="esp-e201205461c0ch20002">
+  <programme start="20260308040000 +0000" stop="20260308053000 +0000" channel="esp-e201205461c0ch20002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31494772/20002/6/1/31494772_16:9.jpg?date=20260305083834"/>
     <title lang="es">Copa del Mundo - Sapporo</title>
     <desc lang="es">Masculino y Femenino | Halfpipe</desc>
@@ -2279,5 +2295,29 @@
     <title lang="es">Eastleigh - Brackley</title>
     <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260308030000 +0000" stop="20260308070000 +0000" channel="c4vk9m4olg8ag30lm6jwirv3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wfrlb1vaehnf1j2wpv1mq04dz_image-header_pEs_1770731980000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Hurricanes vs. Flames</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260309120500 +0000" stop="20260309150600 +0000" channel="esp-e201218844c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31518732/20003/6/1/31518732_16:9.jpg?date=20260305120047"/>
+    <title lang="es">Tirreno Adriático - Etapa 1</title>
+    <desc lang="es">Masculino | Lido di Camaiore &gt; Lido di Camaiore (CRI 11,5 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260309141000 +0000" stop="20260309161500 +0000" channel="esp-e201213578c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514036/20005/6/1/31514036_16:9.jpg?date=20260306114624"/>
+    <title lang="es">París-Niza - Etapa 2</title>
+    <desc lang="es">Masculino | Epône &gt; Montargis (187km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260309220000 +0000" stop="20260309230000 +0000" channel="esp-e201223925c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522279/20019/6/1/31522279_16:9.jpg"/>
+    <title lang="es">A Day at the Paralympics</title>
+    <desc lang="es">Milano Cortina 2026 | Día 3</desc>
+    <category lang="es">Juegos Olímpicos</category>
   </programme>
 </tv>
