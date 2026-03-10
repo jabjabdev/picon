@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 10 00:30:29 2026">
+<tv date="Tue Mar 10 06:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -411,6 +411,22 @@
   <channel id="1ga4e6q58rz041w74vijrmlykv">
     <display-name>1ga4e6q58rz041w74vijrmlykv</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1hrgpj3hemldw1usa65krha5jn_image-header_pEs_1772710794000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201218846c0ch20003">
+    <display-name>esp-e201218846c0ch20003</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31518733/20003/6/1/31518733_16:9.jpg?date=20260309132412"/>
+  </channel>
+  <channel id="esp-e201213580c0ch20005">
+    <display-name>esp-e201213580c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514033/20005/6/1/31514033_16:9.jpg?date=20260306133351"/>
+  </channel>
+  <channel id="esp-e201222250c0ch20071">
+    <display-name>esp-e201222250c0ch20071</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520335/20071/6/1/31520335_16:9.jpg?date=20260303114611"/>
+  </channel>
+  <channel id="esp-e201223927c0ch20019">
+    <display-name>esp-e201223927c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522281/20019/6/1/31522281_16:9.jpg"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1029,5 +1045,29 @@
     <title lang="es">Barboza Jr. vs. Sims Jr. - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260311120500 +0000" stop="20260311150600 +0000" channel="esp-e201218846c0ch20003">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31518733/20003/6/1/31518733_16:9.jpg?date=20260309132412"/>
+    <title lang="es">Tirreno Adriático - Etapa 3</title>
+    <desc lang="es">Masculino | Cortona &gt; Magliano de’ Marsi (221 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260311141000 +0000" stop="20260311161500 +0000" channel="esp-e201213580c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31514033/20005/6/1/31514033_16:9.jpg?date=20260306133351"/>
+    <title lang="es">París-Niza - Etapa 4</title>
+    <desc lang="es">Masculino | Bourges &gt; Uchon (195km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260311153000 +0000" stop="20260311170000 +0000" channel="esp-e201222250c0ch20071">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520335/20071/6/1/31520335_16:9.jpg?date=20260303114611"/>
+    <title lang="es">The Players Championship - On the Range</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260311230000 +0000" channel="esp-e201223927c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522281/20019/6/1/31522281_16:9.jpg"/>
+    <title lang="es">A Day at the Paralympics</title>
+    <desc lang="es">Milano Cortina 2026 | Día 5</desc>
+    <category lang="es">Juegos Olímpicos</category>
   </programme>
 </tv>
