@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 10 18:30:03 2026">
+<tv date="Tue Mar 10 18:30:11 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -271,6 +271,14 @@
   <channel id="1qa5i2s3l3awx1gth0qip1t4zj">
     <display-name>1qa5i2s3l3awx1gth0qip1t4zj</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5km0gp7pzddz7jc2msw1jqgvs_image-header_pEs_1773155225000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8km6285gpy0q198d8epwxbvdr">
+    <display-name>8km6285gpy0q198d8epwxbvdr</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dift5yz6ni431rg3b265ipwg5_image-header_pEs_1773143783000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5lzlmqu5uwjlwxx5ga0ceyt5g">
+    <display-name>5lzlmqu5uwjlwxx5ga0ceyt5g</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wmtin47xvl151ins9frg9h7uj_image-header_pEs_1765468178000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -679,5 +687,17 @@
     <title lang="es">AEW Revolution</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Wrestling</category>
+  </programme>
+  <programme start="20260310233000 +0000" stop="20260311030000 +0000" channel="8km6285gpy0q198d8epwxbvdr">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dift5yz6ni431rg3b265ipwg5_image-header_pEs_1773143783000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Northwestern vs. Penn State</title>
+    <desc lang="es">Watch the latest NCAA Basketball action.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260311233000 +0000" stop="20260312053000 +0000" channel="5lzlmqu5uwjlwxx5ga0ceyt5g">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/wmtin47xvl151ins9frg9h7uj_image-header_pEs_1765468178000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canadiens vs. Senators</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
