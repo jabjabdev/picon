@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 10 12:30:10 2026">
+<tv date="Tue Mar 10 18:30:03 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -267,6 +267,10 @@
   <channel id="13h38wacijczpclmgoemz8vja">
     <display-name>13h38wacijczpclmgoemz8vja</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ku1c2l5153pg1udy9u7tq6p12_image-header_pEs_1773135358000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1qa5i2s3l3awx1gth0qip1t4zj">
+    <display-name>1qa5i2s3l3awx1gth0qip1t4zj</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5km0gp7pzddz7jc2msw1jqgvs_image-header_pEs_1773155225000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -669,5 +673,11 @@
     <title lang="es">Washington vs. USC</title>
     <desc lang="es">Watch the latest NCAA Basketball action.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316060000 +0000" channel="1qa5i2s3l3awx1gth0qip1t4zj">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5km0gp7pzddz7jc2msw1jqgvs_image-header_pEs_1773155225000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">AEW Revolution</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Wrestling</category>
   </programme>
 </tv>
