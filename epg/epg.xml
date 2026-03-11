@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 11 06:30:27 2026">
+<tv date="Wed Mar 11 06:30:36 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -555,6 +555,74 @@
   <channel id="esp-e201253581c0ch21034">
     <display-name>esp-e201253581c0ch21034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537145/21034/6/1/31537145_16:9.jpg?date=20260310203014"/>
+  </channel>
+  <channel id="esp-e201222230c0ch20064">
+    <display-name>esp-e201222230c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520331/20064/6/1/31520331_16:9.jpg?date=20260303121308"/>
+  </channel>
+  <channel id="esp-e201253571c0ch21024">
+    <display-name>esp-e201253571c0ch21024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537142/21024/6/1/31537142_16:9.jpg?date=20260310203138"/>
+  </channel>
+  <channel id="esp-e201253582c0ch21035">
+    <display-name>esp-e201253582c0ch21035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537140/21035/6/1/31537140_16:9.jpg?date=20260310203216"/>
+  </channel>
+  <channel id="esp-e201253583c0ch21036">
+    <display-name>esp-e201253583c0ch21036</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537150/21036/6/1/31537150_16:9.jpg?date=20260310203329"/>
+  </channel>
+  <channel id="esp-e201253572c0ch21025">
+    <display-name>esp-e201253572c0ch21025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537143/21025/6/1/31537143_16:9.jpg?date=20260310203250"/>
+  </channel>
+  <channel id="esp-e201253584c0ch21037">
+    <display-name>esp-e201253584c0ch21037</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537154/21037/6/1/31537154_16:9.jpg?date=20260310203639"/>
+  </channel>
+  <channel id="esp-e201253573c0ch21026">
+    <display-name>esp-e201253573c0ch21026</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537147/21026/6/1/31537147_16:9.jpg?date=20260310203406"/>
+  </channel>
+  <channel id="esp-e201253574c0ch21027">
+    <display-name>esp-e201253574c0ch21027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537153/21027/6/1/31537153_16:9.jpg?date=20260310203714"/>
+  </channel>
+  <channel id="esp-e201253585c0ch21038">
+    <display-name>esp-e201253585c0ch21038</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537146/21038/6/1/31537146_16:9.jpg?date=20260310203747"/>
+  </channel>
+  <channel id="esp-e201253586c0ch21039">
+    <display-name>esp-e201253586c0ch21039</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537148/21039/6/1/31537148_16:9.jpg?date=20260310204128"/>
+  </channel>
+  <channel id="esp-e201253575c0ch21028">
+    <display-name>esp-e201253575c0ch21028</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537151/21028/6/1/31537151_16:9.jpg?date=20260310204501"/>
+  </channel>
+  <channel id="esp-e201253576c0ch21029">
+    <display-name>esp-e201253576c0ch21029</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537152/21029/6/1/31537152_16:9.jpg?date=20260310204533"/>
+  </channel>
+  <channel id="esp-e201253587c0ch21040">
+    <display-name>esp-e201253587c0ch21040</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537149/21040/6/1/31537149_16:9.jpg?date=20260310204604"/>
+  </channel>
+  <channel id="esp-e201253588c0ch21041">
+    <display-name>esp-e201253588c0ch21041</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537156/21041/6/1/31537156_16:9.jpg?date=20260310204647"/>
+  </channel>
+  <channel id="esp-e201253577c0ch21030">
+    <display-name>esp-e201253577c0ch21030</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537155/21030/6/1/31537155_16:9.jpg?date=20260310204718"/>
+  </channel>
+  <channel id="esp-e201253578c0ch21031">
+    <display-name>esp-e201253578c0ch21031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537157/21031/6/1/31537157_16:9.jpg?date=20260310204801"/>
+  </channel>
+  <channel id="esp-e201223928c0ch20019">
+    <display-name>esp-e201223928c0ch20019</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522282/20019/6/1/31522282_16:9.jpg"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1389,5 +1457,107 @@
     <title lang="es">Chad Ramey / Alex Smalley / Pierceson Coody</title>
     <desc lang="es">The Players Championship | PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312230000 +0000" channel="esp-e201222230c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520331/20064/6/1/31520331_16:9.jpg?date=20260303121308"/>
+    <title lang="es">The Players Championship - Día 1 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312170600 +0000" stop="20260312220600 +0000" channel="esp-e201253571c0ch21024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537142/21024/6/1/31537142_16:9.jpg?date=20260310203138"/>
+    <title lang="es">Jacob Bridgeman / Ben Griffin / Adam Scott</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312170600 +0000" stop="20260312220600 +0000" channel="esp-e201253582c0ch21035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537140/21035/6/1/31537140_16:9.jpg?date=20260310203216"/>
+    <title lang="es">Kurt Kitayama / Harry Hall / Stephan Jaeger</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312171800 +0000" stop="20260312221800 +0000" channel="esp-e201253583c0ch21036">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537150/21036/6/1/31537150_16:9.jpg?date=20260310203329"/>
+    <title lang="es">Keegan Bradley / Ryan Fox / Chris Kirk</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312171800 +0000" stop="20260312221800 +0000" channel="esp-e201253572c0ch21025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537143/21025/6/1/31537143_16:9.jpg?date=20260310203250"/>
+    <title lang="es">J.J. Spaun / Sepp Straka / Shane Lowry</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312173000 +0000" stop="20260312223000 +0000" channel="esp-e201253584c0ch21037">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537154/21037/6/1/31537154_16:9.jpg?date=20260310203639"/>
+    <title lang="es">Andrew Novak / Nick Taylor / Wyndham Clark</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312173000 +0000" stop="20260312223000 +0000" channel="esp-e201253573c0ch21026">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537147/21026/6/1/31537147_16:9.jpg?date=20260310203406"/>
+    <title lang="es">Sahith Theegala / Rickie Fowler / Jordan Spieth</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312174200 +0000" stop="20260312224200 +0000" channel="esp-e201253574c0ch21027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537153/21027/6/1/31537153_16:9.jpg?date=20260310203714"/>
+    <title lang="es">Xander Schauffele / Rory McIlroy / Hideki Matsuyama</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312174200 +0000" stop="20260312224200 +0000" channel="esp-e201253585c0ch21038">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537146/21038/6/1/31537146_16:9.jpg?date=20260310203747"/>
+    <title lang="es">Steven Fisk / William Mouw / Joe Highsmith</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312175400 +0000" stop="20260312225400 +0000" channel="esp-e201253586c0ch21039">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537148/21039/6/1/31537148_16:9.jpg?date=20260310204128"/>
+    <title lang="es">Cameron Young / Davis Thompson / Sam Burns</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312175400 +0000" stop="20260312225400 +0000" channel="esp-e201253575c0ch21028">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537151/21028/6/1/31537151_16:9.jpg?date=20260310204501"/>
+    <title lang="es">Chris Gotterup / Justin Rose / Min Woo Lee</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312180600 +0000" stop="20260312230600 +0000" channel="esp-e201253576c0ch21029">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537152/21029/6/1/31537152_16:9.jpg?date=20260310204533"/>
+    <title lang="es">Brian Campbell / Karl Vilips / Aaron Rai</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312180600 +0000" stop="20260312230600 +0000" channel="esp-e201253587c0ch21040">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537149/21040/6/1/31537149_16:9.jpg?date=20260310204604"/>
+    <title lang="es">Nico Echavarria / Jason Day / Corey Conners</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312181800 +0000" stop="20260312231800 +0000" channel="esp-e201253588c0ch21041">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537156/21041/6/1/31537156_16:9.jpg?date=20260310204647"/>
+    <title lang="es">Matthieu Pavon / S.H. Kim / Austin Smotherman</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312181800 +0000" stop="20260312231800 +0000" channel="esp-e201253577c0ch21030">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537155/21030/6/1/31537155_16:9.jpg?date=20260310204718"/>
+    <title lang="es">Matti Schmid / Max McGreevy / Takumi Kanaya</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312183000 +0000" stop="20260312233000 +0000" channel="esp-e201253578c0ch21031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31537157/21031/6/1/31537157_16:9.jpg?date=20260310204801"/>
+    <title lang="es">Zach Bauchou / Sudarshan Yellamaraju / A.J. Ewart</title>
+    <desc lang="es">The Players Championship | PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="esp-e201223928c0ch20019">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522282/20019/6/1/31522282_16:9.jpg"/>
+    <title lang="es">A Day at the Paralympics</title>
+    <desc lang="es">Milano Cortina 2026 | Día 6</desc>
+    <category lang="es">Juegos Olímpicos</category>
   </programme>
 </tv>
