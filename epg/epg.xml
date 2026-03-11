@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 11 12:30:15 2026">
+<tv date="Wed Mar 11 18:30:02 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -463,6 +463,10 @@
   <channel id="8y2p4m24pwx06jbl2w1mf9odn">
     <display-name>8y2p4m24pwx06jbl2w1mf9odn</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/faecjg1qyfsl133b0a5aljmgr_image-header_pEs_1773226620000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="t030akz2mv3c1lvzs1ldpu0ge">
+    <display-name>t030akz2mv3c1lvzs1ldpu0ge</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jjzw2d4ufdw91x9iotz9fguyw_image-header_pEs_1772468851000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1159,5 +1163,11 @@
     <title lang="es">Indiana vs. Northwestern</title>
     <desc lang="es">Watch the latest NCAA Basketball action.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260523170000 +0000" stop="20260523230000 +0000" channel="t030akz2mv3c1lvzs1ldpu0ge">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/jjzw2d4ufdw91x9iotz9fguyw_image-header_pEs_1772468851000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Usyk vs. Verhoeven</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
