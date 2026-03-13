@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 13 12:30:21 2026">
+<tv date="Fri Mar 13 18:30:22 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -23,10 +23,6 @@
   <channel id="cj5ym0oix08w1d77e8k7t40ho">
     <display-name>cj5ym0oix08w1d77e8k7t40ho</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cp1qomm6o9sjkpjs5s5d3jjc5_image-header_pEs_1772539628000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1axztomamnd3g1hxrqfhbj1i2f">
-    <display-name>1axztomamnd3g1hxrqfhbj1i2f</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3q8ar2myvukx5v93h5kziqu5w_image-header_pEs_1767616694000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1q9upa88vct9c1twkms5h2eamt">
     <display-name>1q9upa88vct9c1twkms5h2eamt</display-name>
@@ -788,10 +784,6 @@
     <display-name>esp-e201223929c0ch20019</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522283/20019/6/1/31522283_16:9.jpg"/>
   </channel>
-  <channel id="xyqi6kbfeqxs16p1pdci71uax">
-    <display-name>xyqi6kbfeqxs16p1pdci71uax</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hiypus4mx8dr1aqn6xz9wmkb9_image-header_pEs_1773310466000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1alwhkb76r60u100smqjoxm5o5">
     <display-name>1alwhkb76r60u100smqjoxm5o5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qt0q0ome0vz1udnxuto9keq5_image-header_pEs_1773308107000/fill/none/top/none/85/300/180/webp/image"/>
@@ -1279,12 +1271,6 @@
     <title lang="es">Etapa 5 (Tirreno) &amp; Etapa 6 (París-Niza)</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260313140000 +0000" stop="20260313200000 +0000" channel="1axztomamnd3g1hxrqfhbj1i2f">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3q8ar2myvukx5v93h5kziqu5w_image-header_pEs_1767616694000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Biatlón y salto de esquí</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260313160000 +0000" stop="20260313183000 +0000" channel="1q9upa88vct9c1twkms5h2eamt">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/29p081jg20hsomqme1lk7qcf9_image-header_pEs_1773147570000/fill/none/top/none/85/600/360/webp/image"/>
@@ -2426,12 +2412,6 @@
     <desc lang="es">Milano Cortina 2026 | Día 7</desc>
     <category lang="es">Juegos Olímpicos</category>
   </programme>
-  <programme start="20260313140000 +0000" stop="20260313200000 +0000" channel="xyqi6kbfeqxs16p1pdci71uax">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/hiypus4mx8dr1aqn6xz9wmkb9_image-header_pEs_1773310466000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Terrill vs. McFarlane - Pesaje</title>
-    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
-    <category lang="es">Bare Knuckle</category>
-  </programme>
   <programme start="20260314190000 +0000" stop="20260315010000 +0000" channel="1alwhkb76r60u100smqjoxm5o5">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7qt0q0ome0vz1udnxuto9keq5_image-header_pEs_1773308107000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Terrill vs. McFarlane</title>
@@ -2804,7 +2784,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260315154000 +0000" stop="20260315214000 +0000" channel="1lvq8p9z9hzbo1qmeb8lsqv8jo">
+  <programme start="20260315143000 +0000" stop="20260315203000 +0000" channel="1lvq8p9z9hzbo1qmeb8lsqv8jo">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7cz485c6tn85mfckq2yuezat3_image-header_pEs_1773234181000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Carrera 2 - Motorland</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
