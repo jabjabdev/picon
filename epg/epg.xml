@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 16 12:30:06 2026">
+<tv date="Mon Mar 16 18:30:09 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -539,6 +539,10 @@
   <channel id="vlwahriugrrg16gyzzuyo3ycc">
     <display-name>vlwahriugrrg16gyzzuyo3ycc</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/azsz3t3y8534453pnph0beaug_image-header_pEs_1773400733000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="hwuqy7kzax2c0dnhokp5wvpfj0">
+    <display-name>hwuqy7kzax2c0dnhokp5wvpfj0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/zvfw8z9dyi5i1nuao3wkal2fi_image-header_pEs_1770739884000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1349,5 +1353,11 @@
     <title lang="es">Segunda clasificación</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20260318170000 +0000" stop="20260318193000 +0000" channel="hwuqy7kzax2c0dnhokp5wvpfj0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/zvfw8z9dyi5i1nuao3wkal2fi_image-header_pEs_1770739884000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carl Zeiss Jena - Wolfsburg</title>
+    <desc lang="es">Disfruta en DAZN del partidazo entre Carl Zeiss Jena - Wolfsburg. ¡No te lo pierdas!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
