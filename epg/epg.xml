@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 18 12:30:12 2026">
+<tv date="Wed Mar 18 18:30:07 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -359,6 +359,14 @@
   <channel id="1fxih1g9b14of1kxg2ac0e4mq8">
     <display-name>1fxih1g9b14of1kxg2ac0e4mq8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nw2r0t4jbt3g16ly94eqj7cr6_image-header_pEs_1773822339000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="tlpj1grv56we1sdc7l7k0l435">
+    <display-name>tlpj1grv56we1sdc7l7k0l435</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1v3ml0d47dzff1s9unohgr174k_image-header_pEs_1773840566000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="jjpoj96zvnzszc12qaqxlakd">
+    <display-name>jjpoj96zvnzszc12qaqxlakd</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1x8dpmyfyhrr613f4x8dsbxyxp_image-header_pEs_1770396948000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -898,6 +906,18 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nw2r0t4jbt3g16ly94eqj7cr6_image-header_pEs_1773822339000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Adames vs. Williams - Pesaje</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260319230000 +0000" stop="20260320050000 +0000" channel="tlpj1grv56we1sdc7l7k0l435">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1v3ml0d47dzff1s9unohgr174k_image-header_pEs_1773840566000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Stewart vs.Gaffie - Weigh-In</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Bare Knuckle</category>
+  </programme>
+  <programme start="20260320180000 +0000" stop="20260321000000 +0000" channel="jjpoj96zvnzszc12qaqxlakd">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1x8dpmyfyhrr613f4x8dsbxyxp_image-header_pEs_1770396948000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Conlan vs. Walsh - Prelims</title>
+    <desc lang="es">Enjoy the prelims before the main card of Conlan vs. Walsh gets underway.</desc>
     <category lang="es">Boxeo</category>
   </programme>
 </tv>
