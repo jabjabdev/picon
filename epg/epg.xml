@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 19 18:30:14 2026">
+<tv date="Fri Mar 20 00:30:09 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -664,6 +664,10 @@
     <display-name>17j1e8bzkl3wu18pe576m1orwd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4epl76nw3uve1ovj74ted3ujm_image-header_pEs_1773935601000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="197e3043apdmg16kccwsdxn1h">
+    <display-name>197e3043apdmg16kccwsdxn1h</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13jtzvbtgxyhp15o7bwfetmqi7_image-header_pEs_1772695386000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -712,7 +716,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260319202000 +0000" stop="20260319225000 +0000" channel="1p1spnviimqo917wfn4sc114c9">
+  <programme start="20260319205000 +0000" stop="20260319232000 +0000" channel="1p1spnviimqo917wfn4sc114c9">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ws0bkhokoy34mz91x2tfaihn_image-header_pEs_1773162267000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Presentación RETRO - Fashion Week</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1659,5 +1663,11 @@
     <title lang="es">Liddard vs. Denny - Prelims</title>
     <desc lang="es">A fantastic preliminary card kicks things off in London, ahead of a huge British and Commonwealth middleweight showdown between George Liddard and Tyler Denny.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260319230000 +0000" stop="20260320030000 +0000" channel="197e3043apdmg16kccwsdxn1h">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/13jtzvbtgxyhp15o7bwfetmqi7_image-header_pEs_1772695386000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canadiens vs. Red Wings</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
