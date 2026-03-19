@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 19 12:30:14 2026">
+<tv date="Thu Mar 19 18:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -239,14 +239,6 @@
   <channel id="esp-e201221390c0ch20023">
     <display-name>esp-e201221390c0ch20023</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520129/20023/6/1/31520129_16:9.jpg?date=20260310110404"/>
-  </channel>
-  <channel id="esp-e201221657c0ch20030">
-    <display-name>esp-e201221657c0ch20030</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520195/20030/6/1/31520195_16:9.jpg?date=20260310110243"/>
-  </channel>
-  <channel id="esp-e201221614c0ch20029">
-    <display-name>esp-e201221614c0ch20029</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520187/20029/6/1/31520187_16:9.jpg?date=20260316131240"/>
   </channel>
   <channel id="esp-e201240757c0ch20008">
     <display-name>esp-e201240757c0ch20008</display-name>
@@ -656,6 +648,18 @@
     <display-name>esp-e201223975c0ch20024</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522289/20024/6/1/31522289_16:9.jpg?date=20260317100552"/>
   </channel>
+  <channel id="1mjextkoahnc01jwu57d9z5l98">
+    <display-name>1mjextkoahnc01jwu57d9z5l98</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16dkwjoc0rtoh19t56mqcct4di_image-header_pEs_1770396948000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ulpu0keobt5y1xvihq965p4hi">
+    <display-name>ulpu0keobt5y1xvihq965p4hi</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vo4o6oze2wj5y1rgutg044xf_image-header_pEs_1772636290000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="e4nymvif0fv91ohqk1i93fg62">
+    <display-name>e4nymvif0fv91ohqk1i93fg62</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fyvw4qhbhvsuz7xs8jdnok28_image-header_pEs_1766859386000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -1016,18 +1020,6 @@
     <desc lang="es">Femenino | Sprint</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20260319150500 +0000" stop="20260319163000 +0000" channel="esp-e201221657c0ch20030">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520195/20030/6/1/31520195_16:9.jpg?date=20260310110243"/>
-    <title lang="es">Copa del Mundo - Oslo </title>
-    <desc lang="es">Femenino | Sprint</desc>
-    <category lang="es">Triatlón</category>
-  </programme>
-  <programme start="20260319150500 +0000" stop="20260319163000 +0000" channel="esp-e201221614c0ch20029">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31520187/20029/6/1/31520187_16:9.jpg?date=20260316131240"/>
-    <title lang="es">Copa del Mundo - Oslo (Campo de tiro)</title>
-    <desc lang="es">Femenino | Sprint</desc>
-    <category lang="es">Triatlón</category>
-  </programme>
   <programme start="20260319163021 +0000" stop="20260319193021 +0000" channel="esp-e201240757c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31529564/20008/6/1/31529564_16:9.jpg?date=20260311082542"/>
     <title lang="es">Campeonato Clásico de Europa - Valeta</title>
@@ -1064,7 +1056,7 @@
     <desc lang="es">Enjoy the prelims before the main card of Conlan vs. Walsh gets underway.</desc>
     <category lang="es">Boxeo</category>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319163000 +0000" channel="esp-e201269932c0ch15002">
+  <programme start="20260319151000 +0000" stop="20260319163000 +0000" channel="esp-e201269932c0ch15002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31561185/15002/6/1/31561185_16:9.jpg?date=20260318171705"/>
     <title lang="es">Copa del Mundo - Oslo - Multipantalla</title>
     <desc lang="es">Femenino | Sprint</desc>
@@ -1639,5 +1631,23 @@
     <title lang="es">Escocia - Noruega</title>
     <desc lang="es">Femenino | Fase de grupos | Campeonato del Mundo | Calgary</desc>
     <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260320190000 +0000" stop="20260321010000 +0000" channel="1mjextkoahnc01jwu57d9z5l98">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/16dkwjoc0rtoh19t56mqcct4di_image-header_pEs_1770396948000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Conlan vs. Walsh</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260320194500 +0000" stop="20260320221500 +0000" channel="ulpu0keobt5y1xvihq965p4hi">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vo4o6oze2wj5y1rgutg044xf_image-header_pEs_1772636290000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Genoa - Udinese</title>
+    <desc lang="es">Genoa se enfrenta a Udinese en un emocionante duelo de Serie A en el Luigi Ferraris el 22 de marzo de 2026. Ambos equipos buscan ascender en la tabla en la temporada 25/26. ¿Podrá Genoa aprovechar su ventaja local para lograr una victoria crucial, o Udinese dará la sorpresa? ¡No te pierdas este apasionante encuentro!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260321135000 +0000" stop="20260321195000 +0000" channel="e4nymvif0fv91ohqk1i93fg62">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fyvw4qhbhvsuz7xs8jdnok28_image-header_pEs_1766859386000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Fórmula E - Madrid</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
