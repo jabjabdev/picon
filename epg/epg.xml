@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Mar 21 12:30:15 2026">
+<tv date="Sat Mar 21 18:30:13 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -90,7 +90,7 @@
   </channel>
   <channel id="1uwunq7ovgfkte3zf37wrbgd90">
     <display-name>1uwunq7ovgfkte3zf37wrbgd90</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r5ggz28sivs52igqd3ydywft_image-header_pEs_1772462270000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rishmv3vrzreq6c4grdjqf9r_image-header_pEs_1772462270000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="17q3y8vp82ajn14ioerlswk24z">
     <display-name>17q3y8vp82ajn14ioerlswk24z</display-name>
@@ -162,7 +162,7 @@
   </channel>
   <channel id="15lkhm8cttmsc16yo6fw6msfrh">
     <display-name>15lkhm8cttmsc16yo6fw6msfrh</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4tu2ym2azhqay2od81fe8ah9_image-header_pEs_1772462276000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xmzp7r3vv97z67qmzfc7xkxx_image-header_pEs_1772462276000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1om2s98v2jwnsjcxqk0ivfbkx0">
     <display-name>1om2s98v2jwnsjcxqk0ivfbkx0</display-name>
@@ -347,10 +347,6 @@
   <channel id="esp-e201223975c0ch20024">
     <display-name>esp-e201223975c0ch20024</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522289/20024/6/1/31522289_16:9.jpg?date=20260317100552"/>
-  </channel>
-  <channel id="e4nymvif0fv91ohqk1i93fg62">
-    <display-name>e4nymvif0fv91ohqk1i93fg62</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fyvw4qhbhvsuz7xs8jdnok28_image-header_pEs_1766859386000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="17j1e8bzkl3wu18pe576m1orwd">
     <display-name>17j1e8bzkl3wu18pe576m1orwd</display-name>
@@ -968,6 +964,14 @@
     <display-name>1ovgz38r5dh6m1akrh2kidvrkk</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6kc19iuf9wtud51l14uyr475p_image-header_pEs_1772619870000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="kgdvlk4t210v18m0sx13qbk6p">
+    <display-name>kgdvlk4t210v18m0sx13qbk6p</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dhsxkv0a9ineh780y82vxpwdb_image-header_pEs_1774095090000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ri0kud7dsjvj1unl0h7jia6gk">
+    <display-name>ri0kud7dsjvj1unl0h7jia6gk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9uxnlacl2pr9ry1auhulauclk_image-header_pEs_1774095090000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -1100,8 +1104,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260321144500 +0000" stop="20260321171500 +0000" channel="1uwunq7ovgfkte3zf37wrbgd90">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6r5ggz28sivs52igqd3ydywft_image-header_pEs_1772462270000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260321151500 +0000" stop="20260321181500 +0000" channel="1uwunq7ovgfkte3zf37wrbgd90">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rishmv3vrzreq6c4grdjqf9r_image-header_pEs_1772462270000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">RCD Espanyol - Getafe CF</title>
     <desc lang="es">Getafe se enfrenta a Espanyol en un crucial partido de Primera División en el RCDE Stadium. Con la temporada 25/26 de LaLiga en pleno apogeo, ambos equipos buscan puntos vitales. ¿Cambiará este encuentro la clasificación? ¡No te pierdas este emocionante duelo el 21 de marzo de 2026!</desc>
     <category lang="es">Fútbol</category>
@@ -1208,8 +1212,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260321170000 +0000" stop="20260321193000 +0000" channel="15lkhm8cttmsc16yo6fw6msfrh">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f4tu2ym2azhqay2od81fe8ah9_image-header_pEs_1772462276000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260321173000 +0000" stop="20260321203000 +0000" channel="15lkhm8cttmsc16yo6fw6msfrh">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8xmzp7r3vv97z67qmzfc7xkxx_image-header_pEs_1772462276000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Levante UD - Real Oviedo</title>
     <desc lang="es">Levante se enfrenta a Real Oviedo en un crucial choque de Primera División en el Ciutat de Valencia. Con la temporada LaLiga 25/26 en pleno apogeo, ambos equipos buscan asegurar puntos vitales el 21 de marzo. ¿Podrá Levante aprovechar su ventaja local para superar el desafío de Real Oviedo? ¡No te pierdas este partido que podría cambiar la clasificación!</desc>
     <category lang="es">Fútbol</category>
@@ -1489,12 +1493,6 @@
     <title lang="es">Escocia - Noruega</title>
     <desc lang="es">Femenino | Fase de grupos | Campeonato del Mundo | Calgary</desc>
     <category lang="es">Curling</category>
-  </programme>
-  <programme start="20260321135000 +0000" stop="20260321195000 +0000" channel="e4nymvif0fv91ohqk1i93fg62">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/fyvw4qhbhvsuz7xs8jdnok28_image-header_pEs_1766859386000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Fórmula E - Madrid</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321230000 +0000" channel="17j1e8bzkl3wu18pe576m1orwd">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4epl76nw3uve1ovj74ted3ujm_image-header_pEs_1773935601000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1892,7 +1890,7 @@
     <desc lang="es">PGA Tour | Señal principal</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260321120000 +0000" stop="20260321140000 +0000" channel="esp-e201234231c0ch20054">
+  <programme start="20260321124047 +0000" stop="20260321144047 +0000" channel="esp-e201234231c0ch20054">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31526513/20054/6/1/31526513_16:9.jpg?date=20260319091239"/>
     <title lang="es">Tenis</title>
     <desc lang="es">Individuales | Masculino | VII Challenger Costa Cálida Región de Murcia | Semifinales</desc>
@@ -1916,7 +1914,7 @@
     <desc lang="es">PGA Tour | 'Featured Holes'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260321123000 +0000" stop="20260321133000 +0000" channel="esp-e201270120c0ch15002">
+  <programme start="20260321124000 +0000" stop="20260321133000 +0000" channel="esp-e201270120c0ch15002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31561197/15002/6/1/31561197_16:9.jpg?date=20260319085643"/>
     <title lang="es">Copa del Mundo - Oslo</title>
     <desc lang="es">Femenino | Persecución</desc>
@@ -1946,13 +1944,13 @@
     <desc lang="es">Masculino | Alcanar &gt; Pauls (175,5km)</desc>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20260321124500 +0000" stop="20260321220000 +0000" channel="esp-e201265098c0ch20067">
+  <programme start="20260321130000 +0000" stop="20260321220000 +0000" channel="esp-e201265098c0ch20067">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31541783/20067/6/1/31541783_16:9.jpg?date=20260317104543"/>
     <title lang="es">Valspar Championship - Día 3</title>
     <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Hole'</desc>
     <category lang="es">Golf</category>
   </programme>
-  <programme start="20260321124500 +0000" stop="20260321220000 +0000" channel="esp-e201237529c0ch20066">
+  <programme start="20260321144500 +0000" stop="20260321220000 +0000" channel="esp-e201237529c0ch20066">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31526649/20066/6/1/31526649_16:9.jpg?date=20260317104531"/>
     <title lang="es">Valspar Championship - Día 3</title>
     <desc lang="es">PGA Tour | Grupo destacado</desc>
@@ -2012,7 +2010,7 @@
     <desc lang="es">Masculino | Persecución</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20260321150000 +0000" stop="20260321160000 +0000" channel="esp-e201270121c0ch15002">
+  <programme start="20260321151000 +0000" stop="20260321160000 +0000" channel="esp-e201270121c0ch15002">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31561198/15002/6/1/31561198_16:9.jpg?date=20260319085746"/>
     <title lang="es">Copa del Mundo - Oslo</title>
     <desc lang="es">Masculino | Persecución</desc>
@@ -2030,7 +2028,7 @@
     <desc lang="es">Masculino | Persecución</desc>
     <category lang="es">Triatlón</category>
   </programme>
-  <programme start="20260321151521 +0000" stop="20260321181500 +0000" channel="esp-e201240758c0ch20008">
+  <programme start="20260321153021 +0000" stop="20260321183000 +0000" channel="esp-e201240758c0ch20008">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31529565/20008/6/1/31529565_16:9.jpg"/>
     <title lang="es">Campeonato Clásico de Europa - Valeta</title>
     <desc lang="es">Sesión 2</desc>
@@ -2419,5 +2417,17 @@
     <title lang="es">Como - Pisa</title>
     <desc lang="es">El Como recibe al Pisa en el Stadio Giuseppe Sinigaglia para un crucial encuentro de la Serie A 25/26 el 22 de marzo de 2026. Con ambos equipos buscando escalar posiciones, ¿quién aprovechará la oportunidad? ¿Podrá el equipo local usar su entorno familiar a su favor? El escenario está listo para un partido apasionante. ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260321194500 +0000" stop="20260321231500 +0000" channel="kgdvlk4t210v18m0sx13qbk6p">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dhsxkv0a9ineh780y82vxpwdb_image-header_pEs_1774095090000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Royal Crown - Fort Erie</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260321231500 +0000" stop="20260322024500 +0000" channel="ri0kud7dsjvj1unl0h7jia6gk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9uxnlacl2pr9ry1auhulauclk_image-header_pEs_1774095090000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Legion Prep - DME Academy</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Baloncesto</category>
   </programme>
 </tv>
