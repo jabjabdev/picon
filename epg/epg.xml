@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 23 00:30:08 2026">
+<tv date="Mon Mar 23 00:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -699,6 +699,34 @@
   <channel id="jidc5ey62vh61u9lh40fb4zat">
     <display-name>jidc5ey62vh61u9lh40fb4zat</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ab2unpmslstvgdq4e6ykwumvj_image-header_pEs_1773834180000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1x6hoj2hsfyhnz8wsoppds9k8">
+    <display-name>1x6hoj2hsfyhnz8wsoppds9k8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dtc6dhrhacyklntz49g0k5izj_image-header_pEs_1773400458000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="o2zw3y1xm2m00iibt05km4mav0">
+    <display-name>o2zw3y1xm2m00iibt05km4mav0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a509zh2lakkpnmv8i9fz7em9b_image-header_pEs_1773666475000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1g2l4ez63p208w7a0yilupjfw0">
+    <display-name>1g2l4ez63p208w7a0yilupjfw0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ekf5thflzyts1mb3m48on5jbb_image-header_pEs_1774033769000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="4suobz4fah5101gemqn74hkel8">
+    <display-name>4suobz4fah5101gemqn74hkel8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18iskm35xlxu916zk7lsmwoke3_image-header_pEs_1772200911000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="83o4xcjox9oz0a70k3tgcbkd10">
+    <display-name>83o4xcjox9oz0a70k3tgcbkd10</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fzo7ab1z224c1gr08icyrzv97_image-header_pEs_1773832621000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="i5zkiv5td9jk01rvpnhg2b8sxu">
+    <display-name>i5zkiv5td9jk01rvpnhg2b8sxu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fzmnrhrxxhvc1ntnbtrn6dbai_image-header_pEs_1773820800000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="qufmn3oymcdu01aim2l4f5myh1">
+    <display-name>qufmn3oymcdu01aim2l4f5myh1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1lun3uzzf1o0v1nqgioy0gxki5_image-header_pEs_1773822801000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1748,6 +1776,48 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ab2unpmslstvgdq4e6ykwumvj_image-header_pEs_1773834180000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Día 1 - Sesión 2</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325160000 +0000" stop="20260325161500 +0000" channel="1x6hoj2hsfyhnz8wsoppds9k8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dtc6dhrhacyklntz49g0k5izj_image-header_pEs_1773400458000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Chess.com Open 2026 - Play-In 4</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ajedrez</category>
+  </programme>
+  <programme start="20260325193000 +0000" stop="20260325230000 +0000" channel="o2zw3y1xm2m00iibt05km4mav0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/a509zh2lakkpnmv8i9fz7em9b_image-header_pEs_1773666475000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">London Lions - Sheffield Sharks</title>
+    <desc lang="es">Vive el encuentro de Super League Basketball entre London Lions y Sheffield Sharks.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="1g2l4ez63p208w7a0yilupjfw0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ekf5thflzyts1mb3m48on5jbb_image-header_pEs_1774033769000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Morecambe - Hartlepool</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="4suobz4fah5101gemqn74hkel8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/18iskm35xlxu916zk7lsmwoke3_image-header_pEs_1772200911000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Southend - Woking</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="83o4xcjox9oz0a70k3tgcbkd10">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fzo7ab1z224c1gr08icyrzv97_image-header_pEs_1773832621000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Truro - Solihul Moors</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="i5zkiv5td9jk01rvpnhg2b8sxu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1fzmnrhrxxhvc1ntnbtrn6dbai_image-header_pEs_1773820800000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Tamworth - Forest Green</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="qufmn3oymcdu01aim2l4f5myh1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1lun3uzzf1o0v1nqgioy0gxki5_image-header_pEs_1773822801000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Wealdstone - Yeovil</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
 </tv>
