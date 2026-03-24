@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 24 00:30:09 2026">
+<tv date="Tue Mar 24 06:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -367,6 +367,46 @@
   <channel id="hos96wof6kp101we643xw6zy2f">
     <display-name>hos96wof6kp101we643xw6zy2f</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4use0w2prvd23g7tt2w4lh4uu_image-header_pEs_1774024269000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201229634c0ch20004">
+    <display-name>esp-e201229634c0ch20004</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524606/20004/6/1/31524606_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201225073c0ch20010">
+    <display-name>esp-e201225073c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522783/20010/6/1/31522783_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201225079c0ch20010">
+    <display-name>esp-e201225079c0ch20010</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522784/20010/6/1/31522784_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201035344c0ch20027">
+    <display-name>esp-e201035344c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500536/20027/6/1/9500536_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201225074c0ch20011">
+    <display-name>esp-e201225074c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522785/20011/6/1/31522785_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201225080c0ch20011">
+    <display-name>esp-e201225080c0ch20011</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522786/20011/6/1/31522786_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201227355c0ch20002">
+    <display-name>esp-e201227355c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524166/20002/6/1/31524166_16:9.jpg?date=20260321095027"/>
+  </channel>
+  <channel id="esp-e201227284c0ch20001">
+    <display-name>esp-e201227284c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524154/20001/6/1/31524154_16:9.jpg?date=20260322110425"/>
+  </channel>
+  <channel id="esp-e201249842c0ch20028">
+    <display-name>esp-e201249842c0ch20028</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31535492/20028/6/1/31535492_16:9.jpg?date=20260317133323"/>
+  </channel>
+  <channel id="esp-e201035345c0ch20027">
+    <display-name>esp-e201035345c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500537/20027/6/1/9500537_16:9.jpg"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -919,5 +959,65 @@
     <title lang="es">Brasil - Francia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260325080000 +0000" stop="20260325120000 +0000" channel="esp-e201229634c0ch20004">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524606/20004/6/1/31524606_16:9.jpg"/>
+    <title lang="es">- Individual</title>
+    <desc lang="es">Copa del Mundo</desc>
+    <category lang="es">Esquí de Travesía</category>
+  </programme>
+  <programme start="20260325081500 +0000" stop="20260325093000 +0000" channel="esp-e201225073c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522783/20010/6/1/31522783_16:9.jpg"/>
+    <title lang="es">Copa del Mundo - Lillehammer</title>
+    <desc lang="es">Femenino | Eslalon gigante | 1ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260325093000 +0000" stop="20260325103000 +0000" channel="esp-e201225079c0ch20010">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522784/20010/6/1/31522784_16:9.jpg"/>
+    <title lang="es">Copa del Mundo - Lillehammer</title>
+    <desc lang="es">Masculino | Eslalon | 1ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260325102600 +0000" stop="20260325152300 +0000" channel="esp-e201035344c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500536/20027/6/1/9500536_16:9.jpg"/>
+    <title lang="es">Campeonato del Mundo - Praga</title>
+    <desc lang="es">Programa Corto | Femenino</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260325111500 +0000" stop="20260325123000 +0000" channel="esp-e201225074c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522785/20011/6/1/31522785_16:9.jpg"/>
+    <title lang="es">Copa del Mundo - Lillehammer</title>
+    <desc lang="es">Femenino | Eslalon gigante | 2ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260325123000 +0000" stop="20260325133000 +0000" channel="esp-e201225080c0ch20011">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31522786/20011/6/1/31522786_16:9.jpg"/>
+    <title lang="es">Copa del Mundo - Lillehammer </title>
+    <desc lang="es">Masculino | Eslalon | 2ª manga</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260325141500 +0000" stop="20260325165500 +0000" channel="esp-e201227355c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524166/20002/6/1/31524166_16:9.jpg?date=20260321095027"/>
+    <title lang="es">Clásica Brujas-De Panne</title>
+    <desc lang="es">Masculino | Brujas &gt; Brujas (202,9 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260325145000 +0000" stop="20260325165000 +0000" channel="esp-e201227284c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524154/20001/6/1/31524154_16:9.jpg?date=20260322110425"/>
+    <title lang="es">Volta a Catalunya - Etapa 3</title>
+    <desc lang="es">Masculino | Mont-roig Del Camp &gt; Vila-seca (159,5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260325165900 +0000" stop="20260325173000 +0000" channel="esp-e201249842c0ch20028">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31535492/20028/6/1/31535492_16:9.jpg?date=20260317133323"/>
+    <title lang="es">Campeonato del Mundo - Praga</title>
+    <desc lang="es">Ceremonia de Apertura</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260325174100 +0000" stop="20260325211200 +0000" channel="esp-e201035345c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500537/20027/6/1/9500537_16:9.jpg"/>
+    <title lang="es">Campeonato del Mundo - Praga</title>
+    <desc lang="es">Mixto por Parejas | Programa Corto</desc>
+    <category lang="es">Patinaje</category>
   </programme>
 </tv>
