@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Mar 24 06:30:10 2026">
+<tv date="Tue Mar 24 12:30:08 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -115,10 +115,6 @@
   <channel id="7c4pc1f14un713luv2580jfo4">
     <display-name>7c4pc1f14un713luv2580jfo4</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1cv4aouecaba11npqtmhl5du2n_image-header_pEs_1771934172000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1fn5qeywhw5ks1xmxxjk6ozmsg">
-    <display-name>1fn5qeywhw5ks1xmxxjk6ozmsg</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7mfmoczvrgnl8ug6zrppu8mol_image-header_pEs_1760612972000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1u8iky0uc71831syvcgbd75rol">
     <display-name>1u8iky0uc71831syvcgbd75rol</display-name>
@@ -408,6 +404,10 @@
     <display-name>esp-e201035345c0ch20027</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500537/20027/6/1/9500537_16:9.jpg"/>
   </channel>
+  <channel id="93buof5pk90l5s2hebieck9vk">
+    <display-name>93buof5pk90l5s2hebieck9vk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/39nj3tu6fpr91n8pcuez7tviu_image-header_pEs_1774289207000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -581,12 +581,6 @@
     <title lang="es">Senators vs. Rangers</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
-  </programme>
-  <programme start="20260324081500 +0000" stop="20260324141500 +0000" channel="1fn5qeywhw5ks1xmxxjk6ozmsg">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7mfmoczvrgnl8ug6zrppu8mol_image-header_pEs_1760612972000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Esquí alpino</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260324142000 +0000" stop="20260324182000 +0000" channel="1u8iky0uc71831syvcgbd75rol">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cv1y1nbhhaawc45fwz1vbxo31_image-header_pEs_1773394064000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1019,5 +1013,11 @@
     <title lang="es">Campeonato del Mundo - Praga</title>
     <desc lang="es">Mixto por Parejas | Programa Corto</desc>
     <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260326130000 +0000" stop="20260326190000 +0000" channel="93buof5pk90l5s2hebieck9vk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/39nj3tu6fpr91n8pcuez7tviu_image-header_pEs_1774289207000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itauma vs. Franklin - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
