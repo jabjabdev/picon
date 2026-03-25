@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Mar 25 06:30:13 2026">
+<tv date="Wed Mar 25 12:30:10 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -115,10 +115,6 @@
   <channel id="roli8mtarjv60mdh2xxoznl8s0">
     <display-name>roli8mtarjv60mdh2xxoznl8s0</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aj2nv51nokgyc4b63yzakzavm_image-header_pEs_1773767105000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1shp2tqeyjqhs1qclikltljecf">
-    <display-name>1shp2tqeyjqhs1qclikltljecf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebbx4a7vcf8wqwixqzamcz6xy_image-header_pEs_1760611667000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="19hx1dwf81gl1xhefc63w8h7d">
     <display-name>19hx1dwf81gl1xhefc63w8h7d</display-name>
@@ -536,6 +532,10 @@
     <display-name>esp-e201243942c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531794/20064/6/1/31531794_16:9.jpg?date=20260319131836"/>
   </channel>
+  <channel id="10tntz2x0mmis1920rs10x98x0">
+    <display-name>10tntz2x0mmis1920rs10x98x0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2m9chpmps4819mh1gjmt78gf_image-header_pEs_1774003447000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -709,12 +709,6 @@
     <title lang="es">Denver Nuggets @ Phoenix Suns</title>
     <desc lang="es">Los Phoenix Suns se enfrentan a los Denver Nuggets en un emocionante choque de la temporada NBA 25/26 en el Mortgage Matchup Center el 25 de marzo de 2026. ¿Podrán los Suns defender su cancha contra los formidables Nuggets? Con implicaciones para los playoffs en juego, ¿qué equipo estará a la altura? ¡Consigue tu entrada para este duelo de baloncesto!</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20260325081500 +0000" stop="20260325141500 +0000" channel="1shp2tqeyjqhs1qclikltljecf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ebbx4a7vcf8wqwixqzamcz6xy_image-header_pEs_1760611667000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Esquí alpino y patinaje artístico</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260325093000 +0000" stop="20260325120000 +0000" channel="19hx1dwf81gl1xhefc63w8h7d">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dpcghwle492a14psu64j0hmil_image-header_pEs_1773834180000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1339,5 +1333,11 @@
     <title lang="es">Open de Houston - Día 1</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260325194500 +0000" stop="20260325221500 +0000" channel="10tntz2x0mmis1920rs10x98x0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2m9chpmps4819mh1gjmt78gf_image-header_pEs_1774003447000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Scunthorpe - Rochdale</title>
+    <desc lang="es">Sigue toda la acción de la National League en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
