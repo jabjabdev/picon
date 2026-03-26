@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 26 06:30:13 2026">
+<tv date="Thu Mar 26 12:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -79,10 +79,6 @@
   <channel id="1qmrprrwnqoa1ilj770pdibxd">
     <display-name>1qmrprrwnqoa1ilj770pdibxd</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eteqnc7t4xxgga0pko4h5d9ma_image-header_pEs_1772532977000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="qblemljithg8za7xzqi0gnsr">
-    <display-name>qblemljithg8za7xzqi0gnsr</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1kqflvqqp5jva1umdjfb1h20zo_image-header_pEs_1735302662000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="m23xxo9pix2o15vlxz6sqrjgf">
     <display-name>m23xxo9pix2o15vlxz6sqrjgf</display-name>
@@ -688,6 +684,18 @@
     <display-name>esp-e201243943c0ch20064</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531795/20064/6/1/31531795_16:9.jpg?date=20260319150851"/>
   </channel>
+  <channel id="f8th73tw6k5d1sfkngwo9idje">
+    <display-name>f8th73tw6k5d1sfkngwo9idje</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9e1n02r36x8ligmzbmf59a53g_image-header_pEs_1774444385000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="ghkyvc7bllzg1ty4fm1jhync8">
+    <display-name>ghkyvc7bllzg1ty4fm1jhync8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2lggqg21o5s0jy85juyrbtu70_image-header_pEs_1774444366000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="jghwwtauvtwb1rtl3imzywmy6">
+    <display-name>jghwwtauvtwb1rtl3imzywmy6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aplnzwwpvz8b1x5ax6vq5v2ip_image-header_pEs_1774376923000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -807,12 +815,6 @@
     <title lang="es">Box, Box - Japón</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20260326085500 +0000" stop="20260326145500 +0000" channel="qblemljithg8za7xzqi0gnsr">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1kqflvqqp5jva1umdjfb1h20zo_image-header_pEs_1735302662000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Salto de esquí</title>
-    <desc lang="es"/>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260326093000 +0000" stop="20260326120000 +0000" channel="m23xxo9pix2o15vlxz6sqrjgf">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eulnluknejgjve1ghd314i47j_image-header_pEs_1773834180000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1719,5 +1721,23 @@
     <title lang="es">Open de Houston - Día 2 - Comentarios en español</title>
     <desc lang="es">PGA Tour</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327060000 +0000" stop="20260327083000 +0000" channel="f8th73tw6k5d1sfkngwo9idje">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9e1n02r36x8ligmzbmf59a53g_image-header_pEs_1774444385000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">China PR - Curaçao</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260328120000 +0000" stop="20260328143000 +0000" channel="ghkyvc7bllzg1ty4fm1jhync8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2lggqg21o5s0jy85juyrbtu70_image-header_pEs_1774444366000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Namibia - Comoros</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260328150000 +0000" stop="20260328210000 +0000" channel="jghwwtauvtwb1rtl3imzywmy6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aplnzwwpvz8b1x5ax6vq5v2ip_image-header_pEs_1774376923000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itauma vs. Franklin - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
