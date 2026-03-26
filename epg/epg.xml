@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Mar 26 00:30:24 2026">
+<tv date="Thu Mar 26 06:30:13 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -631,6 +631,62 @@
   <channel id="81ur2yyqsx1xyf2v5rmpaej2s">
     <display-name>81ur2yyqsx1xyf2v5rmpaej2s</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1olqjvju41gpo1440b6e3pszg3_image-header_pEs_1772207902000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201243197c0ch20052">
+    <display-name>esp-e201243197c0ch20052</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31530099/20052/6/1/31530099_16:9.jpg?date=20260324095413"/>
+  </channel>
+  <channel id="esp-e201035347c0ch20027">
+    <display-name>esp-e201035347c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500540/20027/6/1/9500540_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201243198c0ch20052">
+    <display-name>esp-e201243198c0ch20052</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31530102/20052/6/1/31530102_16:9.jpg?date=20260324095430"/>
+  </channel>
+  <channel id="esp-e201243963c0ch20065">
+    <display-name>esp-e201243963c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531799/20065/6/1/31531799_16:9.jpg?date=20260319150603"/>
+  </channel>
+  <channel id="esp-e201244023c0ch20068">
+    <display-name>esp-e201244023c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531811/20068/6/1/31531811_16:9.jpg?date=20260319150643"/>
+  </channel>
+  <channel id="esp-e201244003c0ch20067">
+    <display-name>esp-e201244003c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531807/20067/6/1/31531807_16:9.jpg?date=20260319150733"/>
+  </channel>
+  <channel id="esp-e201243983c0ch20066">
+    <display-name>esp-e201243983c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531803/20066/6/1/31531803_16:9.jpg?date=20260319150807"/>
+  </channel>
+  <channel id="esp-e201227502c0ch20002">
+    <display-name>esp-e201227502c0ch20002</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524191/20002/6/1/31524191_16:9.jpg?date=20260325123650"/>
+  </channel>
+  <channel id="esp-e201227286c0ch20001">
+    <display-name>esp-e201227286c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524155/20001/6/1/31524155_16:9.jpg?date=20260317104120"/>
+  </channel>
+  <channel id="esp-e201215834c0ch20025">
+    <display-name>esp-e201215834c0ch20025</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31515150/20025/6/1/31515150_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201229583c0ch20008">
+    <display-name>esp-e201229583c0ch20008</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524597/20008/6/1/31524597_16:9.jpg?date=20260325201641"/>
+  </channel>
+  <channel id="esp-e201237918c0ch20070">
+    <display-name>esp-e201237918c0ch20070</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527289/20070/6/1/31527289_16:9.jpg?date=20260319151008"/>
+  </channel>
+  <channel id="esp-e201035349c0ch20027">
+    <display-name>esp-e201035349c0ch20027</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500541/20027/6/1/9500541_16:9.jpg"/>
+  </channel>
+  <channel id="esp-e201243943c0ch20064">
+    <display-name>esp-e201243943c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531795/20064/6/1/31531795_16:9.jpg?date=20260319150851"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1579,5 +1635,89 @@
     <title lang="es">Sharks vs. Blue Jackets</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="esp-e201243197c0ch20052">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31530099/20052/6/1/31530099_16:9.jpg?date=20260324095413"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Individuales | Masculino | IV Challenger Montemar ENE Construcción | Cuartos de final</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260327101500 +0000" stop="20260327152600 +0000" channel="esp-e201035347c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500540/20027/6/1/9500540_16:9.jpg"/>
+    <title lang="es">Campeonato del Mundo - Praga</title>
+    <desc lang="es">Danza de Hielo | Programa Corto | Mixto</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="esp-e201243198c0ch20052">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31530102/20052/6/1/31530102_16:9.jpg?date=20260324095430"/>
+    <title lang="es">Tenis</title>
+    <desc lang="es">Individuales | Masculino | IV Challenger Montemar ENE Construcción | Cuartos de final</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260327121500 +0000" stop="20260327230000 +0000" channel="esp-e201243963c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531799/20065/6/1/31531799_16:9.jpg?date=20260319150603"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | Señal principal</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327123000 +0000" stop="20260327230000 +0000" channel="esp-e201244023c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531811/20068/6/1/31531811_16:9.jpg?date=20260319150643"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327123000 +0000" stop="20260327230000 +0000" channel="esp-e201244003c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531807/20067/6/1/31531807_16:9.jpg?date=20260319150733"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Hole'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327124500 +0000" stop="20260327230000 +0000" channel="esp-e201243983c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531803/20066/6/1/31531803_16:9.jpg?date=20260319150807"/>
+    <title lang="es">Open de Houston - Día 2</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327125000 +0000" stop="20260327171500 +0000" channel="esp-e201227502c0ch20002">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524191/20002/6/1/31524191_16:9.jpg?date=20260325123650"/>
+    <title lang="es">E3 Saxo Classic</title>
+    <desc lang="es">Masculino | Harelbeke &gt; Harelbeke (208.5km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260327132000 +0000" stop="20260327152000 +0000" channel="esp-e201227286c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524155/20001/6/1/31524155_16:9.jpg?date=20260317104120"/>
+    <title lang="es">Volta a Catalunya - Etapa 5</title>
+    <desc lang="es">Masculino | La Seu d'Urgell &gt; La Molina (155,3km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="esp-e201215834c0ch20025">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31515150/20025/6/1/31515150_16:9.jpg"/>
+    <title lang="es">WorldWCR - Portugal</title>
+    <desc lang="es">Carrera de Superpole | Femenino</desc>
+    <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260327134500 +0000" stop="20260327160000 +0000" channel="esp-e201229583c0ch20008">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524597/20008/6/1/31524597_16:9.jpg?date=20260325201641"/>
+    <title lang="es">Copa del Mundo - Planica</title>
+    <desc lang="es">Masculino | HS240</desc>
+    <category lang="es">Esquí</category>
+  </programme>
+  <programme start="20260327150000 +0000" stop="20260327180000 +0000" channel="esp-e201237918c0ch20070">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527289/20070/6/1/31527289_16:9.jpg?date=20260319151008"/>
+    <title lang="es">Club Car Championship - Día 2</title>
+    <desc lang="es">PGA Developmental Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260327164500 +0000" stop="20260327211200 +0000" channel="esp-e201035349c0ch20027">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/9500541/20027/6/1/9500541_16:9.jpg"/>
+    <title lang="es">Campeonato del Mundo - Praga</title>
+    <desc lang="es">Rutina libre | Femenino</desc>
+    <category lang="es">Patinaje</category>
+  </programme>
+  <programme start="20260327190000 +0000" stop="20260327230000 +0000" channel="esp-e201243943c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531795/20064/6/1/31531795_16:9.jpg?date=20260319150851"/>
+    <title lang="es">Open de Houston - Día 2 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
