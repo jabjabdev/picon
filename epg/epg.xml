@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Mar 27 06:30:19 2026">
+<tv date="Fri Mar 27 12:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -163,10 +163,6 @@
   <channel id="bfpthy5vqhtr4dui32urp18ea">
     <display-name>bfpthy5vqhtr4dui32urp18ea</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/dy974llbx5lets9jxdouz3xy5_image-header_pEs_1773834914000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1mofh8vlt4dm619mtfkenldklf">
-    <display-name>1mofh8vlt4dm619mtfkenldklf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e79no5xphte2igf9ibtdozrv1_image-header_pEs_1773667195000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1pmsysoi1xros177vutqno7437">
     <display-name>1pmsysoi1xros177vutqno7437</display-name>
@@ -1134,12 +1130,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260327102500 +0000" stop="20260327162500 +0000" channel="1mofh8vlt4dm619mtfkenldklf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/e79no5xphte2igf9ibtdozrv1_image-header_pEs_1773667195000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Danza sobre hielo</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260327130000 +0000" stop="20260327153000 +0000" channel="1pmsysoi1xros177vutqno7437">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2rzmemfwsp1yqrbl8tf7wa2sz_image-header_pEs_1774281342000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Indonesia - San Cristóbal y Nieves</title>
@@ -1434,7 +1424,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260328142000 +0000" stop="20260328182000 +0000" channel="aw9ndukogdum1o4m1v2nvld5o">
+  <programme start="20260328135500 +0000" stop="20260328175500 +0000" channel="aw9ndukogdum1o4m1v2nvld5o">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4e97yv0x667bjrsbqxvasfvil_image-header_pEs_1773690657000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Volta a Catalunya - Etapa 6</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
