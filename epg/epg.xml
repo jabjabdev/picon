@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Mar 28 06:30:18 2026">
+<tv date="Sat Mar 28 12:30:16 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -147,10 +147,6 @@
   <channel id="1omq8zc54l6s619v9a6brq6sud">
     <display-name>1omq8zc54l6s619v9a6brq6sud</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bzi03t5rougbxkaa4zxdyucx2_image-header_pEs_1771413471000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="e6i8pmoi90i4117nqrdfzbdfx">
-    <display-name>e6i8pmoi90i4117nqrdfzbdfx</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8gvlxduvvo3acq8cel72g5355_image-header_pEs_1772279234000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1a2c0hzbxs53f1m2l2wxc8kiql">
     <display-name>1a2c0hzbxs53f1m2l2wxc8kiql</display-name>
@@ -860,6 +856,10 @@
     <display-name>esp-e201237956c0ch20069</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31527294/20069/6/1/31527294_16:9.jpg?date=20260319152420"/>
   </channel>
+  <channel id="1njbqei13c0111vd0csdiuk1p1">
+    <display-name>1njbqei13c0111vd0csdiuk1p1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9qdmdb4j2ettm5jz64y4b30s4_image-header_pEs_1774633948000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -1081,12 +1081,6 @@
     <title lang="es">Clasificación - Aramco GP de Japón</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20260328081500 +0000" stop="20260328141500 +0000" channel="e6i8pmoi90i4117nqrdfzbdfx">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8gvlxduvvo3acq8cel72g5355_image-header_pEs_1772279234000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Salto, estilo libre, patinaje artístico y snowboard</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
   </programme>
   <programme start="20260328090000 +0000" stop="20260328123000 +0000" channel="1a2c0hzbxs53f1m2l2wxc8kiql">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3ofgld2g1xfzh0x5p555omre6_image-header_pEs_1774382848000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1808,7 +1802,7 @@
     <desc lang="es">Masculino | HS240 | Equipos</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20260328085000 +0000" stop="20260328105000 +0000" channel="esp-e201229351c0ch20006">
+  <programme start="20260328102000 +0000" stop="20260328122000 +0000" channel="esp-e201229351c0ch20006">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524582/20006/6/1/31524582_16:9.jpg?date=20260324085010"/>
     <title lang="es">Copa del Mundo - Silvaplana </title>
     <desc lang="es">Masculino y Femenino | Slopestyle</desc>
@@ -2149,5 +2143,11 @@
     <title lang="es">Hoag Classic - Día 3</title>
     <desc lang="es">PGA Tour Champions</desc>
     <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260328200000 +0000" stop="20260328223000 +0000" channel="1njbqei13c0111vd0csdiuk1p1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9qdmdb4j2ettm5jz64y4b30s4_image-header_pEs_1774633948000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">American Samoa - Guam</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
