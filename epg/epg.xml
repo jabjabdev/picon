@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sun Mar 29 06:30:09 2026">
+<tv date="Sun Mar 29 12:30:09 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -288,10 +288,6 @@
     <display-name>5ihoaoj4udg51nfudu07rtz1u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1dzsjf3lgpg56d6oc4non63l_image-header_pEs_1774382848000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
-  <channel id="hz5vmca7h5v71meea3f5s7wbw">
-    <display-name>hz5vmca7h5v71meea3f5s7wbw</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9g9vmrr4sv7t5w6vm02vv1ttr_image-header_pEs_1768471443000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
   <channel id="1jp3i129n6l4r1emobu4ixf5gr">
     <display-name>1jp3i129n6l4r1emobu4ixf5gr</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8m3accjhyg8lalgcq019dt7u6_image-header_pEs_1774382848000/fill/none/top/none/85/300/180/webp/image"/>
@@ -302,7 +298,7 @@
   </channel>
   <channel id="16rb7z5ccenkm1d0j6n4khyd49">
     <display-name>16rb7z5ccenkm1d0j6n4khyd49</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/59uhglcz032bzr79ior8ydpgd_image-header_pEs_1773834180000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5dhlb2dguad7wa8zxwly5z1oz_image-header_pEs_1773834180000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="erww6nfu67cpp7cnigbeoobwm">
     <display-name>erww6nfu67cpp7cnigbeoobwm</display-name>
@@ -1188,12 +1184,6 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260329074500 +0000" stop="20260329134500 +0000" channel="hz5vmca7h5v71meea3f5s7wbw">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9g9vmrr4sv7t5w6vm02vv1ttr_image-header_pEs_1768471443000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Deportes de invierno - Snowboard, salto &amp; estilo libre</title>
-    <desc lang="es">Vive toda la acción en DAZN.</desc>
-    <category lang="es">Deportes de invierno</category>
-  </programme>
   <programme start="20260329080000 +0000" stop="20260329113000 +0000" channel="1jp3i129n6l4r1emobu4ixf5gr">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/8m3accjhyg8lalgcq019dt7u6_image-header_pEs_1774382848000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Final - Alcalá de Henares</title>
@@ -1206,8 +1196,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20260329093000 +0000" stop="20260329120000 +0000" channel="16rb7z5ccenkm1d0j6n4khyd49">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/59uhglcz032bzr79ior8ydpgd_image-header_pEs_1773834180000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260329090500 +0000" stop="20260329111500 +0000" channel="16rb7z5ccenkm1d0j6n4khyd49">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5dhlb2dguad7wa8zxwly5z1oz_image-header_pEs_1773834180000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Final</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
@@ -1608,7 +1598,7 @@
     <desc lang="es">HS240 | Masculino</desc>
     <category lang="es">Esquí</category>
   </programme>
-  <programme start="20260329082000 +0000" stop="20260329102000 +0000" channel="esp-e201229354c0ch20005">
+  <programme start="20260329085000 +0000" stop="20260329102000 +0000" channel="esp-e201229354c0ch20005">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524581/20005/6/1/31524581_16:9.jpg?date=20260324100012"/>
     <title lang="es">Copa del Mundo - Silvaplana </title>
     <desc lang="es">Slopestyle</desc>
@@ -1770,13 +1760,13 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330183000 +0000" channel="13lx8233jpgs010r0jdwvkq4bj">
+  <programme start="20260330140000 +0000" stop="20260330163000 +0000" channel="13lx8233jpgs010r0jdwvkq4bj">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7ir60z0vvjq8f1dtr1fzw1yfy_image-header_pEs_1774710397000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Kenia - Granada</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260330190000 +0000" stop="20260330213000 +0000" channel="12ukdua7na5m81wnmg0qq1uv5u">
+  <programme start="20260330173000 +0000" stop="20260330200000 +0000" channel="12ukdua7na5m81wnmg0qq1uv5u">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/80628c84mf0s60gig7z09htfg_image-header_pEs_1774709793000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Estonia - Ruanda</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
