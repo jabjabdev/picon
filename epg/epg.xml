@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Mar 30 18:30:06 2026">
+<tv date="Tue Mar 31 00:30:07 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -27,14 +27,6 @@
   <channel id="ex6qymujfw6z1kvnf85jnyesx">
     <display-name>ex6qymujfw6z1kvnf85jnyesx</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14ke6rhniogy517ehag7y8rvz6_image-header_pEs_1774003950000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1k5iodyws4kug1qy6yr1x3n7bf">
-    <display-name>1k5iodyws4kug1qy6yr1x3n7bf</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q0lr6yyd2dpi1bzlsw2tmccdr_image-header_pEs_1772849300000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="lfvuljie4xr71byaivwun1fl5">
-    <display-name>lfvuljie4xr71byaivwun1fl5</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2auj5kd0z7gzpn31h17e463_image-header_pEs_1742400775000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="esp-e201243965c0ch20065">
     <display-name>esp-e201243965c0ch20065</display-name>
@@ -248,6 +240,38 @@
     <display-name>1ow9husyrczfs1guo63fkyoxfr</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1q7a2w37vpf7c1jzx011qhaoar_image-header_pEs_1774883528000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="8keeuymo4hicozu7hsrtq07x0">
+    <display-name>8keeuymo4hicozu7hsrtq07x0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d3zbuz4mbjii1e0ifgkkqhauf_image-header_pEs_1765468178000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="8l3xffkhbrbww1xaqogp32mms">
+    <display-name>8l3xffkhbrbww1xaqogp32mms</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nq3b1uvgro3w1via8t0y3tnif_image-header_pEs_1763070548000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9ip08co8igyr014ozhrtz6g662">
+    <display-name>9ip08co8igyr014ozhrtz6g662</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/as8eja3q6gvbmpp8zk33xn6yh_image-header_pEs_1774285001000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="66z5g6z6567kmg31xhosp5ai6">
+    <display-name>66z5g6z6567kmg31xhosp5ai6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gmca032j17i41avmo9e1c56y3_image-header_pEs_1774676775000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="o9lbrya9o5o10cru4zlicmhg50">
+    <display-name>o9lbrya9o5o10cru4zlicmhg50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bakeoat5aukxdcd7myzf4ipcx_image-header_pEs_1773402644000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="dcyoq6gswh2yasl3wg7ynfabg">
+    <display-name>dcyoq6gswh2yasl3wg7ynfabg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f8mgoqelqm1k1i4p8w455o2sd_image-header_pEs_1774676820000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="r83jeevsg2v21gw0jl66inrrp">
+    <display-name>r83jeevsg2v21gw0jl66inrrp</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10sq15fk3la31viuwpkm4ccwn_image-header_pEs_1774862536000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="zk0574l4tybk01genrpvylyabu">
+    <display-name>zk0574l4tybk01genrpvylyabu</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kss34gfl644wtbhng3x5whcr_image-header_pEs_1774360658000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Chisora vs. Wilder</title>
@@ -289,18 +313,6 @@
     <title lang="es">Inside The Ring - Mar 30</title>
     <desc lang="es">Únete a Max Kellerman, Mike Coppinger y LeSean McCoy cada semana para conocer las últimas noticias, entrevistas exclusivas y reacciones en profundidad a los resultados más recientes.</desc>
     <category lang="es">Boxeo</category>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260331010000 +0000" channel="1k5iodyws4kug1qy6yr1x3n7bf">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/q0lr6yyd2dpi1bzlsw2tmccdr_image-header_pEs_1772849300000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código F1 - Aramco GP de Japón</title>
-    <desc lang="es">Si te perdiste los detalles de alguna carrera, Código F1 es tu programa. Nuestro experto en Formula 1, Tomás Slafer, analiza en profundidad todas las imágenes que no has visto de los Grandes Premios. Ponte cómodo y disfruta del mejor análisis del 'Gran Circo'.</desc>
-    <category lang="es">Deportes de Motor</category>
-  </programme>
-  <programme start="20260330193000 +0000" stop="20260331013000 +0000" channel="lfvuljie4xr71byaivwun1fl5">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1e2auj5kd0z7gzpn31h17e463_image-header_pEs_1742400775000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Código MotoGP - GP Red Bull de Estados Unidos</title>
-    <desc lang="es">Disfruta Código MotoGP y revive toda la emoción del GP Red Bull de Estados Unidos.</desc>
-    <category lang="es">Deportes de Motor</category>
   </programme>
   <programme start="20260329121500 +0000" stop="20260329220000 +0000" channel="esp-e201243965c0ch20065">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31531800/20065/6/1/31531800_16:9.jpg?date=20260319152119"/>
@@ -619,5 +631,53 @@
     <title lang="es">Allen vs. Hrgovic  - Rueda de prensa</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
     <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260401003000 +0000" stop="20260401063000 +0000" channel="8keeuymo4hicozu7hsrtq07x0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/d3zbuz4mbjii1e0ifgkkqhauf_image-header_pEs_1765468178000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Jets vs. Blackhawks</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260401010000 +0000" stop="20260401070000 +0000" channel="8l3xffkhbrbww1xaqogp32mms">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nq3b1uvgro3w1via8t0y3tnif_image-header_pEs_1763070548000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kraken vs. Oilers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260401233000 +0000" stop="20260402030000 +0000" channel="9ip08co8igyr014ozhrtz6g662">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/as8eja3q6gvbmpp8zk33xn6yh_image-header_pEs_1774285001000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Boston Celtics @ Miami Heat</title>
+    <desc lang="es">El Orlando Magic se enfrenta al Atlanta Hawks en un crucial partido de la NBA el 1 de abril de 2026 en el Kia Center. Con la temporada 25/26 en pleno apogeo, ambos equipos buscan la victoria. ¿Será decisiva la ventaja de jugar en casa para el Magic, o los Hawks volarán hacia el triunfo? ¡No te pierdas una noche de mates y triples!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260402000000 +0000" stop="20260402033000 +0000" channel="66z5g6z6567kmg31xhosp5ai6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/gmca032j17i41avmo9e1c56y3_image-header_pEs_1774676775000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">College Basketball Crown - Oklahoma vs. Colorado</title>
+    <desc lang="es">Watch the latest action from the College Basketball Crown tournament.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260402020000 +0000" stop="20260402053000 +0000" channel="o9lbrya9o5o10cru4zlicmhg50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/bakeoat5aukxdcd7myzf4ipcx_image-header_pEs_1773402644000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">San Antonio Spurs @ Golden State Warriors</title>
+    <desc lang="es">Golden State Warriors se enfrenta a San Antonio Spurs en un emocionante choque de la temporada NBA 25/26. El Chase Center alberga este electrizante duelo el 2 de abril de 2026. ¿Defenderán los Warriors su cancha o los Spurs darán la sorpresa? ¡Aficionados al baloncesto, no querrán perderse ni un segundo de este enfrentamiento!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260402023000 +0000" stop="20260402060000 +0000" channel="dcyoq6gswh2yasl3wg7ynfabg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f8mgoqelqm1k1i4p8w455o2sd_image-header_pEs_1774676820000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">College Basketball Crown - Baylor vs. Minnesota</title>
+    <desc lang="es">Watch the latest action from the College Basketball Crown tournament.</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260402160000 +0000" stop="20260402220000 +0000" channel="r83jeevsg2v21gw0jl66inrrp">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/10sq15fk3la31viuwpkm4ccwn_image-header_pEs_1774862536000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Brown vs. Ducar - Pesaje</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260402184500 +0000" stop="20260402201500 +0000" channel="zk0574l4tybk01genrpvylyabu">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4kss34gfl644wtbhng3x5whcr_image-header_pEs_1774360658000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sporting CP - Wisla Płock</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Balonmano</category>
   </programme>
 </tv>
