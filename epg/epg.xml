@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 01 00:30:13 2026">
+<tv date="Wed Apr 01 06:30:08 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -371,6 +371,46 @@
   <channel id="7hiwbmepo5fmpc78wp8fy3jdn">
     <display-name>7hiwbmepo5fmpc78wp8fy3jdn</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2zplabpv2rv8ec9vnch1j845n_image-header_pEs_1773405421000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201245090c0ch20031">
+    <display-name>esp-e201245090c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533694/20031/6/1/31533694_16:9.jpg?date=20260324105212"/>
+  </channel>
+  <channel id="esp-e201245091c0ch20032">
+    <display-name>esp-e201245091c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533702/20032/6/1/31533702_16:9.jpg?date=20260324105149"/>
+  </channel>
+  <channel id="esp-e201245370c0ch20065">
+    <display-name>esp-e201245370c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533722/20065/6/1/31533722_16:9.jpg?date=20260319152454"/>
+  </channel>
+  <channel id="esp-e201245371c0ch20066">
+    <display-name>esp-e201245371c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533721/20066/6/1/31533721_16:9.jpg?date=20260319152634"/>
+  </channel>
+  <channel id="esp-e201245373c0ch20068">
+    <display-name>esp-e201245373c0ch20068</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533720/20068/6/1/31533720_16:9.jpg?date=20260319152537"/>
+  </channel>
+  <channel id="esp-e201245372c0ch20067">
+    <display-name>esp-e201245372c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533723/20067/6/1/31533723_16:9.jpg?date=20260319152607"/>
+  </channel>
+  <channel id="esp-e201231567c0ch20024">
+    <display-name>esp-e201231567c0ch20024</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31525162/20024/6/1/31525162_16:9.jpg?date=20260324140813"/>
+  </channel>
+  <channel id="esp-e201245093c0ch20032">
+    <display-name>esp-e201245093c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533703/20032/6/1/31533703_16:9.jpg?date=20260324105556"/>
+  </channel>
+  <channel id="esp-e201245092c0ch20031">
+    <display-name>esp-e201245092c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533695/20031/6/1/31533695_16:9.jpg?date=20260324105639"/>
+  </channel>
+  <channel id="esp-e201245222c0ch20064">
+    <display-name>esp-e201245222c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533710/20064/6/1/31533710_16:9.jpg?date=20260319152916"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -929,5 +969,65 @@
     <title lang="es">Carrera - Black’s Tire 200</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260402120000 +0000" stop="20260402150000 +0000" channel="esp-e201245090c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533694/20031/6/1/31533694_16:9.jpg?date=20260324105212"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Tour Championship | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260402120000 +0000" stop="20260402150000 +0000" channel="esp-e201245091c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533702/20032/6/1/31533702_16:9.jpg?date=20260324105149"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Tour Championship | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260402123000 +0000" stop="20260402230000 +0000" channel="esp-e201245370c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533722/20065/6/1/31533722_16:9.jpg?date=20260319152454"/>
+    <title lang="es">Texas Open - Día 1</title>
+    <desc lang="es">PGA Tour | Señal principal</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260402130000 +0000" stop="20260402230000 +0000" channel="esp-e201245371c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533721/20066/6/1/31533721_16:9.jpg?date=20260319152634"/>
+    <title lang="es">Texas Open - Día 1</title>
+    <desc lang="es">PGA Tour | Grupo destacado</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260402130000 +0000" stop="20260402230000 +0000" channel="esp-e201245373c0ch20068">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533720/20068/6/1/31533720_16:9.jpg?date=20260319152537"/>
+    <title lang="es">Texas Open - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Holes'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260402131500 +0000" stop="20260402230000 +0000" channel="esp-e201245372c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533723/20067/6/1/31533723_16:9.jpg?date=20260319152607"/>
+    <title lang="es">Texas Open - Día 1</title>
+    <desc lang="es">PGA Tour | 'Featured Groups' / 'Featured Hole'</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260402150000 +0000" stop="20260402180000 +0000" channel="esp-e201231567c0ch20024">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31525162/20024/6/1/31525162_16:9.jpg?date=20260324140813"/>
+    <title lang="es">Estados Unidos - Italia</title>
+    <desc lang="es">Campeonato del Mundo | Ogden | Fase de grupos | Masculino</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260402180000 +0000" stop="20260402210000 +0000" channel="esp-e201245093c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533703/20032/6/1/31533703_16:9.jpg?date=20260324105556"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Tour Championship | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260402180000 +0000" stop="20260402210000 +0000" channel="esp-e201245092c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533695/20031/6/1/31533695_16:9.jpg?date=20260324105639"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Tour Championship | Cuartos de final</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260402200000 +0000" stop="20260402230000 +0000" channel="esp-e201245222c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31533710/20064/6/1/31533710_16:9.jpg?date=20260319152916"/>
+    <title lang="es">Texas Open - Día 1 - Comentarios en español</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
