@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 03 18:30:11 2026">
+<tv date="Sat Apr 04 00:30:09 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -735,6 +735,18 @@
   <channel id="esp-e201229816c0ch20001">
     <display-name>esp-e201229816c0ch20001</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31524621/20001/6/1/31524621_16:9.jpg?date=20260402073112"/>
+  </channel>
+  <channel id="97o8o6g8l55p1owjar8wpiolw">
+    <display-name>97o8o6g8l55p1owjar8wpiolw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kvz50jrziknz1kbc5rh3gqwst_image-header_pEs_1761455005000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="11jyz9vildrku1q75d9y083s3s">
+    <display-name>11jyz9vildrku1q75d9y083s3s</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k6kqumh46m0h1myoek5glc0a_image-header_pEs_1773768273000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9azfatl6qf3yr2zplfdqzdel0">
+    <display-name>9azfatl6qf3yr2zplfdqzdel0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/phc758qmwzuv16u69p99yqlz5_image-header_pEs_1773767390000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1839,5 +1851,23 @@
     <title lang="es">UFC Fight Night - Renato Moicano - Chris Duncan</title>
     <desc lang="es">Velada Completa | Peso ligero</desc>
     <category lang="es">MMA</category>
+  </programme>
+  <programme start="20260405020000 +0000" stop="20260405080000 +0000" channel="97o8o6g8l55p1owjar8wpiolw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/kvz50jrziknz1kbc5rh3gqwst_image-header_pEs_1761455005000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Blackhawks vs. Kraken</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260405230000 +0000" stop="20260406023000 +0000" channel="11jyz9vildrku1q75d9y083s3s">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/3k6kqumh46m0h1myoek5glc0a_image-header_pEs_1773768273000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Charlotte Hornets @ Minnesota Timberwolves</title>
+    <desc lang="es">Los Minnesota Timberwolves se enfrentan a los Charlotte Hornets en un emocionante duelo de la NBA 25/26 en el Target Center el 5 de abril de 2026. ¿La ventaja de jugar en casa dará a los Timberwolves la victoria, o los Hornets darán la sorpresa? ¡Aficionados al baloncesto, no se pierdan este apasionante encuentro!</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260405230000 +0000" stop="20260406050000 +0000" channel="9azfatl6qf3yr2zplfdqzdel0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/phc758qmwzuv16u69p99yqlz5_image-header_pEs_1773767390000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Devils vs. Canadiens</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
