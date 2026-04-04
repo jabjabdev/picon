@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 04 18:30:12 2026">
+<tv date="Sun Apr 05 00:30:07 2026">
   <channel id="10m23g65jscws1k4vyxcr3wjof">
     <display-name>10m23g65jscws1k4vyxcr3wjof</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/300/180/webp/image"/>
@@ -667,6 +667,22 @@
   <channel id="rhm7148a3b111mfg6llx37c23">
     <display-name>rhm7148a3b111mfg6llx37c23</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2x1cw247hrwp4lmcyjvh3e5oz_image-header_pEs_1773664446000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9d0izehkhhr03f0gxg9po5rf8">
+    <display-name>9d0izehkhhr03f0gxg9po5rf8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vpnq9kmx50a1mhvhom40f520_image-header_pEs_1770926975000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9do9jmjdf6tqmtfsk1qefpzbo">
+    <display-name>9do9jmjdf6tqmtfsk1qefpzbo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/75s4yxaa919w1o5q7firi7h0x_image-header_pEs_1773767390000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9ebzyxhp73e5qjghnh7zdzswk">
+    <display-name>9ebzyxhp73e5qjghnh7zdzswk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nd6aojjshaaa1dmuybm2ww7zd_image-header_pEs_1773585159000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1ndtxvpyjnggg17ccbdbxyrvg1">
+    <display-name>1ndtxvpyjnggg17ccbdbxyrvg1</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2tucx3hd3mw4crd1df6fdvi3s_image-header_pEs_1774977752000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260404180000 +0000" stop="20260405000000 +0000" channel="10m23g65jscws1k4vyxcr3wjof">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9rq3m3hkbzws1xivtm55qamqs_image-header_pEs_1770285519000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1669,5 +1685,29 @@
     <title lang="es">Cremonese - Bologna</title>
     <desc lang="es">Cremonese recibe a Bologna en un crucial enfrentamiento de la Serie A en el Stadio Giovanni Zini el 5 de abril de 2026. Ambos equipos buscan destacar en la temporada 25/26. ¿Podrá Cremonese aprovechar su ventaja local o Bologna logrará una victoria vital como visitante? ¿Quién saldrá victorioso en este emocionante duelo? ¡Sintoniza para un partido inolvidable!</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260406230000 +0000" stop="20260407050000 +0000" channel="9d0izehkhhr03f0gxg9po5rf8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2vpnq9kmx50a1mhvhom40f520_image-header_pEs_1770926975000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lightning vs. Sabres</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260406233000 +0000" stop="20260407053000 +0000" channel="9do9jmjdf6tqmtfsk1qefpzbo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/75s4yxaa919w1o5q7firi7h0x_image-header_pEs_1773767390000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kraken vs. Jets</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260407020000 +0000" stop="20260407080000 +0000" channel="9ebzyxhp73e5qjghnh7zdzswk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1nd6aojjshaaa1dmuybm2ww7zd_image-header_pEs_1773585159000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Blackhawks vs. Sharks</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260407133000 +0000" stop="20260407173000 +0000" channel="1ndtxvpyjnggg17ccbdbxyrvg1">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2tucx3hd3mw4crd1df6fdvi3s_image-header_pEs_1774977752000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itzulia - Etapa 2 - Pamplona-Iruña - Cuevas de Mendukilo</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
