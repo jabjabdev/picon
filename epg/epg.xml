@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Mon Apr 06 18:30:06 2026">
+<tv date="Tue Apr 07 00:30:05 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -99,10 +99,6 @@
   <channel id="1ovu7daqajkra16sg1s0mejp8s">
     <display-name>1ovu7daqajkra16sg1s0mejp8s</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dczt91x8vw7djkcxi0pv0f12_image-header_pEs_1751880945000/fill/none/top/none/85/300/180/webp/image"/>
-  </channel>
-  <channel id="1kdbpacx4q63c84zhf76ki3u">
-    <display-name>1kdbpacx4q63c84zhf76ki3u</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14m8ky8qspavx1nw0557hn2oup_image-header_pEs_1773069980000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1l384giib4dykj3flhzrb7nmf0">
     <display-name>1l384giib4dykj3flhzrb7nmf0</display-name>
@@ -388,6 +384,26 @@
     <display-name>1cws32u9o5oxl14q8wlp33eruq</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43gwdzblc13dh2a5upeoj3yim_image-header_pEs_1775066538000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="9nirak406qkiqk8uca5jihij8">
+    <display-name>9nirak406qkiqk8uca5jihij8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/98qqn3ki3qc21rnct60c39szk_image-header_pEs_1766120371000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9o9o11995omyjajfi9d2y4a38">
+    <display-name>9o9o11995omyjajfi9d2y4a38</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ehu91nx9qzcw1ovp32ni1dsku_image-header_pEs_1773582478000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="9oyrwbq4hm6jw12qyivxvf11w">
+    <display-name>9oyrwbq4hm6jw12qyivxvf11w</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o05nmsuhwinc1ikii5u2lhdi7_image-header_pEs_1767608185000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1b9arnmfmat8s10vb6lwt1owc3">
+    <display-name>1b9arnmfmat8s10vb6lwt1owc3</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avuu1gdnjq6gup5e85arowjvp_image-header_pEs_1774978387000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="17xogdefasgab1k40l0evjb5mo">
+    <display-name>17xogdefasgab1k40l0evjb5mo</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f5bp6i66d31umwu4icr05cyp8_image-header_pEs_1775066538000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Wardley vs. Dubois</title>
@@ -536,12 +552,6 @@
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/7dczt91x8vw7djkcxi0pv0f12_image-header_pEs_1751880945000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">CD Castellón - Granada CF</title>
     <desc lang="es">Castellón se enfrenta a Granada en un choque crucial de Segunda División en el Estadio Municipal Castalia el 5 de abril de 2026. Con la temporada LaLiga 2 25/26 en pleno apogeo, ambos clubes buscan puntos vitales. ¿Dará la ventaja local a Castellón, o logrará Granada una victoria a domicilio? ¡No te pierdas la emoción!</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260406180000 +0000" stop="20260406203000 +0000" channel="1kdbpacx4q63c84zhf76ki3u">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/14m8ky8qspavx1nw0557hn2oup_image-header_pEs_1773069980000/fill/none/top/none/85/600/360/webp/image"/>
-    <title lang="es">Super8 - Jornada 30</title>
-    <desc lang="es">Sergio Quirante te lleva de la mano por todos los momentos curiosos de cada jornada de LALIGA EA SPORTS ¿Te has perdido algo? En Super8 te lo contamos.</desc>
     <category lang="es">Fútbol</category>
   </programme>
   <programme start="20260406183000 +0000" stop="20260406210000 +0000" channel="1l384giib4dykj3flhzrb7nmf0">
@@ -967,6 +977,36 @@
   <programme start="20260408160000 +0000" stop="20260408220000 +0000" channel="1cws32u9o5oxl14q8wlp33eruq">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/43gwdzblc13dh2a5upeoj3yim_image-header_pEs_1775066538000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Rock League - Día 3</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Curling</category>
+  </programme>
+  <programme start="20260408230000 +0000" stop="20260409050000 +0000" channel="9nirak406qkiqk8uca5jihij8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/98qqn3ki3qc21rnct60c39szk_image-header_pEs_1766120371000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Sabres vs. Rangers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260408233000 +0000" stop="20260409053000 +0000" channel="9o9o11995omyjajfi9d2y4a38">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1ehu91nx9qzcw1ovp32ni1dsku_image-header_pEs_1773582478000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Capitals vs. Maple Leafs</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260409020000 +0000" stop="20260409080000 +0000" channel="9oyrwbq4hm6jw12qyivxvf11w">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1o05nmsuhwinc1ikii5u2lhdi7_image-header_pEs_1767608185000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Oilers vs. Sharks</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260409133000 +0000" stop="20260409173000 +0000" channel="1b9arnmfmat8s10vb6lwt1owc3">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/avuu1gdnjq6gup5e85arowjvp_image-header_pEs_1774978387000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Itzulia - Etapa 4 - Galdakao - Galdakao</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260409160000 +0000" stop="20260409220000 +0000" channel="17xogdefasgab1k40l0evjb5mo">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/f5bp6i66d31umwu4icr05cyp8_image-header_pEs_1775066538000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Rock League - Día 4</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Curling</category>
   </programme>
