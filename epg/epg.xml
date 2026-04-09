@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 09 18:30:13 2026">
+<tv date="Fri Apr 10 00:30:06 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -607,6 +607,10 @@
   <channel id="1im1gq518w2a31t5ugal3wf7d5">
     <display-name>1im1gq518w2a31t5ugal3wf7d5</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1svf48rv5mhbg1xe2rpiuaabsz_image-header_pEs_1775107535000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1504qgrbl8w0a1grmmxi4eukzk">
+    <display-name>1504qgrbl8w0a1grmmxi4eukzk</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/p0vl30p32vnh1j4ar2iwcguni_image-header_pEs_1763650670000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1519,5 +1523,11 @@
     <title lang="es">Croatia Rally - Etapa 9</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
+  </programme>
+  <programme start="20260409230000 +0000" stop="20260410030000 +0000" channel="1504qgrbl8w0a1grmmxi4eukzk">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/p0vl30p32vnh1j4ar2iwcguni_image-header_pEs_1763650670000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Lightning vs. Canadiens</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
