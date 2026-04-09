@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Thu Apr 09 12:30:03 2026">
+<tv date="Thu Apr 09 12:30:12 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -551,6 +551,14 @@
   <channel id="1aq725vevwfo616t88ugdfqlgw">
     <display-name>1aq725vevwfo616t88ugdfqlgw</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/53dgnqpu6f0zx8f06wxs289e5_image-header_pEs_1775723315000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="5w77u4lcqs017v33lli47rdr6">
+    <display-name>5w77u4lcqs017v33lli47rdr6</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/84nk6nu9u9iv5dbeb4frae9gn_image-header_pEs_1738098523000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="btrcqhnwtvvd1mtu3ejhdu4a9">
+    <display-name>btrcqhnwtvvd1mtu3ejhdu4a9</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9tiwrajavizfoxosp2pwhrgr9_image-header_pEs_1775558787000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -1379,5 +1387,17 @@
     <title lang="es">AEW - Dynasty 2026</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Wrestling</category>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411180000 +0000" channel="5w77u4lcqs017v33lli47rdr6">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/84nk6nu9u9iv5dbeb4frae9gn_image-header_pEs_1738098523000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Final</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">eSports</category>
+  </programme>
+  <programme start="20260411174500 +0000" stop="20260411234500 +0000" channel="btrcqhnwtvvd1mtu3ejhdu4a9">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/9tiwrajavizfoxosp2pwhrgr9_image-header_pEs_1775558787000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Carrera 1 - Sebring - Trofeo Pirelli &amp; Coppa Shell</title>
+    <desc lang="es">Vive toda la acción en DAZN.</desc>
+    <category lang="es">Deportes de Motor</category>
   </programme>
 </tv>
