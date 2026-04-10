@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Fri Apr 10 12:30:15 2026">
+<tv date="Fri Apr 10 18:30:14 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -780,6 +780,22 @@
     <display-name>3hofa3qc5tuu0tjpdg796bcg80</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6i7pv5ujaa9t3ortbx09ovd0t_image-header_pEs_1775728488000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
+  <channel id="7o0dnw5a7olu166g9jhn1mbz0">
+    <display-name>7o0dnw5a7olu166g9jhn1mbz0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/185m74q49wyf01jorhq3p9ejh8_image-header_pEs_1775053126000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cep7uhwl9pokpm3nkv3wk836c">
+    <display-name>cep7uhwl9pokpm3nkv3wk836c</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1d01pl9d340w1bqez3pu5w68t_image-header_pEs_1765711382000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cfe453oc6zcxvwvtq0ptr3q50">
+    <display-name>cfe453oc6zcxvwvtq0ptr3q50</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j2f91z2sirxl1w7theru2s0d0_image-header_pEs_1773085520000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="cg1kgqa9nygdt19559y199yxg">
+    <display-name>cg1kgqa9nygdt19559y199yxg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rr7ezuqng86uzbggtdiomhug_image-header_pEs_1773859245000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Wardley vs. Dubois</title>
@@ -954,7 +970,7 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Deportes de Motor</category>
   </programme>
-  <programme start="20260411091500 +0000" stop="20260411151500 +0000" channel="10szy264zwnyh1s4c1xnvxfiea">
+  <programme start="20260411090000 +0000" stop="20260411150000 +0000" channel="10szy264zwnyh1s4c1xnvxfiea">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ru99krf66j0w13aupirl655by_image-header_pEs_1775053126000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Nasukawa vs. Estrada</title>
     <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
@@ -1074,7 +1090,7 @@
     <desc lang="es">Heidenheim recibe a Union Berlin en un crucial encuentro de Bundesliga en el Voith-Arena el 11 de abril de 2026. Con la temporada 2025/2026 en pleno apogeo, ambos equipos buscan puntos vitales. ¿Podrá Heidenheim defender su territorio o Union Berlin logrará una victoria clave como visitante? ¡No te pierdas este partido que podría alterar la clasificación!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260411133000 +0000" stop="20260411160000 +0000" channel="15x988fhlxags117uai7ia1687">
+  <programme start="20260412133000 +0000" stop="20260412160000 +0000" channel="15x988fhlxags117uai7ia1687">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/2lb4t5psydsog0lohqvq0xka3_image-header_pEs_1774617484000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Tailandia - Nueva Caledonia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
@@ -1746,7 +1762,7 @@
     <desc lang="es">Mauritania se enfrenta a Pakistan en un emocionante choque de la FIFA Women's Series 2026 el 12 de abril. Ambas naciones buscan destacar en el escenario internacional. ¿Podrá la ventaja local de Mauritania darles la victoria, o la determinación de Pakistan llevará a un triunfo visitante? ¡No te pierdas este apasionante duelo internacional!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260412160000 +0000" stop="20260412183000 +0000" channel="cg9lgrgthnl514d1si6qp7hki">
+  <programme start="20260412090000 +0000" stop="20260412113000 +0000" channel="cg9lgrgthnl514d1si6qp7hki">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/aknpto16r9bav58713bhqz52m_image-header_pEs_1774599455000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Nepal - RD Congo</title>
     <desc lang="es">Nepal recibe a Congo DR en un emocionante encuentro de la FIFA Women's Series 2026 el 12 de abril. Ambas naciones buscan mostrar sus habilidades y asegurar una victoria vital en este choque internacional. ¿Qué equipo estará a la altura y se llevará el triunfo? ¡Sintoniza para ver este apasionante enfrentamiento!</desc>
@@ -1949,5 +1965,29 @@
     <title lang="es">Newcastle Eagles - Manchester Basketball</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411150000 +0000" channel="7o0dnw5a7olu166g9jhn1mbz0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/185m74q49wyf01jorhq3p9ejh8_image-header_pEs_1775053126000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Nasukawa vs. Estrada (en Español)</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260412050000 +0000" channel="cep7uhwl9pokpm3nkv3wk836c">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1d01pl9d340w1bqez3pu5w68t_image-header_pEs_1765711382000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Panthers vs. Maple Leafs</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260412050000 +0000" channel="cfe453oc6zcxvwvtq0ptr3q50">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1j2f91z2sirxl1w7theru2s0d0_image-header_pEs_1773085520000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Blue Jackets vs. Canadiens</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260412050000 +0000" channel="cg1kgqa9nygdt19559y199yxg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rr7ezuqng86uzbggtdiomhug_image-header_pEs_1773859245000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Flyers vs. Jets</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
