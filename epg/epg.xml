@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Sat Apr 11 12:30:13 2026">
+<tv date="Sat Apr 11 18:30:29 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -98,7 +98,7 @@
   </channel>
   <channel id="a3k4oaqbkit10cfaf4i86rqg60">
     <display-name>a3k4oaqbkit10cfaf4i86rqg60</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ax3ab4nhp2bs5sorp3zm20of9_image-header_pEs_1774349083000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6pbzrh7lil3nbpvb5fkv4qxii_image-header_pEs_1774349083000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="1t56e1fqlj0ff8hj94su74zoj0">
     <display-name>1t56e1fqlj0ff8hj94su74zoj0</display-name>
@@ -162,7 +162,7 @@
   </channel>
   <channel id="y8fpyomn8jf70158kv3au4xgb4">
     <display-name>y8fpyomn8jf70158kv3au4xgb4</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajbugkeis2l7a0f7jzwk8g2n5_image-header_pEs_1774349083000/fill/none/top/none/85/300/180/webp/image"/>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eufjttcz3j2jegu2t4qafubmh_image-header_pEs_1774349083000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <channel id="19ovhknwaaczr12vz3w0pf8bw7">
     <display-name>19ovhknwaaczr12vz3w0pf8bw7</display-name>
@@ -592,10 +592,6 @@
     <display-name>esp-e201266148c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542207/20033/6/1/31542207_16:9.jpg?date=20260324142532"/>
   </channel>
-  <channel id="esp-e201265998c0ch20032">
-    <display-name>esp-e201265998c0ch20032</display-name>
-    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542141/20032/6/1/31542141_16:9.jpg?date=20260324142201"/>
-  </channel>
   <channel id="esp-e201266300c0ch20034">
     <display-name>esp-e201266300c0ch20034</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542235/20034/6/1/31542235_16:9.jpg?date=20260324142611"/>
@@ -808,6 +804,14 @@
     <display-name>esp-e201266152c0ch20033</display-name>
     <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542211/20033/6/1/31542211_16:9.jpg?date=20260324145615"/>
   </channel>
+  <channel id="hvsitkzrfy231d7q7spovtmxq">
+    <display-name>hvsitkzrfy231d7q7spovtmxq</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4saqr4px3v3xhxswdzwatvlx9_image-header_pEs_1774349083000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="zio9w5b8qk4o16wz8vs2tb52x">
+    <display-name>zio9w5b8qk4o16wz8vs2tb52x</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5mw62z5hopmya90txy28ibcgz_image-header_pEs_1774005182000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Wardley vs. Dubois</title>
@@ -952,8 +956,8 @@
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260411134500 +0000" stop="20260411161500 +0000" channel="a3k4oaqbkit10cfaf4i86rqg60">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ax3ab4nhp2bs5sorp3zm20of9_image-header_pEs_1774349083000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260411141500 +0000" stop="20260411171500 +0000" channel="a3k4oaqbkit10cfaf4i86rqg60">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/6pbzrh7lil3nbpvb5fkv4qxii_image-header_pEs_1774349083000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">Elche CF - Valencia CF</title>
     <desc lang="es">Narración y comentarios: Jon Hernandez, Jaume Domenech y David Fer. Narración en valenciano: Saul Mestre y Vicent Ortega Equipo DAZN: Alex Silvestre | Elche se prepara para enfrentar al Valencia en un crucial partido de LaLiga 25/26 en el Estadio Martínez Valero el 11 de abril de 2026. ¿Aprovechará Elche su ventaja local o el Valencia logrará una victoria vital como visitante? Este encuentro podría alterar la clasificación. ¿Quién saldrá victorioso en este duelo del fútbol español? ¡No te lo pierdas!</desc>
     <category lang="es">Fútbol</category>
@@ -1048,8 +1052,8 @@
     <desc lang="es">Kenya vs India – A match to watch!</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260411153000 +0000" stop="20260411180000 +0000" channel="y8fpyomn8jf70158kv3au4xgb4">
-    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/ajbugkeis2l7a0f7jzwk8g2n5_image-header_pEs_1774349083000/fill/none/top/none/85/600/360/webp/image"/>
+  <programme start="20260411163000 +0000" stop="20260411193000 +0000" channel="y8fpyomn8jf70158kv3au4xgb4">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/eufjttcz3j2jegu2t4qafubmh_image-header_pEs_1774349083000/fill/none/top/none/85/600/360/webp/image"/>
     <title lang="es">FC Barcelona - RCD Espanyol</title>
     <desc lang="es">Narración y comentarios: Sandra Díaz, Miguel Angel Román, Edjogo y Eneko. Narración en català: Saul Mestre y Vicent Ortega Equipo DAZN: Rafa Escrig | Barcelona se prepara para enfrentarse al Espanyol en un ardiente duelo de LaLiga 25/26 en el Camp Nou el 11 de abril de 2026. Los rivales de la ciudad se juegan el orgullo local y puntos cruciales. ¿Podrá el Barcelona imponer su dominio en casa o el Espanyol dará la sorpresa? ¡No te pierdas este emocionante choque de Primera División!</desc>
     <category lang="es">Fútbol</category>
@@ -1696,12 +1700,6 @@
     <desc lang="es">World Championship | Clasificación</desc>
     <category lang="es">Snooker</category>
   </programme>
-  <programme start="20260411133000 +0000" stop="20260411163000 +0000" channel="esp-e201265998c0ch20032">
-    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542141/20032/6/1/31542141_16:9.jpg?date=20260324142201"/>
-    <title lang="es">Snooker</title>
-    <desc lang="es">World Championship | Clasificación</desc>
-    <category lang="es">Snooker</category>
-  </programme>
   <programme start="20260411133000 +0000" stop="20260411163000 +0000" channel="esp-e201266300c0ch20034">
     <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542235/20034/6/1/31542235_16:9.jpg?date=20260324142611"/>
     <title lang="es">Snooker</title>
@@ -2019,5 +2017,17 @@
     <title lang="es">Snooker</title>
     <desc lang="es">World Championship | Clasificación</desc>
     <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260411163000 +0000" stop="20260411190000 +0000" channel="hvsitkzrfy231d7q7spovtmxq">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/4saqr4px3v3xhxswdzwatvlx9_image-header_pEs_1774349083000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Multicámara - FC Barcelona - RCD Espanyol</title>
+    <desc lang="es">¡Que empiece el juego! Barcelona se enfrenta a Espanyol en un crucial encuentro de Primera División el 11 de abril de 2026. Con la temporada 2025/2026 en pleno apogeo, ambos clubes ansían la victoria. ¿Será decisiva la ventaja local del Barcelona, o logrará Espanyol dar la sorpresa? ¡No te pierdas este espectáculo futbolístico!</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260412160000 +0000" stop="20260412183000 +0000" channel="zio9w5b8qk4o16wz8vs2tb52x">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/5mw62z5hopmya90txy28ibcgz_image-header_pEs_1774005182000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Bologna - Lecce</title>
+    <desc lang="es">Bologna se enfrenta a Lecce en un emocionante encuentro de la Serie A el 12 de abril de 2026. El estadio Renato Dall'Ara vibrará cuando estos equipos choquen en la temporada 25/26. ¿Podrá Bologna asegurar una victoria en casa, o Lecce dará la sorpresa? ¡No te pierdas este apasionante partido!</desc>
+    <category lang="es">Fútbol</category>
   </programme>
 </tv>
