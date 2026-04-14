@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 14 12:30:04 2026">
+<tv date="Tue Apr 14 18:30:03 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -279,6 +279,14 @@
   <channel id="9bbhhy8g5vj01t9tvgrjbif2l">
     <display-name>9bbhhy8g5vj01t9tvgrjbif2l</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/49foot52zg51zoz3v8mz4g8gd_image-header_pEs_1776132737000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="15i8bor7xbrs11gc0eltes54m8">
+    <display-name>15i8bor7xbrs11gc0eltes54m8</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nimv9cpfw1xl1nhdirt1naq86_image-header_pEs_1776170773000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d2xl1gdc967pdct1gvzao4opg">
+    <display-name>d2xl1gdc967pdct1gvzao4opg</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y35dsijph95x1ej6q6ckv19md_image-header_pEs_1773918885000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -699,5 +707,17 @@
     <title lang="es">Kenia - Australia</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260415120000 +0000" stop="20260415180000 +0000" channel="15i8bor7xbrs11gc0eltes54m8">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/nimv9cpfw1xl1nhdirt1naq86_image-header_pEs_1776170773000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Collins vs. Lorente 2 - Rueda de prensa</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20260416020000 +0000" stop="20260416080000 +0000" channel="d2xl1gdc967pdct1gvzao4opg">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/y35dsijph95x1ej6q6ckv19md_image-header_pEs_1773918885000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kraken vs. Golden Knights</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
   </programme>
 </tv>
