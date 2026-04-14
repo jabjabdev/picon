@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Tue Apr 14 00:30:04 2026">
+<tv date="Tue Apr 14 06:30:10 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -367,6 +367,58 @@
   <channel id="1r6whvv1lmqpa1r31cf6uqqo1u">
     <display-name>1r6whvv1lmqpa1r31cf6uqqo1u</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/55zqobzqr7farl1u3ipl7vtyi_image-header_pEs_1774942395000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201284885c0ch20035">
+    <display-name>esp-e201284885c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/204736/6/204736_16:9.jpg?date=20260326123703"/>
+  </channel>
+  <channel id="esp-e201266008c0ch20032">
+    <display-name>esp-e201266008c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542151/20032/6/1/31542151_16:9.jpg?date=20260324162342"/>
+  </channel>
+  <channel id="esp-e201266310c0ch20034">
+    <display-name>esp-e201266310c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542244/20034/6/1/31542244_16:9.jpg?date=20260324162517"/>
+  </channel>
+  <channel id="esp-e201265580c0ch20031">
+    <display-name>esp-e201265580c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542095/20031/6/1/31542095_16:9.jpg?date=20260324162314"/>
+  </channel>
+  <channel id="esp-e201266158c0ch20033">
+    <display-name>esp-e201266158c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542217/20033/6/1/31542217_16:9.jpg?date=20260324162430"/>
+  </channel>
+  <channel id="esp-e201269180c0ch20005">
+    <display-name>esp-e201269180c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560708/20005/6/1/31560708_16:9.jpg?date=20260409084010"/>
+  </channel>
+  <channel id="esp-e201250407c0ch20001">
+    <display-name>esp-e201250407c0ch20001</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31535579/20001/6/1/31535579_16:9.jpg?date=20260409084357"/>
+  </channel>
+  <channel id="esp-e201309479c0ch20035">
+    <display-name>esp-e201309479c0ch20035</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/204736/6/204736_16:9.jpg?date=20260326123703"/>
+  </channel>
+  <channel id="esp-e201265581c0ch20031">
+    <display-name>esp-e201265581c0ch20031</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542096/20031/6/1/31542096_16:9.jpg?date=20260324162540"/>
+  </channel>
+  <channel id="esp-e201266311c0ch20034">
+    <display-name>esp-e201266311c0ch20034</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542246/20034/6/1/31542246_16:9.jpg?date=20260324162657"/>
+  </channel>
+  <channel id="esp-e201266159c0ch20033">
+    <display-name>esp-e201266159c0ch20033</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542218/20033/6/1/31542218_16:9.jpg?date=20260324162632"/>
+  </channel>
+  <channel id="esp-e201266009c0ch20032">
+    <display-name>esp-e201266009c0ch20032</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542152/20032/6/1/31542152_16:9.jpg?date=20260324162606"/>
+  </channel>
+  <channel id="esp-e201269448c0ch20062">
+    <display-name>esp-e201269448c0ch20062</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/208610/6/208610_16:9.jpg?date=20260326164108"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -919,5 +971,83 @@
     <title lang="es">Costa de Marfil - Pakistán</title>
     <desc lang="es">Vive toda la acción en DAZN.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260415090000 +0000" stop="20260415160000 +0000" channel="esp-e201284885c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/204736/6/204736_16:9.jpg?date=20260326123703"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415130000 +0000" channel="esp-e201266008c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542151/20032/6/1/31542151_16:9.jpg?date=20260324162342"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415130000 +0000" channel="esp-e201266310c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542244/20034/6/1/31542244_16:9.jpg?date=20260324162517"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415130000 +0000" channel="esp-e201265580c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542095/20031/6/1/31542095_16:9.jpg?date=20260324162314"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415130000 +0000" channel="esp-e201266158c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542217/20033/6/1/31542217_16:9.jpg?date=20260324162430"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415113000 +0000" stop="20260415133000 +0000" channel="esp-e201269180c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560708/20005/6/1/31560708_16:9.jpg?date=20260409084010"/>
+    <title lang="es">O Gran Camiño - Etapa 2</title>
+    <desc lang="es">Masculino | Vilalba &gt; Barreiros (158,5 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260415133000 +0000" stop="20260415160000 +0000" channel="esp-e201250407c0ch20001">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31535579/20001/6/1/31535579_16:9.jpg?date=20260409084357"/>
+    <title lang="es">Tour de Limburgo</title>
+    <desc lang="es">Masculino | Hasselt &gt; Tongeren-Borgloon (178,4 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415220000 +0000" channel="esp-e201309479c0ch20035">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/204736/6/204736_16:9.jpg?date=20260326123703"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">Campeonato del Mundo | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415190000 +0000" channel="esp-e201265581c0ch20031">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542096/20031/6/1/31542096_16:9.jpg?date=20260324162540"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415190000 +0000" channel="esp-e201266311c0ch20034">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542246/20034/6/1/31542246_16:9.jpg?date=20260324162657"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415190000 +0000" channel="esp-e201266159c0ch20033">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542218/20033/6/1/31542218_16:9.jpg?date=20260324162632"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415190000 +0000" channel="esp-e201266009c0ch20032">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31542152/20032/6/1/31542152_16:9.jpg?date=20260324162606"/>
+    <title lang="es">Snooker</title>
+    <desc lang="es">World Championship | Clasificación</desc>
+    <category lang="es">Snooker</category>
+  </programme>
+  <programme start="20260415193000 +0000" stop="20260415210000 +0000" channel="esp-e201269448c0ch20062">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/MagicBox/208610/6/208610_16:9.jpg?date=20260326164108"/>
+    <title lang="es">RBC Heritage - On the Range</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
