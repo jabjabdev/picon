@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 15 12:30:04 2026">
+<tv date="Wed Apr 15 18:30:04 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -275,6 +275,18 @@
   <channel id="d490qzmlrweg1sx8e8ap2jhn8">
     <display-name>d490qzmlrweg1sx8e8ap2jhn8</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/cdevyckyr3ug1mi4wn35142ay_image-header_pEs_1773916877000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d5k9bsd48jgdup3e6tp1bd7h0">
+    <display-name>d5k9bsd48jgdup3e6tp1bd7h0</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jawu7xnd3jw112cnkhhx72fgm_image-header_pEs_1772115246000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="d680im7e08gjq4100n6nb1edw">
+    <display-name>d680im7e08gjq4100n6nb1edw</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vekuowjzxtgn1xr4xi6shhdjh_image-header_pEs_1773916877000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="1pjfab54lvjg91amja6lrdm46x">
+    <display-name>1pjfab54lvjg91amja6lrdm46x</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rrypsa2dc3ky1ovsg7u9hq4kg_image-header_pEs_1776260012000/fill/none/top/none/85/300/180/webp/image"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -689,5 +701,23 @@
     <title lang="es">Sharks vs. Jets</title>
     <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
     <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260417010000 +0000" stop="20260417070000 +0000" channel="d5k9bsd48jgdup3e6tp1bd7h0">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1jawu7xnd3jw112cnkhhx72fgm_image-header_pEs_1772115246000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Kings vs. Flames</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260417010000 +0000" stop="20260417070000 +0000" channel="d680im7e08gjq4100n6nb1edw">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/vekuowjzxtgn1xr4xi6shhdjh_image-header_pEs_1773916877000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Canucks vs. Oilers</title>
+    <desc lang="es">Ve toda la acción de la temporada 25-26 de NHL en DAZN.</desc>
+    <category lang="es">Hockey</category>
+  </programme>
+  <programme start="20260417154500 +0000" stop="20260417214500 +0000" channel="1pjfab54lvjg91amja6lrdm46x">
+    <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/1rrypsa2dc3ky1ovsg7u9hq4kg_image-header_pEs_1776260012000/fill/none/top/none/85/600/360/webp/image"/>
+    <title lang="es">Collins vs. Lorente 2 - Preliminares</title>
+    <desc lang="es">Los nombres más grandes y las mejores peleas están en DAZN, la casa global del boxeo.</desc>
+    <category lang="es">Boxeo</category>
   </programme>
 </tv>
