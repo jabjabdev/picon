@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="Wed Apr 15 00:30:07 2026">
+<tv date="Wed Apr 15 06:30:06 2026">
   <channel id="1qetkj44fjb3q115tf9b53jidz">
     <display-name>1qetkj44fjb3q115tf9b53jidz</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/300/180/webp/image"/>
@@ -367,6 +367,26 @@
   <channel id="1tvyxhyth3e9q1cy8cnfgrvkd6">
     <display-name>1tvyxhyth3e9q1cy8cnfgrvkd6</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/75afs6kd3jo1nu7t6yvsgz5m1_image-header_pEs_1751881689000/fill/none/top/none/85/300/180/webp/image"/>
+  </channel>
+  <channel id="esp-e201269329c0ch20065">
+    <display-name>esp-e201269329c0ch20065</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560739/20065/6/1/31560739_16:9.jpg?date=20260409093407"/>
+  </channel>
+  <channel id="esp-e201269181c0ch20005">
+    <display-name>esp-e201269181c0ch20005</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560709/20005/6/1/31560709_16:9.jpg?date=20260409093207"/>
+  </channel>
+  <channel id="esp-e201269385c0ch20067">
+    <display-name>esp-e201269385c0ch20067</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560753/20067/6/1/31560753_16:9.jpg?date=20260409093343"/>
+  </channel>
+  <channel id="esp-e201269365c0ch20066">
+    <display-name>esp-e201269365c0ch20066</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560746/20066/6/1/31560746_16:9.jpg?date=20260409093428"/>
+  </channel>
+  <channel id="esp-e201269251c0ch20064">
+    <display-name>esp-e201269251c0ch20064</display-name>
+    <icon src="https://imgresizer.eurosport.com/unsafe/300x180/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560721/20064/6/1/31560721_16:9.jpg?date=20260409093416"/>
   </channel>
   <programme start="20260509150000 +0000" stop="20260509210000 +0000" channel="1qetkj44fjb3q115tf9b53jidz">
     <icon src="https://image.discovery.indazn.com/eu/v3/eu/none/n7bl7rop9hcy16banibsmqroa_image-header_pEs_1771004554000/fill/none/top/none/85/600/360/webp/image"/>
@@ -919,5 +939,35 @@
     <title lang="es">UD Las Palmas - CD Leganés</title>
     <desc lang="es">UD Las Palmas buscará imponer ritmo y ganar metros con amplitud, atacando el área con paciencia y control del tempo.Duelo con puntos que mueven la aguja en la categoría: CD Leganés intentará sostenerse con orden y castigar en transición o estrategia; los detalles en las áreas marcarán el guion.</desc>
     <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260416110000 +0000" stop="20260416220000 +0000" channel="esp-e201269329c0ch20065">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560739/20065/6/1/31560739_16:9.jpg?date=20260409093407"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260416133000 +0000" stop="20260416153000 +0000" channel="esp-e201269181c0ch20005">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560709/20005/6/1/31560709_16:9.jpg?date=20260409093207"/>
+    <title lang="es">O Gran Camiño - Etapa 3</title>
+    <desc lang="es">Masculino | Carballo &gt; Padrón (173 km)</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260416134500 +0000" stop="20260416220000 +0000" channel="esp-e201269385c0ch20067">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560753/20067/6/1/31560753_16:9.jpg?date=20260409093343"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260416140000 +0000" stop="20260416220000 +0000" channel="esp-e201269365c0ch20066">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560746/20066/6/1/31560746_16:9.jpg?date=20260409093428"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20260416180000 +0000" stop="20260416220000 +0000" channel="esp-e201269251c0ch20064">
+    <icon src="https://imgresizer.eurosport.com/unsafe/600x360/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/taiga/v2/Program/31560721/20064/6/1/31560721_16:9.jpg?date=20260409093416"/>
+    <title lang="es">RBC Heritage - Día 1</title>
+    <desc lang="es">PGA Tour</desc>
+    <category lang="es">Golf</category>
   </programme>
 </tv>
